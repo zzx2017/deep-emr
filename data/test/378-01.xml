@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2062-09-18
+
+Tammy Umphrey
+
+PDI Unit No: 094-22-07
+
+
+
+CLEVELAND PUBLIC INSTITUTE
+
+
+
+Internal Medicine
+
+
+
+
+
+Date: September 18, 2062
+
+
+
+MEDICATIONS: Glynase 3 mg q.a.m., Glucophage 500 mg q.p.m., Ultram 50 mg b.i.d., Synthroid ? dose q.d., Premarin 0.625 mg q.d., Monopril 40 mg q.d., Dyazide 1 q.d., Neurontin 300 mg q.i.d., glucosamine chondroitin, vitamin E 400 IU q.d., Citracal 2 q.d., Centrum Silver 1 q.d. 
+
+
+
+(1)	Diabetes mellitus: Went on cruise.  Ate frequently but watched portions.  Apparently patient checks blood sugars between 3:00 and 3:00 and when she has shakiness.  She was under the impression that after lunch she had to fast for three hours prior to checking sugar, at which point notes low blood sugars in the 50's to 70's with shakiness, for which she takes a handful of raisins.  Generally eats breakfast at 8:30, lunch 12:00 or 12:30, supper at 5:30.  Snacks in the evening, always apple and yogurt.  Most recently, additionally popcorn and saltine crackers, occasional pretzels.  After takes raisins, shakiness of hypoglycemic symptoms resolve.  While on cruise, patient found that she could actually walk more than she thought she could.  Since she has been home, has not been walking routinely.
+
+(2)	HTN: No chest pain, shortness of breath or palpitations.  
+
+(3)	Back pain/lower extremity pain.  States taking glucosamine chondroitin.  Over the last two or three months, feels that it is helping with decreased pain.  Also has been seen at physical therapy again.  Feels that this is helping.
+
+
+
+PE:	Weight down 2 pounds!.  Blood pressure, right arm: 126/68.  Chest is clear.  Cardiac: Regular rhythm at 66, no murmur or gallop.  
+
+
+
+A/P:	(1)	Diabetes mellitus: Somewhat better control with mildly elevated morning sugars.  Have asked patient to decrease popcorn and/or crackers at h.s.  Have advised patient to take small handful of raisins prior to onset of hypoglycemic symptoms advised around 2:00 to 2:30 p.m.  Have encouraged patient to continue to walk daily.  Continue current treatment.
+
+(2)	Back pain/lower extremity pain: Some improvement with PT and increased med.  Continue for now.
+
+(3)	HTN: At goal.  Return to clinic at the beginning of November to Dr. Ullom to resume care.
+
+Kathleen L Kuhn, RNC, ANP
+
+KL/utz/orton
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="278" end="287" text="Monopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="278" end="296" text="Monopril 40 mg q.d" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="278" end="286" text="Monopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M3" start="299" end="307" text="Dyazide " time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M4" start="299" end="313" text="Dyazide 1 q.d." time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M5" start="163" end="170" text="Glynase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M6" start="163" end="181" text="Glynase 3 mg q.a.m" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M7" start="163" end="170" text="Glynase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M8" start="184" end="194" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="184" end="207" text="Glucophage 500 mg q.p.m" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="184" end="194" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M11" start="184" end="194" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="184" end="207" text="Glucophage 500 mg q.p.m" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="184" end="194" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M14" start="299" end="307" text="Dyazide " time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M15" start="299" end="313" text="Dyazide 1 q.d." time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M16" start="278" end="287" text="Monopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="278" end="296" text="Monopril 40 mg q.d" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="278" end="286" text="Monopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M19" start="184" end="194" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M20" start="184" end="207" text="Glucophage 500 mg q.p.m" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M21" start="184" end="194" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M22" start="278" end="287" text="Monopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="278" end="296" text="Monopril 40 mg q.d" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M24" start="278" end="286" text="Monopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M25" start="163" end="170" text="Glynase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="163" end="181" text="Glynase 3 mg q.a.m" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M27" start="163" end="170" text="Glynase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M28" start="299" end="307" text="Dyazide " time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M29" start="299" end="313" text="Dyazide 1 q.d." time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M30" start="163" end="170" text="Glynase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M31" start="163" end="181" text="Glynase 3 mg q.a.m" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M32" start="163" end="170" text="Glynase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1243" end="1246" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1243" end="1246" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2145" end="2148" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1243" end="1246" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC13" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="1243" end="1246" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1243" end="1246" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="2145" end="2148" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1243" end="1246" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC18" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="1243" end="1246" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1243" end="1246" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2145" end="2148" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1243" end="1246" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC16" status="unknown">
+      <SMOKER id="S0" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="435" end="443" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="435" end="452" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1687" end="1704" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="435" end="453" text="Diabetes mellitus:" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="435" end="443" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="435" end="452" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="1687" end="1704" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="435" end="453" text="Diabetes mellitus:" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC17" time="during DCT" indicator="mention">
+      <DIABETES id="D8" start="435" end="443" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="435" end="452" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="1687" end="1704" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="435" end="453" text="Diabetes mellitus:" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

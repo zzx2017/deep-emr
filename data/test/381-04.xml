@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-03-19
+
+
+
+ 
+Infectious Disease Consult Note 
+
+
+Pt: Rose Mack
+MR#: 06129040
+
+Consult Date: 3/19/94
+
+
+
+CC/RFC: 
+Pt is a 52 year old w/ chronic R heel wound, now w/ wound infection. Consultation was requested by Dr. Katz for recommendations regarding antibiotic management.
+
+
+
+HPI:  Pt has longstanding DM and PVD complicated by severe R foot ulceration. She underwent R femoral to posterior tibial bypass graft in 5/92 and skin grafting in 7/92. R heel wound subsequently improved but pt developed L plantar ulceration requiring debridement 10/92. Cultures grew MSSA. Pt was subsequently treated w/ extended course of doxycycline, rifampin through 2/93. She subsequently did well until developing R heel ulcer while undergoing psychiatric hospitalization in mid 2/94. She was initially hospitalized at Altadena Hospital, where she underwent debridement of wound and treatment w/ extended course of penicillin VK and probenicid. Wound failed to improve. Pt was rehospitalized on 3/18 at GCCfor further management. She underwent incision and debridement on 3/18. Intraoperative evaluation revealed ulcer wound tracking to bone. Intraoperative gram stain revealed GPCs in pairs. Intraoperative cultures are pending. Pt was subsequently treated w/ vancomycin, levofloxacin and metronidazole. 
+
+
+
+
+On interview, pt reports feeling generally well. No F/C/NS. Appetite normal. Had  previously noted creeping erythema up R leg, now resolved.
+
+
+
+PMH (from EMR)
+
+DM type 1: c/b PVD, neuropathy, nephropathy
+
+PVD: s/p right mid superficial femoral artery to mid posterior tibial bypass graft with reversed ipsilateral greater saphenous vein
+
+CKD
+
+Hx femoral neck fracture: in situ screw fixation
+
+Anemia 
+
+Anxiety/Depression 
+
+Deep venous thrombosis 
+
+Hypothyroidism: s/p subtotal thyroidectomy 74
+
+S/p R carpal tunnel surgery
+
+
+
+Meds on Consultation
+
+ 
+Plavix
+
+Lopressor
+
+Simvastatin
+
+Lantus
+
+Levoxyl
+
+Abilify
+
+Cogentin
+
+Nortriptyline
+
+Trazadone
+
+Probenecid
+
+Neurontin
+
+
+
+All
+
+Erythromycins cause rash  
+
+Sulfa causes rash
+
+Aspirin causes rash
+
+
+
+SHx
+
+Pt lives at home w/ her parents
+
+
+
+FHx 
+NC
+
+
+
+ROS
+
+Ten point review of systems negative except as noted in HPI. 
+
+
+
+Exam
+Pt is a tired appearing middle aged woman, lying comfortably in bed
+
+VS: 
+T- 96.4, HR- 84, BP- 153/72, RR- 18, Sat- 100% on 2L     
+
+HEENT: 
+MMM, w/o exudates
+
+Chest: 
+CTAB; no crackles, no wheezes
+
+CV: 
+RRR; normal S1S2, no m/r/g appreciated
+
+Abd:  NABS; soft, non-tender, non-distended; no organomegaly
+
+Extr:  R heel w/ 2 x 2cm wound vac dressing in place, no surrounding erythema; L foot without erythem or ulceration
+
+Neuro:  MS nl, motor and sensory normal
+
+Skin:  scattered patchy erythematous rash across trunk and upper extremities
+
+
+
+Labs
+Chemistry:                                                          
+
+BUN:   19
+
+Cr:    1.3
+
+
+
+Tbili: 0.2
+
+ALT:   20
+
+AST:   22
+
+AP:    290
+
+
+
+Heme:    
+
+WBC:  
+4.7              
+
+HCT:  
+33.2
+
+Plt:   290
+
+
+
+Impression
+52F w/ DM, PVD and hx of R heel ulceration s/p skin grafting in 5/92 and L midfoot MSSA infection in 9/92, now w/ relapse of R heel ulceration. Intraoperative cultures show involvement of bone. Clinical picture is concerning for osteomyelitis. Possible culprit organisms include drug resistant Staphylococcus aureus, which should be treated empirically while awaiting cultures. Pt will likely require an extended course of IV therapy for treatment of osteomyelitis.
+
+
+
+Recommendations
+
+ 
+
+
+
+Follow up intraoperative cultures
+
+Continue vancomycin 1g IV Q24H; check trough prior to fourth dose.
+
+Discontinue levofloxacin, metronidazole.
+
+
+
+
+
+
+
+
+
+_______________________________
+
+Victor Reid, M.D.   (pager # 81625)
+
+
+
+Case discussed with infectious disease attending, Dr. Amber Akins.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1880" end="1891" text="Simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1880" end="1891" text="Simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M2" start="1880" end="1891" text="Simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1880" end="1891" text="Simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M4" start="1893" end="1899" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1893" end="1899" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="1880" end="1891" text="Simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1880" end="1891" text="Simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M8" start="1861" end="1867" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M9" start="1861" end="1867" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M10" start="1869" end="1878" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1869" end="1878" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M12" start="1861" end="1867" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M13" start="1861" end="1867" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M14" start="1893" end="1899" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1893" end="1899" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M16" start="1869" end="1878" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1869" end="1878" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="1869" end="1878" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1869" end="1878" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M20" start="1861" end="1867" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M21" start="1861" end="1867" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M22" start="1893" end="1899" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1893" end="1899" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2272" end="2282" text="BP- 153/72" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2272" end="2282" text="BP- 153/72" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="2276" end="2282" text="153/72" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="2055" end="2058" text="SHx" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="2955" end="2957" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1471" end="1480" text="DM type 1" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1471" end="1480" text="DM type 1" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1471" end="1474" text="DM " time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="2955" end="2957" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1471" end="1480" text="DM type 1" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="1471" end="1480" text="DM type 1" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1471" end="1474" text="DM " time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="2955" end="2957" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1471" end="1480" text="DM type 1" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="1471" end="1480" text="DM type 1" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="1471" end="1474" text="DM " time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

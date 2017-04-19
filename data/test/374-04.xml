@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2134-01-05
+
+
+
+ 
+                                                                                                      698-77-76
+
+                                                                                                      Mckee, Norma
+
+
+
+January 5, 2134  Endocrine/Diabetes
+
+
+
+Present Illness:  
+
+Ms. Mckee thinks that she will be discharged today. If so, we must be confident that she is able to draw up and inject insulin reliably. She will also needs prescriptions for metformin, 
+insulin syringes (give her 1 cc syringes), NPH and Regular insulins. She apparently has glucose testing material at home. Will start with the following regimen, in addition to metformin 500 mg bid. She will follow up with her PCP, 
+Dr. Robert Xenakis.
+
+
+
+Before Breakfast:
+
+
+
+NPH        30 Units
+
+
+
+Regular      8 Units                  Blood Sugar under 101
+
+                10 Units                  101-150
+
+                12 Units                  151-200
+
+                14 Units                  201-250
+
+                16 Units                  251-300
+
+                18 Units                  301-350
+
+                20 Units                  351-400
+
+                22 Units                  Over 400
+
+
+
+
+
+Before Supper:
+
+
+
+Regular      8 Units                  Blood Sugar under 101
+
+                10 Units                  101-150
+
+                12 Units                  151-200
+
+                14 Units                  201-250
+
+                16 Units                  251-300
+
+                18 Units                  301-350
+
+                20 Units                  351-400
+
+
+
+&#183;         This is only an initial set of guidelines. The doses will have to be adjusted based on experience, diet, exercise, and illness.
+
+&#183;         Goal is to have blood sugars before meals in the 90-130 range and blood sugars at bedtime in the 110-140 range.
+
+&#183;         Check blood sugars initially before meals and at bedtime each day. Record the times, blood sugars, insulin doses and all food on the sheets provided and bring these sheets to your medical appointments.
+
+&#183;         Call Dr. Xenakis&#8217;s office for any blood sugars under 70, or any symptoms of hypoglycemia (low blood sugars).
+
+&#183;         Also call if blood sugars are often over 180.
+
+
+
+
+
+                                                                                    Elliot N. Xi, M.D., Ph.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="552" end="555" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="560" end="576" text="Regular insulins" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="785" end="788" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M3" start="808" end="815" text="Regular" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1249" end="1256" text="Regular" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="552" end="555" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M6" start="560" end="576" text="Regular insulins" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="441" end="449" text="insulin " time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M8" start="497" end="506" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="685" end="694" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="497" end="506" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="497" end="506" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="290" end="298" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="290" end="299" text="Diabetes " time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="290" end="298" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="290" end="299" text="Diabetes " time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="290" end="298" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="290" end="299" text="Diabetes " time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

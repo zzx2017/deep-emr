@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-07-03
+
+Nathan D. Akins, MD, MPH
+
+BMC Internal Medicine Associates
+
+96 Hassell Brook Road
+
+Daytona Highridge Estates, AZ 39757
+
+(742) 270-8900
+
+
+
+CC: Follow-up from Stroke
+
+
+
+69 yo man with HTN, DM, CVA in 5/93 underwent rehab and is now living at home comes in for follow-up care. He is under the care of Park Nicollet Clinic. I have recently refilled all of his medication. He has no complaints today. He denies F, C, N, V, CP, SOB, abd pain, B/B changes, HA and feels he is getting along well at home. His family helps him greatly. He underwent PT and OT.
+
+
+
+His home care nurse wants a modified barrium swallow to see if he can be advanced off of thick liquids to solids. He only recently began taking TID metoprolol. He reports no problems with his medication.
+
+
+
+
+
+MEDICATIONS
+
+
+
+AVANDIA (ROSIGLITAZONE) 4 MG     PO QD 
+
+ZOLOFT (SERTRALINE)   50MG  1 Tablet(s) PO QD 
+
+EC ASA (ASPIRIN ENTERIC COATED)   325MG  1 Tablet(s) PO QD 
+
+GLUCOPHAGE (METFORMIN)   850MG  1 Tablet(s) PO qam  
+
+NORVASC (AMLODIPINE)   10MG  1 Tablet(s) PO QHS  
+
+ZESTRIL (LISINOPRIL)   5MG  1 Tablet(s) PO QD  
+
+GLUCOPHAGE (METFORMIN)   500MG  1 Tablet(s) PO qpm  
+
+COLACE (DOCUSATE SODIUM)   100MG  1 Capsule(s) PO BID 
+
+ZOCOR (SIMVASTATIN)   20MG  1 Tablet(s) PO QHS 
+
+PLAVIX (CLOPIDOGREL) 75 MG     PO QD 
+
+SENNA TABLETS 2 TAB     PO QHS 
+
+LOPRESSOR (METOPROLOL TARTRATE)   50MG  1 Tablet(s) PO TID 
+
+
+
+
+
+
+
+
+
+PE: 
+
+Gen: WDWN in NAD in wheelchair.
+
+VS: BP 140/85  P70
+
+HEENT: EOMI, PEERL, OP nl, conjunctiva pink, sclera anicteric.
+
+Neck: Supple, no lymphadenopathy
+
+Lungs: CTA B
+
+CV: RRR no M, r, g.
+
+Abd: Soft. NABS, NTND, no HSM
+
+Ext: No c/c/e
+
+Neuro: Right hemiparesis.
+
+
+
+
+
+A/P:
+
+
+
+1.  s/p CVA: although he has a dense residual deficit. He is getting along relatively well at home. ASA, plavix. Consider additional PT/OT if not receiving at home. Ordered modified barrium swallow in hopes of advancing to solids.
+
+
+
+2. HTN: elevated pressure today, especially given DM. If remains elevated at next visit would intensify regimen. Metoprolol 50 tid, zestril 5 qd, norvasc 10 qhs.
+
+
+
+3. DM: Sugars have been in 100-200 range. Again, will intensify at next visit if remain elevated now that he is on a stable regimen. Metformin 500 qpm, rosiglitazone 4 qd. Needs A1C at next visit.
+
+
+
+4. Chol: on zocor 20 qhs. Will need to re-check fasting cholesterol at next visit.
+
+
+
+5. Depression: Zoloft 50 qd.
+
+
+
+6. HCM: Deferred
+
+
+
+- f/u with me in 1 month.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1061" end="1068" text="ZESTRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1061" end="1068" text="ZESTRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1061" end="1108" text="ZESTRIL (LISINOPRIL)   5MG  1 Tablet(s) PO QD  " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="2053" end="2060" text="zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="1220" end="1225" text="ZOCOR" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1220" end="1225" text="ZOCOR" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1220" end="1267" text="ZOCOR (SIMVASTATIN)   20MG  1 Tablet(s) PO QHS " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2298" end="2303" text="zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M8" start="895" end="901" text="EC ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="895" end="901" text="EC ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="895" end="953" text="EC ASA (ASPIRIN ENTERIC COATED)   325MG  1 Tablet(s) PO QD" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1787" end="1790" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M12" start="1269" end="1275" text="PLAVIX" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M13" start="1269" end="1275" text="PLAVIX" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M14" start="1269" end="1306" text="PLAVIX (CLOPIDOGREL) 75 MG     PO QD " time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M15" start="1792" end="1798" text="plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M16" start="956" end="966" text="GLUCOPHAGE" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1110" end="1120" text="GLUCOPHAGE" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M18" start="956" end="966" text="GLUCOPHAGE" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1110" end="1120" text="GLUCOPHAGE" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M20" start="956" end="1008" text="GLUCOPHAGE (METFORMIN)   850MG  1 Tablet(s) PO qam  " time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1110" end="1162" text="GLUCOPHAGE (METFORMIN)   500MG  1 Tablet(s) PO qpm  " time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M22" start="2219" end="2228" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M23" start="956" end="966" text="GLUCOPHAGE" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1110" end="1120" text="GLUCOPHAGE" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M25" start="956" end="966" text="GLUCOPHAGE" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1110" end="1120" text="GLUCOPHAGE" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M27" start="956" end="1008" text="GLUCOPHAGE (METFORMIN)   850MG  1 Tablet(s) PO qam  " time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1110" end="1162" text="GLUCOPHAGE (METFORMIN)   500MG  1 Tablet(s) PO qpm  " time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M29" start="2219" end="2228" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M30" start="1061" end="1068" text="ZESTRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M31" start="1061" end="1068" text="ZESTRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M32" start="1061" end="1108" text="ZESTRIL (LISINOPRIL)   5MG  1 Tablet(s) PO QD  " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M33" start="2053" end="2060" text="zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M34" start="895" end="901" text="EC ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="895" end="901" text="EC ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M36" start="895" end="953" text="EC ASA (ASPIRIN ENTERIC COATED)   325MG  1 Tablet(s) PO QD" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M37" start="1787" end="1790" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M38" start="1010" end="1017" text="NORVASC" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M39" start="1010" end="1017" text="NORVASC" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1010" end="1059" text="NORVASC (AMLODIPINE)   10MG  1 Tablet(s) PO QHS  " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="2067" end="2074" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M42" start="1010" end="1017" text="NORVASC" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1010" end="1017" text="NORVASC" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1010" end="1059" text="NORVASC (AMLODIPINE)   10MG  1 Tablet(s) PO QHS  " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M45" start="2067" end="2074" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M46" start="1269" end="1275" text="PLAVIX" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M47" start="1269" end="1275" text="PLAVIX" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M48" start="1269" end="1306" text="PLAVIX (CLOPIDOGREL) 75 MG     PO QD " time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M49" start="1792" end="1798" text="plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M50" start="806" end="813" text="AVANDIA" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M51" start="806" end="813" text="AVANDIA" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M52" start="2238" end="2251" text="rosiglitazone" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M53" start="1341" end="1350" text="LOPRESSOR" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M54" start="1341" end="1399" text="LOPRESSOR (METOPROLOL TARTRATE)   50MG  1 Tablet(s) PO TID" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="2034" end="2044" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M56" start="1220" end="1225" text="ZOCOR" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M57" start="1220" end="1225" text="ZOCOR" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M58" start="1220" end="1267" text="ZOCOR (SIMVASTATIN)   20MG  1 Tablet(s) PO QHS " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M59" start="2298" end="2303" text="zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M60" start="1220" end="1225" text="ZOCOR" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M61" start="1220" end="1225" text="ZOCOR" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M62" start="1220" end="1267" text="ZOCOR (SIMVASTATIN)   20MG  1 Tablet(s) PO QHS " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M63" start="2298" end="2303" text="zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M64" start="956" end="966" text="GLUCOPHAGE" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M65" start="1110" end="1120" text="GLUCOPHAGE" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M66" start="956" end="966" text="GLUCOPHAGE" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M67" start="1110" end="1120" text="GLUCOPHAGE" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M68" start="956" end="1008" text="GLUCOPHAGE (METFORMIN)   850MG  1 Tablet(s) PO qam  " time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M69" start="1110" end="1162" text="GLUCOPHAGE (METFORMIN)   500MG  1 Tablet(s) PO qpm  " time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M70" start="2219" end="2228" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M71" start="1341" end="1350" text="LOPRESSOR" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M72" start="1341" end="1399" text="LOPRESSOR (METOPROLOL TARTRATE)   50MG  1 Tablet(s) PO TID" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M73" start="2034" end="2044" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M74" start="1061" end="1068" text="ZESTRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M75" start="1061" end="1068" text="ZESTRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M76" start="1061" end="1108" text="ZESTRIL (LISINOPRIL)   5MG  1 Tablet(s) PO QD  " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M77" start="2053" end="2060" text="zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M78" start="895" end="901" text="EC ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M79" start="895" end="901" text="EC ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M80" start="895" end="953" text="EC ASA (ASPIRIN ENTERIC COATED)   325MG  1 Tablet(s) PO QD" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M81" start="1787" end="1790" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M82" start="806" end="813" text="AVANDIA" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M83" start="806" end="813" text="AVANDIA" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M84" start="2238" end="2251" text="rosiglitazone" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC27" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M85" start="1010" end="1017" text="NORVASC" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M86" start="1010" end="1017" text="NORVASC" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M87" start="1010" end="1059" text="NORVASC (AMLODIPINE)   10MG  1 Tablet(s) PO QHS  " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M88" start="2067" end="2074" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC28" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M89" start="1269" end="1275" text="PLAVIX" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M90" start="1269" end="1275" text="PLAVIX" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M91" start="1269" end="1306" text="PLAVIX (CLOPIDOGREL) 75 MG     PO QD " time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M92" start="1792" end="1798" text="plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M93" start="806" end="813" text="AVANDIA" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M94" start="806" end="813" text="AVANDIA" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M95" start="2238" end="2251" text="rosiglitazone" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC31" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M96" start="1341" end="1350" text="LOPRESSOR" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M97" start="1341" end="1399" text="LOPRESSOR (METOPROLOL TARTRATE)   50MG  1 Tablet(s) PO TID" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M98" start="2034" end="2044" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="210" end="213" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="210" end="213" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="210" end="213" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1924" end="1927" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="1453" end="1462" text="BP 140/85" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1453" end="1462" text="BP 140/85" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="210" end="213" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="210" end="213" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="210" end="213" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1924" end="1927" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC32" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="210" end="213" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="210" end="213" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="210" end="213" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="1924" end="1927" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC30" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC16" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="215" end="217" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="215" end="217" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="215" end="217" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1971" end="1973" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2089" end="2091" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC17" time="before DCT" indicator="mention">
+      <DIABETES id="D5" start="215" end="217" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="215" end="217" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="215" end="217" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1971" end="1973" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="2089" end="2091" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC25" time="after DCT" indicator="mention">
+      <DIABETES id="D10" start="215" end="217" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="215" end="217" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="215" end="217" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="1971" end="1973" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="2089" end="2091" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

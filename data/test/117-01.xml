@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-09-20
+
+Melissa Cummings
+
+HGH Unit No: 265-01-73
+
+
+
+SAINT VINCENT HOSPITAL
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date: September 20, 2065
+
+
+
+Weight: 125.
+
+
+
+The patient returns from Paraguay.  States while there, had problems with her stomach. Was treated by MD there with what sounds like GERD but was ? attempted to be treated for H. pylori.  Brings in medicines, all of which she took for one week.  They are Flagyl 500 mg b.i.d., Metoclopramide 10 mg q.i.d. PC, Patoprazol 40 mg q.d.  All have been completed.  
+
+
+
+CURRENT MEDICATIONS: Lipitor 20 mg b.i.d., atenolol 25 mg b.i.d., Zestril 20 mg q.d., Glyburide 25 mg tablets 2 tabs b.i.d. (Patient occasionally does not take pills at supper as she is still fearful of hypoglycemia), clonazepam 1 mg b.i.d., NTG p.r.n., Bayer aspirin and eye drops.  
+
+
+
+(1)	Abdominal pain: Off medicine.  Symptoms have resolved.  Currently on no treatment for GI symptoms.
+
+
+
+(2)	Diabetes mellitus: FBS  126, 137, 149, 120, 139, 135, 116.  10:00 p.m. 226, 8:00 p.m. 201, 8:00 p.m. 151.  The patient does not check prior to supper.  States she is fearful she will die during night if sugar gets too low, therefore, occasionally does not take pills before supper and gets higher readings at night in the 240's to 260's.  Generally avoids sweets in diet. Takes evening pills with dinner at approximately 4:00 or 5:00.  
+
+
+
+(3)	RHCM: Was scheduled Dr. Yelverton for a sigmoidoscopy 9/16.  Apparently is office called and cancelled it and patient is waiting to be rescheduled.
+
+
+
+(4)	HTN: No chest pain, shortness of breath or palpations.  
+
+
+
+PE:	Blood pressure, right arm: 142/80.  Chest is clear. Cardiac regular rhythm at 66, no murmur or gallop.  Extremities: No edema. Labs from 7/27: Hemoglobin A1C 8.5 (197), BUN 13, creatinine 0.6, lytes normal, SGOT normal.  CBC normal.  
+
+ Melissa Cummings
+
+HGH Unit No: 265-01-73
+
+
+
+SAINT VINCENT HOSPITAL
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date: September 20, 2065
+
+
+
+Page 2
+
+
+
+
+
+
+
+A/P:	(1)	Diabetes mellitus: Irregular control secondary to patient s self-adjustment of medicine.  Have asked patient to check blood sugar pre-breakfast/pre-dinner.  If sugar below 100 pre-dinner, may decrease Glyburide evening dose.  If sugar 100 or greater, continue the 10 mg dose with supper.  
+
+
+
+(2)	HTN: Reasonable control.  Continue current treatment.
+
+
+
+(3)	Epigastric pain: Currently stable, monitor.
+
+
+
+(4)	Routine health maintenance: UTD.  Mammogram normal.  
+
+
+
+(5)	Return to clinic in three months to Dr. Eng.
+
+
+
+
+
+Kimberly I Kidd, RNC, ANP
+
+
+
+KI/espinoza/nolen
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="590" end="597" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="590" end="598" text="Zestril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="590" end="597" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="784" end="791" text="aspirin" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="545" end="552" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="545" end="553" text="Lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="545" end="552" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M7" start="784" end="791" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="784" end="792" text="aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="590" end="597" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="590" end="598" text="Zestril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="590" end="597" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="784" end="791" text="aspirin" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M13" start="590" end="597" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="590" end="598" text="Zestril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="590" end="597" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="784" end="791" text="aspirin" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M17" start="784" end="791" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="784" end="792" text="aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M19" start="766" end="769" text="NTG" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="766" end="769" text="NTG" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M21" start="766" end="769" text="NTG" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M22" start="766" end="769" text="NTG" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M23" start="766" end="769" text="NTG" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M24" start="766" end="769" text="NTG" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M25" start="610" end="619" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="610" end="619" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M27" start="2164" end="2174" text="Glyburide " time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M28" start="610" end="619" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M29" start="610" end="619" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M30" start="610" end="619" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M31" start="2164" end="2174" text="Glyburide " time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M32" start="610" end="619" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="567" end="575" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="567" end="576" text="atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="567" end="575" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M36" start="545" end="552" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="545" end="553" text="Lipitor " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M38" start="545" end="552" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M39" start="545" end="552" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="545" end="553" text="Lipitor " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M41" start="545" end="552" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M42" start="784" end="791" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M43" start="784" end="792" text="aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M44" start="766" end="769" text="NTG" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M45" start="766" end="769" text="NTG" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M46" start="766" end="769" text="NTG" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M47" start="610" end="619" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M48" start="610" end="619" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M49" start="2164" end="2174" text="Glyburide " time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M50" start="610" end="619" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M51" start="567" end="575" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M52" start="567" end="576" text="atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M53" start="567" end="575" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC27" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M54" start="567" end="575" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="567" end="576" text="atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="567" end="575" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1521" end="1524" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1521" end="1525" text="HTN:" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2260" end="2263" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1521" end="1524" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="1612" end="1618" text="142/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1612" end="1619" text="142/80." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1610" end="1621" text=": 142/80.  " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="1521" end="1524" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1521" end="1525" text="HTN:" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="2260" end="2263" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1521" end="1524" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC25" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="1521" end="1524" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="1521" end="1525" text="HTN:" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="2260" end="2263" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="1521" end="1524" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC20" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC16" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="1728" end="1746" text="Hemoglobin A1C 8.5" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="1739" end="1746" text="A1C 8.5" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D2" start="1721" end="1747" text=" 7/27: Hemoglobin A1C 8.5 " time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="922" end="930" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="922" end="939" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1963" end="1981" text="Diabetes mellitus:" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="922" end="939" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC17" time="before DCT" indicator="mention">
+      <DIABETES id="D7" start="922" end="930" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="922" end="939" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1963" end="1981" text="Diabetes mellitus:" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="922" end="939" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC23" time="before DCT" indicator="glucose">
+      <DIABETES id="D11" start="951" end="954" text="137" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D12" start="956" end="959" text="149" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D13" start="966" end="969" text="139" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D14" start="971" end="974" text="135" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D15" start="993" end="997" text="226," time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D16" start="1008" end="1011" text="201" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D17" start="1023" end="1026" text="151" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D18" start="1244" end="1259" text="240's to 260's." time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D19" start="940" end="1027" text=" FBS  126, 137, 149, 120, 139, 135, 116.  10:00 p.m. 226, 8:00 p.m. 201, 8:00 p.m. 151." time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D20" start="1243" end="1258" text=" 240's to 260's" time="before DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC28" time="after DCT" indicator="mention">
+      <DIABETES id="D21" start="922" end="930" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D22" start="922" end="939" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D23" start="1963" end="1981" text="Diabetes mellitus:" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D24" start="922" end="939" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2088-03-03
+
+                                                       Patient Name: WILKERSON,EDWARD [ MRN: 37199514MEDIQUIK ]
+
+                                                         Date of Visit: 3/3/2088
+
+
+
+
+
+MIMA PCP VISIT
+
+
+
+Health problems discussed:
+
+1. DM type 2. Fingerstick in the office today 130. At home, these have been mostly in the 84 -130s, but rarely up to the 180-190s. Last HbA1c was 5.8.
+
+--given outlier hyperglycemia and no hypoglycemia, increase metformin to 1000 bid from 1000 qAM/500 qPM
+
+--recheck A1c today
+
+--increase lisinopril to 20 daily given BP 142/66 today
+
+
+
+2. Lipids. Last dLDL 108. Denies any muscle cramps or weakness.
+
+--increase atorvastatin to 40 daily, check transaminases
+
+
+
+3. Weight. Has lost 11 pounds intentionally since September by doing more walking, eating fewer potatoes, red meat, rice.  BMI now 26.  Patient congratulated, encouraged to continue with his current diet and increase exercise as tolerated. Cautioned on caffeine given h/o SVT.
+
+
+
+4. SVT. To see Dr. Pate from cardiology in 2 days to f/u his SVT. No known further episodes since starting verapamil.
+
+
+
+5. Health maintenance.
+
+--due for colonoscopy: referred, given Rx for Golytely
+
+
+
+PE:
+
+Blood Pressure:   142/66   [Left Arm, Sitting]
+
+Pulse:   74   [Regular, Brachial]
+
+Weight:   191   [Pounds]
+
+NAD, does not appear to be responding to internal stimuli
+
+JVP 7
+
+CTA bilat
+
+RRR no mrg, no heave
+
+Abd soft, nt/nd, nabs, no mass
+
+No foot lesions
+
+Trace bilat ankle pitting
+
+2+ DP and PTs bilat
+
+
+
+______________________________                              
+
+
+
+Floyd Bobby Ventura, M.D.
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+Pt discussed with Dr. Ventura; I agree with his evaluation and plan.
+
+
+
+
+
+______________________________                              
+
+
+
+Nancy Elizabeth Roman, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY0" start="621" end="634" text="Last dLDL 108" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="627" end="635" text="LDL 108." time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="626" end="634" text="dLDL 108" time="before DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="561" end="574" text=" lisinopril t" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="562" end="572" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="562" end="572" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="685" end="699" text=" atorvastatin " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="686" end="698" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="686" end="698" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="685" end="699" text=" atorvastatin " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="686" end="698" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="686" end="698" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="685" end="699" text=" atorvastatin " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="686" end="698" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="686" end="698" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="485" end="494" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="485" end="494" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="485" end="494" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M15" start="485" end="494" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="485" end="494" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M17" start="485" end="494" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M18" start="561" end="574" text=" lisinopril t" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="562" end="572" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="562" end="572" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M21" start="485" end="494" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M22" start="485" end="494" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M23" start="485" end="494" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M24" start="561" end="574" text=" lisinopril t" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M25" start="562" end="572" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="562" end="572" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="591" end="600" text="BP 142/66" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="594" end="601" text="142/66 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1241" end="1247" text="142/66" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="591" end="600" text="BP 142/66" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC15" status="unknown">
+      <SMOKER id="S0" start="245" end="253" text="Health p" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC2" time="during DCT" indicator="glucose">
+      <DIABETES id="D0" start="287" end="322" text="Fingerstick in the office today 130" time="during DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D1" start="287" end="322" text="Fingerstick in the office today 130" time="during DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="276" end="278" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="276" end="285" text="DM type 2" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="276" end="285" text="DM type 2" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="276" end="278" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="276" end="285" text="DM type 2" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="276" end="285" text="DM type 2" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC16" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="276" end="278" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="276" end="285" text="DM type 2" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="276" end="285" text="DM type 2" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

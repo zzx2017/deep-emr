@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2074-09-21
+
+MICHAEL NOLAND
+
+FWH Unit No:  233-87-20
+
+
+
+MINERAL SPRINGS CLINIC
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date:  September 21, 2074
+
+
+
+46-year-old male presenting for follow up of his blood pressure. Since his last visit a month ago, he has been exercising, going out for walks every other day, compliant with medications. No new complaints for today. 
+
+
+
+PAST MEDICAL HISTORY:
+
+
+
+(1)	Obesity.
+
+(2)	Hypertension.
+
+(3)	History of glucose intolerance.
+
+(4)	Mild hyperlipidemia.
+
+
+
+MEDICATIONS: Lisinopril 40 mg q.d., Procardia XL 90 mg q.d. 
+
+
+
+PHYSICAL EXAMINATION: Blood pressure today initially 190/108. Subsequently, 170/110. Rest of exam was deferred as he had an exam a month ago. 
+
+
+
+ASSESSMENT & PLAN: 
+
+
+
+(1)	Hypertension. Outpatient readings support today's reading as the patient as an automatic blood pressure machine. Will add hydrochlorothiazide 25 mg q.d. and come back in 4 days. A recent urinalysis showed 1+ protein. He will come back to check an early AM urinalysis to reassess for presence of protein. Follow up at next visit.
+
+(2)	History of glucose intolerance. However, he had a normal fasting sugar of 104 and a hemoglobin A1C of 6.20. Mean glucose of 121. 
+
+(3)	History of mild hyperlipidemia. However, cholesterol now of 186, HDL 46, LDL 105. Cardiac risk ratio 4.0. Continue with weight loss. 
+
+
+
+Quince Ezell, M.D.
+
+
+
+QE/mcclain/newsom
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="471" end="485" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="471" end="485" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="466" end="485" text="Mild hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC11" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="471" end="485" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="471" end="485" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="466" end="485" text="Mild hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY6" start="1269" end="1276" text="LDL 105" time="during DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1269" end="1277" text="LDL 105." time="during DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC19" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="471" end="485" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="471" end="485" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="466" end="485" text="Mild hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <OBESE id="DOC4" time="before DCT" indicator="mention">
+      <OBESE id="O0" start="396" end="403" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="396" end="403" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="396" end="404" text="Obesity." time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC9" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="396" end="403" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="396" end="403" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="396" end="404" text="Obesity." time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC16" time="after DCT" indicator="mention">
+      <OBESE id="O6" start="396" end="403" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="396" end="403" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="396" end="404" text="Obesity." time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="503" end="513" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="503" end="513" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="503" end="513" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="526" end="539" text="Procardia XL " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="526" end="535" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="526" end="535" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="503" end="513" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="503" end="513" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="503" end="513" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M9" start="845" end="869" text="add hydrochlorothiazide " time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M10" start="849" end="868" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M11" start="526" end="539" text="Procardia XL " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="526" end="535" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="526" end="535" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M14" start="503" end="513" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="503" end="513" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="503" end="513" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M17" start="526" end="539" text="Procardia XL " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="526" end="535" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="526" end="535" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="410" end="422" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="410" end="422" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="410" end="423" text="Hypertension." time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="576" end="637" text="Blood pressure today initially 190/108. Subsequently, 170/110" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="576" end="614" text="Blood pressure today initially 190/108" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="606" end="615" text=" 190/108." time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="410" end="422" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="410" end="422" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="410" end="423" text="Hypertension." time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="410" end="422" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="410" end="422" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="410" end="423" text="Hypertension." time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC18" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

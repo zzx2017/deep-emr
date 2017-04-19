@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2112-07-28
+
+
+  
+                        OFFICE VISIT
+                              
+  Dawson, Quinten
+  MR#:  4692758
+  July 28, 2112
+  
+  Return visit.
+  
+  Reason for visit:  A 71-year-old male for comprehensive eval/management of multiple
+  issues.
+  
+  Problems:  
+       1.   Diabetes:  Continues on oral agents since 2087.  A1C is below 7.0 at goal. No
+       hypoglycemia.  Fasting sugars less than 130 on balance.  Has regular follow up.
+       2.   Hypertension:  Blood pressure well controlled on valsartan.  Cardiac ultrasound
+       2111 with normal ejection fraction, no LVH and normal mitral regurg.  Continue
+       current program.
+       3.   Coronary artery disease:  Patient had mildly abnormal stress test with moderate
+       posterior ischemia in 2112. This was done due to exertional shortness of breath.
+       Those symptoms have essentially resolved. He has never used nitroglycerin.  He
+       has gone through the cardiac rehab program. Now put on beta blocker due to
+       patient's preference. No strong indication given. No MI or symptomatic angina.
+       4.   Hyperlipidemia:  Tight control of lipids achieved on Zocor.  LDL less than 100.
+       5.   Stroke: Status-post stroke 2111 with slurred speech and left facial droop.
+       Warfarin recommended for one year at that time for presumed cardiac embolus. 
+       Considered discontinuing this visit.  
+       6.   Anemia: Patient has had a mild hyperproliferative anemia.  Has been seen by Dr.
+       Barr.  This has remained stable.  Bone marrow biopsy nondiagnostic.
+       7.   Hypogonadism:  Patient has been evaluated by Dr. Dominique Stokes.  Placed on
+       AndroGel 2111.  Testosterone levels have improved.  Question if that has
+       improved his fatigue and anemia.
+  
+  Review of systems:  He does have sleep apnea on CPAP.  Has bilateral hearing loss on
+  audiogram. Has some peripheral edema on occasion.  Have recommended support
+  stockings.  Urinalysis today showed greater than 100 red blood cells and he said this was
+  due to penile trauma from tight shorts.  We will repeat this.  He did see blood that day. 
+  He has never seen it since.  He has multiple seborrheic keratoses including on his penis. 
+  He will see Field Crest Care Center.  Otherwise ROS is negative.  
+  
+  Family history:  Mother died of cancer in her 80's of unknown primary.  Father died of
+  stroke in his 80's.  
+  
+  Physical exam:  Weight was 197.  Baseline 190.  Max 210.  Goal 185.  Blood pressure
+  was 140/78.  Pulse 60.  Skin:  normal.  HEENT:  pupils equal and reactive to light. 
+  EOMs full. Fundi normal. Mouth clear.  Neck: JVP6.  Carotids 2+ without bruit.  Thyroid
+  normal.  Nodes:  none.  Chest:  clear lungs.  Cardiac:  S1 and S2 normal.  Grade II/VI 
+  Dawson, Quinten
+  MR#:  4692758
+  July 28, 2112
+  Page Two
+  
+  systolic murmur with mitral regurg.  Abdomen:  no mass or organomegaly.  Extremities: 
+  trace edema.  Pulses full.  Rectal:  mildly enlarged prostate without nodule.  Stool guaiac
+  negative.  
+  
+  Assessment:  Management of all medical problems as above.  Lab work updated
+  including PSA. Colorectal screening up to date with colonoscopy 2108/Dr. Wilkinson.
+  
+  Disposition:    Every four months, 12/12, comprehensive 8/13.  Labs in advance.
+  
+  
+  
+  Gerald Everhart, M.D.
+  Dictated/not read
+  GE/tierney
+  
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1110" end="1124" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1110" end="1124" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1110" end="1124" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC5" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1110" end="1124" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1110" end="1124" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1110" end="1124" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC13" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1110" end="1124" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1110" end="1124" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1110" end="1124" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1163" end="1168" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1163" end="1168" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M2" start="523" end="532" text="valsartan" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M3" start="523" end="532" text="valsartan" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="1163" end="1168" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1163" end="1168" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="1163" end="1168" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1163" end="1168" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M8" start="523" end="532" text="valsartan" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M9" start="523" end="532" text="valsartan" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M10" start="523" end="532" text="valsartan" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M11" start="523" end="532" text="valsartan" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="474" end="486" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="474" end="486" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="474" end="486" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="2511" end="2517" text="140/78" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="2490" end="2517" text="Blood pressure   was 140/78" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="2490" end="2519" text="Blood pressure   was 140/78. " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="474" end="486" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="474" end="486" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="474" end="486" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="474" end="486" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="474" end="486" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="474" end="486" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC4" time="before DCT" indicator="test">
+      <CAD id="C0" start="714" end="789" text="mildly abnormal stress test with moderate        posterior ischemia in 2112" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C1" start="714" end="789" text="mildly abnormal stress test with moderate        posterior ischemia in 2112" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C2" start="714" end="781" text="mildly abnormal stress test with moderate        posterior ischemia" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C3" start="675" end="699" text=" Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="676" end="699" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="676" end="699" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC14" time="during DCT" indicator="mention">
+      <CAD id="C6" start="675" end="699" text=" Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="676" end="699" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="676" end="699" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC19" time="before DCT" indicator="mention">
+      <CAD id="C9" start="675" end="699" text=" Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="676" end="699" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="676" end="699" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC18" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC15" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="297" end="305" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="297" end="305" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="297" end="305" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="297" end="305" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="297" end="305" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="297" end="305" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC16" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="297" end="305" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="297" end="305" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="297" end="305" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

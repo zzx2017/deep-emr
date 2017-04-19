@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-08-08
+
+EDVISIT^35093053^Dodd, Steven^08/08/80^DURHAM, DENA CHRISTENA
+
+CHIEF COMPLAINT:  Chest pain.
+
+I confirm that I have seen and evaluated this patient, reviewed
+
+the resident's documentation, discussed the evaluation, plan of
+
+care, and disposition with the patient.
+
+HISTORY OF PRESENT ILLNESS:  This is a 65-year-old gentleman with
+
+a history of coronary artery disease who is transferred here from
+
+an outlying institution after an episode of left chest radiated
+
+to his arm that awoke him from sleep at about 11 o'clock.  This
+
+resolved after some sublingual nitroglycerin at the hospital but
+
+was associated with some diaphoresis.  He cannot tell if it is
+
+like his previous coronary pain or not.
+
+REVIEW OF SYSTEMS:  Negative for nausea, vomiting, diarrhea,
+
+abdominal pain, fever, or chills.  Otherwise, negative.
+
+PAST MEDICAL HISTORY, MEDICATIONS, ALLERGIES, SOCIAL, AND FAMILY
+
+HISTORY:  As per the chart.
+
+PHYSICAL EXAMINATION:  Shows a well-developed morbidly obese
+
+gentleman snoring in the bed in no acute distress.  He is
+
+asymptomatic when I see him and complaining of being tired. 
+
+HEENT is normocephalic, atraumatic.  Oropharynx is unremarkable. 
+
+Neck is supple.  Chest is clear.  Abdomen is morbidly obese,
+
+soft, and nontender.  Extremities are without cyanosis, clubbing,
+
+or edema.
+
+EMERGENCY DEPARTMENT COURSE:  The patient has an EKG, an abnormal
+
+but unchanged in comparison with previously.  He had a total
+
+troponin here of 0.99 equal to the 0.1 at the outlying
+
+institution.  His MB is 8 with a CK of 242.  His creatinine is
+
+also 4.5.
+
+PLAN:  Admission to the hospital for further evaluation.
+
+DIAGNOSIS:  Non-Q-wave, non-ST-elevation myocardial infarction.
+
+DISPOSITION:  The patient is admitted for further care.
+
+______________________________
+
+DURHAM, DENA CHRISTENA M.D.
+
+D: 08/08/80
+
+T: 08/08/80
+
+Dictated By: DURHAM, DENA CHRISTENA
+
+eScription document:5-0405500 BFFocus
+
+******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC1" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="997" end="1002" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="997" end="1002" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="997" end="1002" text="obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC2" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="997" end="1002" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="997" end="1002" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="997" end="1002" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC5" time="before DCT" indicator="mention">
+      <OBESE id="O6" start="997" end="1002" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="997" end="1002" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="997" end="1002" text="obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC8" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M0" start="577" end="601" text="sublingual nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M1" start="588" end="601" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="373" end="396" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="373" end="396" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="373" end="396" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC3" time="during DCT" indicator="event">
+      <CAD id="C3" start="1691" end="1712" text="myocardial infarction" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="1662" end="1712" text="Non-Q-wave, non-ST-elevation myocardial infarction" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="1662" end="1712" text="Non-Q-wave, non-ST-elevation myocardial infarction" time="during DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC4" time="during DCT" indicator="mention">
+      <CAD id="C6" start="373" end="396" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="373" end="396" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="373" end="396" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC7" time="after DCT" indicator="mention">
+      <CAD id="C9" start="373" end="396" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="373" end="396" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="373" end="396" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

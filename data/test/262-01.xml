@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2088-06-26
+
+Personal Data and Overall Health	
+
+66 year old white female scheduled for surgery on July 1st.
+
+
+
+Chief Complaint	
+
+The patient is scheduled for bone-muscle graft from the fibula to the right arm.
+
+
+
+History of Present Illness	
+
+The patient complains of a nonunion fx of the right arm in January 2087.
+
+
+
+Past Surgical History	
+
+Prior surgery includes:  10 procedurews on the right arm, colectomy, brain tumor.  General anesthesia for all procedures without problems.
+
+
+
+Family History	
+
+There in no family history of adverse reactions to general anesthesia.
+
+
+
+Past Medical History	
+
+Current medical problems include:  diabetes mellitus, pituitary adenoma, CAD, meningitis, fibromyalgia, severe fatty liver; see attached problem list.
+
+
+
+Social History	
+
+Smoking: stopped 15 years ago.
+
+Alcohol use: no history of excessive use
+
+Substance abuse: none
+
+
+
+Review of Systems	
+
+Medications:
+
+
+
+Prilosec
+
+Vasotec
+
+Serzone
+
+Diflucan
+
+Lipitor
+
+Reglan
+
+Bactrim
+
+Synthroid
+
+Permpro
+
+Prednisone 2.5 mg QD
+
+Valium
+
+Lancet
+
+Humulin NPH 20 units BID
+
+
+
+Allergies:  none
+
+
+
+Cardiovascular:  no history of hypertension, no MI; hx of well controlled angina, uses NTG rarely, very little exercise, no ankle edema, syncope.
+
+Respiratory: no history of asthma or chronic lung disease; denies unusual shortness of breath; recent productive cough following URI, started on Levaquin.
+
+Neurological: hx of pituitary adenoma with hypophysectomy in 2081, no stroke
+
+Gastrointestinal: no history of PUD; denies reflux but is on Prilosec
+
+Hepatobiliary:  history of liver disease with fatty liver, LFTs are normal at this time except for hypoalbuminemia; denies jaundice or hepatitis
+
+Renal/Genitourinary: no history of renal failure; denies hematuria, dysuria, obstructive uropathy
+
+Musculoskeletal: see PI
+
+Endocrine/metabolic: history of diabetes since hypophysectomy in 2081, BS ~ 100-150; endocrinopathy with pan hypopit, T4 is low.
+
+Heme/Onc:  no history of bleeding, blood diseases; no history of malignancy, chemotherapy, or radiation therapy
+
+Psychiatric: no significant psychiatric problems
+
+
+
+
+
+Exam	
+
+Ht: 68"
+
+Wt: 224#
+
+BP: 106/58
+
+P: 88
+
+SaO2: 98%
+
+
+
+HEEN&T:  good range of motion, no masses, neck veins flat, no bruits
+
+Airway:  Mallampatti Class I or II
+
+Teeth:  dentures
+
+Lungs:  coarse rhonchi bilaterally
+
+Heart:  regular rhythm, no murmurs, S1=S2, no gallop
+
+Abdomen:  not examined
+
+Extremities:  not examined
+
+
+
+Assessment	
+
+ASA Physical Status:  III
+
+Well prepared for surgery; subacute respiratory infection is being treated with Levaquin.  Consider delaying surgery if not improved by time of surgery.
+
+
+
+Plan	
+
+Proposed Anesthetic: general anesthesia
+
+Monitors:  standard
+
+Pain Management:  IVPCA
+
+Autologous blood:  none
+
+Premedication:  none
+
+Usual Medications:  take on day of surgery
+
+Medications to be held on day of surgery:  none
+
+Diabetic medications:  10 units NPH on am of surgery
+
+NSAIDS:  avoid for 3 days before surgery
+
+Aspirin:  avoid for 7 days before surgery
+
+NPO: after midnight 
+
+
+
+Consider steroid supplement.
+
+Consider insulin infusion.
+
+
+
+External Labs	
+
+She has had a stress test.  I will try to get results from PCP.
+
+
+
+Attending Anesthesiologist Reassessment Note	
+
+I have reviewed this preanesthetic assessment and concur with the assessment and recommended plan with the following exceptions:
+
+
+
+
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+
+
+
+
+Hunt, Xavier I., MD
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="929" end="936" text="Vasotec" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="929" end="936" text="Vasotec" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="929" end="936" text="Vasotec" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="957" end="964" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="957" end="964" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="957" end="964" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="957" end="964" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="957" end="964" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="957" end="964" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M9" start="1041" end="1052" text="Humulin NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1041" end="1052" text="Humulin NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1041" end="1052" text="Humulin NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="957" end="964" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="957" end="964" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="957" end="964" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M15" start="929" end="936" text="Vasotec" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="929" end="936" text="Vasotec" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="929" end="936" text="Vasotec" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M18" start="929" end="936" text="Vasotec" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="929" end="936" text="Vasotec" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="929" end="936" text="Vasotec" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M21" start="1041" end="1052" text="Humulin NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1041" end="1052" text="Humulin NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1041" end="1052" text="Humulin NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M24" start="1171" end="1186" text="uses NTG rarely" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M25" start="1176" end="1179" text="NTG" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M26" start="1041" end="1052" text="Humulin NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1041" end="1052" text="Humulin NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1041" end="1052" text="Humulin NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC11" time="before DCT" indicator="mention">
+      <CAD id="C0" start="686" end="689" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="686" end="689" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="686" end="689" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC12" time="during DCT" indicator="mention">
+      <CAD id="C3" start="686" end="689" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="686" end="689" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="686" end="689" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="after DCT" indicator="mention">
+      <CAD id="C6" start="686" end="689" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="686" end="689" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="686" end="689" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="past">
+      <SMOKER id="S0" start="784" end="814" text="Smoking: stopped 15 years ago." status="past" comment=""/>
+      <SMOKER id="S1" start="784" end="814" text="Smoking: stopped 15 years ago." status="past" comment=""/>
+      <SMOKER id="S2" start="784" end="813" text="Smoking: stopped 15 years ago" status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="648" end="665" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="648" end="665" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="648" end="665" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="648" end="665" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="648" end="665" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="648" end="665" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="648" end="665" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="648" end="665" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="648" end="665" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

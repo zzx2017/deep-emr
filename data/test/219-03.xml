@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2074-08-02
+
+
+Notre Dame Nursing Home
+1992 Madera Circle                                      Potts, William
+Hyannis, NV 21113                                      10916758
+(391) 643-6925                                           08/02/74
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. Potts is a 60 year old
+male who comes for follow up of hypertension, hyperlipidemia
+and other medical problems.
+1.  Hypertension.  Continues on medications without chest
+pain, shortness of breath, or pedal edema.
+2.  Hyperlipidemia. Continues on medication. No myalgias..
+3.  Erectile disorder.  He has run out of Viagra, which
+continues to work well at 50 mg dose.  Would like more.
+4.  Low HDL.  He has not been taking Lopid for the past 2
+months because his prescription ran out and has had
+difficulty getting in here to have it renewed.
+5.  Anxiety.  He has not had any further unpredictable
+attacks of anxiety.  He did recently use some lorazepam when
+he had to fly, but not at any other times.
+
+6.  Seasonal allergies. Episodic rhinitis and pruritus. Needs more Claritan
+MEDICATIONS:  Viagra, lorazepam 0.5 mg t.i.d. p.r.n.,
+atenolol 50 mg q.d., Lipitor 20 mg q.d., aspirin q.d.,
+diltiazem extended release 180 mg q.d., and Claritin-D
+24-Hour 1 p.o. q.d. p.r.n.
+
+REVIEW OF SYSTEMS:  As above and no nausea, vomiting,
+dysuria, or leg pain.
+
+PHYSICAL EXAMINATION:  The patient appears well.  Blood
+pressure 126/76, weight 224 pounds, heart rate 72 and
+regular.  Chest:  Clear to percussion and auscultation. 
+Cardiovascular exam:  Notable for 1/6 holosystolic murmur at
+the lower left sternal border to the apex.  Abdominal exam:
+No masses, tenderness, or organomegaly.  Extremities:  No
+edema.
+
+ASSESSMENT AND PLAN:
+1.  Hypertension.  Good control, no change in therapy.
+2.  Hyperlipidemia.  He did not return for fasting lipid
+analysis.  Will continue medication at present level and
+again ask him to return for fasting exam.
+3.  Erectile disorder.  Viagra refilled.
+4.  Low HDL.  I will try Niaspan sustained release 1500 mg
+p.o. q.d.  I discussed flushing sensation.  I asked him to
+take it at bedtime.  If the flushing sensation gets to be a
+problem, I encouraged him to take it in the morning about
+half an hour after he takes his aspirin.
+5.  Anxiety.  Improved.
+6.  Seasonal allergies.  Renewed Claritin prescription.
+
+In addition to above prescriptions, renewed all other
+chronic prescriptions as well.
+
+
+______________________________
+Matthew H. Wyatt, M.D.
+
+
+eScription document:8-959314 AFFocus
+
+DD: 08/02/74
+DT: 08/03/74
+DV: 08/02/74
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="358" end="372" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="358" end="372" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="358" end="372" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC11" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="358" end="372" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="358" end="372" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="358" end="372" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC19" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="358" end="372" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="358" end="372" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="358" end="372" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="1175" end="1184" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1175" end="1184" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M2" start="1141" end="1148" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1141" end="1148" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1141" end="1148" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M5" start="1141" end="1148" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1141" end="1148" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1141" end="1148" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="niacin" type2="">
+      <MEDICATION id="M8" start="1987" end="1994" text="Niaspan" time="after DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1983" end="1994" text="try Niaspan" time="after DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M10" start="1161" end="1168" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1161" end="1168" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1161" end="1168" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M13" start="1141" end="1148" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1141" end="1148" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1141" end="1148" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M16" start="1161" end="1168" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1161" end="1168" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1161" end="1168" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M19" start="1175" end="1184" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1175" end="1184" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1120" end="1129" text="atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1120" end="1128" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1120" end="1128" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M24" start="1175" end="1184" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1175" end="1184" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M26" start="1161" end="1168" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1161" end="1168" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1161" end="1168" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M29" start="1120" end="1129" text="atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="1120" end="1128" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="1120" end="1128" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M32" start="1120" end="1129" text="atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="1120" end="1128" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="1120" end="1128" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="344" end="356" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="344" end="356" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="344" end="356" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC13" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="344" end="356" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="344" end="356" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="344" end="356" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC18" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="344" end="356" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="344" end="356" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="344" end="356" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC20" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC16" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

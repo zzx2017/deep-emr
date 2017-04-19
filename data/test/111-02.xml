@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-08-26
+
+                     SILVER RIDGE EMERGENCY DEPT VISIT
+
+ 
+
+OROZCO,KYLE   560-40-78-5                     VISIT DATE: 08/26/83
+
+This is a preliminary dictation. 
+
+PRESENTING COMPLAINT and HISTORY OF PRESENTING COMPLAINT:  This 
+
+patient is a 58-year-old male with a history of hypertension and 
+
+diabetes who presents with fever and chills.  He is four weeks 
+
+status post revision of an aorto-bifemoral bypass graft, which got 
+
+infected and had to be revised.  He has been doing well, but now 
+
+presents here with a low-grade fever to 100.9 degrees F. (he states 
+
+his maximum temperature at home was 101 degrees F., while he was 
+
+taking Advil for the fever).  He presents for evaluation.  He has 
+
+had no drainage from the site, and has been home on IV Nafcillin 
+
+for the past two months secondary to his graft infection. 
+
+PAST MEDICAL HISTORY:  As above. 
+
+MEDICATIONS:  IV Nafcillin, Lasix, Zocor, and insulin. 
+
+ALLERGIES:  No known drug allergies. 
+
+PHYSICAL EXAMINATION:  The vital signs include a blood pressure of 
+
+179/85, a pulse of 91, respirations of 20, and a fever to 100.9 
+
+degrees F.  The HEENT examination is normal.  There are some 
+
+crackles at the left base, but the lungs are otherwise normal.  The 
+
+heart has a regular rate and rhythm.  The abdomen is soft and 
+
+non-tender, with good bowel sounds.  There is a right groin mass, 
+
+questionably a hematoma, with good pulses however.  The extremities 
+
+are well-perfused. 
+
+LABORATORY EVALUATION:  The electrolytes, BUN, and creatinine are 
+
+normal.  The blood sugar is 180.  The white count is normal at 3.7. 
+
+The hematocrit is 29.  The PT/PTT are pending.  The urinalysis is 
+
+negative so far, with microscopic pending. 
+
+THERAPY RENDERED/COURSE IN ED:  The patient was seen by Surgery. 
+
+The consensus was to order a CT scan of the abdomen, since the 
+
+patient had a fever at that point, and so the CT scan is pending. 
+
+Thus, the assessment was that this was a 58-year-old male with a 
+
+history of a recent revision of an aorto-bifemoral bypass graft, 
+
+who had been on two months of IV Nafcillin, and who presented with 
+
+a fever.  Laboratory studies are done and cultures sent.  A Surgery 
+
+consultation and abdominal CT scan were ordered, and results were 
+
+pending.  The patient was admitted to the Emergency Department 
+
+Observation Unit awaiting the scan, full evaluation, and 
+
+disposition.  The patient was signed out to the 3 p.m. attending. 
+
+CONSULTATIONS (INCLUDING PCP):  Surgery. 
+
+FINAL DIAGNOSIS:  Fever. 
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+admitted to the Emergency Department Observation Unit in stable 
+
+condition. 
+
+___________________________________                    VF918/05141
+
+PERRY UPSHAW, M.D.       PU38                           D:08/26/83 
+
+                                                       T:08/27/83 
+
+Dictated by:  PERRY UPSHAW, M.D.       PU38 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="926" end="931" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="926" end="931" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="926" end="931" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="926" end="931" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="926" end="931" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="926" end="931" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="937" end="944" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="937" end="944" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="937" end="944" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="926" end="931" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="926" end="931" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="926" end="931" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M12" start="937" end="944" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="937" end="944" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="937" end="944" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M15" start="937" end="944" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="937" end="944" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="937" end="944" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1056" end="1062" text="179/85" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1056" end="1062" text="179/85" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1056" end="1062" text="179/85" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="304" end="316" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="304" end="316" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="304" end="316" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="304" end="316" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="304" end="316" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="304" end="316" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="304" end="316" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="304" end="316" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="304" end="316" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="323" end="331" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="323" end="331" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="323" end="331" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="glucose">
+      <DIABETES id="D3" start="1558" end="1577" text=" blood sugar is 180" time="during DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D4" start="1574" end="1577" text="180" time="during DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D5" start="323" end="331" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="323" end="331" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="323" end="331" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D8" start="323" end="331" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="323" end="331" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="323" end="331" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-04-21
+
+58 yo male here for f/u of his various medical issues:
+
+1)CV: admitted 2/81 w/atypical CP (similar admission in recent past). Ruled out. MIBI w/small fixed defect ant/lat wall. EF 61% w/out WMA. Statin changed to Zetia for elevated CK (2412). Last lipid panel 3/17 chol 184, trig 281, HDL 31, LDL 97, VLDL 56. Also continues on Plavix and ASA (for prior stroke), lisinopril.
+
+Will recheck CK and lipid panel.
+
+
+
+2) Neuro: CT 2080 old infarct R caudate region. MRI confirmed R caudate lesion, other small vessel dz (small foci infarcts basal ganglia, few foci increased signal intestity subcortical white matter.) Neuro testing recently showed mild deficits in attention, processing; intellectual capacity superior range. Per Dr. Sims (stroke clinic), lesions on imaging could explain memory problems and slurred speech. Pt continuing on ASA and Plavix. Also Zetia as above.
+
+
+
+3) Depresion: Pt continues on 100 Zoloft (had incr to 200 per pt request but made him "feel funny").  Pt referred to psych, upcoming appt. Ambien QHS.
+
+
+
+3) LFT's: Isoloated Elevated AST (3/18 193, 3/17 62). Will check hep C. and recheck LFT's.
+
+
+
+4) Pilonidal cyst: see separate note dated today.
+
+
+
+5) Health maintenance: Lipids: see above. Sigmoidoscopy 1/20 normal
+
+
+
+6) HTN: stable. Continue lisinopril
+
+
+
+
+
+_____________________________________________
+
+Quiana Lou Qu, M.D.
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="391" end="401" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="391" end="401" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1302" end="1312" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="391" end="401" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="223" end="246" text="Statin changed to Zetia" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="222" end="229" text=" Statin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="367" end="370" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="367" end="370" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="865" end="868" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="367" end="370" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ezetimibe" type2="">
+      <MEDICATION id="M10" start="223" end="246" text="Statin changed to Zetia" time="after DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M11" start="240" end="247" text=" Zetia " time="after DCT" type1="ezetimibe" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="367" end="370" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="367" end="370" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="865" end="868" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M15" start="367" end="370" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M16" start="356" end="362" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M17" start="356" end="362" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M18" start="873" end="879" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M19" start="356" end="362" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M20" start="391" end="401" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M21" start="391" end="401" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="1302" end="1312" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="391" end="401" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M24" start="391" end="401" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M25" start="391" end="401" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="1302" end="1312" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M27" start="391" end="401" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M28" start="356" end="362" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M29" start="356" end="362" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M30" start="873" end="879" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M31" start="356" end="362" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M32" start="367" end="370" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M33" start="367" end="370" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M34" start="865" end="868" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="367" end="370" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M36" start="356" end="362" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M37" start="356" end="362" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M38" start="873" end="879" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M39" start="356" end="362" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1280" end="1283" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1280" end="1283" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1280" end="1283" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1280" end="1283" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1280" end="1283" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1280" end="1283" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1280" end="1283" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1280" end="1283" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1280" end="1283" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

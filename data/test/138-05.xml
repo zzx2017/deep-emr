@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-12-15
+
+
+
+
+
+
+
+PRESTON, FRANCES
+05850080
+12/15/2076
+
+
+
+
+Louis Barron, M.D.
+Shelby Dental Care Center
+9842 Edwards Street
+Cozad, OK  53952
+
+
+Dear Dr. Barron:
+
+
+I would like to give you followup on our mutual patient Frances Preston.  As you know, I referred her to the cardiac catheterization laboratory because of progressive worsening angina and a stress test suggesting anterior ischemia.  We performed a catheterization on 12/14/2076.  We utilized the right radial artery for access.  We found that she developed a significant in-stent restenosis lesion within the previously placed Cypher drug-eluting stent.  This is undoubtedly the cause of her symptoms.  We were able to treat this lesion with balloon angioplasty and ultimately stented with a 3.5 x 24 Taxus drug-eluting stent.  The stent was postdilated with a 4 mm noncompliant balloon to high pressure.  The final angiographic result was excellent.
+
+
+The following morning she was doing quite well and we discharged her later in the day.  She will remain on her usual medications and I have stressed the importance of remaining on aspirin once a day for the remainder of her life and Plavix for a minimum of a year after this procedure, though I will likely favor indefinite therapy.
+
+
+I plan on seeing her again on 01/24/2077 in followup.  If you have any further questions regarding her care, please do not hesitate to contact me.
+
+
+Sincerely,
+
+
+
+
+______________________________
+Corrie Q Newland, MD
+
+
+
+
+
+
+
+
+
+
+eScription document:0-3743412 IFFocus
+
+
+
+
+
+
+DD: 12/15/76
+DT: 12/15/76
+DV: 12/15/76
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1111" end="1118" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1111" end="1118" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1111" end="1118" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M3" start="1164" end="1170" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M4" start="1164" end="1170" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M5" start="1164" end="1170" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1111" end="1118" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1111" end="1118" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1111" end="1118" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M9" start="1164" end="1170" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M10" start="1164" end="1170" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M11" start="1164" end="1170" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1111" end="1118" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1111" end="1118" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1111" end="1118" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M15" start="1164" end="1170" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M16" start="1164" end="1170" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M17" start="1164" end="1170" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C0" start="720" end="806" text="balloon angioplasty and ultimately stented with a 3.5 x 24 Taxus drug-eluting stent.  " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="720" end="739" text="balloon angioplasty" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="755" end="762" text="stented" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="587" end="630" text="previously placed Cypher drug-eluting stent" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="755" end="803" text="stented with a 3.5 x 24 Taxus drug-eluting stent" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC4" time="before DCT" indicator="symptom">
+      <CAD id="C5" start="355" end="361" text="angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C6" start="355" end="361" text="angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C7" start="333" end="361" text="progressive worsening angina" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC9" time="before DCT" indicator="test">
+      <CAD id="C8" start="368" end="409" text="stress test suggesting anterior ischemia." time="before DCT" indicator="test" comment=""/>
+      <CAD id="C9" start="426" end="631" text="catheterization on 12/14/2076.  We utilized the right radial artery for access.  We found that she developed a significant in-stent restenosis lesion within the previously placed Cypher drug-eluting stent." time="before DCT" indicator="test" comment=""/>
+      <CAD id="C10" start="366" end="408" text="a stress test suggesting anterior ischemia" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

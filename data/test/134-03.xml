@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2091-09-18
+
+
+
+Reason for Visit
+
+Mr. Amador Jarvis comes for an annual visit and physical exam, and to follow-up on his diabetes, hypertension and elevated serum creatinine
+
+
+
+Problems
+
+      Hyperexpanded lungs
+
+      Hypertension
+
+      Elevated creatinine
+
+      Elevated glucose
+
+      Elevated prostate specific antigen
+
+      Elevated cholesterol
+
+
+
+Narrative History
+
+He has been generally healthy since last visit.  He notes that his morning fasting glucose values usually range between 130 and 140 mg percent.  He has not checked his blood pressure frequently but feels that it is under reasonable control.
+
+
+
+He has been followed by Dr. Quirk for his prostate and has regular ophthalmological visits for his eyes.  He also has regular dermatology visits.
+
+
+
+He does not notice any unusual shortness of breath with exertion, and in fact since he has been exercising regularly he feels that his breathing has improved.
+
+
+
+Review of Systems
+
+General - Neg; Weight stable.
+
+Eyes - Neg; No problems with vision.
+
+Ears - Neg; Hearing not impaired in a quiet room though some difficulty in a noisy environment.
+
+Nose - Neg; No nasal allergies
+
+Mouth - Neg; Teeth, throat, chewing normal.
+
+Heart - Neg. No pain or abnormal heart beats.
+
+Lungs - Neg; No cough or sortness of breath.
+
+GI - Neg; No heartburn, abdominal pain,constipation, diarrhea, rectal bleeding.
+
+GU - Neg; No pain or difficulty with urination.  t Musc-skel - Neg; No painful or swollen joints.
+
+Skin - Neg; No rashes, severe acne, abnormal moles.
+
+Neuro - Neg; No weakness, numbness, shakiness.
+
+Emotional - Neg; No unusual sadness or anxiety.
+
+
+
+Exam
+
+Mr. Jarvis is a healthy, comfortable appearing man. Blood pressure right arm, sitting is 136/70 with regular pulse 72.  Weight is 174 lbs. Ears, drums, canals, hearing within normal limits. (Eyes are regularly examined). Mouth, teeth, tongue and throat normal.  Neck, thyroid, nodes, carotids normal. JVP fills below the sternal angle.  Chest is clear to percussion and to auscultation both quiet breathing and forced maximal expiration. Diaphragms are somewhat low. Heart is normal size and has normal rate, rhythm and sounds with no murmurs or gallops.  Abdomen has no tenderness, masses or enlarged organs.  There is an area of muscular weakness in the anterior abdomen producing a partial ventral hernia.  Extremities have good pedal pulses and no edema. Skin has many keratoses of various sizes and shapes but is free of suspicious lesions.
+
+Rectal and prostate examination have been done by the urologist.
+
+
+
+Assessment
+
+Mr. Jarvis appears to be in stable health with hypertension and diabetes under good control.  His elevated serum creatinine seems to be causing no problems.  His prostate is being carefully followed and shows no signs of progression.
+
+
+
+Disposition and Plans
+
+We will check laboratory work today and let Mr. Jarvis know the results when they're available.  He will keep in touch and return as necessary but should return for a regular follow-up visit in six months.
+
+
+
+Medications
+
+      Centrum Vitamins      PO QD
+
+      Hyzaar (25 Mg/100 Mg) (HCTZ 25mg + Losart...    1 TAB PO QD
+
+      GLIPIZIDE   5MG,  1 Tablet(s)  PO BID
+
+      Lipitor (ATORVASTATIN)    10MG,  1 Tablet(s)  PO QD
+
+      ATENOLOL   50 MG PO QD
+
+
+
+Allergies
+
+      CAPTOPRIL    - possible rash
+
+
+
+Health Maintenance
+
+      Influenza Vaccine   11/28/2090   Aventis
+
+lot # GL735LM
+
+exp. 7/08/2091
+
+VHS given 11/26/90
+
+VHS Pub. 7/04/90
+
+adm by A. Torres, RN
+
+      Cholesterol   09/21/2090 179  
+
+      M-alb/creat ratio   03/13/2091 34.4  
+
+      Stool Guaiac   10/18/2090 times three Done - negative 
+
+      Pneumovax   03/13/2091   adm. 0.5ml into r.arm
+
+      UA-Protein   06/17/87 1+  
+
+      Colonoscopy   08/21/2091 tubular adenoma  at Brewster Hospital
+
+      HBA1C   03/14/2091 6.50  
+
+      Triglycerides   05/15/2090 131  
+
+      Cholesterol-LDL   05/15/2090 165  
+
+      Microalbumin   03/13/2091 2.2  
+
+      Hct (Hematocrit)   03/13/2091 43.2  
+
+      Cholesterol-HDL   05/15/2090 51  
+
+      Hgb (Hemoglobin)   03/13/2091 15.2  
+
+
+
+Past Medical History
+
+Former patient of Dr. Michael Jett.  Known hyperglycemia and hypertension for many years. Elevated blood creatinine level for many years dating back to a creatinine of 1.7 in 2068.  Hypertension noted in 2063.
+
+
+
+PSA tests gradually rising from 2.9 and 2080 to 4.8 in 2091
+
+
+
+Social History
+
+Mr. Jarvis continues work as a  production manager, working seven days a week.  He does manage two months of vacation during the spring
+
+
+
+Lab Tests
+
+Amador:  the lab results show good levels of glucose and stasble prostate antigen and creatinine.  You look good, and lets stick with the present plan.
+
+O
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="347" end="368" text="Elevated cholesterol " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="347" end="368" text="Elevated cholesterol " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="341" end="367" text="      Elevated cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC4" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="347" end="368" text="Elevated cholesterol " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="347" end="368" text="Elevated cholesterol " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="341" end="367" text="      Elevated cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY6" start="3869" end="3909" text="      Cholesterol-LDL   05/15/2090 165  " time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="3875" end="3907" text="Cholesterol-LDL   05/15/2090 165" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="3869" end="3909" text="      Cholesterol-LDL   05/15/2090 165  " time="before DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY9" start="347" end="368" text="Elevated cholesterol " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="347" end="368" text="Elevated cholesterol " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="341" end="367" text="      Elevated cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="3200" end="3207" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="3200" end="3207" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="3200" end="3207" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ARB" type2="diuretic">
+      <MEDICATION id="M3" start="3084" end="3095" text="    Hyzaar " time="before DCT" type1="ARB" type2="diuretic" comment=""/>
+      <MEDICATION id="M4" start="3088" end="3094" text="Hyzaar" time="before DCT" type1="ARB" type2="diuretic" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="ARB" type2="diuretic">
+      <MEDICATION id="M5" start="3084" end="3095" text="    Hyzaar " time="during DCT" type1="ARB" type2="diuretic" comment=""/>
+      <MEDICATION id="M6" start="3088" end="3094" text="Hyzaar" time="during DCT" type1="ARB" type2="diuretic" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M7" start="3155" end="3164" text="GLIPIZIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M8" start="3155" end="3164" text="GLIPIZIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M9" start="3155" end="3164" text="GLIPIZIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M10" start="3155" end="3164" text="GLIPIZIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="3155" end="3164" text="GLIPIZIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M12" start="3155" end="3164" text="GLIPIZIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M13" start="3259" end="3267" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="3259" end="3267" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="3259" end="3267" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M16" start="3200" end="3207" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="3200" end="3207" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M18" start="3200" end="3207" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M19" start="3200" end="3207" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M20" start="3200" end="3207" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M21" start="3200" end="3207" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="after DCT" type1="ARB" type2="diuretic">
+      <MEDICATION id="M22" start="3084" end="3095" text="    Hyzaar " time="after DCT" type1="ARB" type2="diuretic" comment=""/>
+      <MEDICATION id="M23" start="3088" end="3094" text="Hyzaar" time="after DCT" type1="ARB" type2="diuretic" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M24" start="3155" end="3164" text="GLIPIZIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M25" start="3155" end="3164" text="GLIPIZIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="3155" end="3164" text="GLIPIZIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M27" start="3259" end="3267" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="3259" end="3267" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="3259" end="3267" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="3259" end="3267" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="3259" end="3267" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="3259" end="3267" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="145" end="157" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="145" end="157" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="145" end="157" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="145" end="157" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="145" end="157" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="145" end="157" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="145" end="157" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="145" end="157" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="145" end="157" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" start="4379" end="4385" text="Social" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="135" end="143" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="135" end="143" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="135" end="143" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="135" end="143" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="135" end="143" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="135" end="143" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC18" time="before DCT" indicator="glucose">
+      <DIABETES id="D6" start="453" end="532" text="his morning fasting glucose values usually range between 130 and 140 mg percent" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D7" start="457" end="524" text="morning fasting glucose values usually range between 130 and 140 mg" time="before DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="135" end="143" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="135" end="143" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="135" end="143" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

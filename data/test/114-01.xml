@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2132-10-01
+
+Personal Data and Overall Health	
+
+75 year old right handed man with pure motor hemiparesis synrdrome on right from L IC stroke in 6/32.
+
+
+
+History of Present Illness	
+
+Mr. Slater comes to the stroke clinic today for an initial visit and second opinion for left-sided weakness starting in 6/25/32. He was golfing at the time, and suddenly developed weakness with no sensory changes. The weakness involved the face, arm and leg on the left side only. He went to Gilmore Hospital, where they checked his blood pressure, and found it to be 220/140 (per his report). A CT scan was performed, and he was informed that it was normal. He became frustrated with the ER there and signed out AMA. He went to the HCH at Easton 2 days later, his BP was still elevated, and they started him on clonidine. They attempted to arrange for a renal angiogram to work up his hypertension, but he declined. No further stroke/TIA workup was performed.
+
+
+
+He comes to me for a second opinion regarding his workup. His weakness has greatly improved, but not back to normal. He has never had sensory changes, and no speech difficulties, anosognosia, neglect, or gait instability. He did have "flashing lights in both eyes" for fifteen minutes at the onset of the symptoms on the golf course, but none since then. He has never had transient monocular blindness, diplopia, or suddenly blurry vision.
+
+
+
+Past Medical History	
+
+Hypertension.
+
+He is being worked up for possible renal artery stenosis. 
+
+He has not had his cholesterol checked.
+
+
+
+Medications	    
+
+PROPRANOLOL (PROPRANOLOL HCL)	 40MG PO BID Start Date: 10/1/32
+
+HCTZ (HYDROCHLOROTHIAZIDE)	 12.5MG PO QD Start Date: 10/1/32
+
+CLONIDINE HCL	 0.2MG PO BID Start Date: 10/1/32
+
+ZESTRIL (LISINOPRIL)	 40MG PO QD Start Date: 10/1/32
+
+ASA (ACETYLSALICYLIC ACID)	 81MG PO QD Start Date: 10/1/32
+
+
+
+Allergies	  
+
+NKDA	      
+
+
+
+Social History	
+
+lives in Avenal. Retired journalist. Widowed.
+
+quit smoking in June, former 1 ppd x 60 years.
+
+EtOH: couple of drinks 1-2 times per week.
+
+
+
+Family History	
+
+HTN in mother, aunt. 
+
+Father died of cancer. 
+
+No stroke
+
+
+
+Review of Systems	
+
+denies chest pain, SOB, palpitations.
+
+
+
+
+
+Exam	
+
+HEENT: NC/AT, O/P clear. Neck supple, no bruits.
+
+Lungs: CTA bilaterally.    CV: RRR, no M/R/G. 
+
+Abd: soft, NT/ND, + BS.    EXT: no CCE
+
+Neuro: A, Ox3. Speech fluent, non-dysarthric. Naming, repetition intact. STM 3/3 at 5 min. Follows 3-step R/L commands. 
+
+CN: VFFTC, EOMI without nystagmus. PERRL     
+
+facial sensation, symmetry and strength intact. Hearing intact bilaterally. Palate moves symmetrically. SCM strength full bilaterally. Tongue midline. 
+
+Motor: nl bulk and tone. Power 5/5 throughout. No drift.
+
+Sensation: intact to LT, PP, temp, vib, PS throughout. 
+
+Coord: nl FNF, HKS bilaterally. Gait normal-based, good toe, heel and tandem walk. 
+
+DTR's: 2 throughout, toes downgoing.
+
+
+
+Plan	
+
+I have reviewed Mr. Slater's CT scan, and he has a lacunar infarct of the left posterior internal capsule, which explains his pure motor hemiparesis syndrome. I have counseled him that most likely the best treatment for this type of stroke is to control his hypertension, and to use antiplatelet agents. I have asked that he increase his dose of ASA to 325 mg per day.
+
+
+
+In addition, he needs a work up. I have arranged for him to have CNIS, 24 hour Holter monitoring, and TTE with bubble study. Additionally, we should check fasting lipids. 
+
+
+
+He wishes to have a PCP at FPC, and I have requested that he have the next available appointment with Dr. Harry Tolliver of the cardiology department, who could also be instrumental in adjusting his hypertension meds. 
+
+
+
+He will return to clinic in 2-3 months, and is to page me immediately with any new symptoms or concerns. 
+
+
+
+CC	
+
+Dr. Harry Tolliver, FPC cardiology unit.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1738" end="1745" text="ZESTRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1738" end="1759" text="ZESTRIL (LISINOPRIL) " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1738" end="1745" text="ZESTRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M3" start="1627" end="1631" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M4" start="1627" end="1654" text="HCTZ (HYDROCHLOROTHIAZIDE) " time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M5" start="1633" end="1652" text="HYDROCHLOROTHIAZIDE" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M6" start="1627" end="1631" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M7" start="1627" end="1654" text="HCTZ (HYDROCHLOROTHIAZIDE) " time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M8" start="1633" end="1652" text="HYDROCHLOROTHIAZIDE" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="1792" end="1795" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1792" end="1819" text="ASA (ACETYLSALICYLIC ACID) " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="3242" end="3245" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1792" end="1795" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M13" start="1792" end="1795" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1792" end="1819" text="ASA (ACETYLSALICYLIC ACID) " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M15" start="3242" end="3245" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1792" end="1795" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M17" start="1738" end="1745" text="ZESTRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="1738" end="1759" text="ZESTRIL (LISINOPRIL) " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="1738" end="1745" text="ZESTRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="1563" end="1574" text="PROPRANOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="1563" end="1574" text="PROPRANOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1563" end="1574" text="PROPRANOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M23" start="1738" end="1745" text="ZESTRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M24" start="1738" end="1759" text="ZESTRIL (LISINOPRIL) " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M25" start="1738" end="1745" text="ZESTRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M26" start="1627" end="1631" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M27" start="1627" end="1654" text="HCTZ (HYDROCHLOROTHIAZIDE) " time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M28" start="1633" end="1652" text="HYDROCHLOROTHIAZIDE" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M29" start="1563" end="1574" text="PROPRANOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="1563" end="1574" text="PROPRANOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="1563" end="1574" text="PROPRANOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M32" start="1563" end="1574" text="PROPRANOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="1563" end="1574" text="PROPRANOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="1563" end="1574" text="PROPRANOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M35" start="1792" end="1795" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1792" end="1819" text="ASA (ACETYLSALICYLIC ACID) " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M37" start="3242" end="3245" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M38" start="1792" end="1795" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="883" end="895" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="883" end="895" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1427" end="1439" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="3154" end="3166" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="883" end="895" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="883" end="895" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="883" end="895" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1427" end="1439" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="3154" end="3166" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="883" end="895" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="883" end="895" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="883" end="895" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="1427" end="1439" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="3154" end="3166" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="883" end="895" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H15" start="565" end="573" text="220/140 " time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H16" start="564" end="572" text=" 220/140" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="current">
+      <SMOKER id="S0" start="1947" end="1968" text="quit smoking in June," status="current" comment=""/>
+      <SMOKER id="S1" start="1947" end="1993" text="quit smoking in June, former 1 ppd x 60 years." status="current" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

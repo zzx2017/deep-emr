@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-07-29
+
+                     GREEN EMERGENCY DEPT VISIT
+
+ 
+
+WAGNER,LONNIE   097-87-37-2                  VISIT DATE: 07/29/65
+
+The patient was interviewed and examined by me and Dr. Chase.  
+
+Please see the note for full details.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a very pleasant 
+
+gentleman accompanied by his wife who gives most of the history 
+
+complaining of bleeding in the right groin.  He is status post 
+
+catheterization and stent approximately two weeks.  He was recently 
+
+discharged from rehabilitation and at home his wife found the right 
+
+groin to be soaked in blood.  The patient's wife also noticed some 
+
+swelling at the site.  He has had no fevers and no chills.  He has 
+
+recently been diagnosed with myelodysplastic syndrome with white 
+
+counts in the 30's.
+
+REVIEW OF SYSTEMS:  Review of systems is notable for bleeding only. 
+
+He denies any abdominal pain.  He denies any fever or chills.  No 
+
+neurologic complaints.  No distal neurovascular complaints either.
+
+PAST MEDICAL HISTORY:  The patient's past medical history is 
+
+notable for diabetes, hypertension as well as cerebrovascular 
+
+accident, gastrointestinal bleed and myelodysplasia.  Surgeries and 
+
+procedures are as above.
+
+MEDICATIONS:  The patient's medications include Plavix and aspirin.
+
+ALLERGIES:  The patient has no allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  No current tobacco or ethyl 
+
+alcohol.  He lives at home with his wife.  He has VNA services 
+
+although they are not coming tomorrow.
+
+PHYSICAL EXAMINATION:  I agree with the physical examination as 
+
+documented.  GENERAL:  The patient is an awake, alert, pleasant 
+
+male in no apparent distress.  VITAL SIGNS:  Temperature 96, pulse 
+
+56, respiratory rate 20, blood pressure 97/49, oxygen saturation 
+
+96%.  EXTREMITIES:  The right groin shows a slightly tender area 
+
+with a little bit of ooze but dried blood.  No active bleeding 
+
+right now.  Distally he has popliteal pulses.  He has bilateral 
+
+dopplerable dorsalis pedis and posterior tibial pulses.  He has 
+
+full range of motion and denies any numbness.  
+
+LABORATORY EVALUATION:  Basic laboratory studies here show a 
+
+hematocrit of 28 and a white count of 43.  His white count is up 
+
+from a baseline of about 33.  His baseline hematocrit is 30.  His 
+
+platelets are 291.  His right groin ultrasound is negative for 
+
+pseudoaneurysm or AV fistula.
+
+THERAPY RENDERED/COURSE IN ED:  The patient is being sent home.  We 
+
+are arranging VNA to follow up tomorrow.
+
+CONSULTATIONS (including PCP):  The patient's primary care 
+
+physician was called for coverage for Dr. Duong.
+
+FINAL DIAGNOSIS:  Bleeding right groin after catheterization, 
+
+resolved.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+discharged in stable condition.
+
+___________________________________                    NU604/29497 
+
+AMANDA A. VAUGHT, M.D.     AV55                      D:07/29/65 
+
+                                                       T:07/29/65 
+
+Dictated by:  AMANDA A. VAUGHT, M.D.     AV55 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1304" end="1311" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1304" end="1311" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1304" end="1311" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M3" start="1293" end="1299" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M4" start="1293" end="1299" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M5" start="1293" end="1299" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1304" end="1311" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1304" end="1311" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1304" end="1311" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M9" start="1293" end="1299" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M10" start="1293" end="1299" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M11" start="1293" end="1299" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1304" end="1311" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1304" end="1311" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1304" end="1311" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M15" start="1293" end="1299" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M16" start="1293" end="1299" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M17" start="1293" end="1299" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1107" end="1120" text="hypertension " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1107" end="1119" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="1107" end="1120" text="hypertension " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1107" end="1119" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="1107" end="1120" text="hypertension " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1107" end="1119" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="never">
+      <SMOKER id="S0" start="1394" end="1413" text="No current tobacco " status="never" comment=""/>
+      <SMOKER id="S1" start="1394" end="1412" text="No current tobacco" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1097" end="1105" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1097" end="1105" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="1097" end="1105" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1097" end="1105" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="1097" end="1105" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1097" end="1105" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

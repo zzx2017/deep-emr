@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-09-15
+
+
+
+	CARDIOLOGY
+
+	
+
+	FORT WASHINGTON HOSPITAL
+
+	
+
+
+
+	Reason for visit:
+
+   consulted by Dr Dunham for continuity of care s/p cabg
+
+
+
+	Interval History:
+
+   This 53 yo male was referred with DM and CAD who today underwent CABG and CEA with Dr Dunham. Specifically he had: CABG x 3;  LIMA: Pedicle (IMA) to LAD-Mid Saphenous Vein: Ascending Aorta to Diagonal-2nd Saphenous Vein: Ascending Aorta to Diagonal-3rd; Coronary Endarterectomy.
+
+
+
+He was in his USOH until several months ago when he first noticed lower extremity edema and activity intolerance. Symptoms waxed and waned, but eventually progressed so he was experiencing daily SOB and fatigue with usual daily activities such as walking or working around his home, and worsening LE edema up to his knees. He sought evaluation from his PCP 3 weeks ago was and found to have severe cardiomyopathy with LVEF of 25% on stress-MIBI. There was global hypokinesis. Perfusion images suggest a small distal anteroapical scar and moderately dilated LV (both new since 2076). There was no definite evidence of ischemia, although it is noted the patient was unable to achieve 85% MPHR due to poor activity tolerance. 
+
+
+
+He was started on Coreg, as well as Lasix which has been uptitrated from 20 to 60mg qd, with subsequent 12-14 lbs weight loss. His lower extremity edema is markedly improved, and activity tolerance is moderately improved. He can perform basic ADLs such as dressing and bathing without difficulty. Walking, especially inclines, climbing stairs, and carrying parcels will cause SOB. He still feels fatigued throughout the day. He has no orthopnea, PND, abdominal distension, early satiety, abdominal pain or anorexia. He reports BPs are much improved with the addition of Coreg, even as they are running 130-150s/80-100. 
+
+
+
+	Past medical history:
+
+   1. DCM, diagnosed 7/81. 
+
+2. HTN, long standing, poorly controlled. 
+
+3. DM, onset ~2074. became insulin dependent several months ago. 
+
+a. Retinopathy and cotton wool spot. 
+
+b. No peripheral neuropathy. 
+
+4. Renal insufficiency, creatinine 1.6. 
+
+5. S/P CVA, L putamen, ? cocaine related. 
+
+6. History of cocaine abuse, last reported use 2078. 
+
+7. Obesity. 
+
+8. Sleep apnea, untreated. 
+
+9. Hyperlipidemia. On low dose statin. 
+
+
+
+	Family history:
+
+   Father had HTN, stroke age 45. 
+
+Mother had HTN. 
+
+No known coronary artery disease, arrhythmias, SCD, heart failure, cardiomyopathy in immediate family members.
+
+
+
+	Social history:
+
+   He is married, with 3 young adult children who are A+W. He was formerly self-employed as a CPA and would often travel worldwide. He stopped doing so after 2075 so has no recent travel out of the country. He is now employed by Applied Industrial Technologies as an accountant. 
+
+
+
+Habits: Denies any history of tobacco use. Although he denied illicit drug use, his chart review revealed above noted history of cocaine abuse. He subsequently admitted to prior use, i.e. at parties while traveling. He denies related excessive ETOH use, use of other illicit drugs, or high risk sexual behaviors. He admits to 3 drinks per week currently. 
+
+
+
+	Review of systems:
+
+   As detailed in HPI. He has never had chest pain or pressure, palpitations, irregular heartbeat, presyncope, or syncope. He denies having had fever, chills, or acute viral illness preceding onset of symptoms, recent travel out of the country or history of tick bites, hepatitis, or TB. He has no known thyroid problems. Remaining ROS noncontributory. 
+
+
+
+Physical examination:
+
+	
+
+-General:   Obese WM, somewhat anxious appearing in NAD. Intubated/sedated
+
+-Skin:   No rashes, nonicteric.
+
+-HEENT:   NC.  No scleral icterus.  MMM.
+
+-Neck:   Short neck.  Carotids +2 bilaterally, no bruits.  JVP assessment difficult due to body habitus, ~ 8-9cm H20. 
+
+-Chest:   Clear to percussion and ausculation. median sternotomy bandaged.
+
+-Cardiac:   RRR; no rub
+
+-Abdomen:   Obese, soft, NTND, no fluid wave.  Unable to appreciate liver edge.  No palpable masses.
+
+-Extremities:   Somewhat cool distal to lower shins, with trace pretibial edema bilaterally. Good femoral pulses, no bruit.  PT pulses intact.  
+
+-Neuro:   sedated
+
+
+
+	Assessment and plan:
+
+   53 yom with DM and CAD now immediatey s/p CABG.
+
+
+
+At this point routing CABG post-op care; will follow with you. 
+
+
+
+As he weans off support would resume his usual regimen of meds. 
+
+	
+
+Sherrill Gaines, MD pager #36466
+
+	
+
+Signed electronically by  Sherrill Gaines, MD
+
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="2235" end="2249" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="2235" end="2249" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="2235" end="2249" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="2235" end="2249" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="2235" end="2249" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="2235" end="2249" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC14" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="2235" end="2249" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="2235" end="2249" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="2235" end="2249" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <OBESE id="DOC1" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="2192" end="2199" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="2192" end="2199" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="2192" end="2199" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC12" time="before DCT" indicator="mention">
+      <OBESE id="O3" start="2192" end="2199" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="2192" end="2199" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="2192" end="2199" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC21" time="during DCT" indicator="mention">
+      <OBESE id="O6" start="2192" end="2199" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="2192" end="2199" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="3537" end="3542" text="Obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O9" start="2192" end="2199" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1749" end="1766" text="addition of Coreg" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2263" end="2269" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2263" end="2269" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="1937" end="1945" text=" insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1938" end="1945" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M5" start="1749" end="1766" text="addition of Coreg" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="2263" end="2269" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2263" end="2269" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M8" start="1749" end="1766" text="addition of Coreg" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M9" start="2263" end="2269" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2263" end="2269" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M11" start="1209" end="1214" text="Coreg" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="1209" end="1214" text="Coreg" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M13" start="1937" end="1945" text=" insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1938" end="1945" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M15" start="1937" end="1945" text=" insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1938" end="1945" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1870" end="1873" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1870" end="1873" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1870" end="1873" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1870" end="1873" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1870" end="1873" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1870" end="1873" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H6" start="1793" end="1809" text="130-150s/80-100." time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="1793" end="1808" text="130-150s/80-100" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="1718" end="1810" text="BPs are much improved with the addition of Coreg, even as they are running 130-150s/80-100. " time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC22" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1870" end="1873" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1870" end="1873" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1870" end="1873" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC9" time="after DCT" indicator="mention">
+      <CAD id="C0" start="223" end="226" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="223" end="226" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="223" end="226" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="during DCT" indicator="mention">
+      <CAD id="C3" start="223" end="226" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="223" end="226" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="223" end="226" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC20" time="before DCT" indicator="event">
+      <CAD id="C6" start="296" end="305" text=" CABG x 3" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="151" end="155" text="cabg" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C8" start="151" end="155" text="cabg" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC25" time="before DCT" indicator="mention">
+      <CAD id="C9" start="223" end="226" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="223" end="226" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="223" end="226" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC24" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC17" status="never">
+      <SMOKER id="S0" start="2769" end="2803" text=" Denies any history of tobacco use" status="never" comment=""/>
+      <SMOKER id="S1" start="2770" end="2803" text="Denies any history of tobacco use" status="never" comment=""/>
+      <SMOKER id="S2" start="2770" end="2805" text="Denies any history of tobacco use. " status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="216" end="218" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="216" end="218" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="216" end="218" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="216" end="218" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="216" end="218" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="216" end="218" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC18" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="216" end="218" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="216" end="218" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="216" end="218" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

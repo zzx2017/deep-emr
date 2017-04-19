@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2117-03-10
+
+ 
+SDU Admission
+
+PATIENT:    Usrey, Anthony
+MR:      6444877
+ADMIT DATE:  March 10, 2117  
+CODE STATUS:  Full
+ATTENDING:   Dr. Updyke (Ward)
+PCP:   Iacono, Cruz
+
+CC:   syncope, AS
+
+HPI:  
+54 y/o Columbian speaking male with HTN, HL who was in Columbia and had syncopal episode 2 days ago after climbing 4 flights of stairs. There are conflicting stories of his prodrome   some notes mention that his syncope was precipitated by chest pain, however he denies this and only reports some dyspnea and fatigue as he was climbing the stairs.  He believes he was unconscious for a few minutes. On waking up, he reported some nausea and vomiting.  He was taken to a hospital in Columbia where he had EKG changes and CK was 308 and troponin was 0.19.  Echo at the OSH in Columbia was showed AS with peak AV gradient 62, mean 38. Valve size was not commented upon. He was offered surgery however he elected to come back to America and now presents to the ER.  He has been asymptomatic since this episode and presently denies chest pain, dizziness, SOB, palpitations.  Denies any history of syncope in past. Denies history of seizures in past.
+
+ER: 97.6, 77, 161/84, 20, 97% on RA. Got ASA, lopressor 25.
+
+PMH:
+HTN
+HL
+L Achilles repair
+L Medial mensical repair
+
+MEDS:
+Lisinopril 20mg PO QD
+Lipitor 40mg PO QD
+
+In Columbia was started on the following but is not taking:
+Propranolol 10mg PO TID
+Diovan
+Asa 81mg PO QD
+Simvastatin
+Enoxaparin 70mg BID
+
+ALLERGIES: NKDA
+ 
+SOCIAL HISTORY:   
+No tobacco, Occ Etoh, Spanish speaking, originally from Columbia, Divorced lives alone in Johnson City. Works for Pilgrim's Pride.
+
+FAMILY HISTORY:   Brother-MI in 50s
+
+PHYSICAL EXAM
+VITALS:   98.2 59, 145/88, 16, 98%
+Gen: awake, alert, NAD
+HEENT: EOMI
+OP: OP Clear
+Neck: No JVD, murmur radiated to B carotids, No LAD,    parvus carotids   , no tardus
+CV: RRR nl s1 s2 harsh III/VI SEM heard throughout  precordium, no LV heave
+Pulm: CTA B
+Abd: + b.s, NT, ND, soft
+Ext: 1+ DP, no edema
+Neuro: grossly intact
+
+LABS:  
+   Chemistry :
+Sodium (Stat Lab)                137                       (135-145)      mmol/L
+Potassium (Stat Lab)             4.5                       (3.4-4.8)      mmol/L
+Chloride (Stat Lab)              106                       (100-108)      mmol/L
+CO2 (Stat Lab)                   24.8                      (23.0-31.9)    mmol/L
+BUN (Stat Lab)                   17                        (8-25)         mg/dl
+Creatinine (Stat Lab)            1.0                       (0.6-1.5)      mg/dl
+Glucose (Stat Lab)               101                       (70-110)       mg/dl
+
+   Hematology:  
+WBC                              7.7                       (4.5-11.0)     th/cmm
+HCT                              37.7             L        (41.0-53.0)    %
+HGB                              13.0             L        (13.5-17.5)    gm/dl
+RBC                              4.22             L        (4.50-5.90)    mil/cmm
+PLT                              185                       (150-350)      th/cumm
+MCV                              89                        (80-100)       fl
+MCH                              30.8                      (26.0-34.0)    pg/rbc
+MCHC                             34.5                      (31.0-37.0)    g/dl
+RDW                              13.6                      (11.5-14.5)    %
+PT                               12.4                      (10.3-13.2)    sec
+PT-INR                           1.1
+APTT                             26.6                      (22.1-34.0)    sec
+
+  Cardiac
+Creatine Kinase Isoenzymes       NEGATIVE                  (NEG)
+Troponin-I                       NEGATIVE                  (NEG)
+
+   Echo: 
+At OSH in Columbia:  LVH, nl fxn, AV calcified. Max gradient 62, mean 38mmHg. Mild Aortic regurg.
+
+   EKG: 
+Sinus brady at 55 bpm, nl axis, 1st degree AV block, STD/TWI in I, II, III, aVF, V5, V6. LVH pattern w/ J pt elevation in V1-V3.  
+
+ASSESSMENT & PLAN
+54 y/o Spanish speaking male with HTN, HL presents to PNC after syncopal episode 2 days ago and was found to have AS at OSH.  Mean gradient of 38mmHg indicates moderate disease.  Prognosis after syncopal episode due to AS is 3 years.
+
+AS:  Monitor for syncope, CHF, ischemia
+Repeat Echo to assess valve area, gradients
+Afterload reduction--start on ACE
+Cont statin, check lipid panel
+Avoid nitrates, diuretics
+His symptomatic AS warrants w/u for AVR
+Ischemia: EKG changes c/w LVH although doesn   t quite LVH meet criteria. Did have + enzymes at OSH, although denies hx of chest pain. Positive biomarkers ? due to coronary insufficiency in the setting of AS.
+Cont ASA, lipitor
+Cycle enzymes
+Will likely need coronary angiography before AVR
+Hyperlipidemia
+Lipitor
+Prophylaxis
+Nexium
+Enoxaparin
+Code
+Full
+
+__________________________________
+Jennifer Yuan, MD 67404
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="256" end="259" text=" HL" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1232" end="1234" text="HL" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="3973" end="3975" text="HL" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="4674" end="4688" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="257" end="259" text="HL" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="257" end="259" text="HL" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC12" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="256" end="259" text=" HL" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1232" end="1234" text="HL" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="3973" end="3975" text="HL" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="4674" end="4688" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="257" end="259" text="HL" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="257" end="259" text="HL" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY12" start="256" end="259" text=" HL" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY13" start="1232" end="1234" text="HL" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY14" start="3973" end="3975" text="HL" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY15" start="4674" end="4688" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY16" start="257" end="259" text="HL" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY17" start="257" end="259" text="HL" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1285" end="1295" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1285" end="1295" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1285" end="1295" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1307" end="1315" text="Lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="4292" end="4298" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="4603" end="4610" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="4689" end="4696" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1307" end="1314" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1307" end="1314" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="1203" end="1207" text="ASA," time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="4598" end="4601" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1203" end="1206" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1203" end="1206" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M13" start="1285" end="1295" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="4283" end="4286" text="ACE" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="1285" end="1295" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="1285" end="1295" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M17" start="1285" end="1295" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="1285" end="1295" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="1285" end="1295" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M20" start="1307" end="1315" text="Lipitor " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M21" start="4292" end="4298" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="4603" end="4610" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="4689" end="4696" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1307" end="1314" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1433" end="1444" text="Simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1307" end="1314" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="1307" end="1315" text="Lipitor " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="4292" end="4298" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="4603" end="4610" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="4689" end="4696" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1307" end="1314" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1307" end="1314" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M33" start="4598" end="4601" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1418" end="1421" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M35" start="1208" end="1217" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M36" start="1208" end="1217" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1208" end="1217" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="252" end="255" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1228" end="1231" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="3968" end="3971" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="252" end="255" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="252" end="255" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H5" start="1705" end="1711" text="145/88" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1176" end="1183" text="161/84," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="1705" end="1711" text="145/88" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="1176" end="1182" text="161/84" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H9" start="1705" end="1711" text="145/88" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="252" end="255" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1228" end="1231" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="3968" end="3971" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="252" end="255" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="252" end="255" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H15" start="252" end="255" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="1228" end="1231" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H17" start="3968" end="3971" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H18" start="252" end="255" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H19" start="252" end="255" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="never">
+      <SMOKER id="S0" start="1503" end="1513" text="No tobacco" status="never" comment=""/>
+      <SMOKER id="S1" start="1503" end="1514" text="No tobacco," status="never" comment=""/>
+      <SMOKER id="S2" start="1503" end="1513" text="No tobacco" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

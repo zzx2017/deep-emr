@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-03-10
+
+                     CDH EMERGENCY DEPT VISIT
+ 
+YARBROUGH,IRENE   810-86-43-7                        VISIT DATE: 03/10/79
+HISTORY OF PRESENTING COMPLAINT:  This patient was seen with Dr. 
+Nettles, Emergency Medicine resident.  The Chief Complaint, History 
+of Present Illness, Past Medical History, Medications, Allergies, 
+Social History, Family History and Review of Systems are as noted 
+by Dr. Nettles on the record and were reviewed with him and with 
+the patient.  Briefly, this is a 55 year old woman who presented 
+with chest pain which was epigastric and substernal in nature, 
+essentially sharp and non-radiating that had come on at rest.  She 
+has several cardiac risk factors including hypertension, obesity 
+and hormone replacement but had no specific cardiac history.  Her 
+symptoms did not resolve with Mylanta. 
+PHYSICAL EXAMINATION:  As noted by Dr. Nettles and is most 
+noteworthy for normal heart sounds, although she does have a II/VI 
+systolic ejection murmur at the apex (the upper right sternal 
+border). 
+LABORATORY EVALUATION:  An electrocardiogram does not show acute 
+changes but does have T wave inversions in V1 to V3.  These were 
+previously noted in 10/78. 
+THERAPY RENDERED/COURSE IN ED:  The patient required nitroglycerine 
+and nitroglycerine, IV nitroglycerine and IV heparin with some 
+morphine to relieve her pain.  She also received Lopressor 25 mg IV 
+and was given some GI meds.  She eventually became pain-free, 
+although she does admit to a residual mild discomfort in her chest. 
+There are no electrocardiographic changes. 
+IMPRESSION:  I concur with Dr. Nettles that this patient has chest 
+pain suspicious for unstable angina.  She has responded well to 
+aggressive treatment of this and she will be admitted for further 
+evaluation. 
+FINAL DIAGNOSIS:  Chest pain. 
+DISPOSITION (including condition upon discharge):  Admission. 
+Condition satisfactory. 
+___________________________________                    MR190/0660 
+ANTHONY G. PETTY, M.D.  AP06                               D:03/10/79 
+                                                       T:03/10/79 
+Dictated by:  ANTHONY G. PETTY, M.D.  AP06 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC2" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="740" end="748" text="obesity " time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="740" end="747" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="740" end="747" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC3" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="740" end="748" text="obesity " time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="740" end="747" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="740" end="747" text="obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC7" time="before DCT" indicator="mention">
+      <OBESE id="O6" start="740" end="748" text="obesity " time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="740" end="747" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="740" end="747" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M0" start="1399" end="1408" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1399" end="1408" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M2" start="1270" end="1284" text="nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M3" start="1270" end="1284" text="nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="726" end="738" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="726" end="738" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="726" end="738" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="726" end="738" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="726" end="738" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="726" end="738" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="during DCT" indicator="symptom">
+      <CAD id="C0" start="1683" end="1698" text="unstable angina" time="during DCT" indicator="symptom" comment="unsure????"/>
+      <CAD id="C1" start="1683" end="1698" text="unstable angina" time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2084-10-19
+
+
+
+
+
+
+
+                                                                                                                                   Mae Paul
+
+                                                                                                                                   LMC# 100-57-08
+
+
+
+
+
+
+
+
+
+
+LMC SURGERY
+
+CLINIC NOTE   October 19, 2084
+
+
+
+
+
+
+
+CC:
+
+Consult for hemorrhoids.  
+
+
+
+HPI:
+
+This is a 73-year-old female.  Five- to six-year history constant anal protrusion and bloody discharge and mucus nearly constantly (wears a pad).  No anal pain.  Usually has 1-2 BMs a day, solid or liquid (her chronic pattern).  No abdominal pain or weight loss.  No history STD.  No rectal surgery.  Status post left and right kidney transplants 2078 and 2075, which have failed.  Status post supracervical hysterectomy (no BSO) for benign disease.  Status post appendectomy.  4/82 underwent left salpingo-oophorectomy for serous cyst (Dr. Sutton).  No other abdominal OPs.  8/81 she was treated for CMV colitis.  No FH colon neoplasms.  
+
+
+
+PFSH:
+
+Chronic renal failure from glomerulonephritis.  Has had two failed transplants as above.  Now on dialysis every Monday, Wednesday and Friday.  On waiting list for another transplant at EHCC.  
+
+
+
+Hypertension.  
+
+
+
+Spinal stenosis and sciatica.  
+
+
+
+Lower extremity PVD.  This was shown on angio 9/83 (Dr. Xayasane), but she denies claudication.  
+
+
+
+Right foot-drop due to shingles.  
+
+
+
+Hypercholesterolemia.  
+
+
+
+Ectopic beats as below.  
+
+
+
+Nonsmoker.  
+
+
+
+She takes Pravachol 40 mg q.p.m., PhosLo 1300 mg t.i.d.-q.i.d., Sensipar 30 mg daily (for calcium), Restoril 30 mg q.h.s., Neurontin 900 mg every Monday, Wednesday, Friday, Norvasc 10 mg b.i.d., Nephrocaps one tablet daily, plus vitamins.  No allergies.  
+
+
+
+Retired Mathematician at Vassar.  Widow.  Lives alone.  Has daughter in the area (an surgeon).  
+
+
+
+PE:
+
+Appears a little frail.  No neck masses or bruits.  Chest clear.  Heart:  Frequent ectopic beats.  4/6 systolic murmur.  Mild abdominal adiposity.  Palpable LLQ kidney.  No other masses or organomegaly.  Groins normal.  No pedal edema.  3/4 femoral pulses, with nothing below.  Large non-thrombosed permanently prolapsed right anterior internal hemorrhoid and associated large external hemorrhoid.  Moderate external hemorrhoids elsewhere.  Digital rectal exam normal.  Anoscopy shows large internal hemorrhoids.  
+
+
+
+
+
+
+
+                                                                                                                                   Mae Paul
+
+                                                                                                                                   LMC# 100-57-08
+
+
+
+
+
+
+
+
+
+
+Flexible sigmoidoscopy to 25 cm (sigmoid) normal except mild diverticulosis.  
+
+
+
+IMPRESSION:
+
+Large symptomatic hemorrhoids.  They are too big for office treatment.  Therefore discussed the option of hemorrhoidectomy, which would probably give her a nice result.  She wishes to think about it for now, however, which is fine.  In the meantime, gave her info brochure plus instructions in conservative RX hemorrhoids.  
+
+
+
+Thomas Y. Ontiveros, M.D.
+
+
+
+cc:	Jack John, M.D., LMC
+
+	Harvey Ethridge, M.D., LMC
+
+	E. K. Sutton, M.D., LMC
+
+Herman Lemus, M.D., EHCC
+
+
+
+TYO/ellington		04-14609701.doc
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1462" end="1482" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1462" end="1482" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1462" end="1482" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1462" end="1482" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1462" end="1482" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1462" end="1482" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1462" end="1482" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1462" end="1482" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1462" end="1482" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="1707" end="1714" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1707" end="1714" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M2" start="1544" end="1553" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1544" end="1553" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="1544" end="1553" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1544" end="1553" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="1544" end="1553" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1544" end="1553" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M8" start="1707" end="1714" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="1707" end="1714" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M10" start="1707" end="1714" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1707" end="1714" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1269" end="1281" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1269" end="1281" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1269" end="1281" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1269" end="1281" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1269" end="1281" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1269" end="1281" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1269" end="1281" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1269" end="1281" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1269" end="1281" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="never">
+      <SMOKER id="S0" start="1518" end="1527" text="Nonsmoker" status="never" comment=""/>
+      <SMOKER id="S1" start="1518" end="1527" text="Nonsmoker" status="never" comment=""/>
+      <SMOKER id="S2" start="1518" end="1527" text="Nonsmoker" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

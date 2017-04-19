@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2089-08-24
+
+
+
+
+
+NAME:     Curtis, Om
+
+MRN:      7682941
+
+
+
+He is feeling quite fine today.  He has no specific problems to being to my
+
+attention.  He says that he is having no problems with chest pains whatsoever and
+
+that includes with exertion.  His breathing has been fine as well.  No shortness of
+
+breath.  Otherwise he denies any abdominal pains, joint pains, bowel or bladder
+
+difficulties.  The remainder of the review of systems is negative in detail.  
+
+
+
+PHYSICAL EXAM:  On exam, he looks well.  Skin is clear.  HEENT - PERRLA. 
+
+EOMI.  TMs and throat clear.  Neck supple.  No thyromegaly.  No
+
+lymphadenopathy.  Lungs are clear.  Heart is regular rate and rhythm.  No
+
+murmurs, gallops or rubs.  Abdomen is soft and nontender.  No masses.  No HSM. 
+
+Extremities with no edema.  Neurologically fully intact.
+
+
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)  Angina/hypertension/hyperlipidemia.  He is doing quite well and very stable. 
+
+     Since his cholesterol was in such great shape just a few months ago, no need
+
+     to recheck here today. 
+
+
+
+(2)  Bladder stone.  He had this dealt with by Dr. Gomes of Urology.
+
+
+
+(3)  Diabetes mellitus.  Very stable.  Check glycosylated hemoglobin.  He is up to
+
+     date on his eye exams.  Follow-up with me in three months.
+
+
+
+William V. Geiger, M.D.
+
+
+
+WVG/xin/quilici
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="890" end="904" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="890" end="904" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC5" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY2" start="890" end="904" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="890" end="904" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC11" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="890" end="904" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="890" end="904" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="877" end="889" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="877" end="889" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="877" end="889" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="877" end="889" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="877" end="889" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="877" end="889" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="877" end="889" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="877" end="889" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="877" end="889" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="870" end="876" text="Angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="870" end="876" text="Angina" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1141" end="1159" text="Diabetes mellitus." time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1140" end="1158" text=" Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1141" end="1149" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="1141" end="1159" text="Diabetes mellitus." time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1140" end="1158" text=" Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1141" end="1149" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1141" end="1159" text="Diabetes mellitus." time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1140" end="1158" text=" Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1141" end="1149" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

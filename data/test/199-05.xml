@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-09-07
+
+
+
+
+
+
+
+Forest Hospital / Mary
+
+2827 Hutchinson Street
+
+Cardiology, Suite 780              LARA, URIAH
+
+Pleasant Valley, GA  59835                    62115644
+
+(466) 428-4414                     09/07/2094
+
+
+
+
+
+Kenneth Bruce, M.D. 
+
+23 Essex Street
+
+East Stroudsburg, GA  97162
+
+
+
+Dear Kenneth: 
+
+
+
+Mr. Lara returned today after a 1-year hiatus because of coronary disease, status post percutaneous intervention.  He states that his general health has been stable over the past year but over the past several months he has noted, particularly in the hot weather, a sense of dyspnea after walking about 170 feet to his mailbox, or across a large parking lot, such as Grand Union.  At the end of activity he tends to note a sense of regular fluttering in his chest that persists for a minute or two, and he has also noted the latter almost every night when first lying in bed.  He has not had any recurrent orthostatic symptoms since his Toprol dose was reduced last year.  He has not had any exertionally related chest discomfort or symptoms similar to those prior to his percutaneous interventions.
+
+
+
+MEDICATIONS:
+
+1.  Aspirin 325 mg daily.
+
+2.  Clopidogrel 75 mg daily.
+
+3.  Atorvastatin 40 mg daily.
+
+4.  Lopid 600 mg b.i.d.
+
+5.  Toprol XL 12.5 mg daily.
+
+6.  Xanax, Benadryl at bedtime, multivitamin.
+
+
+
+INTOLERANCE TO MEDICATIONS:
+
+1.  Higher-dose beta blocker - orthostasis.
+
+2.  Lisinopril - questionable contribution to orthostasis.
+
+
+
+On examination, he is comfortable at rest.  The blood pressure is 170/100 checked twice, supine, standing it is 160/96, heart rate 82 and regular, weight 204 pounds, oxygen saturation 98%.  The jugular venous pressure is 5.  The carotid upstrokes are symmetric and not delayed.  The chest is clear.  Cardiac exam shows a grade II/VI holosystolic murmur localized to the apex.  The abdominal exam shows no organomegaly, pulsatile masses or bruits.  There is no peripheral pitting edema.
+
+
+
+The electrocardiogram shows sinus rhythm with left atrial abnormality and no new ST-T wave abnormalities compared to October 30, 2093.
+
+
+
+In summary, Mr. Lara has:
+
+1.  History of CAD, status placement of a drug-eluting stent in the LAD, 7/92, without recurrent angina or signs of left ventricular dysfunction.  Repeat cardiac catheterization, 12/92, because of chest discomfort showed no evidence of restenosis.
+
+2.  Hypertension, not controlled.  His elevated blood pressure may well be contributing to his sense of exertional dyspnea.  We spoke about the options.  As he had developed orthostatic symptoms previously on higher-dose beta blocker and possibly lisinopril, will use smaller doses of alternate agents in an attempt to lower his pressure.  He will add hydrochlorothiazide 25 mg daily plus amlodipine 2.5 mg daily starting today and already has a follow up appointment with you next week.  To investigate potential contributions to the elevated pressure and sense of tachycardia, blood studies today will include electrolytes, plasma metanephrine level and TSH.  A Holter monitor will also be placed in an attempt to determine what he is experiencing with the sense of "fluttering" which occurs at least nightly.  Once his blood pressure is controlled, an exercise test will follow.  [Addendum: Holter shows single VPBs/bigeminy at time of his symptoms. Blood studies show normal plasma metanephrines. He reports feeling better with systolic BP in the 120's on September 18, no further palpitations.  He will continue to monitor BP and will call in to schedule ETT]
+
+3.  Dyslipidemia, on combined statin plus gemfibrozil therapy.  When it is time to renew his Lopid, it would be reasonable to switch to TriCor to reduce the potential interaction with statins with respect to myopathy.  A serum CK will be included in today's blood studies.  
+
+4.  Mild mitral regurgitation.
+
+
+
+It was a pleasure to see Mr. Lara today and I will report back to you following his Holter.  
+
+
+
+With kind regards, sincerely yours,
+
+
+
+
+
+______________________________
+
+Collin L Cardenas, MD
+
+
+
+
+
+
+
+
+
+
+
+eScription document:1-3282447 MEeScription
+
+
+
+CC: Copy to File
+
+
+
+
+
+DD: 09/07/94
+
+DT: 09/10/94
+
+DV: 09/07/94
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="3543" end="3555" text="Dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="3543" end="3555" text="Dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY2" start="3543" end="3555" text="Dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="3543" end="3555" text="Dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="3543" end="3555" text="Dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="3543" end="3555" text="Dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1203" end="1215" text="Atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="3569" end="3575" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1203" end="1215" text="Atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1203" end="1215" text="Atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="1146" end="1154" text="Aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1146" end="1153" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1146" end="1153" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M7" start="1172" end="1185" text=" Clopidogrel " time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M8" start="1173" end="1184" text="Clopidogrel" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M9" start="1173" end="1184" text="Clopidogrel" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M10" start="2725" end="2744" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M11" start="2725" end="2744" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M12" start="2721" end="2745" text="add hydrochlorothiazide " time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M13" start="1146" end="1154" text="Aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1146" end="1153" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1146" end="1153" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="fibrate" type2="">
+      <MEDICATION id="M16" start="1234" end="1239" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="3581" end="3592" text="gemfibrozil" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="1234" end="1239" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M19" start="3581" end="3592" text="gemfibrozil" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="1234" end="1239" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="fibrate" type2="">
+      <MEDICATION id="M21" start="1234" end="1239" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M22" start="3581" end="3592" text="gemfibrozil" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M23" start="1234" end="1239" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M24" start="3581" end="3592" text="gemfibrozil" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M25" start="3665" end="3681" text="switch to TriCor" time="after DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M26" start="1172" end="1185" text=" Clopidogrel " time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M27" start="1173" end="1184" text="Clopidogrel" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M28" start="1173" end="1184" text="Clopidogrel" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M29" start="962" end="968" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="1258" end="1268" text=" Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="1259" end="1269" text="Toprol XL " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1257" end="1269" text="  Toprol XL " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M33" start="1203" end="1215" text="Atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="3569" end="3575" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1203" end="1215" text="Atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1203" end="1215" text="Atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M37" start="1203" end="1215" text="Atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M38" start="3569" end="3575" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M39" start="1203" end="1215" text="Atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="1203" end="1215" text="Atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M41" start="1146" end="1154" text="Aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M42" start="1146" end="1153" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M43" start="1146" end="1153" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="fibrate" type2="">
+      <MEDICATION id="M44" start="1234" end="1239" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M45" start="3581" end="3592" text="gemfibrozil" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M46" start="1234" end="1239" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M47" start="3581" end="3592" text="gemfibrozil" time="during DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M48" start="2620" end="2630" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M49" start="2620" end="2630" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M50" start="2762" end="2772" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M51" start="2762" end="2772" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M52" start="2756" end="2772" text=" plus amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M53" start="1172" end="1185" text=" Clopidogrel " time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M54" start="1173" end="1184" text="Clopidogrel" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M55" start="1173" end="1184" text="Clopidogrel" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC28" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M56" start="962" end="968" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M57" start="1258" end="1268" text=" Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M58" start="1259" end="1269" text="Toprol XL " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M59" start="1257" end="1269" text="  Toprol XL " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M60" start="962" end="968" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M61" start="1258" end="1268" text=" Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M62" start="1259" end="1269" text="Toprol XL " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M63" start="1257" end="1269" text="  Toprol XL " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="2377" end="2389" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2377" end="2389" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2377" end="2389" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1517" end="1544" text=" blood pressure is 170/100 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1518" end="1544" text="blood pressure is 170/100 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1566" end="1588" text=" standing it is 160/96" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="2377" end="2389" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2377" end="2389" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="2377" end="2389" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC27" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="2377" end="2389" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2377" end="2389" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="2377" end="2389" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC15" time="after DCT" indicator="mention">
+      <CAD id="C0" start="382" end="398" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="2139" end="2143" text="CAD," time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="382" end="398" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="382" end="398" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC20" time="during DCT" indicator="mention">
+      <CAD id="C4" start="382" end="398" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="2139" end="2143" text="CAD," time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="382" end="398" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="382" end="398" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC23" time="before DCT" indicator="event">
+      <CAD id="C8" start="400" end="437" text="status post percutaneous intervention" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C9" start="2144" end="2195" text="status placement of a drug-eluting stent in the LAD" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C10" start="2179" end="2184" text="stent" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C11" start="399" end="437" text=" status post percutaneous intervention" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC30" time="before DCT" indicator="mention">
+      <CAD id="C12" start="382" end="398" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="2139" end="2143" text="CAD," time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="382" end="398" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C15" start="382" end="398" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC18" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

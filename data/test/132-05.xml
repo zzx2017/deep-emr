@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-05-29
+
+EDVISIT^47190847^JORGENSON, VIVIANLEE^05/29/78^XUEREB, VESTER
+
+I saw this patient with Dr. Wendy Wu, resident.
+
+CHIEF COMPLAINT:  Chief complaint on the chart is ataxia, when I
+
+speak with the patient chief complaint is weakness.
+
+HISTORY OF PRESENT ILLNESS:  This 71-year-old female with a
+
+history of atrial fibrillation on Coumadin.  She presents with
+
+episodes of gait instability, diffuse weakness, multiple falls. 
+
+She was brought in by her family for further evaluation.  She
+
+also had dark stools over the past few weeks.  She denies any
+
+associated chest pain, shortness of breath, lightheadedness, any
+
+syncope, any nausea or vomiting.  She does have a bruise on her
+
+chin.  She denies any focal weakness, numbness, or tingling.  No
+
+hematuria, no epistaxis or gum bleeding.
+
+PAST MEDICAL HISTORY:  Congestive heart failure, atrial
+
+fibrillation, hypertension, coronary artery disease,
+
+hypercholesterolemia, and thyroid disease.
+
+SOCIAL HISTORY:  She lives with family.
+
+REVIEW OF SYSTEMS:  As noted in the written chart and the HPI,
+
+otherwise negative.
+
+MEDICATIONS:  Include ranitidine, baby aspirin, Coumadin, Lasix,
+
+and digoxin.
+
+ALLERGIES:  None.
+
+PHYSICAL EXAMINATION:  Temperature 96.5, pulse 60, respiratory
+
+rate 20, blood pressure 136/60, and oxygen 95% on room air. 
+
+General:  This is a pleasant female, elderly; she has got a 3-cm
+
+ecchymosis over her mid left chin as well as over her left
+
+shoulder.  Her pupils are reactive.  Neck is supple. 
+
+Respiratory:  Clear to auscultation.  Cardiovascular:  Regular
+
+rate.  Abdomen is soft.  Rectal is heme-positive, heme-positive
+
+melena per the resident.  Skin is otherwise with bruises over the
+
+left arm as well as a bruise over the right thumb that appears
+
+healing.  Extremities are with good range of motion.  No focal
+
+tenderness.  She is oriented x3.  Mood and affect are normal. 
+
+She is moving all extremities equally.
+
+LABORATORY DATA:  Chest x-ray shows no acute cardiomediastinal
+
+process and head CT preliminary shows no intracranial
+
+abnormalities.  Laboratory studies are remarkable for hematocrit
+
+of 16, creatinine of 1.5, BUN of 95, troponin less than 0.04, and
+
+platelets of 358.  INR of 2.  Urinalysis with 2+ ketones, no
+
+blood.
+
+INITIAL IMPRESSION AND PLAN:  This 71-year-old female presents
+
+with generalized weakness and gait instability and frequent
+
+falls, concerning for either an evolving intracranial process
+
+such as a subdural or stroke.  This has been going on for several
+
+weeks, however, but also presents with melena over the past
+
+several weeks and profound anemia for which she required
+
+transfusion in the Emergency Department.  We did order a CT of
+
+the brain to evaluate for intracranial injury or abnormality both
+
+given the frequent falls and as the cause of the falls.  This
+
+does not show any large subdural or mass lesion.  She is quite
+
+anemic has melanotic heme-positive stool.  I suspect this is the
+
+etiology, but it seems like it has been a slow progression, and
+
+concerned given her cardiac history also the weakness and could
+
+represent coronary insufficiency.  She does not have an elevated
+
+troponin at present.  She will need to be further monitored.  She
+
+was transfused here in the Emergency Department given her
+
+profoundly low hematocrit after consent was obtained. 
+
+Clinically, feels better.  I discussed with the patient's family
+
+because of the bleeding he will need to be evaluated as ____
+
+further cardiac biomarkers and further monitoring as well as
+
+physical therapy evaluation once the patient's acute medical
+
+issues have been addressed.  She will be admitted to the medical
+
+service with diagnosis of symptomatic anemia, gastrointestinal
+
+bleeding, congestive heart failure, and atrial fibrillation in
+
+stable condition.
+
+______________________________
+
+XUEREB, VESTER M.D.
+
+D: 05/29/78
+
+T: 05/30/78
+
+Dictated By: XUEREB, VESTER
+
+eScription document:9-7189367 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="926" end="946" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="926" end="946" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="926" end="946" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="926" end="946" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="926" end="946" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="926" end="946" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC13" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="926" end="946" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="926" end="946" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="926" end="946" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1130" end="1142" text="baby aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1135" end="1142" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1135" end="1142" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1130" end="1142" text="baby aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1135" end="1142" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1135" end="1142" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1130" end="1142" text="baby aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1135" end="1142" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1135" end="1142" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="886" end="898" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="886" end="898" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="886" end="898" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="886" end="898" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="886" end="898" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="886" end="898" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="886" end="898" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="886" end="898" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="886" end="898" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="900" end="923" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="900" end="925" text="coronary artery disease, " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="900" end="923" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC5" time="after DCT" indicator="mention">
+      <CAD id="C3" start="900" end="923" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="900" end="925" text="coronary artery disease, " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="900" end="923" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC7" time="during DCT" indicator="mention">
+      <CAD id="C6" start="900" end="923" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="900" end="925" text="coronary artery disease, " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="900" end="923" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

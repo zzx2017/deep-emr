@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-10-30
+
+COLIN RAMEY
+
+CHH Unit No:  433-88-47
+
+
+
+MISSOURI PACIFIC HOSPITAL
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date:  October 30, 2082
+
+
+
+78-year-old male who comes in for follow-up of his high blood pressure.  He denies having any chest pain, any shortness of breath, or any difficulty sleeping at night.  His brother-in-law lives with him.  He reports no change in Mr. Ramey at all and no concerns. 
+
+
+
+PAST MEDICAL HISTORY:  
+
+
+
+(1)	Mental retardation.
+
+(2)	Hypertension.
+
+(3)	A history of anemia.
+
+(4)	BPH.
+
+(5)	History of peptic ulcer disease diagnosed by upper endoscopy in 2069.
+
+
+
+MEDICATIONS:  Hydrochlorothiazide 25 mg q.d. and atenolol 25 mg q.d. 
+
+
+
+ALLERGIES TO MEDICATION: None.
+
+
+
+SOCIAL HISTORY:  He doesn't smoke.
+
+
+
+PHYSICAL EXAM:  Weight 147, unchanged.  Blood pressure 140/70.  Pulse 72.  Lungs clear.  No crackles or wheezing.  Cardiac - Regular rate and rhythm.  S1, S2.  His abdomen is soft, nontender.  Extremities - trace edema at the ankles.
+
+
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)	Hypertension, which appears to be stable. Continue present regimen.  Will check a potassium, BUN and creatinine.
+
+(2)	History of normocytic anemia.  His last hematocrit in 2080 was at 38, normal MCV.  At his next visit he will need a recheck of this as well as of B12 level. 
+
+(3)	History of borderline sugars, although his glucose today is 105.  
+
+(4)	Routine health maintenance.  Flu vaccine given to his left deltoid IM.  He will need Hemoccult cards at his next visit.  Follow up in 6 months or sooner as needed.
+
+
+
+
+
+Xavier Combs, M.D.
+
+XC/olivas/finn
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M0" start="608" end="629" text=" Hydrochlorothiazide " time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M1" start="609" end="628" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M2" start="609" end="628" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M3" start="608" end="629" text=" Hydrochlorothiazide " time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M4" start="609" end="628" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M5" start="609" end="628" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="644" end="652" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="644" end="652" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="644" end="652" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M9" start="608" end="629" text=" Hydrochlorothiazide " time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M10" start="609" end="628" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M11" start="609" end="628" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="644" end="652" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="644" end="652" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="644" end="652" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="644" end="652" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="644" end="652" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="644" end="652" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="467" end="480" text="Hypertension." time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="467" end="479" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="467" end="479" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="467" end="480" text="Hypertension." time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="467" end="479" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="467" end="479" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="467" end="480" text="Hypertension." time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="467" end="479" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="467" end="479" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="never">
+      <SMOKER id="S0" start="719" end="735" text="He doesn't smoke" status="never" comment=""/>
+      <SMOKER id="S1" start="719" end="736" text="He doesn't smoke." status="never" comment=""/>
+      <SMOKER id="S2" start="719" end="735" text="He doesn't smoke" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

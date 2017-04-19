@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2089-03-28
+
+                     RHINELAND EMERGENCY DEPT VISIT
+
+ 
+
+PIERRE,EDEN   241-52-56-3                      VISIT DATE: 03/28/89
+
+The patient was interviewed and examined by myself with the 
+
+resident on 3/28/89.  Please see resident's note for full details.
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a female with 
+
+history of coronary artery disease, AICD, and cardiomyopathy who 
+
+comes in today with chest pain, onset iffy while she is walking, 
+
+substernal right anterior chest.  Went to sleep, had some shortness 
+
+of breath, no diaphoresis, nausea or dizziness.  Similar to this 
+
+pain in the past was her myocardial infarction.  She has chronic 
+
+risk factors of hypercholesterolemia, apparent menopausal, 
+
+echocardiogram on 9/87, 10 to 15% global hypokinesis.  
+
+Catheterization is left main disease, 50% ostial disease.           
+
+REVIEW OF SYSTEMS:  As in history of present illness but no recent 
+
+upper respiratory infection symptoms or orthopnea, or exercise 
+
+intolerance.    
+
+PAST MEDICAL HISTORY:  As above.  Surgery procedure:  ASAD 
+
+placement.   
+
+MEDICATIONS:  See nurses notes for details. 
+
+ALLERGIES:  See nurses notes for details. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  No tobacco or ETOH.  Lives with 
+
+family, accompanied by a friend tonight.  Family history:  
+
+Diabetes.  
+
+PHYSICAL EXAMINATION:  Alert and awake, pleasant female in no 
+
+apparent distress.  Agree with resident's documentation including 
+
+normal pulse, blood pressure 120/86, 02 sat 98%.  Clear lungs.  
+
+Heart is regular rate and rhythm.  Abdomen is soft.  Neuro:  Alert 
+
+and oriented x3.  No obvious cranial, or motor or sensory deficit.  
+
+LABORATORY EVALUATION:  Given her history of coronary artery 
+
+disease and her symptoms an electrocardiogram was unchanged.  
+
+Hematocrit is 37.  BUN and creatinine 19 and 1.  Liver function 
+
+tests are within normal limits.  CK 127, troponin .01.  
+
+Electrocardiogram, rhythm is paced, unchanged from priors.  Chest 
+
+x-ray is mild congestive heart failure compared to prior 
+
+examinations.    
+
+THERAPY RENDERED/COURSE IN ED:  Aspirin was given and she is chest 
+
+pain free currently.  Case was discussed with Guzmans Hospital 
+
+Cardiology.  Will try for an exercise tolerance test later on in 
+
+the afternoon.  Care was discussed with Dr. Rhodes.
+
+FINAL DIAGNOSIS:  Chest pain, rule out acute coronary syndrome.  
+
+DISPOSITION (including condition upon discharge):  Patient 
+
+currently in stable condition.  
+
+___________________________________                    ZP289/32887 
+
+FLORENCE F. CASEY, M.D.     FC44                      D:03/28/89 
+
+                                                       T:03/28/89 
+
+Dictated by:  FLORENCE F. CASEY, M.D.     FC44 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="702" end="722" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="702" end="722" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="702" end="722" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="702" end="722" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="702" end="722" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="702" end="722" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="702" end="722" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="702" end="722" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="702" end="722" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="2102" end="2109" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2102" end="2109" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2102" end="2109" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="359" end="382" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="359" end="382" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="359" end="382" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C3" start="394" end="408" text="cardiomyopathy" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="644" end="666" text="myocardial infarction." time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="644" end="665" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="644" end="665" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC3" time="before DCT" indicator="test">
+      <CAD id="C7" start="747" end="863" text="echocardiogram on 9/87, 10 to 15% global hypokinesis.    Catheterization is left main disease, 50% ostial disease.  " time="before DCT" indicator="test" comment=""/>
+      <CAD id="C8" start="804" end="873" text="Catheterization is left main disease, 50% ostial disease.            " time="before DCT" indicator="test" comment="?????"/>
+    </CAD>
+    <CAD id="DOC7" time="during DCT" indicator="mention">
+      <CAD id="C9" start="359" end="382" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="359" end="382" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="359" end="382" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC8" time="during DCT" indicator="symptom">
+      <CAD id="C12" start="435" end="445" text="chest pain" time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C13" start="435" end="445" text="chest pain" time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC9" time="after DCT" indicator="mention">
+      <CAD id="C14" start="359" end="382" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C15" start="359" end="382" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C16" start="359" end="382" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="never">
+      <SMOKER id="S0" start="1228" end="1238" text="No tobacco" status="never" comment=""/>
+      <SMOKER id="S1" start="1228" end="1238" text="No tobacco" status="never" comment=""/>
+      <SMOKER id="S2" start="1228" end="1239" text="No tobacco " status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

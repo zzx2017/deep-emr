@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-06-12
+
+
+Dutch
+19 Tamworth Place                                        TRENT, SHIRLEY
+Galena, MN 64864                                      99210914
+(676) 312-7662                                           06/12/93
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Trent is 69, a pleasant lady who is now a widow well known to me for her insulin-dependent diabetes and her poor compliance with treatment.  In the past, she also has experienced upper GI bleeding due to a peptic ulcer and has undergone cholecystectomy as well as lobectomy for carcinoma of the lung.
+
+CURRENT MEDICATIONS:  Humulin N 25 units in the morning.  She is supposed to be using 28 units in the morning and 8 units in the evening depending on blood sugars.  She also has been prescribed an ACE inhibitor and a beta blocker, which she has neglected to take.  Her last visit to the practice was in September of last year.
+
+At the time of her last visit, I referred to vascular surgery because of claudication of the right leg.  She underwent a femoral public TL bypass in December and did well postoperatively.  She was discharged on simvastatin, Plavix, as well as atenolol and lisinopril.  She abandoned all tablets on her own and did not come for her followup appointment with us.  Today, she tells me that claudication in the right leg has disappeared completely but during the past two months, she has begun noticing pain in the left leg after 10-15 minutes of walking which forces her to stop.  An arteriogram carried out in September of last year showed mild diffuse disease involving the left common iliac, external iliac, and common femoral arteries.  She did not have symptoms on the left side at the time.
+
+The patient denies chest pain, palpitation, shortness of breath, orthopnea, and ankle edema.  Prior to her bypass surgery on the right leg, she underwent a Persantine MIBI which showed only 1 mm ST depressions and was considered not diagnostic.
+
+Ms. Trent has experienced some polyuria and mild polydipsia and has two times nocturia.  She denies dysuria.  The last hemoglobin A1c was 8.4 in September of last year.  At that time, her serum cholesterol was 238, HDL was 59, and triglycerides were 263.
+
+PHYSICAL EXAMINATION:  Today, she is pleasant and talkative.  Her weight is 127-1/2 pounds, blood pressure 180/76, and heart rate is 96.  Oxygen saturation 100% on room air.  Random fingerstick glucose is 202.  Extraocular movements are full.  The thyroid is not enlarged.  The neck veins are flat.  The chest is clear to auscultation.  The breasts are free of masses.  There is no axillary lymphadenopathy.  The heart sounds are regular.  There are no rubs or gallops.  There is a midline abdominal scar which corresponds to an old operation for peptic ulcer.  There is also a right upper quadrant cholecystectomy scar which is surrounded by a mass, which has been present in the past that probably represents fibrosis under the scar.  No other masses are palpable.  The lower extremities are free of edema.  I do not palpate the pulse except in the dorsalis pedis area of the right side, but there are no trophic changes and the skin is warm and pink.
+
+ASSESSMENT AND PLAN:  A 69-year-old widow lady with moderately controlled insulin-dependent diabetes and hyperlipidemia.  She has not been compliant with her medications.  She has suffered from peripheral vascular disease and claudication in the past underwent a bypass surgery on the right lower extremity in October of last year.  She now has mild symptoms of claudication on the left.  She continues to consume three or four beers a day.  The relationship to her vascular atherosclerosis is not clear.  Liver function in the past has been normal and she does not have significant proteinuria.  Today, I have repeated her hemoglobin A1c, comprehensive panel, CBC, and urine analysis.  I have spent 20 minutes speaking to her and to her daughter concerning the importance of compliance and explaining the rationale for the lisinopril.  I have prescribed Lipitor 10 mg p.o. q.d., lisinopril 10 mg p.o. q.d., and enteric-coated aspirin 81 mg p.o. q.d. She is also to take a multivitamin q.d.  I will see her again after the above test results to decide whether we need to adjust her medications.  I have increased her insulin to 28 units every morning.  She will come to see the nurse practitioner in three days' time to learn how to use a glucometer and to review diabetes care.  An electrocardiogram will be obtained and a consultation will be arranged with vascular surgery concerning the claudication now on the left leg.
+
+
+
+
+
+______________________________
+Rose Irvin-Ly, M.D.
+
+
+Dictated By: Rose Irvin-Ly
+
+
+eScription document:0-2524422 EMSSten Tel
+
+
+
+DD: 06/12/93
+DT: 06/13/93
+DV: 06/12/93
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="3258" end="3272" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="3258" end="3272" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1111" end="1123" text=" simvastatin" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC12" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="3258" end="3272" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="3258" end="3272" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1111" end="1123" text=" simvastatin" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC14" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="3258" end="3272" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="3258" end="3272" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1111" end="1123" text=" simvastatin" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="4008" end="4015" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="4008" end="4015" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="4008" end="4015" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="770" end="783" text="ACE inhibitor" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="4033" end="4044" text="lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="1157" end="1167" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment="poor compliance"/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="770" end="783" text="ACE inhibitor" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1157" end="1167" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1157" end="1167" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment="poor compliance"/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="4080" end="4087" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="4064" end="4088" text=" enteric-coated aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="4080" end="4093" text="aspirin 81 mg" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M12" start="595" end="604" text="Humulin N" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="4269" end="4277" text=" insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="595" end="602" text="Humulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M15" start="595" end="602" text="Humulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M16" start="595" end="604" text="Humulin N" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="4269" end="4277" text=" insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="595" end="602" text="Humulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="595" end="602" text="Humulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M20" start="1125" end="1131" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M21" start="1125" end="1131" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M22" start="595" end="604" text="Humulin N" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="4269" end="4277" text=" insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M24" start="595" end="602" text="Humulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="595" end="602" text="Humulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M26" start="790" end="802" text="beta blocker" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1144" end="1152" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="1144" end="1153" text="atenolol " time="before DCT" type1="beta blocker" type2="" comment="poor compliance"/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2305" end="2312" text="180/76," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2305" end="2311" text="180/76" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="2290" end="2311" text="blood pressure 180/76" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3581" end="3586" text="beers" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="2072" end="2083" text="A1c was 8.4" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="2061" end="2083" text="hemoglobin A1c was 8.4" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D2" start="2061" end="2084" text="hemoglobin A1c was 8.4 " time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="344" end="370" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="3227" end="3253" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="344" end="370" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="344" end="370" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D7" start="344" end="370" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="3227" end="3253" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="344" end="370" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="344" end="370" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC18" time="after DCT" indicator="mention">
+      <DIABETES id="D11" start="344" end="370" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="3227" end="3253" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="344" end="370" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="344" end="370" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

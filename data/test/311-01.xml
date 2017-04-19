@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-11-22
+
+                     ZHH EMERGENCY DEPT VISIT
+
+ 
+
+FINNEY,INDIANA   432-94-73-9                  VISIT DATE: 11/22/82
+
+PRESENTING COMPLAINT:  Chest pain. 
+
+HISTORY OF PRESENTING COMPLAINT:  Ms. Finney is a 45 year-old 
+
+woman with type II diabetes who presents with new onset of 
+
+palpitations and chest tightness.  The episodes last 10-15 minutes 
+
+and mainly occur with exertion, relieved by rest.  These occurred 
+
+at rest today and so she came to the hospital.  She reports being 
+
+ill lately with a cough, for a long time.  She has no history of 
+
+coronary artery disease.  She has had no fever. 
+
+PAST MEDICAL HISTORY:  She had recent dental work and she was told 
+
+she has a heart murmur. 
+
+MEDICATIONS:  Oral hypoglycemics. 
+
+ALLERGIES:  No known allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  She does not smoke. 
+
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Pulse 111, temperature 100, 
+
+blood pressure 157/69.  GENERAL:  Alert, calm and oriented.  In no 
+
+distress.  NECK:  No adenopathy.  Thyroid was not palpable. 
+
+Oropharynx was normal.  CHEST:  Clear.  CARDIOVASCULAR:  Regular 
+
+rate and rhythm.  ABDOMEN:  Soft and non-tender.  EXTREMITIES:  No 
+
+clubbing, cyanosis or edema.  She had no rash. 
+
+LABORATORY EVALUATION:  Electrocardiogram showed mild ST segment 
+
+change that was non-diagnostic and confirmed the tachycardia. 
+
+Laboratory evaluation is pending at the time of dictation.  Chest 
+
+x-ray is pending and the results will be appended by my successor. 
+
+FINAL DIAGNOSIS:  Chest pain, exertional type. 
+
+DISPOSITION (including condition upon discharge):  Disposition will 
+
+be appended by my successor.  Patient is currently in stable 
+
+condition. 
+
+___________________________________                    TJ371/9248 
+
+YVES BLACKBURN, M.D.       HB79                         D:11/22/82 
+
+                                                       T:11/23/82 
+
+Dictated by:  YVES BLACKBURN, M.D.       HB79 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="935" end="941" text="157/69" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="920" end="943" text="blood pressure 157/69. " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="never">
+      <SMOKER id="S0" start="835" end="849" text="does not smoke" status="never" comment=""/>
+      <SMOKER id="S1" start="835" end="850" text="does not smoke." status="never" comment=""/>
+      <SMOKER id="S2" start="831" end="849" text="She does not smoke" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="258" end="274" text="type II diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="258" end="274" text="type II diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="258" end="274" text="type II diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="258" end="274" text="type II diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="258" end="274" text="type II diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="258" end="274" text="type II diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="258" end="274" text="type II diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="258" end="274" text="type II diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="258" end="274" text="type II diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

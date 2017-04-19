@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-06-16
+
+83 yo male for f/u of  heart  disease and bp.
+
+he states he is fine and denies any chest pressure, dyspnea or abd pain.  denies any bleeding from stools.
+
+Problems
+
+Mental retardation 
+
+Hypertension 
+
+Anemia 
+
+Benign prostatic hypertrophy : s/p turp 4/84
+
+H/O peptic ulcer disease : DX. BY UPPER ENDOSCOPY IN 2069.
+
+Coronary artery disease : ett 12/83: The ECG response to pharmacological stress was nondiagnostic for ischemia. The myocardial perfusion scans show a moderate size, severe, fixed inferior and inferolateral defect indicative of prior infarct with little if any residual ischemia.
+
+Sick sinus syndrome 
+
+
+
+
+
+Medications
+
+Ecasa (ASPIRIN Enteric Coated) 81MG, 1 Tablet(s) PO QD
+
+Lasix (FUROSEMIDE) 20MG, 1 Tablet(s) PO QD
+
+Imdur (ISOSORBIDE MONONIT.(SR)) 30MG, 1 Tablet(s) PO QD
+
+Zocor (SIMVASTATIN) 20MG, 1 Tablet(s) PO QHS
+
+LISINOPRIL 30MG, 1 Tablet(s) PO QD
+
+Nexium (ESOMEPRAZOLE) 40MG, 1 Capsule(s) PO QD
+
+Percocet (OXYCODONE Apap) 325-5, 1 Tablet(s) PO Q8H : one half tab to one tab po q8 hours as needed for pain
+
+Lopressor (METOPROLOL Tartrate) 50MG, 1 Tablet(s) PO BID 
+
+
+
+
+
+Allergies
+
+Hctz (HYDROCHLOROTHIAZIDE) - HYPONATREMIA 
+
+
+
+
+
+weight:145(up five lbs)
+
+bp:110/50
+
+pulse64
+
+appears well
+
+cor:RRRs1s2
+
+lungs: clear
+
+abd: soft and nontender
+
+ext:  trace edema
+
+
+
+a/p:
+
+cad:  no angina or failure but perhaps slightly fluid overload with edema, trace in ankles and   weight up. will increase lasix to 20 mg po bid.   check lytes.  continue all other meds,.
+
+
+
+h/o pud:  cont with  nexium.  check cbc.
+
+
+
+anemia;  due to gi bleed.  recheck.
+
+
+
+htn:  stable. 
+
+
+
+bph: stable. nocturia x2
+
+
+
+f/u three months. 
+
+Health maintenance
+
+Influenza Vaccine 11/04/2084 
+
+Cholesterol 09/01/2084 155 DESIRABLE: less then 200
+
+Rectal exam 01/29/2083 
+
+Pneumovax 01/29/2083 
+
+Smoking status 01/20/2085 Never a smoker 
+
+UA-Protein 09/23/2084 1+ 
+
+HBA1C 10/31/2082 6.00 
+
+Triglycerides 09/01/2084 77 
+
+Cholesterol-LDL 09/01/2084 95 DESIRABLE: less then 130
+
+Hct (Hematocrit) 01/20/2085 36.3 
+
+Cholesterol-HDL 09/01/2084 45 
+
+Hgb (Hemoglobin) 01/20/2085 11.5 
+
+
+
+
+
+
+
+
+
+_____________________________________________
+
+Xavier U. Combs, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="866" end="876" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="866" end="876" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="866" end="876" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="820" end="825" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="820" end="826" text="Zocor " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="820" end="825" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="663" end="668" text="Ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="663" end="668" text="Ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="663" end="668" text="Ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="866" end="876" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="866" end="876" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="866" end="876" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="663" end="668" text="Ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="663" end="668" text="Ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="663" end="668" text="Ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M15" start="763" end="768" text="Imdur" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="763" end="769" text="Imdur " time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="763" end="768" text="Imdur" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M18" start="763" end="768" text="Imdur" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M19" start="763" end="769" text="Imdur " time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="763" end="768" text="Imdur" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1060" end="1069" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1060" end="1069" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1060" end="1069" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="820" end="825" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="820" end="826" text="Zocor " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="820" end="825" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="820" end="825" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="820" end="826" text="Zocor " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="820" end="825" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M30" start="866" end="876" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M31" start="866" end="876" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M32" start="866" end="876" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M33" start="663" end="668" text="Ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M34" start="663" end="668" text="Ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="663" end="668" text="Ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M36" start="763" end="768" text="Imdur" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M37" start="763" end="769" text="Imdur " time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M38" start="763" end="768" text="Imdur" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="1060" end="1069" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1060" end="1069" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="1060" end="1069" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="1060" end="1069" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1060" end="1069" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1060" end="1069" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="214" end="226" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="214" end="227" text="Hypertension " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="214" end="226" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="214" end="226" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="214" end="227" text="Hypertension " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="214" end="226" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="214" end="226" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="214" end="227" text="Hypertension " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="214" end="226" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC10" time="after DCT" indicator="mention">
+      <CAD id="C0" start="344" end="367" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="344" end="367" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="763" end="769" text="Imdur " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="343" end="367" text=" Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="during DCT" indicator="mention">
+      <CAD id="C4" start="344" end="367" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="344" end="367" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="763" end="769" text="Imdur " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="343" end="367" text=" Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC19" time="before DCT" indicator="event">
+      <CAD id="C8" start="557" end="585" text="indicative of prior infarct " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C9" start="571" end="584" text="prior infarct" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC23" time="before DCT" indicator="mention">
+      <CAD id="C10" start="344" end="367" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="344" end="367" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="763" end="769" text="Imdur " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="343" end="367" text=" Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC18" status="never">
+      <SMOKER id="S0" start="1811" end="1852" text="Smoking status 01/20/2085 Never a smoker " status="never" comment=""/>
+      <SMOKER id="S1" start="1837" end="1852" text="Never a smoker " status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

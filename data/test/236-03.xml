@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-06-10
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+June 11, 2070
+
+ 
+
+ 
+
+ 
+
+Wanda Koontz, M.D.
+
+Internal Medicine
+
+Barton Memorial Hospital
+
+12 Batchelder Street
+
+Minerva, TN 41694 
+
+ 
+
+Re:  Jennifer Vance
+
+     MR#  542-66-00-3
+
+ 
+
+Dear Wanda:
+
+ 
+
+Mrs. Vance returns for routine follow up.  At the present time,
+
+she continues to complain of exertional angina,  and states that
+
+she is willing to consider undergoing cardiac catheterization.  As
+
+you know, I had suggested this to her last November.  
+
+ 
+
+She continues now on a regimen of Atenolol 25 mg p.o. q.d., Paxil
+
+20 mg p.o. q.d., Humalog 10 units sub.q. q.a.m., NPH 25 units
+
+sub.q. q.a.m., sliding scale CZI throughout the day, isosorbide
+
+mononitrate 60 mg p.o. q.d., Pravastatin 20 mg p.o. q.d., Flonase,
+
+Neurontin 300 mg p.o. b.i.d., and Celexa.
+
+ 
+
+Physical exam reveals a thin woman in no acute distress.  Blood
+
+pressure right arm sitting 92/60, heart rate 75 and regular.  
+
+Respirations 12 and unlabored.  Weight 109 pounds.  This is one
+
+pound above her weight of six months ago.  The neck is supple. JVP 
+
+is flat.  Carotids  with continuing right greater than left bruits. 
+
+Chest is clear.  Cardiac exam reveals a normal, physiologically
+
+split S2, and a soft systolic ejection murmur radiating from the
+
+apex to the base.  No significant diastolic murmur.  The abdomen is
+
+benign.  Extremities are without edema.   The pulses are intact. 
+
+ 
+
+Electrocardiogram shows a sinus rhythm at a rate of 75, PR interval
+
+.12, QRS .08, QT .34, axis 75 degrees.  There are lateral ST and T
+
+wave changes compatible with strain or ischemia.  Compared to her
+
+last electrocardiogram, there has been no significant change.
+
+ 
+
+Impression:  Ms. Vance is a 48-year-old woman with a history of
+
+variegata porphyria, insulin dependent diabetes, and significant 
+
+ 
+
+Jennifer Vance
+
+MR#  542-66-00-3
+
+June 10, 2070                  -2-
+
+ 
+
+coronary artery disease.  She is status post intramammary artery
+
+graft to her LAD, after developing restenosis at the site of a
+
+balloon LAD angioplasty.  The results of the catheterization will
+
+determine subsequent therapeutic recommendations.  She will have
+
+her insulin dose on the morning of her scheduled catheterization.
+
+ 
+
+Thank you very much for allowing me to assist in her care.
+
+ 
+
+Sincerely yours,
+
+ 
+
+ 
+
+Timothy E. Quarterman, M.D. 
+
+ 
+
+/quintal
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC2" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M0" start="690" end="728" text="isosorbide  mononitrate 60 mg p.o. q.d" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M1" start="690" end="700" text="isosorbide" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M2" start="690" end="728" text="isosorbide  mononitrate 60 mg p.o. q.d" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M3" start="690" end="700" text="isosorbide" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M4" start="623" end="626" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="652" end="669" text="sliding scale CZI" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M6" start="591" end="598" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="591" end="598" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M8" start="541" end="549" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="541" end="549" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M10" start="541" end="549" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="541" end="549" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="690" end="728" text="isosorbide  mononitrate 60 mg p.o. q.d" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="690" end="700" text="isosorbide" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M14" start="623" end="626" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M15" start="652" end="669" text="sliding scale CZI" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="591" end="598" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="591" end="598" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M18" start="623" end="626" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="652" end="669" text="sliding scale CZI" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="591" end="598" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="591" end="598" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M22" start="541" end="549" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="541" end="549" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC0" time="after DCT" indicator="mention">
+      <CAD id="C0" start="1897" end="1920" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1897" end="1920" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1897" end="1920" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC9" time="during DCT" indicator="mention">
+      <CAD id="C3" start="1897" end="1920" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="1897" end="1920" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1897" end="1920" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC14" time="before DCT" indicator="event">
+      <CAD id="C6" start="1923" end="2051" text="She is status post intramammary artery  graft to her LAD, after developing restenosis at the site of a  balloon LAD angioplasty." time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="1963" end="1979" text="graft to her LAD" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C8" start="2039" end="2050" text="angioplasty" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC16" time="during DCT" indicator="symptom">
+      <CAD id="C9" start="343" end="360" text="exertional angina" time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C10" start="354" end="360" text="angina" time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC18" time="before DCT" indicator="mention">
+      <CAD id="C11" start="1897" end="1920" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="1897" end="1920" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="1897" end="1920" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1775" end="1800" text="insulin dependent diabete" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1793" end="1801" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1793" end="1801" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1775" end="1800" text="insulin dependent diabete" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1793" end="1801" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1793" end="1801" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1775" end="1800" text="insulin dependent diabete" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1793" end="1801" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1793" end="1801" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2099-07-17
+
+                     KEKELA EMERGENCY DEPT VISIT
+ 
+LEON,MAURICE   436-34-21-1                 VISIT DATE: 07/17/99
+Patient seen on 7/17/99 by myself and the medical resident at 4:30 
+p.m. 
+PRESENTING COMPLAINT:  Chest wall pain. 
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 44 year old male 
+complaining of chest wall pain, constant, times 24 hours.  The 
+patient states the pain is worse with respirations and movement. 
+The patient claims similar episode in past, and was told had a 
+"pulled muscle". 
+REVIEW OF SYSTEMS:  Patient denies trauma, denies nausea and 
+vomiting, diaphoresis and shortness of breath. 
+PAST MEDICAL HISTORY:  Positive for hypertension and asthma. 
+MEDICATIONS:  Procardia, Albuterol, Accolate. 
+ALLERGIES:  None. 
+PHYSICAL EXAMINATION:  A well developed, well nourished male lying 
+on stretcher, communicative and in no apparent distress.  Temp 
+98.3, heart rate 112, blood pressure 133/86, pulse ox 95% on room 
+air.  HEENT - normocephalic, atraumatic.  Heart - regular rate and 
+rhythm without murmurs, rubs or gallops.  Lungs clear without 
+wheezing.  Abdomen soft, non-tender, positive bowel sounds. 
+Extremities without clubbing, cyanosis or edema.  Chest wall - 
+positive reproducible pain on palpation which improved when 
+palpation stopped. 
+FINAL DIAGNOSIS:  Chest wall pain, probable costochondritis. 
+DISPOSITION (including condition upon discharge):  Plan - discharge 
+with nonsteroidal anti-inflammatories which patient has taken and 
+tolerated in the past.  Discharged in stable condition. 
+___________________________________                    HP506/6486 
+WINIFRED MANNING, M.D.  WM26                               D:07/17/99 
+                                                       T:07/17/99 
+Dictated by:  WINIFRED MANNING, M.D.  WM26 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="725" end="734" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="725" end="734" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="725" end="734" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="725" end="734" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="725" end="734" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="725" end="734" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="725" end="734" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="725" end="734" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="725" end="734" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="685" end="697" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="685" end="697" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="685" end="697" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="685" end="697" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="685" end="697" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="685" end="697" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="685" end="697" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="685" end="697" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="685" end="697" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="143" end="151" text="Patient " status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

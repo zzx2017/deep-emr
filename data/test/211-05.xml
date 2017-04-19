@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-05-09
+
+
+
+			CARDIOLOGY
+
+			
+
+			WORTHINGTON REGIONAL HOSPITAL
+
+			
+
+
+
+			Reason for visit:
+
+   Follow-up
+
+
+
+			Interval History:
+
+   Mr. Urban is doing well today.  Since his last visit with me he continues to feel well without chest pain, shortness of breath or other symptoms.  He remains very physically active and has no symptoms with sctivity.
+
+
+
+			Medications (Confirmed):
+
+			
+
+aspirin 325 mg po qd
+
+atorvastatin 80 mg po qd
+
+Coreg 6.25mg PO BID
+
+CPAP
+
+Klonopin 1.0mg po QPM
+
+Lasix 20 mg po qd
+
+lisinopril 10 mg po qd
+
+Zetia 10mg po qd
+
+
+
+Allergies:
+
+			
+
+No known drug allergy   
+
+
+
+Physical examination:
+
+			
+
+-Pulse: 58  beats per minute and regular
+
+-General:   He is well appearing and in no apparent distress.
+
+-Neck:   His JVP is 4 cm. No carotid bruits
+
+-Chest:   Clear to auscultation bilaterally.
+
+-Cardiac:   Regular in rhythm, but bradycardic. Normal S1 and S2. He has no S3 or S4. He has no audible murmurs.
+
+-Abdomen:   Soft. It is neither tender nor distended.
+
+-Extremities:   Warm and well perfused. No edema.
+
+-BP: 120/72  mmHg. 
+
+
+
+			EKG:
+
+   Sinus bradycardia. Otherwise normal
+
+
+
+			Assessment and plan:
+
+   Overall, Mr. Urban is doing very well. He continues to be very active with no symptoms of angina or congestive heart failure. Currently, his lipids are under excellent control as is his blood pressure. Ongoing secondary prevention and risk factor modification will continue to be paramount in Mr. Urban's care. I have discussed these issues with him in detail. 
+
+
+
+I would like to obtain another echocardiogram to re-assess his ejection fraction which has been low in the past.  Also, I would like to see if he has had further development of pulmonary hypertension.  He will continue his current medications and return to see me in six months' time or sooner if need be.
+
+
+
+Changes to Medications this visit
+
+			
+
+lisinopril 10 mg  po qd QTY:90 Refills:3 Start: 08/24/2093
+
+Coreg 6.25mg  PO BID QTY:180 Refills:2 Start: 08/24/2093
+
+atorvastatin 80 mg  po qd QTY:90 Refills:3 Start: 08/24/2093
+
+Zetia 10mg  po qd QTY:90 Refills:3
+
+Lasix 20 mg  po qd QTY:90 Refills:3 Start: 06/06/2094
+
+aspirin 325 mg  po qd QTY:90 Refills:3 Start: 08/24/2093
+
+Klonopin 1.0mg  po QPM QTY:30 Refills:3 Start: 05/01/2095
+
+CPAP     Nocturnal.
+
+
+
+			Signed electronically by   Jimmy  Orozco MD  on  May 09, 2096     
+
+		
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="524" end="534" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="524" end="534" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="524" end="534" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="429" end="441" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="429" end="441" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="429" end="441" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="407" end="414" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="407" end="414" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="407" end="414" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ezetimibe" type2="">
+      <MEDICATION id="M9" start="548" end="553" text="Zetia" time="after DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M10" start="548" end="553" text="Zetia" time="after DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M11" start="548" end="553" text="Zetia" time="after DCT" type1="ezetimibe" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="524" end="534" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="524" end="534" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="524" end="534" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="407" end="414" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="407" end="414" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="407" end="414" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="ezetimibe" type2="">
+      <MEDICATION id="M18" start="548" end="553" text="Zetia" time="during DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M19" start="548" end="553" text="Zetia" time="during DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M20" start="548" end="553" text="Zetia" time="during DCT" type1="ezetimibe" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="455" end="460" text="Coreg" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="455" end="460" text="Coreg" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="455" end="460" text="Coreg" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="429" end="441" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="429" end="441" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="429" end="441" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="429" end="441" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="429" end="441" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="429" end="441" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="ezetimibe" type2="">
+      <MEDICATION id="M30" start="548" end="553" text="Zetia" time="before DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M31" start="548" end="553" text="Zetia" time="before DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M32" start="548" end="553" text="Zetia" time="before DCT" type1="ezetimibe" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M33" start="524" end="534" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M34" start="524" end="534" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M35" start="524" end="534" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M36" start="407" end="414" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M37" start="407" end="414" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M38" start="407" end="414" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="455" end="460" text="Coreg" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="455" end="460" text="Coreg" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="455" end="460" text="Coreg" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="455" end="460" text="Coreg" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="455" end="460" text="Coreg" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="455" end="460" text="Coreg" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2067-06-18
+                     JELLICO EMERGENCY DEPT VISIT
+ 
+FOY,KEONTE H.   732-35-79-0                   VISIT DATE: 06/18/67
+PRESENTING COMPLAINT and HISTORY OF PRESENTING COMPLAINT:  This 
+patient was evaluated in conjunction with a resident.  Briefly, the 
+history is as follows:  This patient is a 54-year-old black male 
+with a history of insulin-dependent diabetes mellitus, who presents 
+with acute, severe substernal chest pain.  This pain began 
+approximately five hours prior to presentation, but accelerated 
+within the previous one to two hours.  It is accompanied by 
+diaphoresis, but not by shortness of breath or nausea.  The patient 
+does have a history of prior CVAs, but no history of previously 
+documented cardiac disease. 
+PHYSICAL EXAMINATION:  On physical examination, the patient is in 
+acute, severe distress.  He is diaphoretic and somewhat pale.  The 
+vital signs are as recorded in the Nurses' Notes but are stable 
+initially.  The HEENT examination shows the sclerae to be 
+anicteric.  The oropharynx is somewhat dry.  The neck is supple, 
+without venous distention.  The breath sounds are clear 
+bilaterally.  The heart shows a regular rate and rhythm with 
+somewhat distant tones, without discrete murmur.  The abdomen is 
+slightly obese and soft throughout, without tenderness.  The 
+extremities show no discoloration or edema. 
+LABORATORY EVALUATION:  The electrocardiogram shows an acute 
+anterior myocardial infarction.  Other laboratory studies are 
+pending at this time.  A chest x-ray has been obtained, though it 
+has not been processed at the time of this dictation. 
+THERAPY RENDERED/COURSE IN ED:  The patient was treated with 
+aspirin and nitroglycerin en route.  He was started on a 
+nitroglycerin drip, which was incrementally increased to 80 
+micrograms per minute.  He was given morphine sulfate in 2 mg 
+increments to a total of 10 mg.  He was given 5000 units of 
+intravenous heparin.  He was given 2.5 mg of intravenous Lopressor. 
+The Cardiology Service is here with the patient and he is being 
+taken to the Cardiac Catheterization Laboratory for immediate 
+angioplasty. 
+FINAL DIAGNOSIS:  Myocardial infarction. 
+DISPOSITION (including condition upon discharge):  As above. 
+Please see the handwritten record for further details. 
+___________________________________                    HA304/1577 
+EDGAR BELTRAN, M.D.  EB83                                D:06/18/67 
+                                                       T:06/18/67 
+Dictated by:  EDGAR BELTRAN, M.D.  EB83 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1690" end="1697" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1690" end="1697" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M2" start="1978" end="1999" text="intravenous Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="1990" end="1999" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="1990" end="1999" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M5" start="1702" end="1715" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M6" start="1748" end="1766" text="nitroglycerin drip" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M7" start="1748" end="1766" text="nitroglycerin drip" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M8" start="1702" end="1715" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC2" time="during DCT" indicator="event">
+      <CAD id="C0" start="1436" end="1473" text="acute  anterior myocardial infarction" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="1436" end="1473" text="acute  anterior myocardial infarction" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="1436" end="1473" text="acute  anterior myocardial infarction" time="during DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC4" time="during DCT" indicator="symptom">
+      <CAD id="C3" start="427" end="455" text="severe substernal chest pain" time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C4" start="427" end="456" text="severe substernal chest pain." time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="382" end="399" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="364" end="399" text="insulin-dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="364" end="399" text="insulin-dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="382" end="399" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="364" end="399" text="insulin-dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="364" end="399" text="insulin-dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="382" end="399" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="364" end="399" text="insulin-dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="364" end="399" text="insulin-dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

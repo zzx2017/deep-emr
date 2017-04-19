@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-06-04
+
+EDVISIT^72841920^MULLINS, DOLORES^06/04/80^KROLL, OLIVIA
+
+The patient was seen in conjunction with the PA.  This is a
+
+shared visit.  I confirm I have interviewed and examined the
+
+patient.
+
+CHIEF COMPLAINT:  Rule out CVA.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, this is a 70-year-old
+
+female with hypertension, hypercholesteremia, and diabetes who
+
+was found by a neighbor at approximately 9:30 this morning,
+
+nonverbal with right-sided facial droop.  The patient was seated
+
+in the chair upon EMS arrival.  Per the neighbor who had returned
+
+from vacation, went up to check on her and found her this way,
+
+nonverbal, seated in a chair, but consciousness.  Per EMS, the
+
+patient was responding to commands, able to stand, had symmetric
+
+handgrips, unknown when she was last seen normal.  Per the
+
+neighbor, the patient's baseline is alert and oriented. 
+
+Fingerstick in the field was 179.
+
+PAST MEDICAL HISTORY:  As stated per HPI and written chart.
+
+SOCIAL HISTORY:  Unknown.
+
+FAMILY HISTORY:  Unknown.
+
+REVIEW OF SYSTEMS:  Limited secondary to the patient's medical
+
+condition and severity.
+
+MEDICATIONS:  Per medication list.
+
+ALLERGIES:  Tetanus per old medical records.
+
+PHYSICAL EXAMINATION:  Blood pressure 216/76, pulse is 68, and O2
+
+saturation 99%.  HEENT:  Atraumatic with left pupil defect. 
+
+Lungs:  Equal and bilateral.  Cardiovascular:  S1 and S2. 
+
+Abdomen:  Soft and nontender.  Skin:  Intact, warm, and dry. 
+
+Neurologic:  Right-sided facial droop, bilateral hand grip. 
+
+Normal plantar flexion able to sit up, and following commands.
+
+IMAGING STUDIED:  EKG normal sinus, no acute ST segment
+
+elevation.
+
+LABORATORY DATA:  Chemistries are remarkable for creatinine of
+
+2.8, sodium and chloride pending.  Bicarbonate of 22.  CK 256
+
+with a MB of 4, troponin negative.  No white count, hematocrit of
+
+34, and platelets of 410,000.  INR 1.1.  UA showed 3+ protein, no
+
+leukocyte esterase, nitrites.
+
+EMERGENCY DEPARTMENT COURSE:  Upon the patient's arrival in
+
+Emergency Department, Stroke team was paged, underwent a stat
+
+head CT, which showed no bleed, but a question of a hypodensity. 
+
+The patient sent her for an urgent MRI/MRA and will be admitted
+
+to the Neurology Service.
+
+PRIMARY DIAGNOSIS:  CVA.
+
+SECONDARY DIAGNOSES:  Diabetes and hypertension.
+
+DISPOSITION:  Plan for admission to Neurology Service.
+
+Please see written chart and nurse's note.  Old HHMR records
+
+reviewed.
+
+______________________________
+
+KROLL, OLIVIA M.D.
+
+D: 06/04/80
+
+T: 06/04/80
+
+Dictated By: KROLL, OLIVIA
+
+eScription document:7-1892564 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="339" end="357" text="hypercholesteremia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="339" end="357" text="hypercholesteremia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="339" end="357" text="hypercholesteremia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC5" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="339" end="357" text="hypercholesteremia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="339" end="357" text="hypercholesteremia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="339" end="357" text="hypercholesteremia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC11" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="339" end="357" text="hypercholesteremia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="339" end="357" text="hypercholesteremia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="339" end="357" text="hypercholesteremia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC1" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="325" end="337" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2287" end="2299" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="325" end="337" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="325" end="337" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="1227" end="1248" text="Blood pressure 216/76" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1227" end="1248" text="Blood pressure 216/76" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1241" end="1248" text=" 216/76" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="325" end="337" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="2287" end="2299" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="325" end="337" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="325" end="337" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="325" end="337" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="2287" end="2299" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="325" end="337" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="325" end="337" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="996" end="1003" text="Unknown" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="363" end="371" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="2274" end="2282" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="363" end="371" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="363" end="371" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="363" end="371" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2274" end="2282" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="363" end="371" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="363" end="371" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="363" end="371" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="2274" end="2282" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="363" end="371" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="363" end="371" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

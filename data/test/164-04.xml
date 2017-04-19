@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2084-05-05
+
+82 yo male for bp follow up.  no complaints. 
+
+underwent successful turp last month. 
+
+ros: neg for chest pain, cough or shortness of breath.  he does have mild swelling of ankles. 
+
+PROBLEMS
+
+
+
+Mental retardation  
+
+Hypertension  
+
+Anemia  
+
+H/O peptic ulcer disease  DX. BY UPPER ENDOSCOPY IN 2069.
+
+Benign prostatic hypertrophy  s/p turp 4/84
+
+Coronary artery disease  ett 12/83: The ECG response to pharmacological stress was  nondiagnostic for ischemia. The myocardial perfusion scans show a moderate size, severe, fixed inferior and inferolateral defect indicative of prior infarct with little if any residual ischemia.
+
+
+
+
+
+MEDICATIONS
+
+
+
+VIOXX (ROFECOXIB)   25MG  1 Tablet(s) PO QD 
+
+PROSCAR (FINASTERIDE)   5MG  1 Tablet(s) PO QD 
+
+LISINOPRIL   20MG  1 Tablet(s) PO QD  
+
+
+
+
+
+ALLERGIES
+
+
+
+HCTZ (HYDROCHLOROTHIAZIDE)  HYPONATREMIA  
+
+
+
+exam: weight 146
+
+140/60
+
+76
+
+lungs;clear
+
+cor:RRRs1s2 with no gallops
+
+ext; trace ankle edema
+
+
+
+a/p:
+
+htn: stable.  check lytes.
+
+
+
+cad with mild ankle edema.  will send for cardiac echo to assess ef.  consider adding lasix.   will follow.  otherwise no angina or failure. 
+
+
+
+follow up in four months.
+
+
+
+
+
+____________________________
+
+Xavier U. Combs, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="769" end="779" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="769" end="779" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="769" end="780" text="LISINOPRIL " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="769" end="779" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="769" end="779" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="769" end="780" text="LISINOPRIL " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="769" end="779" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="769" end="779" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="769" end="780" text="LISINOPRIL " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="245" end="257" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="245" end="257" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="245" end="257" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="890" end="896" text="140/60" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="890" end="896" text="140/60" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="245" end="257" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="245" end="257" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="245" end="257" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="245" end="257" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="245" end="257" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="245" end="257" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC1" time="before DCT" indicator="mention">
+      <CAD id="C0" start="375" end="399" text="Coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="375" end="398" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="374" end="398" text=" Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC3" time="before DCT" indicator="event">
+      <CAD id="C3" start="588" end="615" text="indicative of prior infarct" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="602" end="616" text="prior infarct " time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC8" time="during DCT" indicator="mention">
+      <CAD id="C5" start="375" end="399" text="Coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="375" end="398" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="374" end="398" text=" Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C8" start="375" end="399" text="Coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="375" end="398" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="374" end="398" text=" Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

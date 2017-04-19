@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2098-10-11
+
+
+	CARDIOLOGY
+	
+
+	COQUILLE VALLEY HOSPITAL
+	
+
+
+	Reason for visit:
+   45 y o seamstress with h/o CAD, renal transplant, CVA, here for cardiology FU after having been inactivated from pancreas transplant list.
+
+
+	Interval History:
+        Ms. Fagan notes that she is doing very well.   She does not have any chest pain and only rare dyspnea.   She has not had any dizziness and lightheadedness.
+     She had previously been on the CVH pancreas transplant list and had full cardiac workup including recent dobutamine echo which revealed normal LV function and no ischemia.   However, there was concern about her extensive visceral and iliac vascular calcification by CT which rendered her high surgical risk.    She is understandably upset about this reclassification and is here today for an overview of her cardiac status.
+
+
+	Past medical history:
+   IDDM for many years for which she is on an insulin pump.   She now also has a continuous glucometer as she has had a h/o recurrent hypoglycemic episodes
+CAD -   s/p PCI LAD 8/94 with subsequent DES to mid RCA and restent proximal edge of LAD stent 9/94.   12/94 RCA stenting.   Repeat RCA stenting 2/96.   70% OMB2 detected.   Subsequent cath no change.
+No ischemia by 9/98 dobutamine Echo
+Small anteroapical defect with partial reperfusion by 8/97 nuclear, unchanged
+LVEF 75%
+h/o CHF
+s/p renal transplant with Cr 1.1-1.2
+Hypercholesterolemia
+h/o L temporal-occipital CVA 2093 with subsequent agraphia and inability to read which has resolved.
+Diabetic retinopathy
+s/p R wrist fx 2/96
+s/p L foot fx with surgery 5/97 for nonhealing and wound infection
+
+	
+
+	Changes to Allergies
+	
+reglan - reaction: GI Intolerance [reviewed]
+
+
+	Family history:
+   Mother  with HTN, cancerdiabetes.   Father afib.   Grandmother CVA.   
+
+
+	Social history:
+   The patient is single and lives with her parents.  She is a Patternmaker at the Ion Media Networks in Erwin.
+
+
+	Review of systems:
+   No fever, chills or sweats.   No nausea vomiting or diarrhea.   No cough or respiratory sxs.   No abdominal pain.   No headaches or neurologic sxs.   Remainder of ros negative except as described in HPI. 
+
+Physical examination:
+	
+-BMI: 24.2  Normal, low risk
+-Pulse: 73  
+-resp. rate: 12  
+-height: 66.25  in.
+-weight: 151  lbs.
+-General:   Well-appearing middle aged white female in no apparent distress.   Skin is warm and dry.  HEENT examination is within normal limits.  Neck is without jugular venous distention.  Carotids are 2  bilaterally without bruits.  There is no lymphadenopathy.  Lungs are clear without wheezes or rhonchi.  Cardiac exam reveals a nondisplaced PMI S1-S2 regular rhythm with no murmur, rub or gallop.  Abdomen is soft and nontender with positive bowel sounds.  Extremities are without peripheral edema.  Distal pulses are 2   bilaterally.  There is no clubbing or cyanosis.  Neuro exam is grossly nonfocal. NS
+-BP: 106  66 (l)
+
+
+	EKG:
+   NSR at 73.   LVH by voltage.  Septal infarct - age indeterminate.   No change compared with 7/11/98.
+
+Selected recent labs:
+	 Lipid/Thyroid
+Date     
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1399" end="1419" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1399" end="1419" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1399" end="1419" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1399" end="1419" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1399" end="1419" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1399" end="1419" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC13" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1399" end="1419" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1399" end="1419" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1399" end="1419" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="920" end="927" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="920" end="927" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="920" end="932" text="insulin pump" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="920" end="927" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="920" end="927" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="920" end="932" text="insulin pump" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="920" end="927" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="920" end="927" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="920" end="932" text="insulin pump" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="119" end="127" text="h/o CAD," time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="123" end="126" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="123" end="126" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="1030" end="1033" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C4" start="1038" end="1055" text="s/p PCI LAD 8/94 " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="1071" end="1085" text="DES to mid RCA" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="1090" end="1129" text="restent proximal edge of LAD stent 9/94" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="1143" end="1152" text="stenting." time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC8" time="during DCT" indicator="mention">
+      <CAD id="C8" start="119" end="127" text="h/o CAD," time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="123" end="126" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="123" end="126" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="1030" end="1033" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C12" start="119" end="127" text="h/o CAD," time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="123" end="126" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="123" end="126" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C15" start="1030" end="1033" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="877" end="881" text="IDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="877" end="881" text="IDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="877" end="881" text="IDDM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="877" end="881" text="IDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="877" end="881" text="IDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="877" end="881" text="IDDM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="877" end="881" text="IDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="877" end="881" text="IDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="877" end="881" text="IDDM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

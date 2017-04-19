@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-04-03
+
+
+
+
+NAME:    Yager, Becky 
+MRN:     0887181
+
+Becky returns for follow-up of painful neuropathy.  A lot has happened since she
+was seen.  She was terminated at her job working as a Credit Manager in December 2093.  She
+therefore has been having financial problems.  She does not have enough money to
+buy her medications.  She has a history of hypertension and hypercholesterolemia. 
+She has not taken these medications for months.  She states she has been taking her
+nortriptyline, dilantin and Percocet as previously prescribed.  When I called her from
+the waiting room today, she walked towards me, she veered, and I caught her before
+she fell.  We then got the wheelchair and wheeled her into the room and history was
+taken.  She reports being off balance for about the past month.  She has been feeling
+more unsteady on her feet.  She states she has not actually fallen but has come close
+to falling.  She denies any true vertigo, ringing in her ears, headaches, change in
+mentation, numbness, weakness or change in gait.  On review of other systems, she
+reports a 20 lb. weight gain over the past few months which she attributes to not
+working and being at home and eating more than usual.  She also notes that she has
+begun urinating at night which she previously did not do.  She complains of excessive
+dry mouth.  She reports being more thirsty than usual.  
+
+PHYSICAL EXAM:  On exam, she was her usual pleasant self.  She is alert and
+oriented X 3.  Speech fluent without aphasia.  BP sitting 145/70.  Pulse 80.  Standing
+BP unchanged at 145/70.  Pulse 80.  Cranial nerve exam notable for prominent
+bilateral nystagmus.  Otherwise intact.  On motor exam, no tremor or involuntary
+movements.  No drift.  Good power throughout.  Fine finger movements intact. 
+Vibratory loss to the ankles.  Babinski flexor bilaterally.  
+
+When she got up to stand at the end of the evaluation to leave and telling me she
+was fine, she veered to the right and I again caught her.  
+
+IMPRESSION:  Imbalance with history of recently running out of many of her
+medications though taking her chronic pain medications as previously prescribed. 
+Also notable in the history is new nocturia, increased thirst and dry mouth.  Her
+exam is notable for prominent end-gaze nystagmus.  Therefore I suspect toxic
+metabolic cause.  As she will need STAT lytes, blood sugar, dilantin level and tox
+screen as well as cardiac evaluation, the patient was referred to PROMPTCARE ER.  I will be
+in touch with the physicians after they see her.
+
+Rowena Xanders, M.D.
+
+RX/mcbride/tucker
+
+cc:  Georgia Xing, M.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="386" end="406" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="386" end="406" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="386" end="406" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC4" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="386" end="406" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="386" end="406" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="386" end="406" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="386" end="406" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="386" end="406" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="386" end="406" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC0" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="369" end="381" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="369" end="381" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="369" end="381" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1517" end="1534" text="BP sitting 145/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1528" end="1534" text="145/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1517" end="1534" text="BP sitting 145/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="369" end="381" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="369" end="381" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="369" end="381" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="369" end="381" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="369" end="381" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="369" end="381" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

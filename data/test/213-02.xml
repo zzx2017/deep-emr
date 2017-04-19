@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-09-29
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+September 29, 2065
+
+ 
+
+ 
+
+ 
+
+Cecilia Delong, M.D.
+
+Green Oaks Hospital
+
+72 John Street
+
+San Luis Obispo, MD  53925
+
+ 
+
+RE:  Wagner, Lonnie
+
+     MR #097-87-37-2
+
+ 
+
+Dear Cecilia;
+
+ 
+
+I had the pleasure of seeing Lonnie in the Clinic today.  As you
+
+know, he is a 72-year-old gentleman recently diagnosed with
+
+myelodysplastic/myeloproliferative syndrome.  He has required
+
+blood cell transfusions for this.  He is currently receiving
+
+Hydrea for this.  He also has coronary disease, for which he had
+
+stents placed in his LAD and OM in 07/65.  This has been stable. 
+
+He also had some congestive heart failure, for which he has no
+
+further symptoms at this time.  His weight is only up 1-2 pounds
+
+but has remained stable with an increased appetite.  
+
+ 
+
+Medications: Include atenolol 25 mg p.o. q.d., aspirin 325 mg
+
+q.d., vitamin B12 injections q. monthly, metformin 850 mg t.i.d.,
+
+lisinopril 10 mg p.o. q.d., Lasix 40 mg p.o. q.d. 
+
+ 
+
+Physical Examination: Blood pressure: 102/60.  Heart rate: 60
+
+beats/min.  Neck examination reveals no jugular venous distention 
+
+Chest examination is clear to auscultation bilaterally.  Cardiac
+
+examination reveals normal S1, physiologically split S2, no
+
+evidence of a murmurs, rubs or gallops at this time.  He has no
+
+peripheral edema or clubbing.  
+
+ 
+
+EKG: Normal sinus rhythm, nonspecific ST or T wave abnormalities. 
+
+Compared to his prior EKG, T wave changes in the anterior leads
+
+are improved.  
+
+Wagner, Lonnie
+
+MR #097-87-37-2               -2-                 September 29, 2065 
+
+ 
+
+Impression: Mr. Wagner is doing very well from an ischemic and
+
+heart failure perspective.  He remains on a good regimen of
+
+afterload reduction and anti-ischemic agents.  At this time, I do
+
+not recommend any changes in his cardiac medications.  
+
+ 
+
+The patient was seen in consultation with Dr. Jacqueline Lam. 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+David F. Irick, M.D.
+
+ 
+
+\tolbert
+
+ 
+
+cc:
+
+Tristan Hanson, M.D.
+
+Leake County Memorial Hospital
+
+50 Indian Rock Road
+
+San Luis Obispo, MD  53925 
+
+ 
+
+Larry            , M.D.
+
+Leake County Memorial Hospital
+
+65 Indian Rock Road
+
+San Luis Obispo, MD  53925 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="941" end="951" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="941" end="951" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="941" end="951" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M3" start="832" end="840" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="832" end="840" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="832" end="840" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="858" end="865" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="858" end="865" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="858" end="865" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="915" end="924" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="915" end="924" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="915" end="924" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="915" end="924" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="915" end="924" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="915" end="924" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="858" end="865" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="858" end="865" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="858" end="865" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M18" start="941" end="951" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="941" end="951" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="941" end="951" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M21" start="915" end="924" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M22" start="915" end="924" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M23" start="915" end="924" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M24" start="941" end="951" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M25" start="941" end="951" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="941" end="951" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M27" start="858" end="865" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="858" end="865" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M29" start="858" end="865" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="832" end="840" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="832" end="840" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="832" end="840" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="832" end="840" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="832" end="840" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="832" end="840" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC2" time="before DCT" indicator="mention">
+      <CAD id="C0" start="520" end="536" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="520" end="536" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="520" end="536" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C3" start="556" end="596" text="stents placed in his LAD and OM in 07/65" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="556" end="562" text="stents" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="556" end="596" text="stents placed in his LAD and OM in 07/65" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC11" time="during DCT" indicator="mention">
+      <CAD id="C6" start="520" end="536" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="520" end="536" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="520" end="536" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC16" time="after DCT" indicator="mention">
+      <CAD id="C9" start="520" end="536" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="520" end="536" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="520" end="536" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>
