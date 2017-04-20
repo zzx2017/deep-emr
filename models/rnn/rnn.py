@@ -19,7 +19,7 @@ dataset = dataframe.values
 X = numpy.array([[int(y) for y in x.split(',')] for x in dataset[:, 0]])
 Y = numpy.array([[int(y) for y in x.split(',')] for x in dataset[:, 1]])
 
-nb_words = 30550
+nb_words = 30551
 max_length = 922
 
 X = sequence.pad_sequences(X, maxlen=max_length)
@@ -47,7 +47,7 @@ print(model.summary())
 model.fit(X, encoded_Y, epochs=10, batch_size=32)
 
 model_json = model.to_json()
-with open("model.json", "w") as json_file:
+with open("rnn-model.json", "w") as json_file:
     json_file.write(model_json)
-model.save_weights("model.h5")
+model.save_weights("rnn-model.h5")
 print("Saved model to disk")
