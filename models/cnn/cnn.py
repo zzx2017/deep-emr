@@ -13,11 +13,11 @@ from keras.layers.embeddings import Embedding
 from keras.preprocessing import sequence
 from keras.models import model_from_json
 
-trainingset_files = glob.glob("./data/training/*.txt")
-trainingset = pandas.concat([pandas.read_csv(filename, delim_whitespace=True, header=None) for filename in trainingset_files]).values
+training_files = glob.glob("./data/training/*.txt")
+training = pandas.concat([pandas.read_csv(filename, delim_whitespace=True, header=None) for filename in training_files]).values
 
-X_train = numpy.array([[int(y) for y in x.split(',')] for x in trainingset[:, 0]])
-Y_train = numpy.array([[int(y) for y in str(x).split(',')] if str(x) != '0' else [] for x in trainingset[:, 1]])
+X_train = numpy.array([[int(y) for y in x.split(',')] for x in training[:, 0]])
+Y_train = numpy.array([[int(y) for y in str(x).split(',')] if str(x) != '0' else [] for x in training[:, 1]])
 
 empty_indices = numpy.array([i for i, x in enumerate(Y_train) if x == []])
 
@@ -29,11 +29,12 @@ encoded_Y = mlb.fit_transform(Y_train)
 
 nb_words = 30551
 max_length = 922
+embedding_vector_length = 32
 
 X_train = sequence.pad_sequences(X_train, maxlen=max_length)
 
 model = Sequential()
-model.add(Embedding(nb_words, 32, input_length=max_length))
+model.add(Embedding(nb_words, embedding_vector_length, input_length=max_length))
 model.add(Conv1D(filters=64, kernel_size=3, padding='same', activation='relu'))
 model.add(MaxPooling1D(pool_size=2))
 model.add(Flatten())
@@ -76,9 +77,9 @@ def evaluate(matrix):
 	f1 = 2 * ((precision * recall) / (precision + recall))
 	return {'recall': recall, 'precision': precision, 'f1': f1}
 
-testset_files = glob.glob("./data/test/text/*.txt")
+test_files = glob.glob("./data/test/text/*.txt")
 label_files = glob.glob("./data/test/labels/*.txt")
-testset = [(pandas.read_csv(x, delim_whitespace=True, header=None)).values for x in testset_files]
+testset = [(pandas.read_csv(x, delim_whitespace=True, header=None)).values for x in test_files]
 labels = pandas.concat([(pandas.read_csv(x, delim_whitespace=True, header=None)) for x in label_files]).values
 
 X_test = [[[int(z) for z in str(y[0]).split(',')] for y in x] for x in testset]

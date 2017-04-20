@@ -11,12 +11,15 @@ def get_annotation(element, indicator):
 def write_text(filename, data):
 	file = open(filename, 'w')
 	for i in range(0, len(data)):
-		file.write(",".join(str(x) for x in data[i]) + '\n')
+		file.write(','.join(str(x) for x in data[i]) + '\n')
 	file.close()
 
 def write_annotations(filename, data):
 	file = open(filename, 'w')
-	file.write(",".join(str(x) for x in data))
+	if len(data) == 0:
+		file.write('0')
+	else:
+		file.write(','.join(str(x) for x in data))
 	file.close()
 
 tagnames = ['CAD', 'DIABETES', 'FAMILY_HIST', 'HYPERLIPIDEMIA', 'HYPERTENSION', 'MEDICATION', 'OBESE', 'SMOKER']
