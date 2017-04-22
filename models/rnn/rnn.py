@@ -39,14 +39,15 @@ encoded_Y = numpy.array([encoded_Y[i:i + max_length] for i in range(0, len(encod
 embedding_vector_length = 32
 
 model = Sequential()
-model.add(Embedding(nb_words, embedding_vector_length, input_length=max_length))
+model.add(Embedding(nb_words, embedding_vector_length, input_length=max_length, mask_zero=True))
 model.add(LSTM(128, return_sequences=True))
 model.add(TimeDistributed(Dense(40, activation='softmax')))
-model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics=['accuracy']) 
+model.compile(loss='categorical_crossentropy', optimizer='rmsprop') 
 
 print(model.summary())
+print(model.get_config())
 
-model.fit(X_train, encoded_Y, epochs=3, batch_size=32)
+model.fit(X_train, encoded_Y, epochs=20, batch_size=32)
 
 model_json = model.to_json()
 with open("rnn-model.json", "w") as json_file:
@@ -97,7 +98,7 @@ loaded_model = model_from_json(loaded_model_json)
 loaded_model.load_weights("rnn-model.h5")
 print("Loaded model from disk")
 
-loaded_model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
+loaded_model.compile(loss='categorical_crossentropy', optimizer='rmsprop')
 
 predictions = list()
 for record in X_test:

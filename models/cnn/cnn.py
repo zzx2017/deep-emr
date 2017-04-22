@@ -43,6 +43,7 @@ model.add(Dense(38, activation='sigmoid'))
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
 print(model.summary())
+print(model.get_config())
 
 model.fit(X_train, encoded_Y, validation_data=(X_train, encoded_Y), epochs=60, batch_size=32)
 

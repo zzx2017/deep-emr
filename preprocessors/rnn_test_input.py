@@ -52,6 +52,8 @@ for file in files:
 	text = root.getElementsByTagName("TEXT")[0].firstChild.data
 	sentences = sent_tokenize(text)
 	words = [[y.lower() for y in word_tokenize(x)] for x in sentences]
+	# Alternative approach: Tokenise the input text and split the token list into equal chunks
+	# Alternative approach: Batch size of one
 	encoded_words = [[dictionary[y] if (y in dictionary) else 1 for y in x] for x in words]
 
 	write_text('output/text/' + file[0:-4] + '.txt', encoded_words)
