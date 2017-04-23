@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-03-16
+
+Trinity Regional Medical Center
+
+8699 Mill Street              MARSH, CARL
+
+Albertville, RI  87193                    39955317
+
+(906) 517-8625                     03/16/2095
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. Marsh is a 73-year-old male who comes for first visit to TRMC to initiate longitudinal care and follow up of multiple medical problems.
+
+
+
+PROBLEMS:
+
+1.  Chronic renal failure.  He has been on dialysis for the past four years.  He is currently dialyzed two times per week.  He apparently had been three times per week in the past.
+
+2.  Hyperlipidemia.  Fasting lipid analysis one year ago showed total cholesterol 225, triglycerides 265, LDL 161, and HDL 40.  He has not been treated.
+
+3.  Hyperparathyroidism.  PTH level one year ago was 143.  He is on calcium replacement.
+
+4.  IgG monoclonal gammopathy.  This was noted on immunoelectrophoresis.  It was at very low levels.
+
+
+
+MEDICATIONS:  Aspirin 81 mg q.d., Nephrocaps one q.d., and PhosLo 2001 mg t.i.d. by his report.
+
+
+
+REVIEW OF SYMPTOMS:  He states he was told he was hypertensive at last dialysis. No significant weight change, febrile signs or symptoms, headache, blurred vision, tinnitus, chest pain, cough, shortness of breath, nausea, abdominal pain, nightsweats, diarrhea, skin rash, bruising, joint pain, or focal weakness.  
+
+
+
+ALLERGIES:  No known allergies.
+
+
+
+PHYSICAL EXAMINATION:  The patient appears well.  Blood pressure on multiple measurements range from 150-160/78-82, weight 144 pounds, and heart rate 72 and regular.  Chest: Clear to percussion and auscultation.  Cardiovascular exam:  No extra sounds or murmurs.  Abdominal exam:  No masses, tenderness, or organomegaly.  Extremities: No edema.  Skin: No rash.  Musculoskeletal exam: Grossly intact.
+
+
+
+ASSESSMENT/PLAN:
+
+1.  Chronic renal failure.  The patient will continue on dialysis.  I have requested screening blood tests.
+
+2.  Hyperlipidemia.  This needs to be treated.  I have asked him to return for reestablishment of baseline.
+
+3.  Hyperparathyroidism.  Secondary to chronic renal failure.  He is on calcium replacement.
+
+4.  Low-grade IgG monoclonal gammopathy. Will recheck values and follow.
+
+5.  Hypertension.  A degrees systolic hypertension warrants therapy.  He is due for dialysis tomorrow, however.  I gave him a prescription for atenolol 25 mg p.o. q.d.
+
+6.  Adult health maintenance.  I gave him a prescription for aspirin, which he should be taking and asked him to return in two weeks for a full annual review.
+
+  I instructed him to show renal staff the prescriptions tomorrow at dialysis.
+
+
+
+
+
+______________________________
+
+Xavier T Mccoy, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:4-4113812 EMS
+
+
+
+
+
+
+
+DD: 03/16/95
+
+DT: 03/16/95
+
+DV: 03/16/95
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC1" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY0" start="678" end="685" text="LDL 161" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="678" end="686" text="LDL 161," time="before DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY2" start="576" end="590" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="575" end="590" text=" Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="574" end="590" text="  Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1906" end="1921" text="Hyperlipidemia." time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="576" end="590" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="575" end="590" text=" Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="574" end="590" text="  Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="1906" end="1921" text="Hyperlipidemia." time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY10" start="576" end="590" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="575" end="590" text=" Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY12" start="574" end="590" text="  Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY13" start="1906" end="1921" text="Hyperlipidemia." time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="934" end="941" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="934" end="941" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="934" end="942" text="Aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="2409" end="2416" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="934" end="941" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="934" end="941" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="934" end="942" text="Aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2409" end="2416" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M8" start="934" end="941" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="934" end="941" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="934" end="942" text="Aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="2409" end="2416" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="2322" end="2330" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="2322" end="2331" text="atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="2322" end="2331" text="atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1473" end="1486" text="150-160/78-82" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1473" end="1486" text="150-160/78-82" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="2183" end="2195" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="2183" end="2195" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="2183" end="2195" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="2183" end="2195" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="2183" end="2195" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2183" end="2195" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="207" end="214" text="HISTORY" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

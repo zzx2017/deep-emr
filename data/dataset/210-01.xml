@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2069-11-18
+
+
+Mr Gallegos comes into clinic to follow-up on his multiple medical problems:
+
+
+EtOH : last drink 4/27/63
+Hepatitis C 
+Htn 
+H/O hepatitis B : 15 years ago after episode of jaundice with HCV two years ago
+H/O drug abuse : IV drug user stopped heroin 2 years ago-methadone 95 mg per day.
+fracture : thumb age 47
+Hernia repair : bilateral inguinal hernia repair 
+Obesity 
+abnormal SPEP : could be from Hep C but needs fol esp in light of periph neuropathy - repeat in 4 mos (1/67)
+
+Type 2 diabetes/insulin
+
+
+He is accompanied by his wife.  He states that he stopped using insulin.  He stopped for the past month.  His blood sugars run low of 95 to a high of 160 fasting, after meals 120 to 180.  He has not had an eye exam as of yet.  His hemoglobin A1c was 13% in June.  His urine is negative for protein.
+He also continues in his methadone maintenance program on 95 mg per day.  He is substance free.  He has a history of hepatitis C.  No abdominal pain, nausea or vomiting.  No change in bowel movements.  He did not have his ultrasound.
+He smokes one pack of cigarettes per day.
+He notes that over the past month, specifically over the past two weeks he has had dyspnea on exertion and chest pain with exertion.  He notes that the chest pain is substernal.  It stops with rest.  He feels slightly weak when the chest pain occurs.  He denies any palpitations or presyncope.
+He has no other complaints.
+
+
+Exam:
+Vital Signs
+BP 126/78, Wt 212 lb
+
+  Recheck blood pressure 140/90.  Heart rate regular 72.  Normal S1 and S2.  No murmurs rubs gallops.
+Lungs clear bilaterally.
+Lower extremities no edema.
+Weight stable.
+ECG: Flip T waves in 2, 3, aVF, no ST elevation or depression.
+
+
+Assessment and plan:
+1.  Question unstable angina: Patient not presently with chest pain in the office however his history is concerning.  His ECG is abnormal.  I have reviewed this with Dr. Fenton who agrees.  I have made the recommendation to patient to go to the emergency unit for cardiac evaluation, stressed to him that type 2 diabetes sometimes masks chest pain.  He is a strong positive family history of CAD, father died age 49.  Brother may have CAD.  Patient did not agree with my recommendation at first however after speaking to brother and wife again, he agreed to go to emergency unit for evaluation tonight.  He was sent via ALS ambulance in stable condition.
+2.  Type 2 diabetes: Patient has stopped insulin.  Blood sugar is slightly on the high side.  Have recheck hemoglobin A1c.  was 13% in June.  No proteinuria.  Will readdress after hospitalization.  He needs ophthalmology exam.
+3.  Hypertension: Recheck post hospitalization.  Patient has not been taking Lopressor as prescribed.
+4.  Hepatitis C: Have checked LFTs/amylase.  Reordered abdominal ultrasound.
+Patient to return to clinic in one to two weeks.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC3" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="388" end="395" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="388" end="395" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="388" end="395" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC6" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="388" end="395" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="388" end="395" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="388" end="395" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC11" time="before DCT" indicator="mention">
+      <OBESE id="O6" start="388" end="395" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="388" end="395" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="388" end="395" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="523" end="530" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="523" end="530" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="147" end="150" text="Htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="147" end="150" text="Htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="147" end="150" text="Htn" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="147" end="150" text="Htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="147" end="150" text="Htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="147" end="150" text="Htn" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="147" end="150" text="Htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="147" end="150" text="Htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="147" end="150" text="Htn" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC8" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="1741" end="1756" text="unstable angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="1215" end="1225" text="chest pain" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC9" indicator="present">
+      <FAMILY_HIST id="F0" start="2086" end="2167" text="strong positive family history of CAD, father died age 49.  Brother may have CAD." indicator="present" comment=""/>
+      <FAMILY_HIST id="F1" start="2086" end="2123" text="strong positive family history of CAD" indicator="present" comment=""/>
+      <FAMILY_HIST id="F2" start="2084" end="2143" text="a strong positive family history of CAD, father died age 49" indicator="present" comment=""/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="current">
+      <SMOKER id="S0" start="1066" end="1107" text="He smokes one pack of cigarettes per day." status="current" comment=""/>
+      <SMOKER id="S1" start="1069" end="1106" text="smokes one pack of cigarettes per day" status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="507" end="522" text="Type 2 diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="514" end="522" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="507" end="522" text="Type 2 diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="before DCT" indicator="A1C">
+      <DIABETES id="D3" start="774" end="794" text=" A1c was 13% in June" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D4" start="783" end="786" text="13%" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D5" start="760" end="794" text="His hemoglobin A1c was 13% in June" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="507" end="522" text="Type 2 diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="514" end="522" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="507" end="522" text="Type 2 diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="during DCT" indicator="mention">
+      <DIABETES id="D9" start="507" end="522" text="Type 2 diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="514" end="522" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="507" end="522" text="Type 2 diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

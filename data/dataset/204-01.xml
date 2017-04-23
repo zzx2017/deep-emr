@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2134-11-09
+
+ CCU Resident Transfer Note
+
+Patient Name:  George Quinn
+MR# 7924118
+Date of admission: November 09, 2134
+PCP:  Michael Quakenbush
+Fellow:  Unknown Ivory
+Attending: Inglis
+Code Status: FULL
+
+Contact: Wife, Tammy Quinn 746-313-1881
+
+Please see admit note for details of patients presentation. 
+
+Briefly, Pt is a 59 yo man with the following CV risk factors: smoker, HTN who presents with L sided chest pain and found to have inf STEMI no w s/p baremetal stent x 3 placement awaiting repeat catherization for L Circ PCI.
+
+CCU course by problem:
+
+Cardiac Ischemia     Pt presented with L sided Chest pain, EKG showed 2-3 mm STE in I, aVL and STD in V4-6.  Cardiac catherization showed tight LCx lesion (no intervention), distal RCA thrombotic lesion with 2 distal PLV that were ballooned and 3 bare metal stents:  1 in distal RCA distal (vision 3.5 x15) and prox and distal PLV (minivision).  Post cath he was chest pain free with resolution of his STE.  At cath, he was loaded with plavix at cath and received integrillin.  Post procedure he was B blocked with lopressor (HR in 50   s), given ASA, plavix, and lipitor 80, and started on captopril.   Presently, plan (per cardiology) is for repeat cath for PCI of L circ.   LDL was 84, on 80 mg QD lipitor.  Pt expressed desire to quit smoking     smoking cessation consult pending.
+
+Cardiac Pump     Echo done on 11/08 showed an EF of 54% with no RV or LV dysfunction, no WMA and no valvular abnormalities.  Pt did not demonstrate evidence of volume overload.     he was hemodynamically stable.
+
+Cardiac Rhythym     Pt had junctional rhythym precatherization with no further episodes.  Currently sinus bradycardia     well tolerated.
+
+Medications on admission: 
+
+Motrin 800 tid
+Lisinopril 20 qd
+Vit B12 injections
+
+Medications on Transfer:
+
+Lipitor 80 mg QD
+ASA 325 mg QD
+Plavix 75 mg QD
+Lovenox 30 mg BID
+Lopressor 12.5 TID
+Captopril 6.25 TID
+
+Colace
+Senna
+Nexium
+
+Allergies: NKDA
+ 
+Exam:   Hemodynamically stable, please see today   s progress note for exam.  
+
+
+
+_________________________________
+Eric Donovan, MD PhD PGY 2
+Pager #36472
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1163" end="1172" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1901" end="1910" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1754" end="1764" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="1163" end="1172" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="1136" end="1143" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1135" end="1144" text=" lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1119" end="1122" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1834" end="1837" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1119" end="1122" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1119" end="1122" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M10" start="1008" end="1014" text="plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M11" start="1124" end="1130" text="plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M12" start="1848" end="1854" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M13" start="1008" end="1014" text="plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M14" start="1152" end="1172" text="started on captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="1754" end="1764" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="1163" end="1172" text="captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M17" start="1119" end="1122" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1119" end="1122" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M19" start="1087" end="1096" text="lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1087" end="1096" text="lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M21" start="1273" end="1280" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1136" end="1143" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1135" end="1144" text=" lipitor " time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="1136" end="1143" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1817" end="1824" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1136" end="1143" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1135" end="1144" text=" lipitor " time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M28" start="1754" end="1764" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M29" start="1754" end="1764" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M30" start="1754" end="1765" text="Lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M31" start="1163" end="1172" text="captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M32" start="1119" end="1122" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M33" start="1119" end="1122" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M34" start="1008" end="1014" text="plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M35" start="1124" end="1130" text="plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M36" start="1087" end="1096" text="lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1087" end="1096" text="lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M38" start="1087" end="1096" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M39" start="1882" end="1891" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1087" end="1096" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="1087" end="1096" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="393" end="396" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="393" end="396" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="393" end="396" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="393" end="396" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="393" end="396" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="393" end="396" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC14" time="before DCT" indicator="event">
+      <CAD id="C0" start="456" end="461" text="STEMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="456" end="491" text="STEMI no w s/p baremetal stent x 3 " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="456" end="487" text="STEMI no w s/p baremetal stent " time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC15" status="current">
+      <SMOKER id="S0" start="1283" end="1356" text="Pt expressed desire to quit smoking     smoking cessation consult pending" status="current" comment=""/>
+      <SMOKER id="S1" start="385" end="391" text="smoker" status="current" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

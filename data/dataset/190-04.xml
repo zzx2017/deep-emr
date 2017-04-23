@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2091-03-30
+
+
+ORLH
+58 Kessler Farm Drive                                        NICHOLAS-XAVIER, FRED
+White Hall, MN 76715                                      65856594
+(959) 149-6104                                           03/30/91
+
+
+CHIEF COMPLAINT:  Mr. Nicholas Xavier is a 73-year-old man who
+returns to the Orlando Regional today for a quick follow up on his
+left foot ulceration.
+
+CURRENT MEDICATIONS:  Glucovance 5/500 mg b.i.d. and Actos 30 mg
+q.d.
+
+HISTORY OF PRESENT ILLNESS:  The ulceration has not significantly
+changed, but there are no new signs of infection.  He has been
+taking Keflex 500 mg t.i.d. for the last seven days.  He denies
+fever and his blood glucose levels have started to improve a
+little bit.  His fingerstick blood sugar today is 145.
+
+He has an appointment in Vascular Surgery in two days.  I have
+asked him that it is extremely important for him to keep that
+appointment for the evaluation of this ulceration and his
+vascular status.  I have also reviewed with him that he may need
+to be hospitalized if a vascular procedure is recommended.
+
+Unfortunately, he does not have an appointment with Podiatry
+until the end of this month.
+
+ASSESSMENT AND PLAN:  He will be seen by me again in a few days
+after he is seen in Vascular Surgery.  In the meantime, he will
+continue with all his medications.  I have given him a
+prescription for Zocor 20 mg q.d. since the pharmacy could not
+give him Lipitor that I had prescribed.
+
+
+______________________________
+Billy Vanpelt, M.D.
+
+eScription document:3-9348364
+DD: 03/30/91
+DT: 03/31/91
+DV: 03/30/91
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1385" end="1390" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1385" end="1390" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1385" end="1390" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M3" start="458" end="463" text="Actos" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M4" start="458" end="463" text="Actos" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M5" start="458" end="463" text="Actos" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M6" start="427" end="437" text="Glucovance" time="after DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M7" start="427" end="437" text="Glucovance" time="after DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M8" start="427" end="437" text="Glucovance" time="after DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M9" start="427" end="437" text="Glucovance" time="during DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M10" start="427" end="437" text="Glucovance" time="during DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M11" start="427" end="437" text="Glucovance" time="during DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M12" start="427" end="437" text="Glucovance" time="before DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M13" start="427" end="437" text="Glucovance" time="before DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M14" start="427" end="437" text="Glucovance" time="before DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M15" start="458" end="463" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M16" start="458" end="463" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M17" start="458" end="463" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M18" start="458" end="463" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M19" start="458" end="463" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M20" start="458" end="463" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC8" time="during DCT" indicator="glucose">
+      <DIABETES id="D0" start="760" end="783" text="lood sugar today is 145" time="during DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D1" start="759" end="784" text="blood sugar today is 145." time="during DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

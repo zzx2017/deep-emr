@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2099-02-01
+
+                     KEKELA EMERGENCY DEPT VISIT
+
+ 
+
+LEON,MAURICE   436-34-21-1                 VISIT DATE: 02/01/99
+
+Resident history reviewed, patient seen and examined by me. 
+
+PRESENTING COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 45-year-old 
+
+black male who now presents for evaluation of chest pain.  The 
+
+patient states he has had intermittent left-sided chest pain for 
+
+the past several weeks.  He states he had a more prolonged episode 
+
+of substernal chest pressure today while driving.  He states the 
+
+pain radiated down his left arm and he did experience a mild amount 
+
+of associated shortness of breath and diaphoresis.  He denies any 
+
+nausea, vomiting, palpitations, light-headedness or syncope.  On 
+
+arrival he states the pain is approximately 7/10 in intensity.  He 
+
+denies any prior history of coronary artery disease, pulmonary 
+
+embolus or deep venous thrombosis.  His cardiac risk factors 
+
+include history of hypertension and hypercholesterolemia.  He also 
+
+denies any chest wall trauma or any recent upper respiratory 
+
+infection symptoms, cough, fever or chills.
+
+REVIEW OF SYSTEMS:  Negative except per HPI.
+
+PAST MEDICAL HISTORY:  Significant for hypertension, asthma and 
+
+hypercholesterolemia.
+
+MEDICATIONS:  Tenovate, albuterol MDI, Azmacort MDI, adalat.
+
+ALLERGIES:  Bupropron which causes pruritus.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  He is adopted and does not know 
+
+his family history.  The patient is a former smoker who quit 
+
+approximately one year ago.  The patient is a former smoker with an 
+
+approximately 15-pack-year history.  He states he quit one year 
+
+ago.  He does admit to heavy drinking, approximately 3-4 drinks per 
+
+day.  He has no prior history of illicit drug use and currently 
+
+lives with his family.
+
+PHYSICAL EXAMINATION:  GENERAL:  This is a well-developed, 
+
+well-nourished, slightly anxious appearing male who appears in 
+
+otherwise no acute distress.  VITAL SIGNS:  Temperature is 96.2, 
+
+blood pressure 142/96, pulse 108, respiratory rate 20, oxygen 
+
+saturation 96% on room air.  HEENT:  Mucous membranes are moist 
+
+without lesions.  NECK:  Supple without jugular venous distention.  
+
+LUNGS:  Clear to auscultation.  HEART:  Tachycardic, regular rate 
+
+and rhythm without gallops, murmurs or rubs.  ABDOMEN:  Soft, 
+
+nontender, nondistended.  EXTREMITIES:  No clubbing, cyanosis or 
+
+edema.  No calf tenderness.  Negative Homan's sign.  NEURO:  Awake, 
+
+alert, oriented x 3.  Nonfocal.
+
+LABORATORY EVALUATION:  CBC, white count 6.2, hematocrit 45, 
+
+platelets 210.  SMA-7 notable for a bicarb of 19.  D-dimer is 
+
+pending.  CPK 134, cardiac troponin I 0.00, coagulation profile is 
+
+normal.  Electrocardiogram shows normal sinus rhythm at a rate of 
+
+93 with nonspecific T wave changes.  No significant change compared 
+
+with prior tracing dated May 01, 2099.  Chest x-ray reveals no 
+
+acute disease.
+
+THERAPY RENDERED/COURSE IN ED:  The patient was treated with 
+
+aspirin, nitroglycerin and morphine with relief of his pain and 
+
+remained hemodynamically stable.
+
+CONSULTATIONS (including PCP):  The patient's primary care 
+
+physician, Dr. Greene was notified and agrees with the management 
+
+plan.
+
+FINAL DIAGNOSIS:  Atypical chest pain.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted to emergency department observation under low risk for 
+
+cardiac ischemia protocol and is currently awaiting evaluation with 
+
+an exercise stress test as well as results of D-dimer to evaluate 
+
+for the remote possibility of pulmonary embolism.  The patient is 
+
+currently in stable condition. 
+
+___________________________________                    CL893/2080 
+
+MAX RHODES, M.D.       MR75                        D:02/01/99 
+
+                                                       T:02/01/99 
+
+Dictated by:  MAX RHODES, M.D.       MR75 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1016" end="1036" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1269" end="1289" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1016" end="1036" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="1016" end="1036" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC8" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="1016" end="1036" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1269" end="1289" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="1016" end="1036" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1016" end="1036" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="1016" end="1036" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="1269" end="1289" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="1016" end="1036" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="1016" end="1036" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="1345" end="1351" text="adalat" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1345" end="1351" text="adalat" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="1345" end="1352" text="adalat." time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="1345" end="1351" text="adalat" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="1345" end="1351" text="adalat" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="1345" end="1352" text="adalat." time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="3002" end="3009" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="3002" end="3009" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="3002" end="3009" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="1345" end="1351" text="adalat" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1345" end="1351" text="adalat" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1345" end="1352" text="adalat." time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="3011" end="3024" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="3011" end="3024" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="3011" end="3025" text="nitroglycerin " time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2022" end="2043" text="blood pressure 142/96" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2022" end="2043" text="blood pressure 142/96" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="2037" end="2043" text="142/96" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="999" end="1011" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1242" end="1254" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="999" end="1011" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="999" end="1011" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="999" end="1011" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1242" end="1254" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="999" end="1011" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="999" end="1011" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="999" end="1011" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="1242" end="1254" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="999" end="1011" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="999" end="1011" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="past">
+      <SMOKER id="S0" start="1507" end="1559" text="former smoker who quit   approximately one year ago" status="past" comment=""/>
+      <SMOKER id="S1" start="1579" end="1637" text="former smoker with an   approximately 15-pack-year history" status="past" comment=""/>
+      <SMOKER id="S2" start="1653" end="1672" text="quit one year   ago" status="past" comment=""/>
+      <SMOKER id="S3" start="1508" end="1521" text="former smoker" status="past" comment=""/>
+      <SMOKER id="S4" start="1507" end="1521" text=" former smoker" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

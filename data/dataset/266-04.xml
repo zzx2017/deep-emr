@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2069-01-13
+
+
+
+
+
+
+
+
+
+
+CHIEF COMPLAINT:  F/U  BH
+
+
+
+HISTORY OF PRESENT ILLNESS: feeling well except slight cold; getting daily exercise and still not smoking (2 years)
+
+
+
+f/u type 2 DM and CAD
+
+we discussed the elevation in last HbA1c and need to improve control; possible need for insulin future
+
+not yet measuriong home glucose: given instructions a prescriptions today to do this
+
+
+
+No cp/SOB/DOE/Orthop
+
+we reviewed meds and above list is correct; adherent; no adverse effects
+
+doing dailt foot exams
+
+
+
+
+
+
+
+
+
+PAST MEDICAL HISTORY: Entered By:frye  On:03/13/2066 
+
+Endocrine disorders:  type II, non-insulin dependent diabetes mellitus.
+
+
+
+
+
+
+
+
+
+
+
+REVIEW OF SYSTEMS: Const: no fever, 
+
+Const: no weight change, 
+
+CV: no chest pain, 
+
+CV: no palpitations, 
+
+Resp: no shortness of breath, 
+
+Resp: no cough, 
+
+Resp: no wheezing, 
+
+GI: no vomiting, 
+
+GI: no  constipation, 
+
+GI: no diarrhea, 
+
+GU: no frequent urination, 
+
+Neuro: no headaches and 
+
+Skin: no rash 
+
+
+
+
+
+VITAL SIGNS: 
+
+Date/Time: 01/13/2069  10:03 AM  - rosenberg
+Respiration: 18 breaths/min 
+
+Pulse 1: 78 bpm 
+
+Blood Pressure 1: 110 / 70 mmHg 
+
+Weight: 196.00 lbs.
+
+
+
+
+
+
+
+EXAMINATION: 
+
+
+
+[Constitution]  - well nourished and developed.  
+
+[Eyes]  - conjunctivae clear, pupils equal, no discharge
+
+[Neck] - supple no lymphadenopathy or thyromegaly. 
+
+[CV] - regular rate no murmurs, rubs or gallops, no heave; carotid pulses normal, no extremities edema.
+
+[Respiratory] - clear, breath sounds bilaterally, no accessory muscle use.  
+
+[GI] - abdomen soft, no hepatosplenomegaly, no abnormal masses or hernias.  
+
+[Skin]- no significant rashes or other lesions.  
+
+[Musc/Skel] - normal tone, no edema; feet without lesions; decreased VS to ankles bilat
+
+[Neuro] - 5/5 gross motor strength, grossly normal coordination and gait
+
+[Psych] - alert and oriented for age, normal mood and affect
+
+
+
+
+
+
+
+IMPRESSION: excellent regimen for DM and CAD but increased HBA1c a concern and we discussed diet/exercise for 15 minutes
+
+will check HbA1c again today
+
+
+
+
+
+ALLERGIES: 
+
+No Known Drug Allergies 04/17/2067 rosenberg
+
+
+
+
+MEDICATIONS: 
+
+lancets for gluc monitoring   BID for 3 mo : 01/13/2069 - 03/30/2074 ACT : rosenberg
+   Script:  Amt: QS  Refill: 3 Date: 01/13/2069 : rosenberg
+
+
+one-touch basic glucose test strips BID for 3 mo : 01/13/2069 - 03/30/2074 ACT : rosenberg
+   Script:  Amt: QS  Refill: 3 Date: 01/13/2069 : rosenberg
+
+
+GLUCOPHAGE 850MG One PO bid : 06/17/2068 - 09/22/2069 ACT : rosenberg
+   Script:  Amt: 60  Refill: 1 Date: 06/10/2069 : rosenberg
+
+
+ZESTRIL 10MG PO qd : 03/25/2068 - 03/30/2074 ACT : rosenberg
+   Script:  Amt: 30  Refill: 3 Date: 01/13/2074 : rosenberg
+
+
+toprol xl 50MG one po qd : 09/25/2067 - 03/30/2074 ACT : um
+
+   Script:  Amt: 30  Refill: 3 Date: 03/11/2074 : um
+
+
+
+LIPITOR 10MG One PO qd : 05/10/2066 - 10/03/2073 ACT : emmons
+
+   Script:  Amt: 90  Refill: 1 Date: 04/05/2073 : emmons
+
+
+
+ASPIRIN 325MG PO qd : 03/02/2065 - 03/30/2074 ACT : rosenberg
+
+
+multivitamin 1 po qd : 03/02/2065 - 03/30/2074 ACT : rosenberg
+
+
+
+
+
+
+IMMUNIZATIONS: 
+
+INF2 11/24/2068
+
+Infl 11/25/2065
+
+Pneu 11/25/2065
+
+
+
+PROBLEMS - CARE PLANS: 
+
+Problem: a. Adult symptom(s)
+
+Code: 250.00 Diabetes Mellitus, Uncomplicated
+
+Careplan: 
+
+as above, RTC 3 mo
+
+
+
+
+
+
+THIS IS A COPY PRODUCED FOR THE LMR. THE ORGINAL IS STORED ON THE BRIGHTPOINT SERVER AT COLUMBIA KINGWOOD MEDICAL CENTER AND IN PRINT IN THE PATIENT'S CKMC PAPER RECORD.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2539" end="2546" text="ZESTRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2539" end="2546" text="ZESTRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2539" end="2546" text="ZESTRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="2779" end="2786" text="LIPITOR" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2779" end="2786" text="LIPITOR" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2779" end="2786" text="LIPITOR" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="2902" end="2909" text="ASPIRIN" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2902" end="2909" text="ASPIRIN" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2902" end="2909" text="ASPIRIN" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="2407" end="2417" text="GLUCOPHAGE" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2407" end="2417" text="GLUCOPHAGE" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="2407" end="2424" text="GLUCOPHAGE 850MG " time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="2407" end="2417" text="GLUCOPHAGE" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="2407" end="2417" text="GLUCOPHAGE" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="2407" end="2424" text="GLUCOPHAGE 850MG " time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M15" start="2539" end="2546" text="ZESTRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="2539" end="2546" text="ZESTRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="2539" end="2546" text="ZESTRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="2902" end="2909" text="ASPIRIN" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="2902" end="2909" text="ASPIRIN" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="2902" end="2909" text="ASPIRIN" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="2662" end="2668" text="toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="2662" end="2668" text="toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="2662" end="2671" text="toprol xl" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="2779" end="2786" text="LIPITOR" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="2779" end="2786" text="LIPITOR" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="2779" end="2786" text="LIPITOR" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="2779" end="2786" text="LIPITOR" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="2779" end="2786" text="LIPITOR" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="2779" end="2786" text="LIPITOR" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M30" start="2407" end="2417" text="GLUCOPHAGE" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M31" start="2407" end="2417" text="GLUCOPHAGE" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M32" start="2407" end="2424" text="GLUCOPHAGE 850MG " time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M33" start="2539" end="2546" text="ZESTRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M34" start="2539" end="2546" text="ZESTRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M35" start="2539" end="2546" text="ZESTRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M36" start="2902" end="2909" text="ASPIRIN" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M37" start="2902" end="2909" text="ASPIRIN" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M38" start="2902" end="2909" text="ASPIRIN" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="2662" end="2668" text="toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="2662" end="2668" text="toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="2662" end="2671" text="toprol xl" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="2662" end="2668" text="toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="2662" end="2668" text="toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="2662" end="2671" text="toprol xl" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC17" time="during DCT" indicator="mention">
+      <CAD id="C0" start="203" end="206" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="203" end="206" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="203" end="206" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC19" time="after DCT" indicator="mention">
+      <CAD id="C3" start="203" end="206" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="203" end="206" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="203" end="206" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC22" time="before DCT" indicator="mention">
+      <CAD id="C6" start="203" end="206" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="203" end="206" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="203" end="206" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="past">
+      <SMOKER id="S0" start="154" end="181" text="still not smoking (2 years)" status="past" comment=""/>
+      <SMOKER id="S1" start="160" end="181" text="not smoking (2 years)" status="past" comment=""/>
+      <SMOKER id="S2" start="153" end="181" text=" still not smoking (2 years)" status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="189" end="198" text="type 2 DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="189" end="198" text="type 2 DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="196" end="198" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="189" end="198" text="type 2 DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="189" end="198" text="type 2 DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="196" end="198" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="189" end="198" text="type 2 DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="189" end="198" text="type 2 DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="196" end="198" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2069-04-16
+
+
+
+Patient Name: OGRADY,ULYSSES [ 0937884(IMC) ] Date of Visit: 04/16/2069
+
+
+
+
+
+
+Renal Staff
+
+
+Patient seen and examined on dialysis. Agree with details per Fellow Note. 62 year old man referred to ED after missing dialysis yesterday and noted to be mentally confused. On presentation he was hyperkalemic to 7.4. He has been evaluated in ED setting with negative head CT and LP. Family reports h/o poor compliance and self care deficit.
+PMH/PSH:ESRD, presumed from HTN/DM, TTS, LUE AVF; initiated dialysis in 2067; has left arm AVF; HD at Eureka Springs Hospital - Dr Allan Jester is attending NephrologistHyperlipidemia Hypertension Obesity Diabetes mellitus : type 2, with tripothyNoncompliance Basal cell carcinoma : carcinoma of skin left cheekLower extremity ulcer : DIABETIC FOOT ULCER. L FootAbscess : Rt shin 2062Back: 11/64. S/P I&amp;DMitral valve insufficiency : severe, with cardiomyopathy and EF 36%Colonic polyps : tubulovillious adenoma 11/65. Needs repeat scope 11/66
+
+Medications
+Insulin variable dosing
+Reportedly not taking other meds
+
+
+SOCIAL
+Lives in De Soto with Wife and Daughter
+
+
+ROS
+As detailed. He also has been c/o dizziness and weakness after dialysis, which was the main reason he refused to go for HD yesterday. No additional hx is available, no known sick contact per wife. When he was in ED, he was noted to have LGF 100.4, hypertensive and tachycardic. He is waiting for head CT and possible LP.
+ 
+EXAM
+T 100.4, P 110, BP 150/80, R 26, SO2 94%(4L)
+NAD, limited cooperation with exam, A+O x2
+CV: tachy/reg, no rubs
+CHEST: CTA ant
+ABD: soft, NT/ND/NABS
+EXT: 1+ edema
+Neuro: nonfocal-limited exam
+
+DATAEKG is not available for review, but no acute ischemic changes and no widened QRS/peaked T wave per ED.
+PCXR: poor penetration, but no acute process
+Head CT       IMPRESSION:
+
+1. No hemorrhage, mass lesion, or evidence of acute territorial
+infarction.
+
+2. Extensive nonspecific periventricular, deep, and subcortical
+white matter changes are likely sequela from chronic
+microangiopathic disease.
+
+3. Old lacunar infarctions in the left caudate head and right
+caudate-anterior corona radiata.
+Evaluation for acute ischemia is limited in the areas of extensive
+white matter disease. Brain MRI with diffusion-weighted imaging
+is more sensitive in assessing for acute ischemia and should be
+obtained as clinically indicated.
+UA-SED-RBC                       20-50                     (0-2)          /hpfUA-SED-WBC                       5-10                      (0-2)          /hpfUA-SED-Bacteria                  Many                      (NEG)          /hpf
+WBC                              20.7             H        (4.5-11.0)     th/cmmHCT                              33.6             L        (41.0-53.0)    %HGB                              11.3             L        (13.5-17.5)    gm/dlRBC                              3.77             L        (4.50-5.90)    mil/cmmPLT                              239                       (150-400)      th/cumm
+Plasma Sodium                    133              L        (135-145)      mmol/LPlasma Potassium                 7.4              H        (3.4-4.8)      mmol/L Plasma Chloride                  94               L        (100-108)      mmol/LPlasma Carbon Dioxide            18.1             L        (23.0-31.9)    mmol/LPlasma Anion GAP                 21               H        (3-15)         mmol/LCalcium                          9.6                       (8.5-10.5)     mg/dlPhosphorus                       7.3              H        (2.6-4.5)      mg/dlMagnesium                        2.2              H        (1.4-2.0)      meq/LPlasma Urea Nitrogen             68               H        (8-25)         mg/dlPlasma Creatinine                9.18             H        (0.60-1.50)    mg/dlAlbumin                          4.6                       (3.3-5.0)      g/dlDirect Bilirubin                 0.5              H        (0-0.4)        mg/dlTotal Bilirubin                  1.1              H        (0.0-1.0)      mg/dlA+P
+1. ESRD, with hyperkalemia
+2. AMS, found down s/p LP with results pending and extensive CNS white matter changes
+3. Medical noncompliance
+4. Leukocytosis with infected leg ulcer and ? cellulitis
+5. Pyuria
+ 
+- Dialysis 3 hrs 1K, 2.5Ca
+- UF 2L
+- AVF access
+- Hold Epogen today
+- F/U LP results
+- Blood Cultures on dialysis; wound culture, urine culture
+- Vancomycin 1g post dialysis; Levofloxacin 500mg qod
+- cycle cardiac enzymes
+- Review outpatient medication regimen
+
+
+
+
+____________________________________
+Kenneth DUSTIN Mcdaniel, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="633" end="647" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="633" end="647" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC9" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY2" start="633" end="647" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="633" end="647" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="633" end="647" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="633" end="647" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <OBESE id="DOC3" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="661" end="668" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="661" end="668" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="661" end="668" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC7" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="661" end="668" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="661" end="668" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="661" end="668" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC12" time="before DCT" indicator="mention">
+      <OBESE id="O6" start="661" end="668" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="661" end="668" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="661" end="668" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="1024" end="1031" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1024" end="1047" text="Insulin variable dosing" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M2" start="1024" end="1031" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1024" end="1047" text="Insulin variable dosing" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M4" start="1024" end="1031" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1024" end="1047" text="Insulin variable dosing" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="492" end="495" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="492" end="495" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="492" end="495" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="648" end="660" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="1479" end="1489" text=" BP 150/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1483" end="1489" text="150/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1480" end="1489" text="BP 150/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="492" end="495" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="492" end="495" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="492" end="495" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="648" end="660" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="492" end="495" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="492" end="495" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="492" end="495" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="648" end="660" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="1083" end="1089" text="SOCIAL" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="496" end="498" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="496" end="498" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="496" end="498" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="669" end="695" text="Diabetes mellitus : type 2" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="496" end="498" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="496" end="498" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="496" end="498" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="669" end="695" text="Diabetes mellitus : type 2" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC15" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="496" end="498" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="496" end="498" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="496" end="498" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="669" end="695" text="Diabetes mellitus : type 2" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-03-06
+
+ 
+
+
+Ravenna Medical Clinic RMC
+7785 Marlowe Street              PAUL, MAE
+Barnesville, TN  13351                    83288425
+(665) 578-7821                     03/06/2087
+
+
+CHIEF COMPLAINT:  The patient is a 75-year-old woman, new patient who comes in to establish primary care and for followup of multiple medical problems including end-stage renal disease, hypertension, peripheral vascular disease, history of foot drop, etc.
+
+PAST MEDICAL HISTORY:
+1.  End-stage renal disease.  Because of her original end-stage renal disease was reportedly FSGS, she had a preemptive transplant in 2068, which was complicated by rejection and ultimate loss of the graft.  She resumed dialysis in 2072.  She had a second transplant in 2075, which was also complicated and ultimately rejected.  She resumed hemodialysis in 2082.  She does have a match with her only daughter, but apparently the Transplant Service feels that she would not be a good candidate and I think she would be reluctant to go through two surgeries, which would be required, one to remove the old graft and one for the new transplant.  She currently is dialyzed at the Overbrook Hospital.  Her dialysis physician is Dr. Lemus.
+2.  Hypertension.
+3.  Peripheral vascular disease.  She had an angiogram in 2083 at LMC and an MRA in 2085, which showed bilateral iliac and femoral artery stenoses.  She apparently does not have claudication despite this.
+4.  History of right foot-drop.  She had a severe episode of shingles in 2077 with associated sciatica and foot-drop.
+5.  History of hemorrhoids for at least six years with occasional bleeding and with anal protrusion.
+6.  History of CMV colitis in 08/2081.
+7.  Secondary hyperparathyroidism.  She is on Sensipar and has been on this since early 2085.
+
+PAST SURGICAL HISTORY:  She had a supracervical hysterectomy for benign disease in 2061 and a left salpingo-oophorectomy for a serous cyst in 04/2082.  She is status post appendectomy.  She is status post bilateral cataract surgery.
+
+MEDICATIONS:  Norvasc 10 mg per day, lisinopril 20 mg per day, metoprolol 50 mg b.i.d., Lipitor 40 mg per day, aspirin 81 mg per day, Nephrocaps 1 mg per day, Restoril 15 mg nightly, Hectorol 4 mcg per 2 mL three times per week, B6 200 mg per day, vitamin E 400 mg per day, flaxseed oil 1000 mg per day and B12 4000 mcg per day.
+
+FAMILY HISTORY:  Significant for diabetes in her father and grandfather, negative for cancer.
+
+SOCIAL HISTORY:  She is a widow.  She is a lifetime nonsmoker.  She does not drink alcohol or use drugs.  She is a retired mathematician at Vassar.  She came from Turlock 10 years ago to Pecos to be with her daughter who is a surgeon in the area.  She never has felt the Pecos as home and is home sick for Turlock.
+
+ALLERGIES:  No known drug allergies.
+
+REVIEW OF SYSTEMS:  She has had some problems with left shoulder pain and immobility.  She generally seems to be somewhat overwhelmed and a little bit sad.  She seems never to have adjusted to life in Pecos.  She has had the loss of two the kidney transplants and then the foot-drop, which has made walking difficult.  She did have a brace at one time, which helped her to walk, but it was irritating.  She had seen Dr. Yim to get another one, but that never worked out.  She did not complain of any chest pain or shortness of breath, no constipation.  She does have hemorrhoids that are active as above.
+
+PHYSICAL EXAMINATION:  She is a well-developed, well-nourished, very pleasant, but somewhat sad-appearing white female.  Her blood pressure is 140/60.  HEENT, pupils equal, round and reactive to light.  Extraocular movements are intact.  Throat is clear.  Neck, supple, no adenopathy or thyromegaly.  Heart, regular rate and rhythm.  Lungs, clear.  Abdomen, soft, nontender, no organomegaly.  Extremities, no edema.  Neuro, absent reflex in the right patella and 2+ in the left patella.
+
+ASSESSMENT AND PLAN:
+1.  End-stage renal disease on dialysis, not considered to be a transplant candidate at this time as she has had two rejections.
+2.  Hypertension, well controlled on medications.
+3.  Hyperlipidemia, on Lipitor.  Last cholesterol was checked in 10/2086 with normal ALT and AST, but elevated alkaline phosphatase.
+4.  Peripheral vascular disease, currently asymptomatic.
+5.  Right foot-drop.  We may look into getting her another brace perhaps another consult with Dr. Yim.
+6.  Left shoulder pain.  It did mention in her physical, but she can only abduct her left shoulder to about 90 degrees without pain.  We may look into this further and perhaps get some physical therapy for possible rotator cuff tendinitis.
+7.  Hemorrhoids.
+8.  Secondary hyperparathyroidism on Sensipar.
+9.  Health maintenance.  Mammogram was done in 06/2086.  Pap smear was done in 04/2083.  Colonoscopy was done in 08/2081.
+10.  ? Depression.  She seemed a little sad.  Has had a tough time with her medical problems and never adjusted that well to Pecos.  Will have her come back and discuss further.
+
+
+______________________________
+Qiana Solomon, MD
+
+
+
+
+
+eScription document:9-2784353 KUQlhv Egq
+
+
+
+DD: 03/06/87
+DT: 03/07/87
+DV: 03/06/87
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="4101" end="4115" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="4101" end="4115" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="4101" end="4115" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="4101" end="4115" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="4101" end="4115" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="4101" end="4115" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC18" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="4101" end="4115" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="4101" end="4115" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="4101" end="4115" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2060" end="2072" text=" lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2061" end="2071" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2061" end="2071" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="2111" end="2119" text=" Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2112" end="2119" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2112" end="2119" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="2134" end="2142" text=" aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2135" end="2142" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2135" end="2142" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="2060" end="2072" text=" lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="2061" end="2071" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="2061" end="2071" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="2060" end="2072" text=" lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="2061" end="2071" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="2061" end="2071" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="2134" end="2142" text=" aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="2135" end="2142" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="2135" end="2142" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M18" start="2038" end="2045" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="2038" end="2045" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="2038" end="2045" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M21" start="2038" end="2045" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="2038" end="2045" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="2038" end="2045" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="2087" end="2097" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="2087" end="2097" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="2087" end="2097" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="2111" end="2119" text=" Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="2112" end="2119" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="2112" end="2119" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M30" start="2111" end="2119" text=" Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="2112" end="2119" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="2112" end="2119" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M33" start="2134" end="2142" text=" aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M34" start="2135" end="2142" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="2135" end="2142" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M36" start="2038" end="2045" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="2038" end="2045" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="2038" end="2045" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="2087" end="2097" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="2087" end="2097" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="2087" end="2097" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="2087" end="2097" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="2087" end="2097" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="2087" end="2097" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="387" end="399" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="387" end="399" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="387" end="399" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="387" end="399" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="387" end="399" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="387" end="399" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="387" end="399" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="387" end="399" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="387" end="399" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC17" status="never">
+      <SMOKER id="S0" start="2492" end="2510" text="lifetime nonsmoker" status="never" comment=""/>
+      <SMOKER id="S1" start="2490" end="2510" text="a lifetime nonsmoker" status="never" comment=""/>
+      <SMOKER id="S2" start="2491" end="2513" text=" lifetime nonsmoker.  " status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

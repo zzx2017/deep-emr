@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-09-28
+
+ 
+
+ 
+
+CHOL 210 (T) 244 (H) 243 (H) 256 (H) 
+
+TRIG 50       
+
+HDL 62       
+
+LDL 138
+
+F/u: CAD, LBP
+
+Saw  Dr Mora of Cardiology, who she says kept her on ASA and SL NTG.  Says told to attend cardiac rehab 2 x week, but that a nurse later told her she didn't need it.  Appt with him pending 10/28/94. Saw nutritionist.  Still gets exertional CP in same pattern.
+
+
+
+C/o severe, chronic low back for 10 years.  Followed by Dr. Solomon for 3 years.  DJD  on MRI 12/93 and told  of sciatica.  Uses ibuprofen  800 po tid.  Not sure about cox 2 inhibitor use in the past and Ultram made too groggy.Became tearful when discussing this issue, statingthat paincanbe excruciating.
+
+Notes anxiety due to terrorist attacks and is not sleeping well.  Lives alone.  Asks for some Valium. 
+
+PE: WD/WN in NAD
+
+ 
+
+BLOOD PRESSURE  140/70  
+
+TEMPERATURE   
+
+PULSE  64  
+
+RESPIRATORY RATE   
+
+O2 SAT   
+
+HEIGHT   
+
+WEIGHT  151 lb  
+
+
+
+lungs clear
+
+back no CVAT or ST
+
+cor RRR S1S2, no murmur
+
+extrem no LE edema
+
+
+
+A/P:
+
+1)CAD- will look for correspondence from Dr. Mora re: his thoughts.  Consider adding low dose beta blocker, since BP is a little.  Needs mor aggressive lowereing of lipid.  At next visit, repeat lipid, and consider lipitor.
+
+2)Back pain- suspect there is some somatization, but patient is far from being able to accept this.  For now, refilled Ibupfofen and follow how often she refills.  Note in record of patient requesting Vicodan, which was given to her before by Dr. Solomon.  Would avoid if possible.
+
+3)Anxiety- Valium 5 mg #15 mg, prn. Offer counseling at next visit if persists.
+
+4)HMC- will ofer colonoscopy at next visit.
+
+
+
+RTC 6 weeks 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RTC 6 weeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------Vital Signs----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY0" start="104" end="111" text="LDL 138" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="104" end="111" text="LDL 138" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="104" end="111" text="LDL 138" time="before DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="high chol.">
+      <HYPERLIPIDEMIA id="HY3" start="47" end="71" text="244 (H) 243 (H) 256 (H) " time="before DCT" indicator="high chol." comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="34" end="43" text="CHOL 210 " time="before DCT" indicator="high chol." comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="34" end="70" text="CHOL 210 (T) 244 (H) 243 (H) 256 (H)" time="before DCT" indicator="high chol." comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="181" end="184" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="181" end="184" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="181" end="184" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="181" end="184" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="181" end="184" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="181" end="184" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M6" start="189" end="196" text="SL NTG." time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M7" start="192" end="195" text="NTG" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M8" start="189" end="195" text="SL NTG" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="181" end="184" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="181" end="184" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="181" end="184" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="189" end="196" text="SL NTG." time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="192" end="195" text="NTG" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="189" end="195" text="SL NTG" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M15" start="189" end="196" text="SL NTG." time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="192" end="195" text="NTG" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="189" end="195" text="SL NTG" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC0" time="during DCT" indicator="symptom">
+      <CAD id="C0" start="357" end="372" text="exertional CP i" time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="357" end="370" text="exertional CP" time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC1" time="before DCT" indicator="symptom">
+      <CAD id="C2" start="357" end="372" text="exertional CP i" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C3" start="357" end="370" text="exertional CP" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC2" time="before DCT" indicator="mention">
+      <CAD id="C4" start="117" end="121" text=" CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="118" end="121" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="118" end="121" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC6" time="after DCT" indicator="symptom">
+      <CAD id="C7" start="357" end="372" text="exertional CP i" time="after DCT" indicator="symptom" comment=""/>
+      <CAD id="C8" start="357" end="370" text="exertional CP" time="after DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC9" time="during DCT" indicator="mention">
+      <CAD id="C9" start="117" end="121" text=" CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="118" end="121" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="118" end="121" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C12" start="117" end="121" text=" CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="118" end="121" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="118" end="121" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

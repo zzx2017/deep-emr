@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2138-06-14
+
+Patient Name: SLATER, OWEN;  MRN: 8635779
+
+Dictated on: 06/14/2138 by URIEL T. ZIRKLE, MD 
+
+ 
+ATTENDING CONSULTATION NOTE 
+ 
+DIAGNOSIS: Recurrent renal cell carcinoma.  
+ 
+HISTORY: Mr. Slater is a delightful and active 80-year-old man who was incidentally found to have a renal mass in 2133. At that time Dr. Updike performed a left partial nephrectomy, and the final pathology showed a 1.5 cm clear cell renal cell carcinoma. Since that date he has remained well with no clinical evidence of recurrent disease and has had interval CT scans. For the last 2 years, enhancing nodules have been noted within the region of the partial nephrectomy. A biopsy performed approximately 1 year ago did not demonstrate any cancer within modestly enlarged retroperitoneal lymph nodes. CT scan was repeated in December of 2137. This again showed some enlarged retroperitoneal adenopathy and also enlargement of the soft tissue nodules. Biopsy in March of this year showed probable recurrent renal cell carcinoma of the clear cell type within the nodules. Biopsy of an adjacent adrenal gland showed no cancer. His metastatic workup has included CT scans of the chest, which have demonstrated small pulmonary nodules of uncertain significance.  
+ 
+He has met with Drs. Eagle and Yzaguirre. Both have recommended completion of the nephrectomy and resection of any visible tumor, perhaps with intraoperative radiation as well. 
+  
+PAST MEDICAL HISTORY:  
+ 
+1. Hypertension.  
+ 
+2. CVA with residual weakness on the right side. He is, however, still able to walk with a cane.  
+ 
+3. High cholesterol.  
+ 
+CURRENT MEDICATIONS: Atenolol, hydrochlorothiazide, lisinopril, Norvasc, Avapro, clonidine, Lipitor, and allopurinol.   
+
+DRUG ALLERGIES: None known.  
+ 
+SOCIAL HISTORY: He is a long retired news writer with a heavy smoking history. He last smoked in 2132. He is a widow and came today to the appointment with 1 of his daughters.  
+ 
+REVIEW OF SYSTEMS: No respiratory symptoms suggesting progressive pulmonary metastases, no abdominal or GI symptoms.  
+ 
+
+PHYSICAL EXAM:
+No anemia, jaundice, cyanosis, or clubbing
+No gynecomastia
+Respiration comfortable
+Mild right-sided motor weakness, walks with a cane. 
+No skeletal deformity or tenderness
+Head, eyes, ears, and nose normal 
+Abdomen soft with no hepatomegaly, splenomegaly, nor any additional masses.
+No hernias.
+ 
+ 
+RADIOLOGY: CT scans demonstrate multiple soft tissue nodules within the partial nephrectomy bed, the largest being 15 mm across. He also has prominent lymph nodes within the retroperitoneum, the largest of which is 14 mm, and an enlarged left common iliac lymph node of 18 mm. Chest CT shows scattered 2 mm nodules of uncertain significance.  
+ 
+IMPRESSION AND PLAN: Confirmed local recurrence of renal cell cancer - for completion nephrectomy and resection of tumor bed.  Lymph nodes will be also be sampled.  
+ 
+For intraoperative radiation if appropriate and possibly adjuvant radiation to follow.  Consent obtained today.  
+ 
+ 
+URIEL T. ZIRKLE, MD 
+ 
+cc:  
+Dr. Francis Eagle 
+ 
+Dr. Vonnie Yzaguirre 
+ 
+Dr. Fernando Gregg 
+Internal Medicine, FPC 
+ 
+DD:06/14/2138 
+DT:06/15/2138 
+CI:100417    :7153 
+ 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1593" end="1609" text="High cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1593" end="1611" text="High cholesterol. " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1593" end="1609" text="High cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1593" end="1609" text="High cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1593" end="1611" text="High cholesterol. " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1593" end="1609" text="High cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC19" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1593" end="1609" text="High cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1593" end="1611" text="High cholesterol. " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1593" end="1609" text="High cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1667" end="1677" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1667" end="1677" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1667" end="1677" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1707" end="1714" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1707" end="1714" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1707" end="1714" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="1667" end="1677" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1667" end="1677" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1667" end="1677" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1667" end="1677" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1667" end="1677" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1667" end="1677" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M12" start="1646" end="1666" text="hydrochlorothiazide," time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M13" start="1646" end="1665" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M14" start="1646" end="1665" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M15" start="1679" end="1687" text="Norvasc," time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1679" end="1686" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1679" end="1686" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M18" start="1679" end="1687" text="Norvasc," time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1679" end="1686" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1679" end="1686" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1636" end="1645" text="Atenolol," time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1636" end="1644" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1636" end="1644" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M24" start="1688" end="1694" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M25" start="1688" end="1694" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M26" start="1688" end="1694" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="1707" end="1714" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1707" end="1714" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1707" end="1714" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M30" start="1707" end="1714" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1707" end="1714" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1707" end="1714" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M33" start="1646" end="1666" text="hydrochlorothiazide," time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M34" start="1646" end="1665" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M35" start="1646" end="1665" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M36" start="1646" end="1666" text="hydrochlorothiazide," time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M37" start="1646" end="1665" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M38" start="1646" end="1665" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M39" start="1679" end="1687" text="Norvasc," time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1679" end="1686" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="1679" end="1686" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="1636" end="1645" text="Atenolol," time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1636" end="1644" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1636" end="1644" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M45" start="1636" end="1645" text="Atenolol," time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="1636" end="1644" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M47" start="1636" end="1644" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M48" start="1688" end="1694" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M49" start="1688" end="1694" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M50" start="1688" end="1694" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M51" start="1688" end="1694" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M52" start="1688" end="1694" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M53" start="1688" end="1694" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1471" end="1483" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1471" end="1483" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1471" end="1483" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1471" end="1483" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1471" end="1483" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1471" end="1483" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1471" end="1483" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1471" end="1483" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1471" end="1483" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="past">
+      <SMOKER id="S0" start="1825" end="1869" text="heavy smoking history. He last smoked in 213" status="past" comment=""/>
+      <SMOKER id="S1" start="1847" end="1871" text=" He last smoked in 2132." status="past" comment=""/>
+      <SMOKER id="S2" start="1825" end="1846" text="heavy smoking history" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

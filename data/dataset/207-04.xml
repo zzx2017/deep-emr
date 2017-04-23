@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-08-19
+
+EDVISIT^55931516^Orta, Phil^08/19/82^IP, INDIGO JOHN
+
+The patient was interviewed and examined by the resident.  He 
+
+was also interviewed and examined by me.  Resident's note
+
+reviewed by me.  The patient's medical management was discussed
+
+with the resident.
+
+CHIEF COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 59-year-old male
+
+who presents to Mamaroneck Health Emergency Department on
+
+08/19/2082.  He has history of coronary artery disease and status
+
+post cardiac catheterization in 2062, now presents with dyspnea
+
+on exertion worsening during throughout this week.  No PND, no
+
+pedal edema, no fevers or chills, no nausea or vomiting, no chest
+
+pain, no dysuria, no dyspnea at rest, and no pleuritic chest
+
+pain.
+
+PAST MEDICAL HISTORY:  Hypertension and coronary disease; has had
+
+a negative stress test in 2080.
+
+SOCIAL HISTORY:  Past tobacco use, occasional ETOH, no IV drug
+
+abuse.  He is unemployed and lives alone.
+
+SURGICAL HISTORY AND FAMILY HISTORY:  Noncontributory.
+
+REVIEW OF SYSTEMS, MEDICATIONS, AND ALLERGIES:  As noted in the
+
+patient's chart.
+
+PHYSICAL EXAMINATION:  The patient is awake and alert, in no
+
+acute distress.  Temperature 97, pulse 63, respiratory rate 20,
+
+blood pressure 134/64, and O2 sat 98% on room air.  HEENT: 
+
+Atraumatic.  ENT, normal inspection.  Pharynx is normal.  Neck is
+
+supple and nontender.  Respiratory exam:  Chest wall is
+
+nontender, normal breath sounds bilaterally.  Cardiac exam: 
+
+Regular rate and rhythm, no murmur, normal pulses throughout. 
+
+Abdomen is soft and nontender.  Skin is warm, dry, and intact. 
+
+No lesions or rashes.  Extremities are nontender.  No clubbing,
+
+cyanosis, or edema.  Neurologic exam: Cranial nerves II-XII
+
+intact bilaterally.  No motor or sensory deficits.  The patient
+
+has a foot drop on the left.
+
+LABORATORY DATA:  Significant for white count of 6.3, hematocrit
+
+39.9, sodium 136, potassium 4.9, chloride 102, bicarbonate 26,
+
+BUN 17, creatinine 1.1, and glucose is 73.  First troponin is
+
+less than assay.  The patient has a CK of 1028; has persistent
+
+elevated high CKs.  UA is negative.  Urine tox negative.  EKG
+
+shows first-degree AV block, sinus rhythm, otherwise no acute
+
+ST-T wave changes.  Chest x-ray is negative.
+
+PRIMARY DIAGNOSIS:  Dyspnea on exertion, concern for this being a
+
+ ******** Not reviewed by Attending Physician ********
+
+coronary artery disease history.
+
+DISPOSITION:  The patient is being admitted to ED Observation for
+
+rule out MI by enzymes and for exercise stress test.  I reviewed
+
+and confirmed the findings with Dr. Irizarry who is the resident
+
+taking care of the patient with me.
+
+______________________________
+
+IP, INDIGO JOHN M.D.
+
+D: 08/19/82
+
+T: 08/19/82
+
+Dictated By: IP, INDIGO JOHN
+
+eScription document:2-6098361 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="799" end="811" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="799" end="811" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="799" end="811" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="799" end="811" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="799" end="811" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="799" end="811" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="475" end="498" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="2398" end="2421" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="464" end="498" text="history of coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="475" end="499" text="coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC4" time="during DCT" indicator="mention">
+      <CAD id="C4" start="475" end="498" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="2398" end="2421" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="464" end="498" text="history of coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="475" end="499" text="coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC7" time="after DCT" indicator="mention">
+      <CAD id="C8" start="475" end="498" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="2398" end="2421" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="464" end="498" text="history of coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="2398" end="2430" text="coronary artery disease history." time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="475" end="499" text="coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="past">
+      <SMOKER id="S0" start="893" end="909" text="Past tobacco use" status="past" comment=""/>
+      <SMOKER id="S1" start="892" end="909" text=" Past tobacco use" status="past" comment=""/>
+      <SMOKER id="S2" start="893" end="905" text="Past tobacco" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

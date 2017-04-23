@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-04-23
+
+
+
+Carolyn Huntington Bailey Health Center
+
+592 Kristina Street                                        XIA, JEAN
+
+North East, AL 81699                            58269151
+
+(375) 512-0897                                            04/23/76
+
+
+SUBJECTIVE:  The patient comes in today for followup of various problems.  She has hypertension.  She reports she ran out of medication she received yesterday for refills but has not gotten them yet.  She brings in her medication bottles.  Apparently, for her blood pressure, she is taking Norvasc and Cozaar, for her diabetes she is taking Glucotrol and Glucophage.
+
+
+
+Regarding her diabetes, she says her fasting sugar are somewhere around 90.  Her last hemoglobin A1c was in 11/2075 and was 6.4%.  Her hypertension, she has been out of medication for three or four day, but she generally reports is well controlled.  She does not know why she was on atenolol, but has been taking it.  She has no complaints.
+
+
+
+She does complain of lower back pain.  She says she has had this for many many years.  She underwent physical therapy last year which was at Schroder Hospital.  She says she has no trauma.  She has pain across the lower back.  She rates it 8/10.  She has it everyday and radiates down to her right leg.  It has been worse recently.  She takes Aleve with minimal relief.  She says that she wants a speciality referral.
+
+
+
+REVIEW OF SYSTEMS:  She has no chest pain or pressure, palpitations, pedal edema.  She has no shortness of breath, cough, or wheezing.  She has no urinary frequency or urgency.  She has no nausea or vomiting, no diarrhea, heartburn or abdominal pain.
+
+
+
+Medications
+
+Cozaar (LOSARTAN) 100 MG PO QD , NEEDS TO MAKE AN APPOINTMENT
+
+Glucophage (METFORMIN) 1000 MG take bid bid PO BID 
+
+Norvasc (AMLODIPINE) 10 MG take 1 Tablet(s) PO QD 
+
+Glucotrol XL (GLIPIZIDE XL) 5 MG take qd Tablet(s) PO QD 
+
+Ultram (TRAMADOL) 50 MG (50MG TABLET take 1) PO Q6H PRN pain 
+
+Skelaxin (METAXALONE) 800 MG (800MG TABLET take 1) PO TID PRN muscle pain 
+
+
+
+
+
+Problems
+
+Diabetes 
+
+HX kidney stones 
+
+Perimenopausal sx 
+
+Hypertension 
+
+
+
+
+
+Allergies
+
+Clonidine Hcl - Sleepiness, 
+
+Codeine - Rash, 
+
+
+
+
+
+Vital signs
+
+BP 174/100, P 72, Wt 163 lb 
+
+
+
+
+
+Gen: Well appearing in NAD
+
+ENT-Sclera were white, conjuctiva clear. The oropharynx was pink without exudate.  The neck was supple with out adenopathy.  
+
+LUNG- clear bilaterally, without rhonci, wheeze or rales, Normal excursion was noted.
+
+Cor- heart rate was normal, rhythm was regular.  No murmurs, gallops or rubs were detected
+
+ABD- soft, nontender, with bowel sounds present. No organomegaly was detected.
+
+Extremities:  no clubbing cyanosis or edema. No swelling or erythema was noted on joint examOn examination, there is pain on palpation of the lower lumbar region including over the sacroiliac area.  She has positive straight leg raise on the right.
+
+Skin- no abnormal lesions noted.
+
+
+
+ 
+
+MMP
+
+ASSESSMENT:
+
+1.  Hypertension, poorly controlled at this time.  We will have her start the Norvasc and Cozaar, have her return in two weeks for followup of blood pressure.
+
+2.  Diabetes.  I will check a hemoglobin A1c.  It is due, it has been six months.  I will have her continue Glucophage at this point.
+
+3.  Lower back pain.  I will obtain x-ray of the lower back.  We will have her see Orthopedics for evaluation of her back pain.
+
+
+
+
+
+______________________________
+
+Charles Moran, M.D.
+
+Dictated By: Charles Moran
+
+eScription document:0-0545950 SFFocus
+
+DD: 04/23/76
+
+DT: 04/24/76
+
+DV: 04/23/76
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M0" start="623" end="633" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1733" end="1755" text="Glucophage (METFORMIN)" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M2" start="623" end="633" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M3" start="623" end="633" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M4" start="623" end="633" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1733" end="1755" text="Glucophage (METFORMIN)" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="3218" end="3228" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="623" end="633" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="623" end="633" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="558" end="565" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1786" end="1805" text="Norvasc (AMLODIPINE" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="3028" end="3035" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="558" end="566" text="Norvasc " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M13" start="609" end="618" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="1838" end="1865" text="Glucotrol XL (GLIPIZIDE XL)" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M15" start="609" end="618" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M16" start="558" end="565" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1786" end="1805" text="Norvasc (AMLODIPINE" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="558" end="566" text="Norvasc " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M19" start="609" end="618" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="1838" end="1865" text="Glucotrol XL (GLIPIZIDE XL)" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M21" start="609" end="618" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M22" start="921" end="929" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="921" end="929" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M24" start="570" end="576" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M25" start="1670" end="1687" text="Cozaar (LOSARTAN)" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M26" start="570" end="576" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M27" start="570" end="576" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M28" start="623" end="633" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1733" end="1755" text="Glucophage (METFORMIN)" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M30" start="623" end="633" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M31" start="623" end="633" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M32" start="609" end="618" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M33" start="1838" end="1865" text="Glucotrol XL (GLIPIZIDE XL)" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M34" start="609" end="618" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M35" start="609" end="619" text="Glucotrol " time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M36" start="558" end="565" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1786" end="1805" text="Norvasc (AMLODIPINE" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="558" end="565" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M39" start="558" end="566" text="Norvasc " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M40" start="921" end="929" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="921" end="929" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="921" end="929" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="921" end="929" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M44" start="570" end="576" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M45" start="1670" end="1687" text="Cozaar (LOSARTAN)" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M46" start="3040" end="3046" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M47" start="570" end="576" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M48" start="570" end="576" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M49" start="1670" end="1687" text="Cozaar (LOSARTAN)" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M50" start="570" end="576" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="351" end="363" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="773" end="785" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2100" end="2112" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="2954" end="2966" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="351" end="363" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="351" end="363" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H6" start="2195" end="2205" text="BP 174/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="2195" end="2205" text="BP 174/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="2195" end="2205" text="BP 174/100" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="351" end="363" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="773" end="785" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="2100" end="2112" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="2954" end="2966" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="351" end="363" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="351" end="363" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H15" start="351" end="363" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="773" end="785" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H17" start="2100" end="2112" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H18" start="2954" end="2966" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H19" start="351" end="363" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H20" start="351" end="363" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="268" end="278" text="SUBJECTIVE" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="652" end="660" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="2050" end="2058" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="3114" end="3122" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="586" end="594" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="586" end="594" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="651" end="660" text=" diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="652" end="660" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2050" end="2058" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="3114" end="3122" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="586" end="594" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="586" end="594" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="651" end="660" text=" diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC21" time="after DCT" indicator="mention">
+      <DIABETES id="D12" start="652" end="660" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="2050" end="2058" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="3114" end="3122" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="586" end="594" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D16" start="586" end="594" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D17" start="651" end="660" text=" diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

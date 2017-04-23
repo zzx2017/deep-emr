@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-09-06
+
+
+Vascular Surgery H&P
+Date 09/06/78
+
+Name:  Richard, Ulysses
+Medical Record: 8913196
+Attending:  Snyder
+
+History of Present Illness:  Mr Ulysses is an 85 yom with h/p PVD s/p multiple bilateral lower extremity revascularizations and a non-healing wound on the RLE.  Most recently, he had undergone Rle necrotic ulcer debridement (07/78),R CFA to distal anterior tibial BPG on 05/78.  The wound was overlying the BPG.  He was made NWB on R, with VAC dressing applied to the wound to be changed twice weekly.  He has been followed in clinic.  Though he was noted to have good granulation tissue during his hospitalization one month ago, recently his wound has been concerning for non-healing.  In clinic, his RLE is ischemic, and there is a concern for wound infection.
+The patient reports that the proximal aspect of his wound had pregressive breakdown over the past 2-3 weeks, with associated increase in pain, especially with VAC changes.  He says that he could no longer feel a palpable graft pulse as he could just after the surgery.  His foot became increasingly discolored, and his toe became necrotic after some minor trauma without response to silvadene.
+No fevers, chills, nausea, vomiting.
+
+Past Medical History:
+CAD, Htn, CRI (Cr 1.8 at baseline), DM, PVD, Carotid Stenosis s/p R CEA 3/73, CHF, AF, Nephrolithiasis, Spinal Stenosis
+
+Past Surgical History: 
+RLE wound debridement 2078
+R CFA to distal anterior tibial in-situ saphenous BPG 2078
+L fem/pop/peroneal BPG redo 2074
+L fem/pop BPG 2073
+R CEA
+
+Allergies:
+ASA   GI intolerance
+
+Medications:  
+Lasix 40 po qd
+Ipatropium inh
+Norvasc 10 bid
+KCL 20 QD
+Zocor 20 mg po qhs
+Fentanyl patch
+Doxazosin 2mg po qhs
+Nitroglycerine patch 0.2mg/h
+Lopressor 12.5 po bid
+Nexium 40 mg po qd
+Lexapro 10 mg po qd
+ASA 325 mg po qd
+Glyburide 5mg po qd
+Percocet prn
+Ativan 0.5 mg po bid prn
+
+Social history:  Denies tobacco use in past or currently.  Alcohol 1 glass wine every few weeks.
+
+		 
+Physical Exam: 
+T= 97.9 P=101 BP= 131/70 RR=  16 96% RA
+CV: reg
+Pulm: clear
+Pulses: 		
+Femoral	L: 1+	R: 1+					Pop	L: 1+	R: 1+
+DP: 	L: np	R: np
+PT 	L: np  	R: np
+RLE cool ~15cm below knee, wound of medial leg, with erythema and breakdown
+healed medial saphenous harvest wound
+foot dusky, poor cap refill, necrotic 1st toe
+LLE warm, healed medial saphenous harvest wound, OK cap refill
+
+Recent studies:
+Labs: Pending
+
+
+CXR: pending
+
+Impression/Plan: Ischemic RLE
+Admit to Vascular Service, Dr. Matthew Snyder attending
+Send wound culture, start vancomycin empirically
+Plan for R BKA on 09/08
+This has been discussed with Dr. Jackson Roth, Vascular Surgery Fellow
+
+
+_________________________________________
+Julia Jorgenson, MD, Vascular surgery , Junior Resident
+Pager # 04873
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1643" end="1648" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1643" end="1648" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1643" end="1648" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1788" end="1791" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1788" end="1791" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1788" end="1791" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1788" end="1791" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1788" end="1791" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1788" end="1791" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M9" start="1698" end="1712" text="Nitroglycerine" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M10" start="1698" end="1712" text="Nitroglycerine" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M11" start="1698" end="1712" text="Nitroglycerine" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="1698" end="1712" text="Nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="1698" end="1712" text="Nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="1698" end="1712" text="Nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M15" start="1618" end="1625" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1618" end="1625" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1618" end="1625" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M18" start="1805" end="1814" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M19" start="1805" end="1814" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="1805" end="1814" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M21" start="1618" end="1625" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1618" end="1625" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1618" end="1625" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M24" start="1805" end="1814" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M25" start="1805" end="1814" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="1805" end="1814" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M27" start="1727" end="1736" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="1727" end="1736" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1727" end="1736" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M30" start="1643" end="1648" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1643" end="1648" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1643" end="1648" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M33" start="1643" end="1648" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1643" end="1648" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1643" end="1648" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M36" start="1788" end="1791" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M37" start="1788" end="1791" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M38" start="1788" end="1791" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M39" start="1698" end="1712" text="Nitroglycerine" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M40" start="1698" end="1712" text="Nitroglycerine" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M41" start="1698" end="1712" text="Nitroglycerine" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M42" start="1805" end="1814" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M43" start="1805" end="1814" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M44" start="1805" end="1814" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M45" start="1618" end="1625" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="1618" end="1625" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M47" start="1618" end="1625" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M48" start="1727" end="1736" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="1727" end="1736" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M50" start="1727" end="1736" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC27" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M51" start="1727" end="1736" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M52" start="1727" end="1736" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M53" start="1727" end="1736" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1255" end="1258" text="Htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1255" end="1258" text="Htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1255" end="1258" text="Htn" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1255" end="1258" text="Htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1255" end="1258" text="Htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1255" end="1258" text="Htn" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC25" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1255" end="1258" text="Htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1255" end="1258" text="Htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1255" end="1258" text="Htn" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC14" time="after DCT" indicator="mention">
+      <CAD id="C0" start="1250" end="1253" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1250" end="1253" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1250" end="1253" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC18" time="during DCT" indicator="mention">
+      <CAD id="C3" start="1250" end="1253" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="1250" end="1253" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1250" end="1253" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC28" time="before DCT" indicator="mention">
+      <CAD id="C6" start="1250" end="1253" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="1250" end="1253" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="1250" end="1253" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC21" status="never">
+      <SMOKER id="S0" start="1881" end="1896" text="Denies tobacco " status="never" comment=""/>
+      <SMOKER id="S1" start="1881" end="1920" text="Denies tobacco use in past or currently" status="never" comment=""/>
+      <SMOKER id="S2" start="1881" end="1920" text="Denies tobacco use in past or currently" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1286" end="1288" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1286" end="1288" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1286" end="1288" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="1286" end="1288" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1286" end="1288" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1286" end="1288" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1286" end="1288" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1286" end="1288" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1286" end="1288" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

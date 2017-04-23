@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-05-11
+
+Patient Name:  Urban, Russell
+
+Patient ID:  472-20-64
+
+Provider Name:  Orozco, Jimmy
+
+Date of Visit:  05/11/2094
+
+Visit Type:  Return Visit
+
+
+
+
+
+John Ussery, M.D.
+
+Worthington Internal Medicine
+
+28 Shattuck Street, IM 270
+
+Citrus Ridge, MT 43782
+
+
+
+Dear Dr. Ussery:
+
+
+
+I saw Mr. Urban in follow-up in the office today.  Since his last visit in November, he has been feeling well.  He has had no angina, no exertional dyspnea, no shortness of breath, no orthopnea, no paroxysmal nocturnal dyspnea, no palpitations, and no other symptoms of note.  Since his last visit with me, he has participated in and completed outpatient cardiac rehabilitation.  He found this program to be very helpful; he sis very well with the program.  He is currently exercising on a regular basis and has no chest discomfort of dyspnea with exercise.  He has stopped smoking.  There have been no difficulties with his medications.  
+
+
+
+On 03/16/2094, he had a follow-up echocardiogram done; this study shows an LV ejection fraction of 37% with septal hypokinesis and inferoposterior akinesis; there is trace mitral regurgitation; and aortic sclerosis, but no stenosis.  Notably, he has a right ventricular systolic pressure estimated to be 46 mmHg with a right ventricle that is mildly dilated and mildly-to-moderately hypokinetic.  He has been feeling quite well and has no other symptoms.
+
+
+
+His review of systems is as above and is otherwise negative in detail.
+
+
+
+Medications:
+
+Aspirin 325 mg daily
+
+Plavix 75 mg daily 
+
+Lipitor 40 mg daily
+
+lisinopril 10 mg daily
+
+Coreg 6.25 mg daily.
+
+
+
+
+
+Physical examination:
+
+He appears quite well and is in no apparent distress.  His blood pressure is 112/60 mmHg and his pulse rate is 50 beats per minutes and regular.  His JVP is 7 cm of water with no Kussmaul's sign.  His chest is clear to auscultation bilaterally.  His heart is regular in rhythm and rate with a normal S1 and S2.  He has no S3 or S4 gallop and no audible murmurs.  His abdomen is soft.  It is neither tender nor distended.  He has normal bowel sounds.  His extremities are warm and well perfused.  He has no edema.
+
+
+
+Impression:  This is a 50 year-old man with coronary disease who suffered an inferoposterior myocardial infarction in July 2093.  Additionally, he was also found to have cardiomyopathy with an LV ejection fraction of 37 percent.  He is currently asymptomatic from his coronary disease and his LV dysfunction.  Notably, his last echocardiogram shows that he has increased RV systolic pressure and some early right ventricular dysfunction.  The etiology of this right ventricular dysfunction is not clear.  There is likely a component of left heart failure.  In addition, he may have right heart failure out-of-proportion to left heart failure: he has a longstanding smoking history and may have a degree of COPD and, lastly, he may have obstructive sleep apnea.  He reports to me that he does snore at night, and his first wife in Georgia had told him for many years that during the night he had periods were he would stop breathing.  This raises obstructive sleep apnea as a consideration.  
+
+
+
+Recommendations: Initially, I am going to start him on Lasix 20 mg daily to lower his preload to help with any component of LV failure that is leading to this.  The rest of his regimen is quite good, and I intend to continue them.  To help to see if there is any component of cor pulmonale that may be contributing to this, I am going to obtain first a chest x-ray, secondly a pulmonary function testing, and lastly a sleep study.  If indeed we find components of obstructive lung disease or obstructive sleep apnea, we will have him see a pulmonologist and treat these accordingly.  I will see him again in six months' time.
+
+
+
+Thank you for allowing me to participate in the care of this pleasant gentleman.
+
+
+
+Regards,
+
+
+
+
+
+
+
+
+
+__________________________
+
+Jimmy J. Orozco M.D.
+
+Internal Medicine
+
+Worthington Regional Hospital
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1550" end="1560" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1550" end="1560" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1550" end="1560" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1529" end="1536" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1529" end="1536" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1529" end="1536" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1486" end="1493" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1486" end="1493" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1486" end="1493" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M9" start="1508" end="1515" text="Plavix " time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M10" start="1508" end="1514" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M11" start="1508" end="1514" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="1550" end="1560" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="1550" end="1560" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="1550" end="1560" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M15" start="1550" end="1560" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="1550" end="1560" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="1550" end="1560" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="1486" end="1493" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1486" end="1493" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1486" end="1493" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M21" start="1508" end="1515" text="Plavix " time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M22" start="1508" end="1514" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M23" start="1508" end="1514" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1574" end="1580" text="Coreg " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1574" end="1579" text="Coreg" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1574" end="1579" text="Coreg" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="1529" end="1536" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1529" end="1536" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1529" end="1536" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M30" start="1529" end="1536" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1529" end="1536" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1529" end="1536" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M33" start="1486" end="1493" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1486" end="1493" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1486" end="1493" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M36" start="1508" end="1515" text="Plavix " time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M37" start="1508" end="1514" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M38" start="1508" end="1514" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="1574" end="1580" text="Coreg " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1574" end="1579" text="Coreg" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="1574" end="1579" text="Coreg" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="1574" end="1580" text="Coreg " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1574" end="1579" text="Coreg" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1574" end="1579" text="Coreg" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC10" time="after DCT" indicator="mention">
+      <CAD id="C0" start="2183" end="2199" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="2183" end="2199" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="2183" end="2199" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC14" time="during DCT" indicator="mention">
+      <CAD id="C3" start="2183" end="2199" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="2183" end="2199" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="2183" end="2199" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC16" time="before DCT" indicator="event">
+      <CAD id="C6" start="2232" end="2253" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="2213" end="2266" text="an inferoposterior myocardial infarction in July 2093" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C8" start="2216" end="2268" text="inferoposterior myocardial infarction in July 2093. " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C9" start="2309" end="2323" text="cardiomyopathy" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC20" time="before DCT" indicator="mention">
+      <CAD id="C10" start="2183" end="2199" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="2183" end="2199" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="2183" end="2199" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="past">
+      <SMOKER id="S0" start="863" end="878" text="stopped smoking" status="past" comment=""/>
+      <SMOKER id="S1" start="863" end="878" text="stopped smoking" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

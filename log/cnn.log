@@ -1,0 +1,142 @@
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_1 (Embedding)      (None, 922, 32)           977632    
+_________________________________________________________________
+conv1d_1 (Conv1D)            (None, 922, 64)           6208      
+_________________________________________________________________
+max_pooling1d_1 (MaxPooling1 (None, 461, 64)           0         
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 29504)             0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 254)               7494270   
+_________________________________________________________________
+dense_2 (Dense)              (None, 38)                9690      
+=================================================================
+Total params: 8,487,800.0
+Trainable params: 8,487,800.0
+Non-trainable params: 0.0
+
+Cost function: categorical_crossentropy
+Optimizer: adam
+Number of epoches: 60
+Batch size: 32
+
+[{'class_name': 'Embedding', 'config': {'name': 'embedding_1', 'trainable': True, 'batch_input_shape': (None, 922), 'dtype': 'int32', 'input_dim': 30551, 'output_dim': 32, 'embeddings_initializer': {'class_name': 'RandomUniform', 'config': {'minval': -0.05, 'maxval': 0.05, 'seed': None}}, 'embeddings_regularizer': None, 'activity_regularizer': None, 'embeddings_constraint': None, 'mask_zero': False, 'input_length': 922}},
+{'class_name': 'Conv1D', 'config': {'name': 'conv1d_1', 'trainable': True, 'filters': 64, 'kernel_size': (3,), 'strides': (1,), 'padding': 'same', 'dilation_rate': (1,), 'activation': 'relu', 'use_bias': True, 'kernel_initializer': {'class_name': 'VarianceScaling', 'config': {'scale': 1.0, 'mode': 'fan_avg', 'distribution': 'uniform', 'seed': None}}, 'bias_initializer': {'class_name': 'Zeros', 'config': {}}, 'kernel_regularizer': None, 'bias_regularizer': None, 'activity_regularizer': None, 'kernel_constraint': None, 'bias_constraint': None}},
+{'class_name': 'MaxPooling1D', 'config': {'name': 'max_pooling1d_1', 'trainable': True, 'strides': (2,), 'pool_size': (2,), 'padding': 'valid'}},
+{'class_name': 'Flatten', 'config': {'name': 'flatten_1', 'trainable': True}}
+{'class_name': 'Dense', 'config': {'name': 'dense_1', 'trainable': True, 'units': 254, 'activation': 'relu', 'use_bias': True, 'kernel_initializer': {'class_name': 'VarianceScaling', 'config': {'scale': 1.0, 'mode': 'fan_avg', 'distribution': 'uniform', 'seed': None}}, 'bias_initializer': {'class_name': 'Zeros', 'config': {}}, 'kernel_regularizer': None, 'bias_regularizer': None, 'activity_regularizer': None, 'kernel_constraint': None, 'bias_constraint': None}},
+{'class_name': 'Dense', 'config': {'name': 'dense_2', 'trainable': True, 'units': 38, 'activation': 'sigmoid', 'use_bias': True, 'kernel_initializer': {'class_name': 'VarianceScaling', 'config': {'scale': 1.0, 'mode': 'fan_avg', 'distribution': 'uniform', 'seed': None}}, 'bias_initializer': {'class_name': 'Zeros', 'config': {}}, 'kernel_regularizer': None, 'bias_regularizer': None, 'activity_regularizer': None, 'kernel_constraint': None, 'bias_constraint': None}}]
+
+Train on 5354 samples, validate on 5354 samples
+
+[2879 1893 1451]
+{'recall': 0.66489607390300232, 'precision': 0.60331098072087175, 'f1': 0.63260821797407163}
+
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_1 (Embedding)      (None, 922, 32)           977632    
+_________________________________________________________________
+conv1d_1 (Conv1D)            (None, 922, 64)           6208      
+_________________________________________________________________
+max_pooling1d_1 (MaxPooling1 (None, 461, 64)           0         
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 29504)             0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 254)               7494270   
+_________________________________________________________________
+dense_2 (Dense)              (None, 38)                9690      
+=================================================================
+Total params: 8,487,800
+Trainable params: 8,487,800
+Non-trainable params: 0
+
+Cost function: categorical_crossentropy
+Optimizer: adam
+Number of epoches: 100
+Batch size: 32
+
+[{'class_name': 'Embedding', 'config': {'embeddings_regularizer': None, 'name': 'embedding_1', 'activity_regularizer': None, 'mask_zero': False, 'batch_input_shape': (None, 922), 'embeddings_constraint': None, 'trainable': True, 'dtype': 'int32', 'output_dim': 32, 'input_dim': 30551, 'input_length': 922, 'embeddings_initializer': {'class_name': 'RandomUniform', 'config': {'seed': None, 'minval': -0.05, 'maxval': 0.05}}}},
+{'class_name': 'Conv1D', 'config': {'dilation_rate': (1,), 'bias_initializer': {'class_name': 'Zeros', 'config': {}}, 'kernel_size': (3,), 'use_bias': True, 'name': 'conv1d_1', 'padding': 'same', 'filters': 64, 'activation': 'relu', 'kernel_initializer': {'class_name': 'VarianceScaling', 'config': {'seed': None, 'mode': 'fan_avg', 'scale': 1.0, 'distribution': 'uniform'}}, 'bias_regularizer': None, 'trainable': True, 'kernel_regularizer': None, 'strides': (1,), 'kernel_constraint': None, 'activity_regularizer': None, 'bias_constraint': None}},
+{'class_name': 'MaxPooling1D', 'config': {'trainable': True, 'strides': (2,), 'pool_size': (2,), 'padding': 'valid', 'name': 'max_pooling1d_1'}},
+{'class_name': 'Flatten', 'config': {'trainable': True, 'name': 'flatten_1'}},
+{'class_name': 'Dense', 'config': {'bias_initializer': {'class_name': 'Zeros', 'config': {}}, 'use_bias': True, 'name': 'dense_1', 'kernel_constraint': None, 'activation': 'relu', 'kernel_initializer': {'class_name': 'VarianceScaling', 'config': {'seed': None, 'mode': 'fan_avg', 'scale': 1.0, 'distribution': 'uniform'}}, 'bias_regularizer': None, 'trainable': True, 'units': 254, 'kernel_regularizer': None, 'activity_regularizer': None, 'bias_constraint': None}},
+{'class_name': 'Dense', 'config': {'bias_initializer': {'class_name': 'Zeros', 'config': {}}, 'use_bias': True, 'name': 'dense_2', 'kernel_constraint': None, 'activation': 'sigmoid', 'kernel_initializer': {'class_name': 'VarianceScaling', 'config': {'seed': None, 'mode': 'fan_avg', 'scale': 1.0, 'distribution': 'uniform'}}, 'bias_regularizer': None, 'trainable': True, 'units': 38, 'kernel_regularizer': None, 'activity_regularizer': None, 'bias_constraint': None}}]
+
+Train on 5354 samples, validate on 5354 samples
+
+[2904 1910 1426]
+{'recall': 0.67066974595842954, 'precision': 0.60324054840049857, 'f1': 0.63517060367454059}
+
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_1 (Embedding)      (None, 922, 32)           977632    
+_________________________________________________________________
+conv1d_1 (Conv1D)            (None, 922, 64)           6208      
+_________________________________________________________________
+max_pooling1d_1 (MaxPooling1 (None, 461, 64)           0         
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 29504)             0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 254)               7494270   
+_________________________________________________________________
+dense_2 (Dense)              (None, 38)                9690      
+=================================================================
+Total params: 8,487,800
+Trainable params: 8,487,800
+Non-trainable params: 0
+
+Cost function: categorical_crossentropy
+Optimizer: adam
+Number of epoches: 300
+Batch size: 32
+
+[{'class_name': 'Embedding', 'config': {'embeddings_regularizer': None, 'name': 'embedding_1', 'activity_regularizer': None, 'mask_zero': False, 'batch_input_shape': (None, 922), 'embeddings_constraint': None, 'trainable': True, 'dtype': 'int32', 'output_dim': 32, 'input_dim': 30551, 'input_length': 922, 'embeddings_initializer': {'class_name': 'RandomUniform', 'config': {'seed': None, 'minval': -0.05, 'maxval': 0.05}}}},
+{'class_name': 'Conv1D', 'config': {'dilation_rate': (1,), 'bias_initializer': {'class_name': 'Zeros', 'config': {}}, 'kernel_size': (3,), 'use_bias': True, 'name': 'conv1d_1', 'padding': 'same', 'filters': 64, 'activation': 'relu', 'kernel_initializer': {'class_name': 'VarianceScaling', 'config': {'seed': None, 'mode': 'fan_avg', 'scale': 1.0, 'distribution': 'uniform'}}, 'bias_regularizer': None, 'trainable': True, 'kernel_regularizer': None, 'strides': (1,), 'kernel_constraint': None, 'activity_regularizer': None, 'bias_constraint': None}},
+{'class_name': 'MaxPooling1D', 'config': {'trainable': True, 'strides': (2,), 'pool_size': (2,), 'padding': 'valid', 'name': 'max_pooling1d_1'}},
+{'class_name': 'Flatten', 'config': {'trainable': True, 'name': 'flatten_1'}},
+{'class_name': 'Dense', 'config': {'bias_initializer': {'class_name': 'Zeros', 'config': {}}, 'use_bias': True, 'name': 'dense_1', 'kernel_constraint': None, 'activation': 'relu', 'kernel_initializer': {'class_name': 'VarianceScaling', 'config': {'seed': None, 'mode': 'fan_avg', 'scale': 1.0, 'distribution': 'uniform'}}, 'bias_regularizer': None, 'trainable': True, 'units': 254, 'kernel_regularizer': None, 'activity_regularizer': None, 'bias_constraint': None}},
+{'class_name': 'Dense', 'config': {'bias_initializer': {'class_name': 'Zeros', 'config': {}}, 'use_bias': True, 'name': 'dense_2', 'kernel_constraint': None, 'activation': 'sigmoid', 'kernel_initializer': {'class_name': 'VarianceScaling', 'config': {'seed': None, 'mode': 'fan_avg', 'scale': 1.0, 'distribution': 'uniform'}}, 'bias_regularizer': None, 'trainable': True, 'units': 38, 'kernel_regularizer': None, 'activity_regularizer': None, 'bias_constraint': None}}]
+
+Train on 5354 samples, validate on 5354 samples
+
+[3426 3793  904]
+{'recall': 0.79122401847575052, 'precision': 0.47458096689292145, 'f1': 0.59329812104944146}
+
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_1 (Embedding)      (None, 922, 100)          3055100   
+_________________________________________________________________
+conv1d_1 (Conv1D)            (None, 922, 64)           19264     
+_________________________________________________________________
+max_pooling1d_1 (MaxPooling1 (None, 461, 64)           0         
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 29504)             0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 254)               7494270   
+_________________________________________________________________
+dense_2 (Dense)              (None, 38)                9690      
+=================================================================
+Total params: 10,578,324
+Trainable params: 10,578,324
+Non-trainable params: 0
+
+Cost function: categorical_crossentropy
+Optimizer: adam
+Number of epoches: 60
+Batch size: 32
+
+[{'config': {'trainable': True, 'input_length': 922, 'output_dim': 100, 'dtype': 'int32', 'embeddings_constraint': None, 'activity_regularizer': None, 'mask_zero': False, 'name': 'embedding_1', 'embeddings_regularizer': None, 'input_dim': 30551, 'batch_input_shape': (None, 922), 'embeddings_initializer': {'config': {'seed': None, 'minval': -0.05, 'maxval': 0.05}, 'class_name': 'RandomUniform'}}, 'class_name': 'Embedding'}, 
+{'config': {'trainable': True, 'bias_regularizer': None, 'bias_initializer': {'config': {}, 'class_name': 'Zeros'}, 'padding': 'same', 'strides': (1,), 'bias_constraint': None, 'activity_regularizer': None, 'name': 'conv1d_1', 'filters': 64, 'kernel_regularizer': None, 'kernel_constraint': None, 'activation': 'relu', 'use_bias': True, 'kernel_size': (3,), 'kernel_initializer': {'config': {'mode': 'fan_avg', 'scale': 1.0, 'seed': None, 'distribution': 'uniform'}, 'class_name': 'VarianceScaling'}, 'dilation_rate': (1,)}, 'class_name': 'Conv1D'}, 
+{'config': {'padding': 'valid', 'trainable': True, 'strides': (2,), 'name': 'max_pooling1d_1', 'pool_size': (2,)}, 'class_name': 'MaxPooling1D'}, 
+{'config': {'trainable': True, 'name': 'flatten_1'}, 'class_name': 'Flatten'}, 
+{'config': {'trainable': True, 'bias_regularizer': None, 'bias_initializer': {'config': {}, 'class_name': 'Zeros'}, 'bias_constraint': None, 'activity_regularizer': None, 'name': 'dense_1', 'kernel_regularizer': None, 'kernel_constraint': None, 'activation': 'relu', 'use_bias': True, 'kernel_initializer': {'config': {'mode': 'fan_avg', 'scale': 1.0, 'seed': None, 'distribution': 'uniform'}, 'class_name': 'VarianceScaling'}, 'units': 254}, 'class_name': 'Dense'}, 
+{'config': {'trainable': True, 'bias_regularizer': None, 'bias_initializer': {'config': {}, 'class_name': 'Zeros'}, 'bias_constraint': None, 'activity_regularizer': None, 'name': 'dense_2', 'kernel_regularizer': None, 'kernel_constraint': None, 'activation': 'sigmoid', 'use_bias': True, 'kernel_initializer': {'config': {'mode': 'fan_avg', 'scale': 1.0, 'seed': None, 'distribution': 'uniform'}, 'class_name': 'VarianceScaling'}, 'units': 38}, 'class_name': 'Dense'}]
+
+[2942 2470 1388]
+{'recall': 0.67944572748267895, 'precision': 0.54360679970436065, 'f1': 0.60398275508109212}
+

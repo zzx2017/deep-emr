@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2098-12-10
+
+
+
+	059-57-26
+
+	Emery, Donn
+
+
+
+December 10, 2098  Endocrine/Diabetes
+
+
+
+Present Illness:  
+
+Asked to see this 89 year old patient of Drs. Pina and Keefe, admitted with an acute exacerbation of congestive heart failure in the context of severe aortic stenosis and less attention to diet at the time of his wife's death last week. He is approaching probable AVR and ? CABG. 
+
+
+
+He has had diabetes since age 50. He was treated with diet initially, then chlorpropamide (100 mg bid at the time of admission) to which metformin (1000 mg bid at the time of admission) was added. His recent A1c was 6.5 %. He denies hypoglycemia and does not have hyponatremia. His creatinine is 1.5. He has never used insulin until this admission, when his oral agents were stopped and Lantus begun.
+
+Retinopathy:	Reports that he does have retinopathy, but lost vision OD to macular degeneration. He is followed by Dr. Valentine and Dr. Wilkes, and reports that he has had laser treatment by Dr. Valentine.
+
+Nephropathy:	BUN/Cr 42/1.5 
+
+Neuropathy:	Decreased sensation in feet and hands. Notes that he has had flat feet all of his life and does not recall any acute painful episode in L foot.
+
+Cardiac:	above
+
+Vascular:	No claudication
+
+
+
+Pre-op evaluation has included colonoscopy and EGD because of guaiac positive stool. An incidental bladder mass is suspected on the basis of pelvic CT and ? cystoscopy is also planned.
+
+
+
+Past Medical History:  
+
+Surgery:	Lymphoma - treated with surgery and radiation therapy in 2077 or so
+
+	TURP
+
+	Tonsillectomy
+
+Medical:	Hypertension
+
+	Anemia
+
+	Asbestosis
+
+	Pulmonary nodule
+
+	Pulmonary fibrosis
+
+	GERD
+
+	Nephrolithiasis
+
+	Depression
+
+Allergies:	?? Sulfa - he thinks that he has had sulfa since the time he was labeled with an allergy to it but cannot recall details.	
+
+
+
+Family History:  
+
+MGF had diabetes.
+
+
+
+Social History: 
+
+His wife died last week of Alzheimer's Disease, several months following a fall.
+
+He is a Financial Senior Manager. After the successful treatment of his lymphoma at about age 68, he went back to school to study sociology.
+
+
+
+Review of Systems: above
+
+Review of systems is otherwise negative.
+
+
+
+Physical Exam:	
+
+Delightful elderly man in no distress.
+
+BP:   148/59		P:   64, regular
+
+Wt:   165 by history, down from maximum of 235		Ht: 5' 10     by his estimate, down from 6' 1.5   
+
+HEENT:	Anicteric. 
+
+Fundi:	Not examined
+
+Carotids:	2+,= with softly transmitted murmur
+
+Chest:	cleat\retinopathy
+
+Heart:	Normal S1; single S2..  No gallops.  3/6 systolic ejection murmur
+
+Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+
+Extremities:	1+ ankle edema. Pop 1-2+ R, 1+ L. No pedal pulses.  R foot has small plantar arch, but L has no arch and bony prominence in the location of plantar arch; there is also some deformity of the  L ankle.            
+
+Neurological:	AJ absent. 
+
+
+
+Impressions and Plan:	
+
+  	89 year old man with aortic stenosis, coronary artery disease, congestive heart failure and longstanding type 2 diabetes.
+
+  	His average control has apparently been good on the combination of chlorpropamide and metformin, although we cannot be sure of that in view of his anemia and the fact that he was not testing his glucose at home.
+
+  	Metformin is relatively contraindicated since his GRF is certainly diminished with creatinine 1.5 at age 89. 
+
+  	Lantus does not appear to be the right insulin for him. Would D/C it in favor of NPH 15 U in AM (watch carefully today since there is persistent Lantus effect). Check QID BS but cover with scale only before  breakfast and supper. I have not addressed the issue of long term insulin use with him, although it would be my first choice. Even at his age, I suspect that he would have no difficulty mastering it given his relatively youthful mind. Other alternatives would be sulfonylureas (if forced to use one, would choose glimepiride) and glitinides, for example repaglinide.
+
+
+
+Thanks. Will follow. 
+
+
+
+				Daniel M. Arce, M.D., Ph.D.
+
+
+
+
+
+      
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="3444" end="3448" text="NPH " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="3426" end="3447" text="/C it in favor of NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="3444" end="3447" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="540" end="550" text="metformin " time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="3119" end="3128" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="540" end="549" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="540" end="549" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M7" start="761" end="802" text="oral agents were stopped and Lantus begun" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="790" end="796" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M9" start="478" end="492" text="chlorpropamide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="3100" end="3114" text="chlorpropamide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="478" end="492" text="chlorpropamide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M12" start="478" end="492" text="chlorpropamide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2228" end="2241" text="BP:   148/59 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2228" end="2241" text="BP:   148/59 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="2228" end="2241" text="BP:   148/59 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1566" end="1578" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1566" end="1578" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1566" end="1578" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1566" end="1578" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1566" end="1578" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1566" end="1578" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1566" end="1578" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1566" end="1578" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1566" end="1578" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="2945" end="2968" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="2945" end="2968" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="2945" end="2969" text="coronary artery disease," time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC10" time="during DCT" indicator="mention">
+      <CAD id="C3" start="2945" end="2968" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="2945" end="2968" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="2945" end="2969" text="coronary artery disease," time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="after DCT" indicator="mention">
+      <CAD id="C6" start="2945" end="2968" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="2945" end="2968" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="2945" end="2969" text="coronary artery disease," time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="87" end="95" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="414" end="422" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="3012" end="3028" text="type 2 diabetes." time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="87" end="95" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="414" end="422" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="before DCT" indicator="A1C">
+      <DIABETES id="D5" start="610" end="624" text=" A1c was 6.5 %" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D6" start="604" end="624" text="recent A1c was 6.5 %" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D7" start="611" end="622" text="A1c was 6.5" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="87" end="95" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="414" end="422" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="3012" end="3028" text="type 2 diabetes." time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="87" end="95" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="414" end="422" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC16" time="during DCT" indicator="mention">
+      <DIABETES id="D13" start="87" end="95" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="414" end="422" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="3012" end="3028" text="type 2 diabetes." time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D16" start="87" end="95" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D17" start="414" end="422" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

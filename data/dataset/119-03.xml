@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-07-16
+
+
+
+
+NAME:    Curtis, Om 
+MRN:     7682941
+   
+He is feeling great.  He is all done with his radiation to the left axilla for metastatic
+squamous cell cancer.  He is following closely with the radiation oncologist and the
+medical oncologist.  He is seeing them both later this month.  He has had no
+problems with chest pains or shortness of breath.  All in all, things are going well.
+
+PHYSICAL EXAM:  On exam, no acute distress.  Lungs are clear.  Heart is regular
+rate and rhythm.  No murmurs, gallops or rubs.  He does have some skin
+discoloration around the left axilla but I feel no mass.  He has a well-healed incision. 
+There is no hair noted in or around the axilla.  Extremities with no edema.
+
+ASSESSMENT AND PLAN:  
+
+(1)  CAD/hypertension/diabetes mellitus.  This is stable.  Check glycosylated
+     hemoglobin. 
+
+(2)  Metastatic squamous cell cancer.  He is being followed closely by Oncology for
+     this.  Follow-up with me in the spring.
+
+William V. Geiger, M.D.
+
+WVG/xin/quilici
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="763" end="775" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="763" end="775" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="763" end="775" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="763" end="775" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="763" end="775" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="763" end="775" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="763" end="775" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="763" end="775" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="763" end="775" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="759" end="763" text="CAD/" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="759" end="762" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="759" end="762" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC5" time="during DCT" indicator="mention">
+      <CAD id="C3" start="759" end="763" text="CAD/" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="759" end="762" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="759" end="762" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC9" time="after DCT" indicator="mention">
+      <CAD id="C6" start="759" end="763" text="CAD/" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="759" end="762" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="759" end="762" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="776" end="793" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="776" end="793" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="776" end="784" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="776" end="793" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="776" end="793" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="776" end="784" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="776" end="793" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="776" end="793" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="776" end="784" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

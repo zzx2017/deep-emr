@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-01-10
+
+                     AH EMERGENCY DEPT VISIT
+ 
+BRANCH,EARNEST   530-23-69-1                      VISIT DATE: 01/10/82
+The patient was seen by me in the emergency department with Dr. 
+Whittaker.  The resident's note was reviewed and the patient was 
+interviewed and examined by me. 
+HISTORY OF PRESENTING COMPLAINT:  The patient is a very pleasant, 
+50 year-old gentleman who presents with gross hematemesis and 
+coffee-ground emesis.  He had it during the night and then this 
+morning developed coffee-grounds turned to red blood emesis.  He 
+denies any light-headedness, chest pain or abdominal pain.  He has 
+had some diarrhea over the last seven months, of unclear etiology. 
+No melena. 
+PAST MEDICAL HISTORY:  Chronic renal failure, myocardial 
+infarction, insulin dependent diabetes. 
+PHYSICAL EXAMINATION:  GENERAL:  The patient was hemodynamically 
+stable, well-appearing, nontoxic.  LUNGS:  Clear.  HEART:  Regular 
+rate and rhythm.  ABDOMEN:  Soft with tenderness to palpation in 
+the bilateral lower quadrants.  NG tube lavage showed 200 cc of 
+pink tinged fluid, cleared after 50 cc. 
+LABORATORY EVALUATION:  Hematocrit was 46, white count 11, 
+potassium 6.6, moderately hemolyzed.  BUN was 62, creatinine 6.9. 
+THERAPY RENDERED/COURSE IN ED:  The patient will be seen by the 
+renal service and admitted to the medical service.  The patient 
+will need dialysis and endoscopy tomorrow.  See resident's note for 
+details. 
+FINAL DIAGNOSIS:  Upper GI bleed. 
+DISPOSITION (including condition upon discharge):  The patient was 
+admitted in satisfactory condition. 
+___________________________________                    ED832/1818 
+CHRISTOPHER LEMUS, M.D.       CL58                         D:01/10/82 
+                                                       T:01/11/82 
+Dictated by:  CHRISTOPHER LEMUS, M.D.       CL58 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC1" time="before DCT" indicator="event">
+      <CAD id="C0" start="764" end="788" text=" myocardial  infarction," time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="765" end="787" text="myocardial  infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="765" end="787" text="myocardial  infarction" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="807" end="815" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="807" end="815" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="789" end="815" text="insulin dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="807" end="815" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="807" end="815" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="789" end="815" text="insulin dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="807" end="815" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="807" end="815" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="789" end="815" text="insulin dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

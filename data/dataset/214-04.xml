@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-11-18
+
+
+
+
+
+Spanish
+71 Dan Chan                                        OSWALDO AUSTIN, HENRY
+Angels City, NH 31731                                      64415974
+(729) 481-3539                                           11/18/96
+
+
+
+
+HISTORY OF PRESENT ILLNESS: 
+
+
+Mr. Austin is a 78 year old Ecuadorian gentleman with known Diabetes and history of cerebellar CVA who returns to the practice three months after undergoing CABG for multiple vessel disease. His recovery was been uneventful, he has had no further angin and inspite rather severe anemia he has noted marked improvement in exercise tolerance. Appetite is better. No PND orthopnea or ankle edema. There is mild chest soreness on the right side.  There was aignificant decline in Hct in spite of the fact that he received 2 transfusions in the hospital and he is on iron.  Mr. Oswaldo has appointmernt with Dr. Jean in the near future. 
+  
+Mr. Oswaldo has  Type II diabetes well controlled on oral hypoglycemics HGBHA1C on 8/17 = 6.4.
+h/o CVA in 2090 which resulted in right hemiparesis (now fully resolved) .  
+
+
+Medications
+Aspirin ENTERIC COATED 325 MG PO QD 
+Ferrous SULFATE 325 MG (325(65)MG TABLET Take 1) PO as directed , Un dia si y un dia no #30 Tablet(s)
+Metformin 1000 MG (1000MG TABLET Take 1) PO BID #180 Tablet(s)
+Metoprolol SUCCINATE EXTENDED RELEASE 100 MG (100MG TAB.SR 24H Take 1) PO QD #30 TAB.SR
+Nitroglycerin 1/200 (0.3 MG) 1 TAB (0.3MG TAB SUBL ) SL Q2H PRN #30 Tablet(s)
+Zocor (SIMVASTATIN) 40 MG (40MG TABLET Take 1) PO QPM #30 Tablet(s)
+
+
+Vital Signs
+BP 121/63, P 80, Wt 137 lb
+
+
+
+
+GEN: well-appearing but pale and thin elderly gentleman. Fragile but not in pain
+HEENT:  PERRLA
+CARD: Healed CABG scar. Tender to pressure nl S1, S2. No m/r/g.  Lungs clear to auscultation. 
+EXT: WWP. Healed  incisions on medialaspect of RLE where veins were harvested. THere is an echymoses about 2 cm in diameter on the shaft of the pennis. No other bleeding, possibly result of trauma when pulling up his pants.  Pedal pulses 2+ bilaterally. No evidence of foot ulcers or calluses
+, multiple varicose veins. Hommans negative
+
+
+
+
+ASSESSMENT AND PLAN:  
+A 78-year-old gentleman with a history of adult-onset diabetes and CVA  post CABG. Remarkable recovery ; weight has not increased but anemia has improved. Prior to surgery he had mild anemia which was macrocytic. Will check Fe, B12,  FA ,CBC and HGBA1C before next visit in 1 month. Encouraged gentle ambulation. He will see Dr.Jean in 3 weeks.  Encouraged to call if any new symptoms or echymosis and told him to eat what he likes for time being except sugar and sweets. Return in one month or prn
+
+
+
+______________________________
+Harry Bernard-Moyer, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1472" end="1477" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1472" end="1477" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1472" end="1477" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1104" end="1111" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1104" end="1111" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1104" end="1111" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="1243" end="1252" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1243" end="1252" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1243" end="1252" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="1243" end="1252" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1243" end="1252" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1243" end="1252" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1104" end="1111" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1104" end="1111" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1104" end="1111" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M15" start="1394" end="1407" text="Nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="1394" end="1407" text="Nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="1394" end="1407" text="Nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M18" start="1394" end="1407" text="Nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M19" start="1394" end="1407" text="Nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="1394" end="1407" text="Nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1306" end="1316" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1306" end="1316" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1306" end="1316" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="1472" end="1477" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1472" end="1477" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1472" end="1477" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="1472" end="1477" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1472" end="1477" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1472" end="1477" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M30" start="1243" end="1252" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1243" end="1252" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1243" end="1252" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M33" start="1104" end="1111" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1104" end="1111" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1104" end="1111" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M36" start="1394" end="1407" text="Nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M37" start="1394" end="1407" text="Nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M38" start="1394" end="1407" text="Nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="1306" end="1316" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1306" end="1316" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="1306" end="1316" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="1306" end="1316" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1306" end="1316" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1306" end="1316" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC17" time="before DCT" indicator="event">
+      <CAD id="C0" start="439" end="471" text="CABG for multiple vessel disease" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="439" end="444" text="CABG " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="439" end="443" text="CABG" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="342" end="350" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="342" end="350" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="342" end="350" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="342" end="350" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="342" end="350" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="342" end="350" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="342" end="350" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="342" end="350" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="342" end="350" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

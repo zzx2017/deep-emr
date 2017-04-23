@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-05-29
+
+
+Internal Medicine
+97 Weld St                                        Xian, Imogene
+Grandview, NE 13472                                      81376761
+(552) 598-5590                                           05/29/73
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Xian is 75 years of age. 
+She has adult-onset diabetes, which in the past has required
+treatment with insulin.  She has been managed with oral
+hypoglycemics because of her reticence to using injections. 
+She also has a history of CVA.
+
+I last saw her in August of last year.  She was seen by Ms.
+Vann, our nurse practitioner in early May.
+
+CURRENT MEDICATIONS:  Glipizide 5 mg two in the morning and
+two in the evening, Plavix 75 mg one p.o. q.d., and Avandia
+2 mg one p.o. q.a.m.  According to Ms. Vann's note of Apr
+29, 2073, she is also supposed to be taking metformin 500 mg
+one in the morning and two with the evening meal as was
+prescribed back in 2072.  The patient and her son today are
+not sure that she is taking this medication.  In fact, they
+believe that she is not.  There has been moderate polyuria
+and polydipsia.  Control of diabetes has been erratic. 
+Hemoglobin A1c has been elevated.  On Apr 29, 2073, blood
+glucose was 274, BUN was 25, creatinine 1.0, electrolytes
+within normal limits as was calcium.  Cholesterol was 315. 
+Hemoglobin A1c 10.6.  The patient has not experienced chest
+pain, palpitations but she is moderately short of breath
+when climbing stairs.  There has been no orthopnea and no
+PND.  She denies dysuria and urgency and has not experienced
+near syncope.  She denies nausea, vomiting, diarrhea, and
+constipation.
+
+PHYSICAL EXAMINATION:  On physical examination today, she
+appears well.  Blood pressure 122/66.  The heart rate is 90
+and regular, weight 113 pounds, approximately five pounds
+less than last year.  Random blood glucose was 224.
+
+The patient suffered a minor CVA back in September 2071. 
+She denies any recurrence of motor deficits or symptoms
+suggestive of TIA.  The patient has a past history of
+hyperthyroidism that was treated with iodine 131.  She has
+not been hypothyroid since then.  In fact, the last TSH
+level was 0.05 in August of last year, just prior to her
+departure to Ghana.  She denies heat intolerance as well
+as palpitations.
+
+On physical examination, she is a small lady in no acute
+distress.  The neck veins are flat.  The extraocular
+movements are full.  There are no symptoms of
+hyperthyroidism.  The chest is clear to auscultation.  The
+heart sounds are regular.  There are no rubs or gallops. 
+The lower extremities are free of edema and now her toes are
+free of fungi but the nails are overgrown and require
+attention.
+
+ASSESSMENT AND PLAN:  A 76 year old woman with a past
+history of hyperthyroidism, which was treated with I-131
+with good results who, last year before she left the
+country, had a subnormal TSH.  She does not have obvious
+symptoms of hyperthyroidism but today I have obtained a
+repeat TSH as well as T3 and T4.
+
+Diabetes continues to be a problem.  Glycemic control
+continues to be difficult to achieve.  Today, I have
+reinstated metformin at 500 mg p.o. q.d.  The son is going
+to check on the medications to make certain that indeed she
+is not taking this medicine at this point.  The other
+medications were continued.  It is indeed possible that she
+will need insulin in the near future.  I plan close followup
+and will see her again in six weeks' time.  If she is
+hyperthyroid, this may also explain the difficulty in
+achieving glycemic control.  Against this is the high
+cholesterol.  She used to be on Lipitor, which was
+discontinued during her trip to Ghana.  I have
+reinstated the Lipitor today 20 mg p.o. q.d.  I have also
+added a small dose of enalapril 2.5 mg p.o. q.d. to protect
+her kidneys even though she is not hypertensive.
+
+
+______________________________
+Kevin Shamar-Trevino, M.D.
+
+
+eScription document:0-389401 NFFocus
+
+DD: 05/29/73
+DT: 05/30/73
+DV: 05/29/73
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC16" time="before DCT" indicator="high chol.">
+      <HYPERLIPIDEMIA id="HY0" start="1302" end="1321" text="Cholesterol was 315" time="before DCT" indicator="high chol." comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1301" end="1321" text=" Cholesterol was 315" time="before DCT" indicator="high chol." comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="3664" end="3671" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="3649" end="3672" text="reinstated the Lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M2" start="698" end="705" text="Plavix " time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M3" start="698" end="704" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M4" start="698" end="704" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M5" start="840" end="849" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="3095" end="3115" text="reinstated metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M7" start="3729" end="3738" text="enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="3729" end="3738" text="enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M9" start="640" end="649" text="Glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="640" end="649" text="Glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="640" end="649" text="Glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="640" end="649" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="640" end="649" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="640" end="649" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M15" start="640" end="649" text="Glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="640" end="649" text="Glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="640" end="649" text="Glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M18" start="698" end="705" text="Plavix " time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M19" start="698" end="704" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M20" start="698" end="704" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M21" start="730" end="737" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M22" start="730" end="737" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M23" start="730" end="737" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="3583" end="3590" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="3569" end="3591" text="used to be on Lipitor," time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M26" start="730" end="737" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M27" start="730" end="737" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M28" start="730" end="737" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M29" start="380" end="387" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M30" start="380" end="387" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M31" start="380" end="387" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M32" start="698" end="705" text="Plavix " time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M33" start="698" end="704" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M34" start="698" end="704" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M35" start="730" end="737" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M36" start="730" end="737" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M37" start="730" end="737" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="1324" end="1343" text="Hemoglobin A1c 10.6" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="1324" end="1343" text="Hemoglobin A1c 10.6" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="324" end="332" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="312" end="332" text="adult-onset diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1120" end="1128" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2988" end="2996" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="324" end="332" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention">
+      <DIABETES id="D7" start="324" end="332" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="312" end="332" text="adult-onset diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1120" end="1128" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="2988" end="2996" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="324" end="332" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention">
+      <DIABETES id="D12" start="324" end="332" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="312" end="332" text="adult-onset diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="1120" end="1128" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="2988" end="2996" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D16" start="324" end="332" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

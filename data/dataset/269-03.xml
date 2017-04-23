@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2114-03-12
+
+CARDIOLOGY
+
+SAN ANTONIO HOSPITAL
+
+
+
+Narrative Note:
+
+
+
+			
+
+INITIAL CARDIAC CONSULT 
+
+
+
+
+
+Name: Quinten Dawson                                                                                                                 Date: 03/12/14                                         SAH#: 469-27-58                       Age: 73
+
+
+
+Problem List:  Diabetes.  Hypertension.  Hyperlipidemia.  Sleep apnea. 2/1/11 stroke 4/4/12 exercise sestamibi-SAH: Small posterolateral scar and ischemia  2/21/14 exercise sestamibi-SAH: Moderate-severe anterior apical and inferior ischemia.
+
+
+
+Medications: Glucophage 850 mg t.i.d., glipizide 10 mg b.i.d., Cozaar 50 mg, Zocor 20 mg, Detrol 2 mg, Colace, aspirin 81, isosorbide 40 mg q.a.m., multivitamin, glucosamine and chondroitin b.i.d., Naprosyn 220-2 pills b.i.d., Celexa 20 mg. BiPAP
+
+
+
+			
+
+Reactions to Medicines: None
+
+
+
+			
+
+Chief Complaint: Shortness of breath which is, in fact, chest tightness
+
+
+
+History of Present Illness: This 73 year-old hypertensive hyperlipidemic diabetic had a previous stroke on 2/1/11 and a recent exercise test that showed extensive ischemia as noted above.  He has noted shortness or breath for the last three months.  In fact the shortness of breath is exertional chest tightness which comes on with exertion and is relieved by rest.  He is sent by Dr. Everhart for consideration for coronary angiogram.  On 1/08/14 his cholesterol was 165, triglyceride 109, HDL 54 and LDL 89.  He does get some lightheadedness if he has a high sugar.  He's had no rapid heart action or sudden dizzy spells.
+
+
+
+ROS:Const.-Negative
+
+Eyes -Negative
+
+ENMT: Bilateral hearing loss
+
+CV: See above
+
+Respiratory: Sleep apnea
+
+GI -.  Recent constipation  
+
+GU -Impotence.  Urgency and incontinence  
+
+MS -  arthritis of both knees and hands.  Considering knee replacement
+
+Skin - Negative
+
+Neuro -CVA in past.  Mild residual left facial drooping and occasional trouble finding words.
+
+Psych - Depression well controlled on Celexa
+
+Endocrine -  Diabetes
+
+Heme-No blood problems
+
+Allergies - No drug allergies and no allergies to dye
+
+
+
+Past History:  T & A, laparoscopic cholecystectomy.  He has no other major illnesses.  He does not smoke and drinks about one glass of wine per day.
+
+
+
+Family History: His father died at 83 of a stroke, cancer and diabetes.  Mother died at 73 of heart disease, diabetes and cancer.  Two sisters are living without diabetes.
+
+
+
+Social History:  He a mapping technologist and is actively working.  He is divorced and has two children and one grandchild.  His significant other works as an optician.  She is divorced and has three children and one grandchild.
+
+
+
+Complete Cardiovascular Exam:. BP 100 50/65.  His jugular venous pressure is seven and he has no carotid bruits.  He has no rales.  He has a 1/6 aortic ejection murmur, a 2/6 MR murmur at the apex with a normal S2 and no S3.  He has no enlargement of the liver and no edema.
+
+
+
+EKG:   NSR 59, LAE, NSTTWA
+
+
+
+Assessment: I agree he clearly needs a coronary angiogram as well as a left ventricular angiogram to assess MR.  He should also have a left right heart catheter because of the aortic ejection murmur.  In the meantime I will ask into double his isosorbide to 40 mg in the morning and again at 3 p.m. to give him better protection throughout the day.  I will ask him to increase his aspirin to 325 mg a day.  I will also add fish oil 1000 mg a day which is been shown to reduce the risk of sudden death.  Finally we will double his Zocor to 40 mg to try to reach the new goal of an LDL of less than 70.  I explained the rationale for proceeding on with the catheterization and the probability that we will find multivessel disease that will not be suitable for PCI but rather for continued medicine or possible surgery.  Of course the catheterization will determine that.  He should not consider any total knee operation until the cardiac status is clarified.
+
+
+
+
+
+Quentin T. Edward, Jr., M.D.
+
+
+
+CC: Mr. Quinten Dawson, 653 Wildwood Lane, New Ashford, VA 67999
+
+       Dr. Xavier Everhart, Internal Medicine, SAH
+
+
+
+
+
+Signed electronically by   Quentin T Edward MD  on  Mar 12, 2114     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="396" end="410" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="396" end="410" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="396" end="410" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="396" end="410" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="396" end="410" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="396" end="410" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC21" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="396" end="410" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="396" end="410" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="396" end="410" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="678" end="683" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="678" end="683" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="678" end="683" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="712" end="719" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="712" end="719" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="712" end="719" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="614" end="624" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="614" end="624" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="614" end="624" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="614" end="624" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="614" end="624" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="614" end="624" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="712" end="719" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="712" end="719" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="712" end="719" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M15" start="724" end="734" text="isosorbide" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="724" end="734" text="isosorbide" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="724" end="734" text="isosorbide" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M18" start="724" end="734" text="isosorbide" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M19" start="724" end="734" text="isosorbide" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="724" end="734" text="isosorbide" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M21" start="640" end="649" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M22" start="640" end="649" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M23" start="640" end="649" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M24" start="640" end="649" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M25" start="640" end="649" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="640" end="649" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M27" start="664" end="670" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M28" start="664" end="670" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M29" start="664" end="670" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M30" start="678" end="683" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="678" end="683" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="678" end="683" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M33" start="678" end="683" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="678" end="683" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="678" end="683" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M36" start="614" end="624" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M37" start="614" end="624" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M38" start="614" end="624" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M39" start="712" end="719" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M40" start="712" end="719" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M41" start="712" end="719" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M42" start="724" end="734" text="isosorbide" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M43" start="724" end="734" text="isosorbide" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M44" start="724" end="734" text="isosorbide" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M45" start="640" end="649" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M46" start="640" end="649" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M47" start="640" end="649" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC28" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M48" start="664" end="670" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M49" start="664" end="670" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M50" start="664" end="670" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M51" start="664" end="670" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M52" start="664" end="670" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M53" start="664" end="670" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="381" end="393" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="381" end="393" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="381" end="393" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="381" end="393" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="381" end="393" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="381" end="393" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC26" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="381" end="393" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="381" end="393" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="381" end="393" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC18" time="before DCT" indicator="test">
+      <CAD id="C0" start="1095" end="1139" text="exercise test that showed extensive ischemia" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C1" start="440" end="509" text="4/4/12 exercise sestamibi-SAH: Small posterolateral scar and ischemia" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C2" start="511" end="596" text="2/21/14 exercise sestamibi-SAH: Moderate-severe anterior apical and inferior ischemia" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C3" start="439" end="598" text=" 4/4/12 exercise sestamibi-SAH: Small posterolateral scar and ischemia  2/21/14 exercise sestamibi-SAH: Moderate-severe anterior apical and inferior ischemia. " time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC20" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC24" status="never">
+      <SMOKER id="S0" start="2198" end="2216" text="He does not smoke " status="never" comment=""/>
+      <SMOKER id="S1" start="2201" end="2215" text="does not smoke" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="370" end="378" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="370" end="378" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="370" end="378" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="370" end="378" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="370" end="378" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="370" end="378" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC27" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="370" end="378" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="370" end="378" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="370" end="378" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2088-03-06
+
+                     RHINELAND EMERGENCY DEPT VISIT
+
+ 
+
+PIERRE,EDEN   241-52-56-3                      VISIT DATE: 03/06/88
+
+The patient was evaluated by me with a resident.  The resident's 
+
+history was reviewed and the patient interviewed and examined.  
+
+Briefly, history is as follows.    
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 72 year-old 
+
+female complaining of chest tightness lasting approximately 30 
+
+minutes after climbing stairs at home.  She reports she has been 
+
+having increasing bouts of shortness of breath over the preceding 
+
+week.  She denies diaphoresis, palpitations or radiations.  
+
+REVIEW OF SYSTEMS:  There is chest pain, as noted above, and 
+
+shortness of breath, as noted above.  All other systems are 
+
+negative except as noted. 
+
+PAST MEDICAL HISTORY:  Previous myocardial infarction and 
+
+hypothyroidism.
+
+MEDICATIONS:  See nursing note.
+
+ALLERGIES:  Morphine sulfate. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient is a past smoker 
+
+and a nondrinker who lives alone.  Family history is 
+
+noncontributory.
+
+PHYSICAL EXAMINATION:  GENERAL:  Awake, alert and in no acute 
+
+distress.  VITAL SIGNS:  Stable and normal.  HEENT:  Benign.  NECK: 
+
+Supple.  LUNGS:  Breath sounds showed left lower lobar rales and 
+
+rhonchi.  HEART:  Regular rate and rhythm.  ABDOMEN:  Soft and 
+
+non-tender. 
+
+LABORATORY EVALUATION:  Electrolytes were normal.  Cardiac enzymes 
+
+were negative.  CBC was normal.  EKG showed sinus rhythm with 
+
+nonspecific ST-T wave changes.  Chest x-ray showed mild 
+
+cardiomegaly without other abnormality.  
+
+THERAPY RENDERED/COURSE IN ED:  The patient was treated with 
+
+aspirin, beta blockers, and oxygen.  Ultimately she was admitted to 
+
+the hospital for definitive evaluation and further care following 
+
+consultation with the DHD cardiologist.  See resident's note for 
+
+further details. 
+
+DISPOSITION (including condition upon discharge):  Admitted in 
+
+stable condition.
+
+___________________________________                    FT188/35814 
+
+ORLANDO R. PIERRE, M.D.   OP63                            D:03/07/88 
+
+                                                       T:03/07/88 
+
+Dictated by:  ORLANDO R. PIERRE, M.D.   OP63 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1663" end="1670" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1663" end="1670" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1663" end="1670" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M3" start="1672" end="1685" text="beta blockers" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="1672" end="1685" text="beta blockers" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="1672" end="1685" text="beta blockers" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC1" time="before DCT" indicator="event">
+      <CAD id="C0" start="836" end="858" text="myocardial infarction " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="836" end="857" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="836" end="857" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC3" time="before DCT" indicator="symptom">
+      <CAD id="C3" start="680" end="690" text="chest pain" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C4" start="411" end="426" text="chest tightness" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="past">
+      <SMOKER id="S0" start="999" end="1010" text="past smoker" status="past" comment=""/>
+      <SMOKER id="S1" start="999" end="1010" text="past smoker" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

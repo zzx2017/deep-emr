@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2112-01-27
+
+
+
+
+
+NAME:    Werner, Brian  
+
+MRN:     4097229
+
+
+
+This patient reports approximately 3-4 years ago he had episodes of right sided
+
+visual loss.  He thought it was only related to his right eye.  What he describes is a
+
+right peripheral hemispheric visual loss.  He reports having a history of headaches
+
+in the past.  It is nothing that is significantly worse than usual.  On Thursday he
+
+reports having a mild bitemporal headache and then later that day ensuing right
+
+peripheral loss that has lasted for the past 3-4 days.  In the past his visual loss only
+
+lasted for about one day.  He denies any other focal neurological complaints.
+
+
+
+PAST MEDICAL HISTORY:  Hypertension.  He is on a baby aspirin a day.  He
+
+denies any further headaches.  He denies any numbness, tingling or weakness on
+
+one side of his body or other.  He has chronic left knee problems from an old
+
+injury.  He is unable to bend the leg.  He has no new problems with his gait.  He
+
+denies any symptoms of jaw claudication.  
+
+
+
+PHYSICAL EXAM:  His exam reveals no temporal artery tenderness to palpation. 
+
+His funduscopic exam appears normal on undilated exam.  His visual fields reveals
+
+what appears to be consistent with right bilateral hemianopsia.  PERRLA.  EOMI. 
+
+Cranial nerves II-XII are otherwise intact.  His motor strength is 5/5.  He has no
+
+pronator drift.  His cerebellar exam is intact.  His blood pressure is 150/100.
+
+Carotid - no bruit.  Cor - RRR no MGR Lungs - CTA
+
+ASSESSMENT AND PLAN:  Question bilateral hemianopsia.  The patient will get
+
+scheduled for an MRI/MRA as soon as possible.  He was sent to the NDMG
+Ophthalmology Clinic to confirm bilateral vs. unilateral hemianopsia (central vs. peripheral etiology) today for further evaluation plus/minus ESR and CBC at
+
+that point in time.   
+
+                                                                    
+
+Ernestine Phan, M.D.
+
+
+
+EP/gillis/cook
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="723" end="730" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="722" end="731" text=" aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="718" end="730" text="baby aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="723" end="730" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="722" end="731" text=" aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="718" end="730" text="baby aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="723" end="730" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="722" end="731" text=" aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="718" end="730" text="baby aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1412" end="1438" text="blood pressure is 150/100." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1430" end="1437" text="150/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1412" end="1437" text="blood pressure is 150/100" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="692" end="704" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="692" end="704" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="692" end="704" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="692" end="704" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="692" end="704" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="692" end="704" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="692" end="704" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="692" end="704" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="692" end="704" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

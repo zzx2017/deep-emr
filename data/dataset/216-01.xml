@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-08-06
+
+                     BHC EMERGENCY DEPT VISIT
+
+ 
+
+MARVINYANDELL,GRACE   904-68-07-1              VISIT DATE: 08/06/96
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 68 year old 
+
+woman who is being seen by Dr. Dodd who had what was a syncopal 
+
+episode on the premises.  A code was called when bystanders and 
+
+medics reported she was on the floor, diaphoretic and clammy.  The 
+
+patient drank something and then proceeded to be taken to the 
+
+Emergency Department. 
+
+The patient had a cystoscopy planned for today.  She took her 
+
+medication for her diabetes and presented here with weakness, 
+
+nausea, diaphoresis and felt like she may have passed out.  Her 
+
+other complaint was mild back pain from passing out.  No epigastric 
+
+pain or tenderness and no chest pain.  The patient never had any 
+
+chest pain prior to her event.  She is followed by the United Medical Center East and their input is pending at this point. 
+
+PAST MEDICAL HISTORY:  The patient has a past medical history 
+
+significant for diabetes, hypertension, hypothyroidism and 
+
+migraines. 
+
+MEDICATIONS:  The patient's current medications include Plavix, 
+
+Calan slow release and Glucophage. 
+
+ALLERGIES:  The patient is allergic to intravenous pyelogram dye, 
+
+Percocet, penicillin, cephalosporin and lisinopril. 
+
+PHYSICAL EXAMINATION:  HEENT:  Examination is normal.  LUNGS: 
+
+Clear bilaterally.  CARDIAC:  Regular rate and rhythm with no 
+
+murmurs.  ABDOMEN:  Soft and nontender.  EXTREMITIES:  Normal. 
+
+GENERAL:  The patient looks well and has no complaints here. 
+
+LABORATORY EVALUATION:  Finger stick in the Emergency Department 
+
+was 160.  Electrocardiogram shows some PR depressions in multiple 
+
+leads.  No significant ST elevations. 
+
+THERAPY RENDERED/COURSE IN ED:  Impression is this patient is a 68 
+
+year old female with planned cystoscopy today who passed out on the 
+
+premises.  A code was called overhead.  Bystanders reported that 
+
+the patient was diaphoretic.  They gave her something to drink. 
+
+Her blood sugar here was within normal limits.  The patient has no 
+
+complaints of chest pain or shortness of breath.  She looks well 
+
+but does have PR depressions on electrocardiogram but has no rubs 
+
+or gallops on her electrocardiogram.  The patient was made NPO 
+
+because of her cystoscopy procedure. 
+
+FINAL DIAGNOSES: 
+
+1.  Syncopal episode versus presyncope from the taking of her 
+
+diabetes medicine this morning. 
+
+2.  PR depression on electrocardiogram which appears to be new.  No 
+
+old electrocardiogram to compare.  We need to address the PR 
+
+depressions.  This is possibly pericarditis but it is unlikely.  I 
+
+would think that this more likely ischemia than pericarditis. 
+
+3.  Cardiac ischemia. 
+
+DISPOSITION (including condition upon discharge):  The patient will 
+
+need admission and a formal rule out.  She may even need an 
+
+echocardiogram inpatient.  A full work up is pending.  The 
+
+patient's full disposition is pending and she was signed out to Dr. 
+
+Aleta Nunley at 15:00. 
+
+___________________________________                    TR682/13484 
+
+GEORGE DUNHAM, M.D.       GD74                           D:08/06/96 
+
+                                                       T:08/06/96 
+
+Dictated by:  GEORGE DUNHAM, M.D.       GD74 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="1163" end="1168" text="Calan" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1163" end="1168" text="Calan" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="1163" end="1168" text="Calan" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M3" start="1153" end="1159" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M4" start="1153" end="1159" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M5" start="1153" end="1159" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="1186" end="1196" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1186" end="1196" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1186" end="1196" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="1186" end="1196" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1186" end="1196" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1186" end="1196" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="1163" end="1168" text="Calan" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1163" end="1168" text="Calan" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1163" end="1168" text="Calan" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M15" start="1186" end="1196" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1186" end="1196" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1186" end="1196" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M18" start="1163" end="1168" text="Calan" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1163" end="1168" text="Calan" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1163" end="1168" text="Calan" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M21" start="1153" end="1159" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M22" start="1153" end="1159" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M23" start="1153" end="1159" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M24" start="1153" end="1159" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M25" start="1153" end="1159" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M26" start="1153" end="1159" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1049" end="1061" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1049" end="1061" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1049" end="1061" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1049" end="1061" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1049" end="1061" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1049" end="1061" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1049" end="1061" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1049" end="1061" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1049" end="1061" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1039" end="1047" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="585" end="593" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="585" end="593" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="1039" end="1047" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="585" end="593" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="585" end="593" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC15" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="1039" end="1047" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="585" end="593" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="585" end="593" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

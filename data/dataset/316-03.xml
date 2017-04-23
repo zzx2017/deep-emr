@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2120-12-15
+
+Chief Complaint	
+
+This is a visit for this patient  with a chief complaint 
+
+1.diabetes management, difficulty getting in control.Also to monitor for potential complications of treatment and complications of the disease.
+
+ 
+
+2. followup of ulcers on feet
+
+
+
+3. edema
+
+
+
+4. hypertension
+
+
+
+5. pulmonary hypertension
+
+
+
+Problems	    
+
+Venous insufficiency	      
+
+Edema	      
+
+Mitral regurgitation	      
+
+Anemia	      
+
+Hypertension	      
+
+Bundle branch block	      
+
+Pulmonary hypertension	      
+
+Diabetes mellitus	      
+
+Sleep apnea	      
+
+Lower extremity ulcer	      
+
+
+
+History of Present Illness	
+
+Diabetes= on oral agents- just glyburide one 2.5 mg qd
+
+Trying to keep diet - reviewed
+
+weight:stable
+
+Keeps track of sugars-
+
+Does not Bring in book to review - but says that sugars are running about 200 past two weeks
+
+No hypoglycemic episodes
+
+no polyuria,polydipsia,no fevers, no weight loss
+
+
+
+ 
+
+2. followup of ulcers on feet- ws to have started on antibiotics wednesday, but the prescription was not delivered. Three/of four ulcers have healed. Seeing nurse daily for dressing changes. Has heel pad to remove pressure
+
+
+
+3. edema
+
+   taking zaroxylyn and lasix
+
+   better controlled when on both
+
+4. hypertension
+
+  on  lisinopril, lasix. not on atenolol ? why
+
+
+
+5. pulmonary hypertension
+
+  not using his CPAP - did not like it this summer --found it hot. Discussed - advised to try again.
+
+
+
+Past Medical History	
+
+Past Medical History - 
+
+pulm hypertension
+
+sleep apnea
+
+diabetes
+
+mitral regurg
+
+anemia, felt secondary to HCTZ
+
+RBBB
+
++PPD  in college
+
+
+
+
+
+
+
+Allergies	  
+
+METFORMIN	 Diarrhea
+
+EDECRIN (ETHACRYNATE SODIUM)	 GI upset
+
+HCTZ (HYDROCHLOROTHIAZIDE)	 Hemolytic anemia
+
+
+
+Preventive Health History	
+
+says he is up to date. 
+
+has not had colonoscopy- we are waiting for ulcers to heal, etc.
+
+
+
+Habits	
+
+smoking-no
+
+drink alcohol-social only
+
+drug use no illicit drugs
+
+seat belts yes
+
+
+
+
+
+Review of Systems	
+
+Constitutional: no weight loss, fevers, fatigue,aches
+
+Skin:Persistent rash on back, responsive to steroid cream;No change moles
+
+HEENT: saw eye doctor - has hemorrhage - to get laser treatment
+
+Respir: no cough,sputum; no wheezing
+
+Cor: no chest pain, SOB, PND.  +edema
+
+GI: no heartburn, nausea,vomiting,diarrhea ,constip
+
+GU: no dysuria,frequency, urgency, hematuria
+
+Endo: no sweating, heat intolerance
+
+Heme: no bruising, bleeding
+
+
+
+
+
+
+
+Vital Signs	    
+
+Blood Pressure:	 164/86   
+
+Weight:	 185   Pounds
+
+
+
+Physical Exam	
+
+WdWN male 
+
+
+
+164/86
+
+185 pounds
+
+82
+
+
+
+eczema  on back with some round 
+
+
+
+ 1+ palpable femoral pulses bilaterally, nonpalp popliteal arteries.
+
+  Neuropathic ulcers on heel, left foot : ulcer on heel still open,with some drainage. clean margins
+
+edema 1+
+
+
+
+Neck: supple no nodes; thyroid not enlarged, no nodules. no bruits
+
+CHEST: 
+
+ some crackles at bases, R>L; no wheezes, rhonchi
+
+COR: 
+
+  reg rhythm, murm, soft,systolic blowing m;,No thrill, gallop, rub
+
+ABD: 
+
+  soft, BS nl. no masses No liver/spleen enlarg; no tendrnes
+
+
+
+
+
+
+
+
+
+
+
+Impression	
+
+Diabetes. 
+
+  on glyburide
+
+ + evidence of visual changes(hemorrhage)- followed by ophthal
+
+ No evid of hypoglycemic episodes by hx.
+
+
+
+ Not adequately controlled on current regimen. 
+
+
+
+ 
+
+2. followup of ulcers on feet- three healed, one still open
+
+3. edema
+
+   pretty good control
+
+4. hypertension
+
+  still not adequately controlled
+
+5. pulmonary hypertension
+
+  
+
+
+
+Plan	
+
+Total face-to-face visit time: 45 minutes
+
+Time spent counselling: 38 min
+
+   Diagnosis explained
+
+   reviewed potential complications of diabetes
+
+   reviewed diet
+
+   reviewed meds - increase glyburide
+
+  
+
+   
+
+  
+
+Ophthalmology
+
+
+
+return in one month
+
+ 
+
+2. followup of ulcers on feet
+
+
+
+3. edema
+
+
+
+4. hypertension
+
+
+
+5. pulmonary hypertension
+
+
+
+
+
+
+
+Return: 
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1262" end="1272" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1261" end="1273" text=" lisinopril," time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1262" end="1272" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M3" start="666" end="675" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M4" start="666" end="675" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M5" start="3066" end="3075" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M6" start="3620" end="3629" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M7" start="666" end="675" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M8" start="1262" end="1272" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="1261" end="1273" text=" lisinopril," time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1262" end="1272" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M11" start="666" end="675" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M12" start="666" end="675" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="3066" end="3075" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="3620" end="3629" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M15" start="666" end="675" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M16" start="1262" end="1272" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="1261" end="1273" text=" lisinopril," time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="1262" end="1272" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M19" start="666" end="675" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="666" end="675" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M21" start="3066" end="3075" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M22" start="3620" end="3629" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M23" start="666" end="675" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="301" end="313" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="301" end="314" text="hypertension " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="448" end="461" text="Hypertension " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1242" end="1254" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="3336" end="3349" text=" hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="3732" end="3745" text=" hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="300" end="313" text=" hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H7" start="2424" end="2450" text="Blood Pressure:  164/86   " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="2440" end="2448" text=" 164/86 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H9" start="2507" end="2513" text="164/86" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H10" start="2441" end="2450" text="164/86   " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="301" end="313" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="301" end="314" text="hypertension " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="448" end="461" text="Hypertension " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="1242" end="1254" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="3336" end="3349" text=" hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="3732" end="3745" text=" hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H17" start="300" end="313" text=" hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H18" start="301" end="313" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H19" start="301" end="314" text="hypertension " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H20" start="448" end="461" text="Hypertension " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H21" start="1242" end="1254" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H22" start="3336" end="3349" text=" hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H23" start="3732" end="3745" text=" hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H24" start="300" end="313" text=" hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC15" status="never">
+      <SMOKER id="S0" start="1857" end="1867" text="smoking-no" status="never" comment=""/>
+      <SMOKER id="S1" start="1857" end="1867" text="smoking-no" status="never" comment=""/>
+      <SMOKER id="S2" start="1857" end="1867" text="smoking-no" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="107" end="115" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="107" end="116" text="diabetes " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="528" end="545" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="635" end="643" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1517" end="1525" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="3049" end="3059" text="Diabetes. " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="107" end="115" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D7" start="107" end="115" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="107" end="116" text="diabetes " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="528" end="545" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="635" end="643" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="1517" end="1525" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="3049" end="3059" text="Diabetes. " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="107" end="115" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="before DCT" indicator="glucose">
+      <DIABETES id="D14" start="811" end="855" text="sugars are running about 200 past two weeks " time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D15" start="811" end="840" text="sugars are running about 200 " time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D16" start="811" end="854" text="sugars are running about 200 past two weeks" time="before DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC14" time="after DCT" indicator="mention">
+      <DIABETES id="D17" start="107" end="115" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D18" start="107" end="116" text="diabetes " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D19" start="528" end="545" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D20" start="635" end="643" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D21" start="1517" end="1525" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D22" start="3049" end="3059" text="Diabetes. " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D23" start="107" end="115" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

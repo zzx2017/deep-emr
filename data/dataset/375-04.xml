@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2158-06-08
+
+
+
+
+-------------
+            Parkinson's Clinic             
+Trumbull Memorial Hospital - Corcoran District Hospital    (315) 433-0039 
+
+                                  Office Visit                                  
+
+
+Chief Complaint:  Increased falling
+
+History of Present Illness:  C/O increased falling. His legs buckling
+underneath him. He has occasional dizzyness. Denies angino, or sob. He does not
+use a walker. He arrived today in a wheel chair. They both state he leans
+forward and the he falls.
+
+Medications:  atenolol 25 mg: 1 tab po qd;  pyridoxine 100 mg: 1 tab po qd; 
+Sinemet 25/100: 2 tab po qid, 7:30A, 12, 5, 9P;  Sinemet 25/100: 1.5 tab po
+qid;  glyburide 2.5 mg: 1 tab po qd;  Zocor 10 mg: 0.5 tab po qhs;  gabapentin
+100 mg: 1 tab po bid;  folic acid 1 mg: 1 tab po qd;  Pletal 100 mg: 1 tab po
+bid;  pyridoxine 50 mg: 1 tab po qd;  metformin 850 mg: 1 tab po tid;  ASA 81
+mg: 1 tab po qd;  prazosin 4 mg: 1 tab po qd;  Lisinopril 2.5 mg: 1 tab po qd; 
+Zantac 150 mg: 1 tab po qhs.
+
+Allergies:   NKDA.
+
+Review of Systems:   The following systems reviews were contributory: endocrine
+[pertinent positives:  diabetes mellitus]; cardiovascular [pertinent positives:
+ hypertension, occasional light headed ness; pertinent negatives:  chest pain
+with exertion, chest pain at rest, dyspnea on exertion, peripheral edema];
+gastrointestinal [pertinent positives:  diarrhea] and urinary tract [pertinent
+positives:  nocturia, urgency].     The following systems reviews were
+noncontributory: general; psychological and musculoskeletal.
+
+General Examination
+-------------------------------
+
+6/08/2158 1:31 pm:  In his right arm,  his blood pressure was 100/42 and  his
+pulse was 60 per minute  when lying; his blood pressure was 80/40 and  his
+pulse was 64 rrr per minute  when sitting.  The orthostatic change was
+symptomatic.  He appeared well-nourished and well-groomed.
+6/08/2158 1:36 pm:  In his right arm,  his blood pressure was 90/40 when
+sitting.
+
+Rating Scales:
+UPDRS Subscale III (Motor Examination):  Subscale total score was 22 out of
+108.  This subscale was completed while the patient was ON.
+
+Tremor at rest was rated on a 0 to 4 scale (with 0 being absent): 0 in the
+face, 0 in the right upper extremity, 0 in the left upper extremity, 0 in the
+right lower extremity, 0 in the left lower extremity,.
+
+Action or postural tremor of the hands was rated on a 0 to 4 scale (with 0
+being absent): 0 in the right upper extremity, 0 in the left upper extremity,.
+
+Rigidity was rated on a 0 to 4 scale (with 0 being absent): 1 in the right
+upper extremity, 1 in the left upper extremity, 1 in the right lower extremity,
+1 in the left lower extremity,.
+
+The following movements were rated on a 0 to 4 scale (with 0 being normal): 
+    Finger Taps: 1 in the right upper extremity, 1 in the left upper extremity;
+    Hand movements: 1 in the right upper extremity, 1 in the left upper
+extremity;
+    Rapid alternating hand movements: 1 in the right upper extremity, 1 in the
+left upper extremity;
+    Leg agility: 1 in the right lower extremity, 2 in the left lower extremity.
+
+Each of the following was rated on a 0-4 scale (with 0 being normal):
+    Speech:  1 (slight loss of expression, diction and/or volume);
+    Facial expression:  1 (minimal hypomimia; could be normal 'pokerface');
+    Arising from a chair:  1 (slow or may need more than one attempt);
+    Posture:  1 (not quite erect, slightly stooped posture; could be normal for
+older person);
+    Gait:  2 (walks with difficulty but requires little or no assistance; may
+have some festination, short steps, or propulsion);
+    Postural stability:  1 (retropulsion, but recovers unaided);
+    Body bradykinesia and hypokinesia:  2 (mild degree of slowness & poverty of
+movement that is definitely abnormal; alternatively, some reduced amplitude).
+
+Assessment:  
+  1.  Parkinson's Disease:  Parkinson with decline in strength and endurance.
+It is possible that the added  Sinemet is causing a decrease in his blood
+pressure. I made a referral to Mary Darnell PT here at TMH. In addition Dr
+Edward Nguyen felt a slight reduction of the Sinemet to 1.5 tab QID may help his
+blood pressure with out changing his motor ability. RTC 1 month Dr Edward Nguyen
+and 2 months Genevieve Noland, NP
+
+
+Recommendations:
+
+Medication given:
+  Sinemet 25/100: 2 tab po qid.
+
+
+Medication changes included:
+   Stopped:
+  pyridoxine 50 mg: 1 tab po qd;
+
+  Sinemet 25/100: 1.5 tab po qid.
+
+   Started:
+  6/08/2158 Sinemet 25/100: 1.5 tab po qid.
+
+This patient's history, physical examination, assessment and recommendations
+were completed by  Genevieve Noland, NP. 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="971" end="982" text="Lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="970" end="988" text="Lisinopril 2.5 mg" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M2" start="727" end="733" text="Zocor " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="727" end="738" text="Zocor 10 mg" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="917" end="920" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="917" end="926" text="ASA 81 mg" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="884" end="893" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="884" end="900" text="metformin 850 mg" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M8" start="884" end="893" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="884" end="900" text="metformin 850 mg" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M10" start="971" end="982" text="Lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="970" end="988" text="Lisinopril 2.5 mg" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="971" end="982" text="Lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="970" end="988" text="Lisinopril 2.5 mg" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M14" start="917" end="920" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M15" start="917" end="926" text="ASA 81 mg" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M16" start="695" end="704" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="694" end="711" text="glyburide 2.5 mg" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M18" start="695" end="704" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M19" start="694" end="711" text="glyburide 2.5 mg" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="550" end="559" text="atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="550" end="564" text="atenolol 25 mg" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M22" start="727" end="733" text="Zocor " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="727" end="738" text="Zocor 10 mg" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="727" end="733" text="Zocor " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="727" end="738" text="Zocor 10 mg" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M26" start="884" end="893" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M27" start="884" end="900" text="metformin 850 mg" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M28" start="550" end="559" text="atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="550" end="564" text="atenolol 25 mg" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M30" start="917" end="920" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="917" end="926" text="ASA 81 mg" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M32" start="695" end="704" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M33" start="694" end="711" text="glyburide 2.5 mg" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M34" start="550" end="559" text="atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="550" end="564" text="atenolol 25 mg" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1215" end="1227" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1214" end="1227" text=" hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1215" end="1227" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1215" end="1227" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1214" end="1227" text=" hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1215" end="1227" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC22" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1215" end="1227" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1214" end="1227" text=" hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1215" end="1227" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC23" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="1034" end="1043" text="Allergies" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1157" end="1174" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1157" end="1166" text="diabetes " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1157" end="1174" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1157" end="1174" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1157" end="1166" text="diabetes " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1157" end="1174" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC25" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1157" end="1174" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1157" end="1166" text="diabetes " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1157" end="1174" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

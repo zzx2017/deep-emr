@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-06-13
+
+EDVISIT^98044905^WARE, VINCENT^06/13/73^ZORN, TYLER
+
+The patient is a 65-year-old gentleman who presents complaining
+
+of shortness of breath, weakness, and fatigue.  The patient was
+
+seen in conjunction with resident physician, Ostrowski.  Please see
+
+her note for details of the visit.  Resident's history was
+
+reviewed by me.  The patient was interviewed and examined by me.
+
+PAST MEDICAL HISTORY:  Significant for non-Hodgkin lymphoma,
+
+diabetes, and hypercholesterolemia.
+
+MEDICATIONS:  Metformin, insulin, aspirin, and multivitamins.
+
+ALLERGIES:  The patient has no allergies.
+
+FAMILY HISTORY:  Negative for chronic diseases.
+
+SOCIAL HISTORY:  No alcohol, tobacco, or illicit substances.
+
+HISTORY OF PRESENT ILLNESS:  The patient is followed by his
+
+hematology-oncologist for unexplainable anemia.  The patient
+
+presents complaining of dyspnea.
+
+REVIEW OF SYSTEMS:  Significant for dyspnea on exertion,
+
+weakness, fatigue, fever and shortness of breath, negative for
+
+headache, blurred vision, chest pain.  Other systems were
+
+reviewed and found to be negative, unless noted positive on
+
+resident's note.
+
+PHYSICAL EXAMINATION:  I concur with documented resident's note. 
+
+Specifically, abdomen was soft and nontender.  Rectal Exam: 
+
+Guaiac negative, normal tone, and no masses.
+
+ASSESSMENT AND PLAN:  Laboratory studies remarkable for
+
+hematocrit of 24.  EKG is unremarkable.  Chest x-ray is negative.
+
+ The patient's management was discussed with Dr. Walsh,
+
+oncology.
+
+The patient will be admitted to oncology hematology for workup.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 06/13/73
+
+T: 06/13/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="482" end="502" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="482" end="502" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="482" end="502" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="482" end="502" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="482" end="502" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="482" end="502" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="482" end="502" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="482" end="502" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="482" end="502" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="530" end="537" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="530" end="537" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="530" end="537" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="519" end="528" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="519" end="528" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="519" end="528" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="519" end="528" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="519" end="528" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="519" end="528" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="539" end="546" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="539" end="546" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="539" end="546" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="519" end="528" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="519" end="528" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="519" end="528" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="539" end="546" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="539" end="546" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="539" end="546" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M18" start="530" end="537" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="530" end="537" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="530" end="537" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M21" start="530" end="537" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="530" end="537" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="530" end="537" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M24" start="539" end="546" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="539" end="546" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="539" end="546" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC0" status="never">
+      <SMOKER id="S0" start="677" end="696" text="No alcohol, tobacco" status="never" comment=""/>
+      <SMOKER id="S1" start="677" end="698" text="No alcohol, tobacco, " status="never" comment=""/>
+      <SMOKER id="S2" start="689" end="696" text="tobacco" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="468" end="476" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="468" end="476" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="468" end="476" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="468" end="476" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="468" end="476" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="468" end="476" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="468" end="476" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="468" end="476" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="468" end="476" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

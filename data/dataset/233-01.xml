@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2061-10-13
+
+ 
+ 
+ 
+ 
+ 
+ 
+October 13, 2061
+ 
+ 
+Philip Stanley, M.D.
+Internal Medicine
+Donnellson Community Clinic
+ 
+RE:  Shilpa Pickett
+     MR #129-53-47-3
+ 
+Dear Philip:
+ 
+I had the pleasure of seeing Shilpa Pickett in Cardiovascular
+Clinic today.  Since her discharge from the hospital in September,
+she has noticed that she is fatigue with exertion but has had no
+chest pressure and no exertional diaphoresis, nausea, or jaw pain. 
+She does note occasional lightheadedness throughout the day, this
+is not related to position or going from sitting to standing
+position.  As you are aware, her MIBI test showed very small amount
+of ischemia almost undetectable in amount.  
+ 
+Her medical regimen includes Lasix 40 mg po q.d., Lisinopril 20 mg
+po q.d., 125 mg of hydrochlorothiazide b.i.d.  Of note, she was
+taking an additional Lisinopril at 20 mg po b.i.d.  Labetalol 200
+mg b.i.d., Isordil 40 t.i.d., Prilosec 20 mg po q.d., Cisapride 10
+mg po q.d., simvastatin 10 mg po q.d., aspirin 325 mg po q.d.
+ 
+On physical exam, her blood pressure is 140/90 right and left arm
+seated, heart rate is 77 and irregular, respiratory rate is 12. 
+There is no increase in jugular venous pressure.  Carotids are free
+of bruits.  Lungs are clear to auscultation throughout.  Cardiac
+exam is notable for distant heart sounds with no S3, S4.  Abdomen
+is soft and nontender.  The extremities are free of edema.  
+ 
+Electrocardiogram is normal sinus rhythm with left bundle branch
+block unchanged from prior electrocardiograms.
+ 
+In summary, Shilpa Pickett certainly has cardiovascular risk
+factors of sedentary lifestyle, diabetes, high cholesterol and
+increase in weight.  We will be rechecking her lipid profile today. 
+She reports to me that she has absolutely no appetite for the foods
+she usually eats and has occasionally had trouble eating.  She
+notes no dysphoria and no other signs or symptoms of depression. 
+She has had no change in her hair or skin.  For the 
+ 
+ 
+Pickett, Shilpa
+MR #129-53-47-3               -2-            October 13, 2061
+ 
+moment, I will be reviewing her SMA 20 for evidence of liver
+dysfunction but would strongly consider both depression and
+hyperthyroidism for further workup of this loss of appetite.  
+ 
+It is certainly a pleasure for me to participate in Shilpa
+Pickett' care.  Let me know if there are any questions or issues I
+can be of help with.
+ 
+Sincerely,
+ 
+ 
+ 
+Leona Xiques, M.D.
+Second Alabama Hospital
+78 Parkhurst Drive
+Ladysmith,  TN  47657
+ 
+DD: 10/13/61
+DT: 10/14/61
+DV: 10/13/61
+ 
+/maynard
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1630" end="1646" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1630" end="1647" text="high cholesterol " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1630" end="1646" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1630" end="1646" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1630" end="1647" text="high cholesterol " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1630" end="1646" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC22" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1630" end="1646" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1630" end="1647" text="high cholesterol " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1630" end="1646" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="742" end="752" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="844" end="854" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="742" end="752" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="742" end="752" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="844" end="854" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M5" start="968" end="979" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="968" end="979" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="968" end="979" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M8" start="995" end="1002" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="995" end="1002" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="995" end="1002" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M11" start="995" end="1002" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="995" end="1002" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="995" end="1002" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M14" start="742" end="752" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="844" end="854" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="742" end="752" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="742" end="752" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="844" end="854" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M19" start="742" end="752" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="844" end="854" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M21" start="742" end="752" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="742" end="752" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="844" end="854" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M24" start="778" end="797" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M25" start="778" end="797" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M26" start="778" end="797" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M27" start="900" end="907" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M28" start="900" end="907" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M29" start="900" end="907" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M30" start="900" end="907" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M31" start="900" end="907" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M32" start="900" end="907" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="875" end="884" text="Labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="875" end="884" text="Labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="875" end="884" text="Labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M36" start="968" end="979" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="968" end="979" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M38" start="968" end="979" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M39" start="968" end="979" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="968" end="979" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M41" start="968" end="979" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M42" start="778" end="797" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M43" start="778" end="797" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M44" start="778" end="797" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M45" start="995" end="1002" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M46" start="995" end="1002" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M47" start="995" end="1002" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M48" start="900" end="907" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M49" start="900" end="907" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M50" start="900" end="907" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M51" start="778" end="797" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M52" start="778" end="797" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M53" start="778" end="797" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M54" start="875" end="884" text="Labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="875" end="884" text="Labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="875" end="884" text="Labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M57" start="875" end="884" text="Labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M58" start="875" end="884" text="Labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M59" start="875" end="884" text="Labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1042" end="1066" text="blood pressure is 140/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1042" end="1091" text="blood pressure is 140/90 right and left arm seate" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC18" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1620" end="1628" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1620" end="1628" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1620" end="1628" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1620" end="1628" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1620" end="1628" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1620" end="1628" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC26" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1620" end="1628" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1620" end="1628" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1620" end="1628" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

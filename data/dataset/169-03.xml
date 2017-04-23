@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-06-18
+
+ 
+
+
+
+NEUROLOGY JUNIOR ADMIT/CONSULT NOTE
+
+
+
+CC   slurred speech, L hand tingling
+
+
+
+HPI
+
+50 yo RHM  presents after episode of L hand tingling and slurred speech. He was in his usual state of health when he woke up at 8 am. At around 10 am he told his son that he was not feeling well and went to bed. He reports that his speech was normal at that time. At 11:30 his wife called him and his speech was slurred. He was able to say real words but they were slurred and almost unintelligible. He also had L hand tingling. The slurred speech and tingling resolved at 12:15 pm. He denies weakness, diplopia, difficulty swallowing, headache, vertigo, chest pain, palpitations.
+
+
+
+One week ago, while he was on vacation in Chincoteague, he had a transient episode of slurred speech. He reports that as he was walking to the bathroom, he suddenly felt lightheaded and fell. He had slurred speech and difficulty standing up but no focal weakness. The episode lasted minutes.
+
+
+
+PMH
+
+HTN
+
+hypercholesterolemia
+
+DM
+
+sleep apnea
+
+s/p cholecystectomy
+
+TTE 11/77 - mildly dilated LA, mod LVH, EF 66%
+
+
+
+MEDS
+
+ASA 325
+
+Zestril 40
+
+HCTZ 25
+
+Atenolol 100
+
+Hytrin 2 bid
+
+glucophage 1000 
+
+Norvasc 10
+
+Atrovent
+
+
+
+ALL	nkda
+
+
+
+FAM HX
+
+Parents with hypertension, father with strokes
+
+
+
+SOCIAL HX
+
+Married. No smoking.
+
+	
+
+PE
+
+VITALS  P70	BP150/80	O2 sat 98% 2L
+
+GENERAL NAD
+
+HEENT MMM
+
+NECK no bruits
+
+CHEST CTAB
+
+CV RRR no mrg
+
+ABDO soft ND NT
+
+EXT no edema
+
+NEURO
+
+MS:  Alert, oriented. Speech fluent without paraphasic errors. Can name, repeat and follow commands. 
+
+
+
+CN:
+
+Pupils equal, round, reactive to light 
+
+Visual fields full to double simultaneous quadrantic visual confrontation.
+
+EOMI s nystagmus
+
+Facial sensation in V1-V3 intact bilaterally to light touch and pin.
+
+Face movement symmetrical.
+
+Hearing intact to fingerrub
+
+No dysphonia. Palate elevates symmetrically.
+
+Tongue and palate midline, no fasciculations.
+
+Shoulder shrug equal bilaterally 5/5.
+
+
+
+Motor:	normal bulk and tone, no tremor,  no drift, leads with L arm on orbiting
+
+	Del	Bic	Tri	WE	WF      FE	FF	  IO        HF	 HE	KF	 KE	DF	PF			
+
+L	5	5	5	5	5	5	5	5	5	5	5	5	5	5	
+
+R	5	5	5	5	5	5	5	5	5	5	5	5	5	5	
+
+Coord:	normal finger to nose, heel to shin
+
+Sens:	normal light touch, pinprick, vibration
+
+Reflexes: 2+ c downgoing toes
+
+     
+
+
+
+LABS
+
+NA        	135       	          	          	          	          
+
+K         	3.1(L)    	          	          	          	          
+
+CL        	99(L)     	          	          	          	          
+
+CO2       	27.5      	          	          	          	          
+
+BUN       	27(H)     	          	          	          	          
+
+CRE       	1.4       	          	          	          	          
+
+GLU       	368(H)    	          	          	          	          
+
+
+
+WBC       	11.5(H)   	          	          	          	          
+
+HCT       	42.2      	          	          	          	          
+
+MCV       	84        	          	          	          	          
+
+PLT       	226       	
+
+          	          	          	          
+
+PT        	12.9      	          	          	          	          
+
+PTT       	21.8(L)   	          	          	          	          
+
+
+
+STUDIES
+
+Head CT/CTA prelim read negative
+
+MRI prelim read - L insular infarct
+
+
+
+A/P
+
+50 yo RHM with 45 minute episode of dysarthria and L hand tingling, now asymptomatic with normal neurologic exam.
+
+
+
+1) Neuro
+
+- admit to RDA neurology
+
+- continue ASA
+
+- TTE, Holter
+
+- continue HCTZ, atenolol, Norvasc
+
+
+
+2) Renal 
+
+- has Cr 1.4, was on glucophage, received contrast --> will need IVF
+
+
+
+3) DM
+
+- SSI, hold glucophage
+
+
+
+4) Pulm 
+
+- prn nebs
+
+
+
+5) Proph
+
+- nexium, fragmin
+
+
+
+
+
+
+
+Davine Malone, MD 5-4328
+
+Pioneer Neurology Resident
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1006" end="1026" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1006" end="1026" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1006" end="1025" text="hypercholesterolemi" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1006" end="1026" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1006" end="1026" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1006" end="1025" text="hypercholesterolemi" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC24" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1006" end="1026" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1006" end="1026" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1006" end="1025" text="hypercholesterolemi" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1131" end="1138" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1131" end="1138" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1131" end="1139" text="Zestril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1122" end="1125" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1122" end="1125" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1122" end="1126" text="ASA " time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="1180" end="1190" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1180" end="1190" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M8" start="3615" end="3625" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1180" end="1190" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1180" end="1190" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M11" start="1122" end="1125" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1122" end="1125" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1122" end="1126" text="ASA " time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M14" start="1131" end="1138" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="1131" end="1138" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="1131" end="1139" text="Zestril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M17" start="1131" end="1138" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="1131" end="1138" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="1131" end="1139" text="Zestril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M20" start="1143" end="1147" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M21" start="1143" end="1147" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M22" start="1143" end="1148" text="HCTZ " time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M23" start="1198" end="1205" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="3502" end="3509" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1198" end="1206" text="Norvasc " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M26" start="1198" end="1205" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="3502" end="3509" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="1198" end="1206" text="Norvasc " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M29" start="1152" end="1160" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="1152" end="1160" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="1152" end="1161" text="Atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M32" start="1143" end="1147" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M33" start="1143" end="1147" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M34" start="1143" end="1148" text="HCTZ " time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M35" start="1180" end="1190" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1180" end="1190" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M37" start="1180" end="1190" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M38" start="1122" end="1125" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M39" start="1122" end="1125" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M40" start="1122" end="1126" text="ASA " time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M41" start="1143" end="1147" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M42" start="1143" end="1147" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M43" start="1143" end="1148" text="HCTZ " time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M44" start="1198" end="1205" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M45" start="3502" end="3509" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="1198" end="1206" text="Norvasc " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC27" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M47" start="1152" end="1160" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M48" start="1152" end="1160" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="1152" end="1161" text="Atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC28" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M50" start="1152" end="1160" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M51" start="1152" end="1160" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M52" start="1152" end="1161" text="Atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1001" end="1004" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1001" end="1004" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1001" end="1004" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1344" end="1353" text="BP150/80 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1344" end="1352" text="BP150/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1346" end="1353" text="150/80 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1001" end="1004" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1001" end="1004" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1001" end="1004" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC26" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1001" end="1004" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1001" end="1004" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1001" end="1004" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC22" status="never">
+      <SMOKER id="S0" start="1312" end="1323" text="No smoking." status="never" comment=""/>
+      <SMOKER id="S1" start="1312" end="1322" text="No smoking" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1028" end="1030" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1028" end="1030" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1028" end="1030" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC16" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1028" end="1030" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1028" end="1030" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1028" end="1030" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC29" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1028" end="1030" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1028" end="1030" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1028" end="1030" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

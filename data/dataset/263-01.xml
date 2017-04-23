@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-02-28
+
+                     DOUGLAS EMERGENCY DEPT VISIT
+
+ 
+
+DODD,STEVEN   350-93-05-3                      VISIT DATE: 02/28/79
+
+This patient was evaluated in conjunction with a resident and I 
+
+confirmed the history and physical findings as documented in the 
+
+handwritten record.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 63 year old 
+
+gentleman with underlying diabetes and congestive failure as well 
+
+as extensive coronary artery disease now presenting with worsening 
+
+fatigue and shortness of breath over the preceding few days.
+
+PHYSICAL EXAMINATION:  Physical examination is suggestive of 
+
+congestive failure.
+
+LABORATORY EVALUATION:  Electrolytes are normal.  Electrocardiogram 
+
+shows no definite ischemic change.  Chest x-ray is a limited study 
+
+due to body habitus. 
+
+THERAPY RENDERED/COURSE IN ED:  The patient was treated with 
+
+diuretics and ultimately admitted to the hospital for further care.
+
+FINAL DIAGNOSIS:  Congestive heart failure.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted to the hospital in stable condition.
+
+___________________________________                    TO761/1620 
+
+VIRGIL L. IVERY, M.D.   VI65                            D:02/28/79 
+
+                                                       T:02/28/79 
+
+Dictated by:  VIRGIL L. IVERY, M.D.   VI65 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="452" end="475" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="452" end="475" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="452" end="475" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC3" time="during DCT" indicator="mention">
+      <CAD id="C3" start="452" end="475" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="452" end="475" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="452" end="475" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC6" time="after DCT" indicator="mention">
+      <CAD id="C6" start="452" end="475" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="452" end="475" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="452" end="475" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="397" end="405" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="397" end="405" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="397" end="405" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="397" end="405" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="397" end="405" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="397" end="405" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="397" end="405" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="397" end="405" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="397" end="405" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

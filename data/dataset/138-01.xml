@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-03-05
+
+
+
+
+
+
+Shelby Dental Care Center
+4040 Oldham Lane              PRESTON, FRANCES
+Cozad, OK  53952                    05850080
+(060) 107-3378                     03/05/2076
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 51-year-old woman who comes to SDCC to initiate longitudinal care and for follow up of medical problems.
+
+
+PROBLEMS:  Hypertension.  She has a long history of hypertension.  She has not seen a doctor in a year.  She is currently taking:
+1.  Amlodipine 10 mg p.o. daily.
+2.  Lisinopril 20 mg daily.
+3.  Hydrochlorothiazide 25 mg p.o. daily.
+
+
+MEDICATIONS:  As noted above.
+
+
+ALLERGIES:  No known allergies to any medications.
+
+
+SOCIAL HISTORY:  She moved here one year ago from Big Pine Key.  Has not had medical care here.
+
+
+REVIEW OF SYMPTOMS:  Notable for chest pain, episodic left-sided anterior, for many months. No significant weight change, febrile signs or symptoms, headache, blurred vision, tinnitus, cough, shortness of breath, nausea, abdominal pain, nightsweats, diarrhea, dysuria, polyuria, skin rash, bruising, joint pain, or focal weakness.  
+
+
+PHYSICAL EXAMINATION:  The patient is in no acute distress.  Blood pressure by nurse 160/90, by me 150/100, weight 222 pounds, height 63.5 inches, BMI 38.8.  Skin exam:  No rash.  Head and neck:  Normal.  Chest:  Clear to percussion and auscultation.  There is focal tenderness over two left-sided mid costochondral junctions which reproduced chief complaint.  Cardiovascular exam:  No extra sounds or murmurs.  Abdominal exam:  No masses, tenderness, or organomegaly.  Musculoskeletal exam:  Full range or motion without tenderness all joints in both upper extremities and lower extremities, no pedal edema.
+
+
+ASSESSMENT AND PLAN:
+1.  Hypertension.  Currently, she is not in good control despite three medications.  She reports taking medications today, but about an hour ago.  Will make no changes today, but follow up in one week.  She uses alot of salt which I adviced her not to do
+2.  Costochondritis.  No intervention necessary.
+3.  Obesity.  This will be the subject of future discussions.
+4.  Adult health maintenance.  The patient will return for fasting lipids and other blood work.  I will see her in one week for a comprehensive exam.
+
+
+
+
+______________________________
+Louis P Barron, M.D., M.Sc.
+
+
+
+
+
+
+
+
+
+
+eScription document:9-6873721 MEeScription
+
+
+
+
+
+
+DD: 03/05/76
+DT: 03/06/76
+DV: 03/05/76
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC1" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="2047" end="2054" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="2047" end="2054" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC10" time="before DCT" indicator="mention">
+      <OBESE id="O2" start="2047" end="2054" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="2047" end="2054" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC15" time="during DCT" indicator="mention">
+      <OBESE id="O4" start="2047" end="2054" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="2047" end="2054" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="2047" end="2054" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC18" time="during DCT" indicator="BMI">
+      <OBESE id="O7" start="1254" end="1262" text="BMI 38.8" time="during DCT" indicator="BMI" comment=""/>
+      <OBESE id="O8" start="1254" end="1262" text="BMI 38.8" time="during DCT" indicator="BMI" comment=""/>
+      <OBESE id="O9" start="1254" end="1262" text="BMI 38.8" time="during DCT" indicator="BMI" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="521" end="531" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="521" end="531" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="521" end="531" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M3" start="549" end="568" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M4" start="549" end="568" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M5" start="549" end="568" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="488" end="498" text="Amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="488" end="498" text="Amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="488" end="498" text="Amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="488" end="498" text="Amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="488" end="498" text="Amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="488" end="498" text="Amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M12" start="549" end="568" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M13" start="549" end="568" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M14" start="549" end="568" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M15" start="521" end="531" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="521" end="531" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="521" end="531" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M18" start="549" end="568" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M19" start="549" end="568" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M20" start="549" end="568" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M21" start="521" end="531" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="521" end="531" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="521" end="531" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M24" start="488" end="498" text="Amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="488" end="498" text="Amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="488" end="498" text="Amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="365" end="377" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="365" end="377" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="365" end="377" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1192" end="1198" text="160/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1192" end="1214" text="160/90, by me 150/100," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1191" end="1198" text=" 160/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="365" end="377" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="365" end="377" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="365" end="377" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="365" end="377" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="365" end="377" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="365" end="377" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

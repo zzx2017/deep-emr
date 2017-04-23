@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-06-29
+
+                     CKMC EMERGENCY DEPT VISIT
+ 
+UHRICH,KARSON   456-30-26-8                 VISIT DATE: 06/29/82
+The patient was seen and evaluated with the medical intern, I agree 
+with the medical intern's note. 
+PRESENTING COMPLAINT:  The patient is a 65-year-old female with a 
+history of hypertension, hypercholesterolemia, depression, H 
+pylori, gastric reflux with increasing back pain and epigastric 
+pain. 
+HISTORY OF PRESENTING COMPLAINT:  She says over the last couple of 
+days it is unrelieved with food but not exacerbated by food.  She 
+occasionally has a pressure in her epigastrium, no radiation to her 
+neck, chest, no shortness of breath, no palpitations, no 
+diaphoresis, no vomiting, no hematochezia, or melena but she has 
+had increased frequency of her BM to three or four a day.  No 
+dysuria or urgency.  She describes the pain as constant. 
+PAST MEDICAL HISTORY:  Hypertension, hypercholesterolemia, GERD. 
+MEDICATIONS:  Tetracycline, Prilosec, Ativan, atenolol, Zestril. 
+ALLERGIES:  Aspirin which causes upset stomach. 
+SOCIAL HISTORY AND FAMILY HISTORY:  Nonsmoker. 
+PHYSICAL EXAMINATION:  Temperature 98.1, pulse 92, respiratory rate 
+16, blood pressure 196/84.  Skin:  Warm and dry.  She is 
+well-developed, well-nourished female in no distress.  Pupils are 
+equal, round, reactive light.  Extraocular movements are full. 
+Sinuses nontender.  Oropharynx clear.  Nasopharynx clear.  Neck: 
+Supple, full range of motion.  There is no JVD.  Heart:  Regular 
+rate and rhythm without murmur.  Abdomen is soft.  Lungs are clear. 
+Extremities:  There is no clubbing, cyanosis, or edema.  Rectal 
+exam is nontender with brown, trace guaiac positive stool. 
+Neurologic exam is nonfocal. 
+LABORATORY EVALUATION:  Patient had a white count of 7.5, 
+hemoglobin of 14, platelet count of 259.  Electrolytes are normal. 
+Amylase and lipase are 71 and 204 respectively.  H pylori IgA is 
+positive from previous studies.  CK is 72, troponin is 0.  Chest 
+x-ray is reviewed with Radiologist and is normal.  EKG shows normal 
+sinus rhythm with some T wave flattening in the inferior lateral 
+leads. 
+THERAPY RENDERED/COURSE IN ED:  Patient was seen, given aspirin, 
+Lopressor, and nitroglycerin.  If her pain doesn't resolve with and 
+a GI cocktail she will be admitted to the Observation Unit.  Because 
+ of the concern that her pain goes to her back, she has a CT scan 
+to rule out aortic dissection which is reviewed with the 
+Radiologist and is negative. 
+FINAL DIAGNOSIS:  Atypical chest pain, perhaps consistent with 
+angina. 
+DISPOSITION (including condition upon discharge):  Condition at 
+this time is stable. 
+___________________________________                    DM972/9882 
+URIEL NIX, M.D.     UN49                    D:06/29/82 
+                                                       T:06/29/82 
+Dictated by:  URIEL NIX, M.D.     UN49 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="336" end="356" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="931" end="951" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="336" end="356" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="336" end="356" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC7" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="336" end="356" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="931" end="951" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="336" end="356" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="336" end="356" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="336" end="356" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="931" end="951" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="336" end="356" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="336" end="356" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1016" end="1023" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1016" end="1023" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1016" end="1024" text="Zestril." time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="2195" end="2202" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2195" end="2202" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2195" end="2202" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="1016" end="1023" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1016" end="1023" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1016" end="1024" text="Zestril." time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M9" start="1006" end="1014" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1006" end="1014" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1006" end="1014" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="1016" end="1023" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="1016" end="1023" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="1016" end="1024" text="Zestril." time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="1006" end="1014" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1006" end="1014" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1006" end="1014" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="1006" end="1014" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="2205" end="2214" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1006" end="1014" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="2205" end="2214" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1006" end="1014" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="2205" end="2214" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M24" start="2220" end="2233" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M25" start="2220" end="2233" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M26" start="2220" end="2233" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1196" end="1217" text="blood pressure 196/84" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1196" end="1217" text="blood pressure 196/84" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1211" end="1217" text="196/84" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="322" end="334" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="917" end="929" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="322" end="334" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="322" end="334" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="322" end="334" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="917" end="929" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="322" end="334" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="322" end="334" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="322" end="334" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="917" end="929" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="322" end="334" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="322" end="334" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC11" time="during DCT" indicator="symptom">
+      <CAD id="C0" start="2516" end="2570" text=" Atypical chest pain, perhaps consistent with  angina." time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="2517" end="2571" text="Atypical chest pain, perhaps consistent with  angina. " time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC17" status="never">
+      <SMOKER id="S0" start="1111" end="1120" text="Nonsmoker" status="never" comment=""/>
+      <SMOKER id="S1" start="1111" end="1120" text="Nonsmoker" status="never" comment=""/>
+      <SMOKER id="S2" start="1111" end="1120" text="Nonsmoker" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

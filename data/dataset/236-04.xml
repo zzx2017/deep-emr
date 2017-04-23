@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2071-01-12
+Problems	    
+
+IDDM	      
+
+COR ART DIS	      
+
+MI	      
+
+PORPHYRIA	      
+
+PAST SMOKER QUIT 2061;  1/2 PPD X 15 YEARS	      
+
+S/P SURGERY LEFT HAND, REPAIR DUPYTRENS CONTRACTURE	      
+
+
+
+History of Present Illness	
+
+Jennifer comes in doing well.
+
+
+
+She has had little chest pain and has required few nitros.  No chest pain at rest or shortness of breath.
+
+
+
+She continues to have significant discomfort from her DM neuropathy.  She has been taking neurontin and has noticed an improvement in this, but the pain does continue to be problematic.  She saw Pearline Rush in neurology who felt that she was not likely to be having seizures, but planned an EEG and MRI to r/o any structural disease.
+
+
+
+Seen in GYN for embx which was negative for hyperplasia.  Has not had her period for 3 months.
+
+
+
+Seen in ED with a tick bite.  No rashes or joint symptoms.
+
+
+
+Past Medical History	
+
+See problem list
+
+
+
+Medications	    
+
+TYLENOL	    PO PRN
+
+ASPIRIN	 81MG PO QD
+
+*   HUMULOG	 Variable  qid
+
+CELEXA (CITALOPRAM)	 40MG 1 Tablet(s) PO QD
+
+SYNALAR 0.025% CREAM (FLUOCINOLONE 0.025%...	  TOP BID
+
+FLONASE (FLUTICASONE NASAL SPRAY)	 2SPRAY INH each nostril qd
+
+IMDUR (ISOSORBIDE MONONIT.(SR))	 60MG 1 Tablet(s) PO QD
+
+NPH INSULIN	 25UNITS/3units SC QAM/qpm
+
+LOPRESSOR	 25MG PO QD
+
+TNG 0.4 MG (NITROGLYCERIN 1/150 (0.4 MG))	 1TAB SL Q5 MIN X 3
+
+NEURONTIN (GABAPENTIN)	 300MG 2 Capsule(s) PO TID
+
+PRAVACHOL (PRAVASTATIN)	 40MG 1 Tablet(s) PO QHS
+
+PLAVIX (CLOPIDOGREL)	 75MG PO QD
+
+NEXIUM (ESOMEPRAZOLE)	 20MG PO QD
+
+
+
+Allergies	    
+
+TEGRETOL (CARBAMAZEPINE)	 porphyria
+
+ELAVIL (AMITRIPTYLINE HCL)	 porphyria
+
+Morphine	 Rash
+
+VARIEGATE PORPHYRIA	 CHECK LONGMONT FOR LIST OF DRUGS;  INCLUDES SULFA,BARBITUATES, MEPROBAMATE, VALPROATE, GRISEOFULVIN, ERGOTS, STEROIDS
+
+
+
+Family History	
+
+Mother, sister, brother, nephew DM
+
+Mother Porphyria
+
+Sister Porphyria
+
+
+
+Social History	
+
+Formerly worked as an Transport Operations Supervisor.  Married with 1 son.  No tob.  No etoh.
+
+
+
+Review of Systems	
+
+No sob/worsening cp
+
+
+
+
+
+Vital Signs	    
+
+Blood Pressure:	 128/68   
+
+Weight:	 107   Pounds
+
+
+
+Physical Exam	  
+
+
+
+Disposition and Plans	
+
+1.  CAD - Follow closely.  Continue current regimen.
+
+2.  DM - poor control.  Very brittle. Recently seen by Dr. Nelson.
+
+3.  Cholesterol - last LDL <100.  Pravachol increased to 40mg.
+
+4.  Menorrhagia - currently not an issue.
+
+5.  DM neuropathy - will increase neurontin to 600 mg tid.
+
+6.  HM up to date
+
+
+
+Return to Clinic in 4  months.
+
+
+
+cc:  John Koontz, MD; Timothy Quarterman, MD
+
+
+
+
+
+______________________________                              
+
+
+
+Wanda Andrea Koontz, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1415" end="1424" text="PRAVACHOL" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1426" end="1437" text="PRAVASTATIN" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1415" end="1439" text="PRAVACHOL (PRAVASTATIN) " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="2308" end="2317" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="968" end="975" text="ASPIRIN" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="968" end="975" text="ASPIRIN" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="968" end="975" text="ASPIRIN" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M7" start="1465" end="1471" text="PLAVIX" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M8" start="1465" end="1471" text="PLAVIX" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M9" start="1465" end="1486" text="PLAVIX (CLOPIDOGREL) " time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M10" start="968" end="975" text="ASPIRIN" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="968" end="975" text="ASPIRIN" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="968" end="975" text="ASPIRIN" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M13" start="1181" end="1186" text="IMDUR" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="1301" end="1304" text="TNG" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M15" start="1181" end="1186" text="IMDUR" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="1181" end="1213" text="IMDUR (ISOSORBIDE MONONIT.(SR)) " time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="1301" end="1343" text="TNG 0.4 MG (NITROGLYCERIN 1/150 (0.4 MG)) " time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M18" start="1181" end="1186" text="IMDUR" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M19" start="1301" end="1304" text="TNG" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="1181" end="1186" text="IMDUR" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M21" start="1181" end="1213" text="IMDUR (ISOSORBIDE MONONIT.(SR)) " time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M22" start="1301" end="1343" text="TNG 0.4 MG (NITROGLYCERIN 1/150 (0.4 MG)) " time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M23" start="993" end="1000" text="HUMULOG" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1238" end="1241" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="993" end="1000" text="HUMULOG" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="993" end="1000" text="HUMULOG" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1238" end="1250" text="NPH INSULIN " time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M28" start="1465" end="1471" text="PLAVIX" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M29" start="1465" end="1471" text="PLAVIX" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M30" start="1465" end="1486" text="PLAVIX (CLOPIDOGREL) " time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M31" start="1278" end="1287" text="LOPRESSOR" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1278" end="1287" text="LOPRESSOR" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="1278" end="1288" text="LOPRESSOR " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M34" start="1415" end="1424" text="PRAVACHOL" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1426" end="1437" text="PRAVASTATIN" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1415" end="1439" text="PRAVACHOL (PRAVASTATIN) " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="2308" end="2317" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M38" start="1415" end="1424" text="PRAVACHOL" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M39" start="1426" end="1437" text="PRAVASTATIN" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="1415" end="1439" text="PRAVACHOL (PRAVASTATIN) " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M41" start="2308" end="2317" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M42" start="968" end="975" text="ASPIRIN" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M43" start="968" end="975" text="ASPIRIN" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M44" start="968" end="975" text="ASPIRIN" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M45" start="1181" end="1186" text="IMDUR" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M46" start="1301" end="1304" text="TNG" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M47" start="1181" end="1186" text="IMDUR" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M48" start="1181" end="1213" text="IMDUR (ISOSORBIDE MONONIT.(SR)) " time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M49" start="1301" end="1343" text="TNG 0.4 MG (NITROGLYCERIN 1/150 (0.4 MG)) " time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M50" start="993" end="1000" text="HUMULOG" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M51" start="1238" end="1241" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M52" start="993" end="1000" text="HUMULOG" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M53" start="993" end="1000" text="HUMULOG" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M54" start="1238" end="1250" text="NPH INSULIN " time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M55" start="1465" end="1471" text="PLAVIX" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M56" start="1465" end="1471" text="PLAVIX" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M57" start="1465" end="1486" text="PLAVIX (CLOPIDOGREL) " time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M58" start="993" end="1000" text="HUMULOG" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M59" start="1238" end="1241" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M60" start="993" end="1000" text="HUMULOG" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M61" start="993" end="1000" text="HUMULOG" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M62" start="1238" end="1250" text="NPH INSULIN " time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M63" start="1278" end="1287" text="LOPRESSOR" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M64" start="1278" end="1287" text="LOPRESSOR" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M65" start="1278" end="1288" text="LOPRESSOR " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M66" start="1278" end="1287" text="LOPRESSOR" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M67" start="1278" end="1287" text="LOPRESSOR" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M68" start="1278" end="1288" text="LOPRESSOR " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C0" start="2156" end="2159" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="55" end="66" text="COR ART DIS" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="55" end="67" text="COR ART DIS " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="2156" end="2159" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC16" time="during DCT" indicator="mention">
+      <CAD id="C4" start="2156" end="2159" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="55" end="66" text="COR ART DIS" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="55" end="67" text="COR ART DIS " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="2156" end="2159" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC21" time="before DCT" indicator="event">
+      <CAD id="C8" start="75" end="77" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C9" start="75" end="77" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C10" start="75" end="77" text="MI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC26" time="before DCT" indicator="mention">
+      <CAD id="C11" start="2156" end="2159" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="55" end="66" text="COR ART DIS" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="55" end="67" text="COR ART DIS " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="2156" end="2159" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="past">
+      <SMOKER id="S0" start="104" end="126" text="PAST SMOKER QUIT 2061;" status="past" comment=""/>
+      <SMOKER id="S1" start="104" end="120" text="PAST SMOKER QUIT" status="past" comment=""/>
+      <SMOKER id="S2" start="104" end="147" text="PAST SMOKER QUIT 2061;  1/2 PPD X 15 YEARS " status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="42" end="46" text="IDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="42" end="53" text="IDDM       " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="42" end="46" text="IDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="2210" end="2212" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="42" end="46" text="IDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="42" end="53" text="IDDM       " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="42" end="46" text="IDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2210" end="2212" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC19" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="42" end="46" text="IDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="42" end="53" text="IDDM       " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="42" end="46" text="IDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="2210" end="2212" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

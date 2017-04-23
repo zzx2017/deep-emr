@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-03-23
+
+
+
+
+
+                                      Lakeview Clinic Note
+
+
+
+Patient comes in today for follow-up of recent hospitalization for L1 fracture following a fall. She was in her usual state of health until 2 months ago when she suffered a mechanical fall while visiting family in South Korea. She sustained an L1 fracture without surgical intervention, and returned to canada where she presented to the ED on 3/9/76 wiht back pain, L1 planar fracture with evidence of minimal cord compressionl She was admitted and seen by neurosurgery who felt that there was no acute indication for surgery. Since then, she has had continued pain in her back with occasional burning in her feet but no numbness or tingling. She would like to undergo surgery at this point because her pain is intolerable. She is in contact with a neurosurgeon at this time regarding when to proceed with surgery.
+
+
+
+She is otherwise doing well. ROS positive for chest tightness with walking one block with some feeling of being "winded." She does not have this feeling at rest, and states it has been ongoing for the past year. She describes some peripheral edema, as well as PND.
+
+
+
+Also c/o left eye tearing and R ear itching. no eye pain or change in her vision.
+
+
+
+
+
+Problems
+
+Hypertension 
+
+Elevated cholesterol 
+
+Cervical polyp 
+
+endometrial polyp 
+
+osteoarthritis 
+
+Sleep apnea 
+
+
+
+
+
+Current Medications:
+
+DIOVAN 80 mg PO QD
+
+Nexium (ESOMEPRAZOLE) 20 MG PO QD x 30 day(s)
+
+HYDROCHLOROTHIAZIDE 25MG, 1 Tablet(s) PO QD
+
+Celebrex (CELECOXIB) 100MG, 1 Capsule(s) PO bid
+
+Levothyroxine Sodium 125MCG, 1 Tablet(s) PO QD x 30 day(s)
+
+Caltrate And D 2 TABS PO qd x 30 day(s)
+
+Percocet (OXYCODONE+APAP) 325-5, 1 Tablet(s) PO Q6H x 20 day(s)
+
+Lopid (GEMFIBROZIL) 600MG, 1 Tablet(s) PO QPM x 30 day(s)
+
+Lopressor (METOPROLOL Tartrate) 12.5MG, 1 Tablet(s) PO BID x 30 day(s)
+
+fosomax 70 PO qwk x 30 day(s) 
+
+
+
+Physical Exam	
+
+
+
+VSS:       BP144/76 , wt 209 lbs     
+
+HEENT:   no mouth lesions
+
+Thyroid:   no thyromegaly
+
+Chest:     scant crackles at bilateral bases
+
+Heart:      regular rate and rhythm, S1 and S2 normal, no gallops, no murmurs  
+
+Abd:        soft, NT/ND
+
+Extr:        1-2+ ankle edema, brisk capillary refill
+
+
+
+
+
+Recent Relevant Data:
+
+random glucose 148
+
+Hemoglobin A1c: 6.8
+
+CBC, chem 7, tash, cholesterol all WNL in march 2076. iPTH 41, alk phos hi at 129, nl LFTs, ESR 34
+
+SPEP negative, bone scan with osteopenia, mammogram negative
+
+CXR with ? of confluence of shadows vs nodule at 2nd rib space, favor shadows, ecg with T wave abnormalities and low qrs voltages
+
+ETT 2074 10 min 82% predicted negative for ischmia
+
+Echo 2074 EF 60%
+
+Assessment and Current Plan:
+
+67 yo F with recent L1 planar fracture and multiple medical problems including HTN and new DM
+
+1.  Neurosurg for possible surgery later this month, percocet for pain control
+
+
+
+       - will need PFTs pre-op given some c/o DOE
+
+2.  CV:  will also need nuclear study of heart given anginal sx's and new T wave abnormalities on ECG. Cannot do ETT given resting ECG abnormalities, and will need pharmocologic stress given she cannot walk from back pain.
+
+- will start her on lasix both for BP and for diuresis as she appears volume overloaded.
+
+- will rpt echo if dobutamine MIBI not informative
+
+       
+
+3.optho referral per pt request for eye tearing
+
+
+
+        
+
+4.elevated gluc and A1c concerning for new DM. However, given only 1 high b.s documented and A1C borderline elevated, I have advised her that we can probably control this with diet, exercise, and wt loss.She will see nutrition to help her avoid high carb foods and to lose wt . If this fails to control her DM we will start her on Metformin. She will need optho eval for this reason as well.
+
+
+
+        5. Pt with strong fhx of uterine ca, wishes to see GYN regarding screening for this. She denies sx's of      vaginal bleeding at this pt.
+
+
+
+         6.consider rpt CXR given ?of shadow vs nodule.
+
+
+
+         7. will review HM at next visit
+
+
+
+Patient will return for a follow-up visit in clinic in 1 wk for chem 7 and 1 month to see me re bp and volume status .
+
+
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+67 yr old woman with recent L1 fracture, with minimal cord compression, has had persistent pain and is in contact with a neurosurgeon for consideration of surgery.  Also has had some exertional chest pain in last yr, and has baseline EKG T wave changes, and is unable to do treadmill due to back pain. Will get dobutamine MIBI study.  Repeat CXR as above in resident's note.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1292" end="1313" text="Elevated cholesterol " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1291" end="1313" text=" Elevated cholesterol " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1292" end="1314" text="Elevated cholesterol  " time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC5" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1292" end="1313" text="Elevated cholesterol " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1291" end="1313" text=" Elevated cholesterol " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1292" end="1314" text="Elevated cholesterol  " time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC14" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1292" end="1313" text="Elevated cholesterol " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1291" end="1313" text=" Elevated cholesterol " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1292" end="1314" text="Elevated cholesterol  " time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC4" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M0" start="1476" end="1495" text="HYDROCHLOROTHIAZIDE" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M1" start="1476" end="1495" text="HYDROCHLOROTHIAZIDE" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M2" start="1476" end="1519" text="HYDROCHLOROTHIAZIDE 25MG, 1 Tablet(s) PO QD" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="fibrate" type2="">
+      <MEDICATION id="M3" start="1736" end="1742" text="Lopid " time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M4" start="1736" end="1793" text="Lopid (GEMFIBROZIL) 600MG, 1 Tablet(s) PO QPM x 30 day(s)" time="after DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M5" start="1795" end="1804" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="1795" end="1805" text="Lopressor " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="1795" end="1865" text="Lopressor (METOPROLOL Tartrate) 12.5MG, 1 Tablet(s) PO BID x 30 day(s)" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M8" start="1409" end="1415" text="DIOVAN" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M9" start="1409" end="1415" text="DIOVAN" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M10" start="1409" end="1427" text="DIOVAN 80 mg PO QD" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M11" start="1476" end="1495" text="HYDROCHLOROTHIAZIDE" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M12" start="1476" end="1495" text="HYDROCHLOROTHIAZIDE" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M13" start="1476" end="1519" text="HYDROCHLOROTHIAZIDE 25MG, 1 Tablet(s) PO QD" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M14" start="1476" end="1495" text="HYDROCHLOROTHIAZIDE" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M15" start="1476" end="1495" text="HYDROCHLOROTHIAZIDE" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M16" start="1476" end="1519" text="HYDROCHLOROTHIAZIDE 25MG, 1 Tablet(s) PO QD" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="fibrate" type2="">
+      <MEDICATION id="M17" start="1736" end="1742" text="Lopid " time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="1736" end="1793" text="Lopid (GEMFIBROZIL) 600MG, 1 Tablet(s) PO QPM x 30 day(s)" time="during DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="fibrate" type2="">
+      <MEDICATION id="M19" start="1736" end="1742" text="Lopid " time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="1736" end="1793" text="Lopid (GEMFIBROZIL) 600MG, 1 Tablet(s) PO QPM x 30 day(s)" time="before DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1795" end="1804" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1795" end="1805" text="Lopressor " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1795" end="1865" text="Lopressor (METOPROLOL Tartrate) 12.5MG, 1 Tablet(s) PO BID x 30 day(s)" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1795" end="1804" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1795" end="1805" text="Lopressor " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1795" end="1865" text="Lopressor (METOPROLOL Tartrate) 12.5MG, 1 Tablet(s) PO BID x 30 day(s)" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M27" start="1409" end="1415" text="DIOVAN" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M28" start="1409" end="1415" text="DIOVAN" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M29" start="1409" end="1427" text="DIOVAN 80 mg PO QD" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M30" start="1409" end="1415" text="DIOVAN" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M31" start="1409" end="1415" text="DIOVAN" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M32" start="1409" end="1427" text="DIOVAN 80 mg PO QD" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1277" end="1289" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1277" end="1290" text="Hypertension " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1277" end="1289" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="2759" end="2762" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="1930" end="1938" text="BP144/76" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1932" end="1938" text="144/76" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1930" end="1938" text="BP144/76" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="1277" end="1289" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1277" end="1290" text="Hypertension " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1277" end="1289" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2759" end="2762" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="1277" end="1289" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="1277" end="1290" text="Hypertension " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="1277" end="1289" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="2759" end="2762" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="94" end="102" text="Patient " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="2266" end="2285" text="Hemoglobin A1c: 6.8" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="2266" end="2285" text="Hemoglobin A1c: 6.8" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="2767" end="2773" text="new DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="2771" end="2773" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2771" end="2773" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="3387" end="3389" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="3651" end="3653" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

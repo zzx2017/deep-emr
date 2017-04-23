@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2088-10-12
+
+EDVISIT^45630268^UHRICH, KARSON^10/12/88^ABREU, OLIVIA
+
+The patient was seen primarily by myself.
+
+HISTORY OF PRESENT ILLNESS:  This is a 71-year-old female with a
+
+history of diabetes, high blood pressure, and
+
+hypercholesterolemia presents to the emergency room with some
+
+right thumb pain and swelling after poking with a turkey bone 2
+
+days ago.  Denies any fevers or chills.  Does report some
+
+increased redness and swelling at the right side.  Also reports
+
+some left dental pain that started this morning.  She has had
+
+history of dental pain in the past, however, much worse today. 
+
+No fevers and no chills.  Tolerating secretions.  No pain on
+
+swallowing.  No recent dental work.
+
+PAST MEDICAL HISTORY:  As noted above, hypercholesterolemia,
+
+diabetes, and hypertension.
+
+ALLERGIES:  Aspirin.
+
+MEDICATIONS:  Atenolol, Protonix, amitriptyline, and Lipitor.
+
+SOCIAL HISTORY:  Denies any tobacco, alcohol, or IV drug use.
+
+PAST SURGICAL HISTORY:  No past surgery or procedure.
+
+REVIEW OF SYSTEMS:  Right thumb pain and left tooth pain.
+
+PHYSICAL EXAMINATION:  Mild tachycardic at 108 and low-grade
+
+temperature 99.2.  Rectal same.  She is an elderly female in mild
+
+to moderate distress complaining significant dental pain.  Head
+
+and neck exam, post dental exam, the patient has pain over tooth
+
+#16 which is intact.  No surrounding fluctuance, pus discharge,
+
+or bleeding.  Tooth is intact in the socket.  Does appear to have
+
+caries.  Posterior pharynx is clear.  Neck is supple with full
+
+range of motion.  Lungs are clear to auscultation bilaterally. 
+
+Cardiac exam reveals S1 and S2.  Regular rate.  No gallops, rubs,
+
+or murmurs.  Abdomen is soft and nontender.  On extremity exam,
+
+right thumb, the patient has an indurated right thumb with some
+
+streaking up into her mid forearm on the lateral aspect.  There
+
+is some induration and warmth to touch.  There is no foreign body
+
+visualized.  There is no area of pus discharge or bleeding.  2+
+
+radial pulses.
+
+LABORATORY DATA:  Normal CBC.  X-ray of the right hand shows no
+
+evidence of foreign body.
+
+ ******** Not reviewed by Attending Physician ********
+
+IMPRESSION AND PLAN:  This is a 71-year-old female with diabetes
+
+presenting with cellulitis and some streaking.  She had received
+
+IV Ancef in the emergency room.  She will be admitted for
+
+continued IV antibiotics and observation.
+
+______________________________
+
+ABREU, OLIVIA M.D.
+
+D: 10/12/88
+
+T: 10/12/88
+
+Dictated By: ABREU, OLIVIA
+
+eScription document:1-4087689 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="240" end="260" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="758" end="778" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="240" end="260" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="240" end="260" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="240" end="260" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="758" end="778" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="240" end="260" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="240" end="260" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="240" end="260" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="758" end="778" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="240" end="260" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="240" end="260" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="885" end="892" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="885" end="892" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="885" end="892" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="885" end="892" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="885" end="892" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="885" end="892" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="885" end="892" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="885" end="892" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="885" end="892" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M9" start="846" end="854" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="846" end="854" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="846" end="854" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="846" end="854" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="846" end="854" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="846" end="854" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="846" end="854" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="846" end="854" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="846" end="854" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="214" end="233" text="high blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="795" end="807" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="214" end="233" text="high blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="214" end="233" text="high blood pressure" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="214" end="233" text="high blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="795" end="807" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="214" end="233" text="high blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="214" end="233" text="high blood pressure" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="214" end="233" text="high blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="795" end="807" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="214" end="233" text="high blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="214" end="233" text="high blood pressure" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC16" status="never">
+      <SMOKER id="S0" start="912" end="930" text="Denies any tobacco" status="never" comment=""/>
+      <SMOKER id="S1" start="911" end="930" text=" Denies any tobacco" status="never" comment=""/>
+      <SMOKER id="S2" start="912" end="930" text="Denies any tobacco" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="204" end="212" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="781" end="789" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2207" end="2215" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="204" end="212" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="204" end="212" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="204" end="212" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="781" end="789" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2207" end="2215" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="204" end="212" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="204" end="212" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="after DCT" indicator="mention">
+      <DIABETES id="D10" start="204" end="212" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="781" end="789" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="2207" end="2215" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="204" end="212" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="204" end="212" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

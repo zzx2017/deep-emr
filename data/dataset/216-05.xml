@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2104-09-23
+
+
+Patient: MARVINYANDELL,GRACE   [ 90468071(BHC) ]  FDate of Visit: 09/23/2104
+
+
+
+
+Dear Dr. Mcfarland:
+
+
+I had the pleasure of seeing Mrs. Marvinyandell at the Cardiac Laboratory in follow-up of her exertional dyspnea.
+
+
+As you know, she is a pleasant 82 yo woman with h/o asthma, recurrent DVT on coumadin, breast cancer s/p lumpectomy + chemo and radiation therapy 30 years ago with resultant mild radiation fibrosis - now with recurrence in the contralateral breast, DM, HTN, HLP, anemia and hypothyroidism who is being evaluated at the CL for exertional dyspnea since 2102 when she fell and suffered a compression fracture. Her other respirtory-related symtpoms include orthopnea and intermittent wheezing with seasonal allergies. She has no chest pain, PND or LE edema.
+
+
+Her work-up to date has revealed a mixed restrictive and (mild) obstructive ventilatory deficit which was attributed to kyphosis and radiation fibrosis + asthma respectively. She has had a negative cardiac stress test.
+
+
+PMH as above
+
+
+Meds: synthroid, labetalol, norvasc, glipizide, coumadin, erythropoetin, pravastatin, ultram, albuterol, pentasa
+
+
+Allergies: PCN, cephalosporins, vancomysin, shellfish
+
+
+SH: no tobacco ever. She is a professional tool maker. She has a dog
+FH: asthma, CAD, DM, HTN
+
+
+ROS: as per HPI, otherwise negative in detail
+
+
+EXAM:
+HR 88, BP 135/60, 98% RA, Wt 146lb
+OP clear
+Lungs CTAB
+Heart RRR
+Abdomen soft NTND
+1+ LE edema, no clubbing
+
+
+Marvinyandell,Grace 
+Date:  09/23/04
+                          Broadwater Health Center                          Pulmonary Function Laboratory                 14 A Street  Watseka, Arkansas 19842                    Phone: (091)920-5569  Fax: (251)628-xxxx                  Medical Director: Yvonne X. Olmstead, M.D.
+     Name:          MARVINYANDELL,GRACE MRN:                90468071     Date of Birth: 05/24/22             Date of Test        09/23/04     Gender:        Female               Location:           Chest Lab      Height:        65  in               Referring Physician: Weller,Mark     Weight:        145  lb              Attending Physician: KNOX,KEITH D     Race:          Black                Technician:         MT572     Resp.Diagnosis: 786.09              Study Status:       Final
+SPIROMETRY (BTPS)                  Predicted     Pre-BD          Post-BD       Percent                  Range                                            Change                   Mean  95% CI  Actual  %Pred     Actual %PredFVC        (Lts)   2.33   1.65   1.38     59   1.38     59      0FEV1       (Lts)   1.67   1.11   1.02     61   1.08     65      6FEV6       (Lts)   1.97   1.25   1.38     70   1.38     70      0FEV1/FVC     (%)     73     64     74    101     78    107      5FEV1/FEV6    (%)     78     69     74     95     78    100      5FEF25_75   (L/s)   1.23   0.09   0.71     58   0.94     76     32PEFR       (L/s)   3.88   1.81   4.95    128   4.62    119     -7FET       (Secs)                 6.67          7.64            15
+
+
+PHYSICIAN INTERPRETATIONFEV1 and FVC are reduced, FEV1/FVC is normal. There was not a significantresponse to inhaled bronchodilator. The reduced FVC is consistent with arestrictive deficit. Suggest lung volumes if clinically indicated. Since6/03/04, the FEV1 and FVC have not changed.
+
+
+
+
+
+
+
+
+IMPRESSION AND RECOMMENDATIONS: DOE is likely multifactorial. It may be beneficial to separate cardiac from pulmonary limitatio from deconditioning and I recommended a cardio-pulmonary exercise test to the patient, to which she agreed. In addition, as previously discussed, she would benefit from pulmonary rehab. Finally, I am not sure how much asthma is contributing to the picture. There was no response to brnonchodialtor today and the patient does not feel any help from it either. I told her that she does not need to use albuterol if it doesn't help her. I've requested RAST allergy testing to further investigate the possiblity of allergic asthma. We will not do the methacholine challange testing due to patient's already deacreased FEV1 (due to restriction) as it might be dangerous to precipitate bronchoconstriciton in the setting of an already limited reserve.
+
+
+Seen and d/w Dr. Weller
+
+
+
+
+
+
+____________________________________
+Xavier U. Mahoney, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="506" end="509" text="HLP" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="506" end="509" text="HLP" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="506" end="509" text="HLP" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC4" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="506" end="509" text="HLP" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="506" end="509" text="HLP" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="506" end="509" text="HLP" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="506" end="509" text="HLP" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="506" end="509" text="HLP" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="506" end="509" text="HLP" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1113" end="1124" text="pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1113" end="1124" text="pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1113" end="1124" text="pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="1068" end="1075" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="1068" end="1075" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="1068" end="1075" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M6" start="1077" end="1086" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M7" start="1077" end="1086" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M8" start="1077" end="1086" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="1068" end="1075" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1068" end="1075" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1068" end="1075" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="1077" end="1086" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="1077" end="1086" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="1077" end="1086" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="1057" end="1066" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1057" end="1066" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1057" end="1066" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M18" start="1113" end="1124" text="pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1113" end="1124" text="pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1113" end="1124" text="pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M21" start="1113" end="1124" text="pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1113" end="1124" text="pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1113" end="1124" text="pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M24" start="1077" end="1086" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M25" start="1077" end="1086" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="1077" end="1086" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M27" start="1068" end="1075" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="1068" end="1075" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1068" end="1075" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="1057" end="1066" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="1057" end="1066" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1057" end="1066" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="1057" end="1066" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="1057" end="1066" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="1057" end="1066" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="501" end="504" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="501" end="505" text="HTN," time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="501" end="504" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="501" end="504" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="501" end="505" text="HTN," time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="501" end="504" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="501" end="504" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="501" end="505" text="HTN," time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="501" end="504" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC16" status="never">
+      <SMOKER id="S0" start="1215" end="1230" text="no tobacco ever" status="never" comment=""/>
+      <SMOKER id="S1" start="1215" end="1231" text="no tobacco ever." status="never" comment=""/>
+      <SMOKER id="S2" start="1215" end="1230" text="no tobacco ever" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="497" end="499" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="497" end="499" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="497" end="499" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="497" end="499" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="497" end="499" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="497" end="499" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="497" end="499" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="497" end="499" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="497" end="499" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-07-20
+
+                     SILVER RIDGE EMERGENCY DEPT VISIT
+
+ 
+
+OROZCO,KYLE   560-40-78-5                     VISIT DATE: 07/20/83
+
+PRESENTING COMPLAINT:  Groin abscess. 
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 58 year-old male who 
+
+had a renal catheterization via the right groin for renal artery 
+
+stenosis on 8-09-83, who now comes in with progressive redness, 
+
+swelling and some drainage over the last two days.  Some low grade 
+
+fever, no chills, no rigors, no cough, no chest pain. 
+
+PAST MEDICAL HISTORY:  Angioplasty of his renal artery, insulin 
+
+dependent diabetes mellitus, hypertension. 
+
+MEDICATIONS:  Zestril, Zocor, hydrochlorothiazide, insulin. 
+
+ALLERGIES:  No known drug allergies. 
+
+PHYSICAL EXAMINATION:  This is a well-nourished, well-developed 
+
+male.  SKIN:  Warm and dry without rash or diaphoresis.  HEENT: 
+
+Normocephalic, atraumatic, pupils are equal, round and reactive to 
+
+light.  NECK:  Supple, full range of motion.  LUNGS:  Clear. 
+
+HEART:  Regular rate and rhythm.  ABDOMEN:  Soft and nontender. 
+
+The right groin has a purulent abscess which is extremely tender. 
+
+It is not pulsatile.  There is purulent drainage from it.  There is 
+
+some surrounding erythema that extends on to the testicles.  The 
+
+testicles are nontender. 
+
+CONSULTATIONS (including PCP):  I have discussed the case with the 
+
+primary care physician. 
+
+FINAL DIAGNOSIS:  Groin abscess. 
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+admitted to the operating room in stable condition. 
+
+___________________________________                    XW277/90683 
+
+FILBERT BRIGHT, M.D.    FB59                     D:07/20/83 
+
+                                                       T:07/20/83 
+
+Dictated by:  FILBERT BRIGHT, M.D.    FB59 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="645" end="653" text="Zestril," time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="645" end="652" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="645" end="652" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="654" end="659" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="654" end="659" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="654" end="659" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="645" end="653" text="Zestril," time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="645" end="652" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="645" end="652" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M9" start="661" end="680" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M10" start="661" end="680" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M11" start="661" end="680" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M12" start="682" end="689" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="682" end="689" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="682" end="689" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M15" start="654" end="659" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="654" end="659" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="654" end="659" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M18" start="654" end="659" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="654" end="659" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M20" start="654" end="659" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M21" start="661" end="680" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M22" start="661" end="680" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M23" start="661" end="680" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M24" start="645" end="653" text="Zestril," time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M25" start="645" end="652" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="645" end="652" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M27" start="661" end="680" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M28" start="661" end="680" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M29" start="661" end="680" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M30" start="682" end="689" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M31" start="682" end="689" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M32" start="682" end="689" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M33" start="682" end="689" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M34" start="682" end="689" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M35" start="682" end="689" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="615" end="627" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="615" end="627" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="615" end="627" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="615" end="627" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="615" end="627" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="615" end="627" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="615" end="627" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="615" end="627" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="615" end="627" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC18" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="576" end="614" text="insulin   dependent diabetes mellitus," time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="576" end="613" text="insulin   dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="596" end="604" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="576" end="614" text="insulin   dependent diabetes mellitus," time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="576" end="613" text="insulin   dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="596" end="604" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC19" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="576" end="614" text="insulin   dependent diabetes mellitus," time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="576" end="613" text="insulin   dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="596" end="604" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

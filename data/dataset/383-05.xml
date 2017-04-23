@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2121-06-06
+
+Reason for Visit Here for CPE and f/u on chronic cough/HTN (not using flovent).  GERD controlled well with ranitidine.  Feeling more fatigued recently.  No specific symptoms.Review of Systems Denies CP, abd pain, joint pains, SOB/cough, bowel/bladder problems. &#160;Remainder of review of systems is negative in detail.Allergies  Penicillins  - RashLISINOPRIL  - coughATORVASTATIN  - Elevated LFTs/myalgiasMedications  Albuterol Inhaler 1-2 PUFF INH QID PRN ,  Take as directed  #1 Can(s)Asa (ACETYLSALICYLIC Acid) 325 MG (325MG TABLET Take 1) PO QD #Tablet(s)Diclofenac 1% Gel 1 % GEL (GM) Take 1 TOP QID PRN , Dosing cards supplied in the drug product carton. #1 Month(s) SupplyFlovent Inhaler (FLUTICASONE Propionate) 2 PUFF (110MCG AER W/ADAP ) INH BID #3 Inhaler(s)Gemfibrozil 600 MG TABLET Take 0.5 PO QD #30 Tablet(s)Mvi (MULTIVITAMINS) 1 CAPSULE PO QDNiacin Extended Release (NICOTINIC Acid Extended Release) 500 MG (500MG TABLET SA Take 1) PO QHS #30 Tablet(s)Nifedipine (EXTENDED Release) 60 MG (60MG TABLET  Take 1) PO QD #30 Tablet(s)Plavix (CLOPIDOGREL) 75 MG (75MG TABLET Take 1) PO QD #90 Tablet(s)Propranolol Hcl 20 MG (20 MG TABLET Take 1) PO BID #60 Tablet(s)Ranitidine Hcl 150 MG (150MG TABLET Take 1) PO BID PRN  #Tablet(s)Problems  Hypertension  Osteoathritis  Gastroesophageal reflux disease  Diverticulitis  Cerebrovascular accident  : L cerebellar 2112, s/p L CEALung nodule  : No further f/u needed per CT 4/16.Endarterectomy  : R, 2114.  L stent 12/19Goiter  : multinodular, USG 2115Adenomatous polyp  : Repeat colonoscope 2123Hyperlipidemia  Dupuytren's contracture  : B, L repairedSocial History Work:  RetiredMarital status:  marriedChildren:  yesHabits:  Quit cigs, no drugs.  Social Etoh.Sexually activeFamily History NC.Vital Signs  BLOOD PRESSURE 122/62PULSE 72WEIGHT 175 lbPhysical Exam NADSkin: ClearHEENT:  PERRLA, EOMI, TM's and Throat clearNeck: Supple, no palpable thyroid or LN'sAxillae: No palpable LNsLungs: Clear to P and ACor: RRRAbd: Soft, NABS, no bruits, NT, no masses or HSMExt: No edema, can not flex L knee, chronic.  + R Dupuytrens.Neuro: Fully intactAssessment and Plan 1.  Cough - use flovent 2 bid - has helped a great deal in past 2.  Hyperlipidemia - Taking gemfibrozil c good effect - check lipids3.  HTN/old CVA/DM - Good control, cont ASA/plavix.  4.  Multinodular goiter - Stable 5.  ED -okay with levitra6.  GERD - ranitidine 150 mg p.r.n. helps.7.  OA - Stable8.  R Dupuytrens - Discussed, follow9.  Fatigue - Check chems, CBC, TSH.  DC propranolol and f/u 3-4 wks for BP check10. Hlth maint - colonoscopy utd Greater than 25 minutes was spent in direct patient care.  Greater than 50% of this time was spent with counseling and coordination of care.  Specifically I counseled the patient in regards to the pathophysiology of his/her diagnosis and appropriate treatment options. F/u 1 mnth. _________________Thomas D Kinney, MD
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1582" end="1597" text="Hyperlipidemia " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1582" end="1596" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="2219" end="2233" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="1578" end="1596" text="2123Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="1582" end="1597" text="Hyperlipidemia " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1582" end="1596" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="2219" end="2233" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1578" end="1596" text="2123Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="1582" end="1597" text="Hyperlipidemia " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="1582" end="1596" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="2219" end="2233" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="1578" end="1596" text="2123Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="fibrate" type2="">
+      <MEDICATION id="M0" start="799" end="810" text="Gemfibrozil" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M1" start="799" end="810" text="Gemfibrozil" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M2" start="2243" end="2254" text="gemfibrozil" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M3" start="799" end="810" text="Gemfibrozil" time="before DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="niacin" type2="">
+      <MEDICATION id="M4" start="888" end="894" text="Niacin" time="before DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M5" start="888" end="894" text="Niacin" time="before DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M6" start="886" end="894" text="QDNiacin" time="before DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M7" start="517" end="520" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="517" end="520" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="2323" end="2326" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="517" end="520" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M11" start="1075" end="1081" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M12" start="1075" end="1081" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M13" start="2327" end="2333" text="plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M14" start="1075" end="1081" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="niacin" type2="">
+      <MEDICATION id="M15" start="888" end="894" text="Niacin" time="during DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M16" start="888" end="894" text="Niacin" time="during DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M17" start="886" end="894" text="QDNiacin" time="during DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="517" end="520" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="517" end="520" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="2323" end="2326" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="517" end="520" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M22" start="998" end="1009" text="Nifedipine " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="998" end="1008" text="Nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="998" end="1008" text="Nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="fibrate" type2="">
+      <MEDICATION id="M25" start="799" end="810" text="Gemfibrozil" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M26" start="799" end="810" text="Gemfibrozil" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M27" start="2243" end="2254" text="gemfibrozil" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M28" start="799" end="810" text="Gemfibrozil" time="after DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M29" start="998" end="1009" text="Nifedipine " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="998" end="1008" text="Nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="998" end="1008" text="Nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M32" start="1075" end="1081" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M33" start="1075" end="1081" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M34" start="2327" end="2333" text="plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M35" start="1075" end="1081" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="after DCT" type1="niacin" type2="">
+      <MEDICATION id="M36" start="888" end="894" text="Niacin" time="after DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M37" start="888" end="894" text="Niacin" time="after DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M38" start="886" end="894" text="QDNiacin" time="after DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M39" start="517" end="520" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M40" start="517" end="520" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M41" start="2323" end="2326" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M42" start="517" end="520" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="fibrate" type2="">
+      <MEDICATION id="M43" start="799" end="810" text="Gemfibrozil" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M44" start="799" end="810" text="Gemfibrozil" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M45" start="2243" end="2254" text="gemfibrozil" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M46" start="799" end="810" text="Gemfibrozil" time="during DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M47" start="998" end="1009" text="Nifedipine " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M48" start="998" end="1008" text="Nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="998" end="1008" text="Nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M50" start="1075" end="1081" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M51" start="1075" end="1081" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M52" start="2327" end="2333" text="plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M53" start="1075" end="1081" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M54" start="1142" end="1153" text="Propranolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="1142" end="1153" text="Propranolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="2528" end="2539" text="propranolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M57" start="1142" end="1153" text="Propranolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="83" end="86" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1282" end="1294" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2287" end="2290" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="83" end="86" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="83" end="86" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="83" end="86" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="1282" end="1294" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2287" end="2290" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="83" end="86" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="83" end="86" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC24" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="83" end="86" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1282" end="1294" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="2287" end="2290" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="83" end="86" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="83" end="86" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC18" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="past">
+      <SMOKER id="S0" start="1713" end="1723" text=" Quit cigs" status="past" comment=""/>
+      <SMOKER id="S1" start="1713" end="1723" text=" Quit cigs" status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="2299" end="2301" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="2299" end="2301" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC16" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="2299" end="2301" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="2299" end="2301" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC26" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="2299" end="2301" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2299" end="2301" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

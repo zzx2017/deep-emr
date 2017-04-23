@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2099-09-27
+
+EDVISIT^43634211^LEON, MAURICE^9/27/2099^HALEY, BEVERLY
+
+ADDENDUM:
+
+The patient had dizzy spells since 12/2099, which resolved after
+
+resection of his cervical medullary tumor.  He had recurrence 3
+
+times this morning of similar episodes.  He feels presyncopal and
+
+has headache.  He denies any nausea, vomiting, fevers, chills or
+
+upper respiratory symptoms.  He has had some epigastric pain. 
+
+During all of these episodes, he never lost consciousness, but he
+
+does a fall and slump.  He feels lightheaded prior to the
+
+episode.
+
+PAST MEDICAL HISTORY:  Remarkable for rheumatoid arthritis,
+
+psoriasis, hypertension, cholesterol, and asthma.
+
+Social history, family history, and review of systems are as per
+
+the written note.  The patient was counseled regarding smoking
+
+cessation.
+
+MEDICATIONS:  Aspirin, Lipitor, nifedipine, and Neurontin.
+
+ALLERGIES:  None.
+
+PHYSICAL EXAMINATION:  The patient is awake, alert, in no acute
+
+distress.  Vital signs are remarkable for temperature of 97.3,
+
+pulse 58, respiratory rate 16, blood pressure 134/79, and oxygen
+
+saturation is 96% on room air.  For full physical exam findings,
+
+please see the resident's written notes.  Specifically, HEENT
+
+exam is atraumatic and normal to inspection.  There is minimal
+
+right ptosis on my exam.  Neck is normal, supple, with posterior
+
+well-healed cervical scar.  There is no lymphadenopathy on my
+
+exam.  Respiratory, cardiac, abdominal, skin, and musculoskeletal
+
+exam are within normal limits as documented.  Neurologically, the
+
+patient is oriented with normal pleasant mood and affect.  Speech
+
+is fluent.  Cranial nerves are remarkable only for intermittent
+
+right-sided ptosis.  Extraocular movements are otherwise intact,
+
+and the patient is moving all 4 extremities without any motor or
+
+sensory deficit.
+
+LABORATORY DATA:  CBC and electrolytes are remarkable for BUN and
+
+creatinine ratio of 22-0.9 respectively.  CK and troponin are
+
+flat.  INR is 1.  EKG demonstrates sinus rhythm without any
+
+significant ST-T wave changes when compared to prior studies.
+
+IMAGING STUDIES:  Head CT is unremarkable.
+
+EMERGENCY DEPARTMENT COURSE:  The patient with possible
+
+presyncope without EKG changes, nor any evidence for new disease
+
+on his head CT, will undergo consultation by Neurology and
+
+Neurosurgery, and will be admitted to the ED Observation area for
+
+likely MR imaging prior to admission.  The patient if not
+
+admitted to either of the Neurosurgery or Neurology Services will
+
+require admission to the Medicine Service for syncope workup.
+
+ ******** Not reviewed by Attending Physician ********
+
+DISPOSITION:  Admitted to ED Observation Unit.
+
+PRIMARY DIAGNOSIS:  Near syncope.
+
+SECONDARY DIAGNOSIS:  Status post cervical medullary tumor
+
+resection.
+
+______________________________
+
+HALEY, BEVERLY MD
+
+D: 09/27/99
+
+T: 09/27/99
+
+Dictated By: HALEY, BEVERLY
+
+eScription document:7-2933615 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="646" end="657" text="cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="646" end="657" text="cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="646" end="657" text="cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC10" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="646" end="657" text="cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="646" end="657" text="cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="646" end="657" text="cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="646" end="657" text="cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="646" end="657" text="cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="646" end="657" text="cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="846" end="856" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="846" end="856" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="846" end="856" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="837" end="844" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="837" end="844" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="837" end="844" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="837" end="844" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="837" end="844" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="837" end="844" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="828" end="836" text="Aspirin," time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="828" end="835" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="828" end="835" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="837" end="844" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="837" end="844" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="837" end="844" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="828" end="836" text="Aspirin," time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="828" end="835" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="828" end="835" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M18" start="846" end="856" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="846" end="856" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="846" end="856" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M21" start="846" end="856" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="846" end="856" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="846" end="856" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M24" start="828" end="836" text="Aspirin," time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="828" end="835" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="828" end="835" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="632" end="644" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="632" end="644" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="632" end="644" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="632" end="644" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="632" end="644" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="632" end="644" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="632" end="644" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="632" end="644" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="632" end="644" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="current">
+      <SMOKER id="S0" start="793" end="812" text="smoking  cessation." status="current" comment=""/>
+      <SMOKER id="S1" start="793" end="812" text="smoking  cessation." status="current" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

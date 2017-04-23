@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-10-22
+
+
+	CARDIOLOGY
+	
+
+	GRIFFIN NURSING CENTER
+	
+
+
+	Reason for visit:
+    
+
+
+	Interval History:
+   Mr. Xayavong is a 61-year-old gentleman with history of CAD, anterior STEMI 2077, stents x 2 to LAD, four stents since then, last 2080, diabetes, CHF, unknown EF with EF of 25%, and hypertension currently under pre cardiac transplant evaluation. In 5/82 he had BiV ICD placement as well as left heart catheterization, which showed multivessel disease higher risk for CABG. 
+   He was hospitalised in 6/82 after he presented with ~3 days of nonspecific symptoms of fatigue, nausea, and poor sleep. He was in Afib at that point of time and had elevated NT- proBNP.  His medications were adjusted. He was discharged from the hospital class III stage C to D
+   He denies chest pain, shortness of breath, PND, orthopnea, palpitations, or syncope. No ICD discharges reported. He denies any lightheadedness or dizziness He does note a queasy sensation in the stomach on and off. 
+
+
+	
+
+
+	Past medical history:
+   CAD, history of STEMI in 2077, eight stents including LAD, at least x 2, BiV ICD placement , last cath at OCH showed multivessel disease, BiV ICD, DDD St. Jude, 05/13/2081, CHF, diabetes, hypertension, former smoker.
+
+	
+
+	Changes to Allergies
+	
+NKA: No Known Allergies - reaction: [reviewed]
+
+
+	Family history:
+   Significant for heart disease in both mother's and father's side, but no early CAD in the first-degree relatives, hypertension and hyperlipidemia in both sides.
+
+
+	Social history:
+   He is a retired purchasing agent, quit smoking a few years ago, had smoked one pack per day.  He has used no alcohol or illicit drug use, a very supportive family.
+
+
+	Review of systems:
+   Negative, otherwise as stated above
+
+Physical examination:
+	
+-BMI:   
+-Pulse: 66  
+-weight: 221  lbs.
+-Neuro:   Grossly intact.
+-Extremities:   No edema, 1+ pulses bilaterally.
+-Abdomen:   Soft without hepatosplenomegaly, bruits
+-Cardiac:   Apical impulse laterally displaced, RRR, S1/S2, 2+ MR murmur, 1+ TR ateral PMI.
+-Chest:   Clear to auscultation.
+-Neck:   JVP is approximately 8 cm.  His neck is supple without thyromegaly.  Carotids are brisk without bruits.
+-Heent:   Normocephalic.  Atraumatic.  Clear oral cavity.  Midline thyroid.
+-Skin:   No rashes, anicteric
+-General:   He is a well-appearing gentleman in no acute distress.
+-BP: 82/50  
+
+
+	EKG:
+   V-paced rhythm @66bpm, Left axis Deviation, QTc-517.
+
+Selected recent labs:
+	 Pending
+	
+
+
+	Impression:
+   61 year old man with Stage C New York Heart Association class III heart failure.
+   Patient is scheduled for a right heart cath in 11/82.
+ His NTproBNP is high, but since he is medically optimized we cannot further titrate his therapies.
+		Medication List
+		
+
+				CONFIRMED
+
+		- ACETYLSALICYLIC ACID (ASPIRIN)  81 PO QAM
+
+		- Aldactone  12.5 MG PO daily
+
+		- esomeprazole  40 MG PO daily
+
+		- Fish oil  000mg 1200mg po
+
+		- glipizide  20 MG PO BID BEFORE BREAKFAST AND BEFORE SUPPER
+
+		- Lasix  40 MG PO daily
+
+		- lisinopril  5mg po daily
+
+		- Toprol XL  12.5 MG PO daily
+
+		- warfarin  5 MG PO QPM
+
+			------------------------------------------------------------
+
+				REMOVED
+
+		- Omega3  1200 MG PO BID
+
+
+	
+	
+
+	
+Crystal Perez, MD
+
+	
+Quintin D. Quesada, MD pager #15657
+
+	
+Signed electronically by  Crystal Perez, MD; Quintin D. Quesada, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2996" end="3006" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2996" end="3006" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2996" end="3006" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="2782" end="2789" text="ASPIRIN" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2760" end="2780" text="ACETYLSALICYLIC ACID" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2782" end="2789" text="ASPIRIN" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="2996" end="3006" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="2996" end="3006" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="2996" end="3006" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="2782" end="2789" text="ASPIRIN" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2760" end="2780" text="ACETYLSALICYLIC ACID" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="2782" end="2789" text="ASPIRIN" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="2905" end="2914" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="2905" end="2915" text="glipizide " time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="2905" end="2914" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M15" start="2905" end="2914" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="2905" end="2915" text="glipizide " time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="2905" end="2914" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="3026" end="3036" text="Toprol XL " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="3025" end="3033" text=" Toprol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="3026" end="3032" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M21" start="2996" end="3006" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="2996" end="3006" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="2996" end="3006" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M24" start="2782" end="2789" text="ASPIRIN" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="2760" end="2780" text="ACETYLSALICYLIC ACID" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="2782" end="2789" text="ASPIRIN" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M27" start="2905" end="2914" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M28" start="2905" end="2915" text="glipizide " time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M29" start="2905" end="2914" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="3026" end="3036" text="Toprol XL " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="3025" end="3033" text=" Toprol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="3026" end="3032" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="3026" end="3036" text="Toprol XL " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="3025" end="3033" text=" Toprol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="3026" end="3032" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="302" end="314" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="302" end="314" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="302" end="314" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1213" end="1225" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1453" end="1465" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="302" end="314" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="302" end="314" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="302" end="314" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1213" end="1225" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1453" end="1465" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="302" end="314" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="302" end="314" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="302" end="314" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="1213" end="1225" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="1453" end="1465" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C0" start="176" end="179" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="176" end="179" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="during DCT" indicator="mention">
+      <CAD id="C2" start="176" end="179" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="176" end="179" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC18" time="before DCT" indicator="event">
+      <CAD id="C4" start="181" end="201" text="anterior STEMI 2077," time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="202" end="254" text="stents x 2 to LAD, four stents since then, last 2080" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="180" end="195" text=" anterior STEMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="202" end="243" text="stents x 2 to LAD, four stents since then" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC23" time="before DCT" indicator="mention">
+      <CAD id="C8" start="176" end="179" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="176" end="179" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="past">
+      <SMOKER id="S0" start="1227" end="1240" text="former smoker" status="past" comment=""/>
+      <SMOKER id="S1" start="1227" end="1240" text="former smoker" status="past" comment=""/>
+      <SMOKER id="S2" start="1227" end="1240" text="former smoker" status="past" comment=""/>
+      <SMOKER id="S3" start="1556" end="1613" text="quit smoking a few years ago, had smoked one pack per day" status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="256" end="264" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1203" end="1211" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1203" end="1211" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="256" end="264" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1203" end="1211" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1203" end="1211" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC17" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="256" end="264" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1203" end="1211" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1203" end="1211" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

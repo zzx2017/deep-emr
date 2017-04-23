@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2102-12-01
+ID: The patient is a 74 yr old woman with multiple medical problems, who comes in after recent 5 month hospitalization for followup and to review recent course of events.
+
+
+
+HPI:  I had last seen her in 5/02 at which time her DM was being treated with Lantus 10 units, and Glucotrol XL 10 mg bid.  Her Lipitor had been held as had her Actos due to elevated LFT's, and her Depakote had been discontinued by her neurologist.  Her LFT's had come down from her hospitalization in March but were still elevated at AST 87 and ALT 124.  Liver biopsy was being considered by Dr. Yamasaki, her gastroenterologist.  She also had been recently hospitalized at San Rafael for syncope with history of partial seizure disorder vs TIA with history of transient episodes of right arm numbness and weakness dating to 2098 but with no seizures in 3 yrs.
+
+
+
+In July O2 she had several episodes of syncope, one of which occured in her neurologist's office.    She was apparently hypotensive and initially refused to go to the ED, but later her family brought her to the ED at San Rafael.  She was found to be bacteremic with MRSA and was treated with IV vancomycin.   Endovascular sources were found to be negative as source, as was a knee tap, and no source was ever identified.  She was transferred to GCH in August.   She had severe back pain and two bone biopsies were negative for osteomyelitis in the spine.  She was also found to have a 50% compression fracture of T4 and this was treated at GCH with a T4 vertebroplasty in September 10.  She also was worked up for mets to spine but only benign hemangiomas were found.
+
+
+
+She was discharged to rehab in mid September.  She required at least two more admissions from rehab to San Rafael over the next two months.  She apparently had severe gastroparesis and was unable to eat, requiring portacath for TPN around October 10.  She had then gone back to rehab again but was readmitted with DVT of the left Subclavian vein around the site of the Portacath.  She was started on Coumadin and was back in rehab for another few weeks.  The arm swelling quickly resolved. There was also reportedly a TIA which occured after an MRI scan with right facial droop and slurred speech at SRH.  She was finally discharged to home on November 21st.
+
+
+
+MEDS:  Coumadin 7.5 mg qd,  Norvasc 10 mg qd, Isordil 20 mg tid, Neurontin 300 mg po bid, Plavix 75 mg po qd, Prilosec 20 mg qd, Folic aid 1 mg qd, Synthroid 50 mcg qd, Labetolol 200 mg bid, Glipizide 2.5 mg po qd, Albuterol inhaler prn, erytab 250 bid, Ultram 50 mg q 6hrs prn, MVI, Vitamin B12 1000. Rhinocort Aqua, Nitrostat prn,  Was d'cd from Reglan, taking Donperdon?
+
+
+
+PE:  WDWN BF NAD  Wt 135 lbs  BP 100/64
+
+
+
+Heent:  throat clear,  EOMI. Perrl.
+
+Neck:  supple without adenopathy or thyromegaly.
+
+Cor:  RRR, no m's.
+
+Lungs; clear.
+
+Abdomen;  soft, nontender no HSM.
+
+Extr;  no edema.
+
+
+
+A/P:  74 yr old woman with multiple medical problems, s/p 5 month hospitalization.
+
+
+
+1)  Diabetes.  Throughout her hospitalization she lost a lot of weight down from 160's to 170's last spring to current level of 135 lbs.  Insulin was stopped and just recently Glipizide 2.5 mg added on.  Recent Hg A1C obtained after this visit on 12/04/02 was 6.0.  Bun /Cr was 11/0.9.  glucose 196.  Cholesterol 225/68/135.  LFT's were not done and need to be done, will be ordered next lab draw.  If normalized then will add back Lipitor.  History of gastroparesis, on new med has replaced Reglan, doing better.
+
+
+
+2)  Hypertension.  Doing well on Norvasc 10, Labetolol 200 bid and Isordil 20 tid.
+
+
+
+3)  S/p recent upper extremity DVT, on coumadin.  Per Dr. Herbert Paris's note of 12/02, she needs 3 months of anticoag, and then 1mg/day until the portacath discontinued.  With history 2 prior DVT's will need to discuss whether she should be on long term therapy.  She is now getting FS INR's thru the VNA, but will be transitioned to Internal Medicine, with access thru the portacath, or continued FS's.  INR has been in good range with 7.5 mg coumadin.
+
+
+
+4)  S/P  compression fracture of T4, s/p vertebroplasty with successful resolution of the pain.  Has other compression fractures but not interested in further procedures at this time.
+
+
+
+5)  History of hypothyroidism.  Had recent labs at SRH on  12/04/02 with TSH of 1.3 and Free T4 of  0.9.  
+
+
+
+6)  History of anemia, requiring Procrit and ? transfusions during her hospitalizations, with normal hct of 41.1 on  12/04/02.
+
+
+
+7)  Neuro;  History of partial seizures, TIA's.  Followed by Dr. Gary Keyes.    History of silent cerebellar brain infarction on MRI.    History of moderate intracranial carotid stenosis, with recent ? TIA left hemisphere, ? repeat carotid noninvasives per Dr. Keyes vs CT angiogram.  On Plavix and coumadin.  Per Dr. Keyes coumadin alone would be enough for stroke prophylaxis, and he would defer to Dr. Barry as to whether to continue Plavix.
+
+
+
+8)  History of elevated LFT's.  May have been medication related, due to Lipitor, Actos, Depakote.  Now off all meds, need redo as above, and consideration if normal of retrial of  statin.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC16" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY0" start="3302" end="3305" text="135" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="3283" end="3305" text="Cholesterol 225/68/135" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="3283" end="3305" text="Cholesterol 225/68/135" time="before DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M0" start="2389" end="2395" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M1" start="2389" end="2395" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M2" start="2389" end="2395" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M3" start="2345" end="2352" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M4" start="2345" end="2353" text="Isordil " time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M5" start="2345" end="2352" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M6" start="2617" end="2626" text="Nitrostat" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M7" start="2345" end="2352" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M8" start="2345" end="2353" text="Isordil " time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M9" start="2345" end="2352" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M10" start="2617" end="2626" text="Nitrostat" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M11" start="2327" end="2334" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="2327" end="2334" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="2327" end="2334" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M14" start="300" end="309" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M15" start="2490" end="2499" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="2490" end="2499" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="300" end="312" text="Glucotrol XL" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M18" start="2490" end="2499" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M19" start="2327" end="2334" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="2327" end="2334" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="2327" end="2334" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M22" start="300" end="309" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M23" start="2490" end="2499" text="Glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M24" start="2490" end="2499" text="Glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M25" start="300" end="312" text="Glucotrol XL" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="2490" end="2499" text="Glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M27" start="2389" end="2395" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M28" start="2389" end="2395" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M29" start="2389" end="2395" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M30" start="341" end="367" text="been held as had her Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M31" start="362" end="367" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M32" start="362" end="367" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="2468" end="2477" text="Labetolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="2468" end="2477" text="Labetolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="2468" end="2477" text="Labetolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M36" start="328" end="350" text=" Lipitor had been held" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="329" end="336" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M38" start="329" end="336" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M39" start="2345" end="2352" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M40" start="2345" end="2353" text="Isordil " time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M41" start="2345" end="2352" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M42" start="2617" end="2626" text="Nitrostat" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M43" start="279" end="285" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M44" start="279" end="285" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M45" start="279" end="285" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M46" start="300" end="309" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M47" start="2490" end="2499" text="Glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M48" start="300" end="309" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M49" start="2490" end="2499" text="Glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M50" start="300" end="312" text="Glucotrol XL" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M51" start="2490" end="2499" text="Glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M52" start="2327" end="2334" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M53" start="2327" end="2334" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M54" start="2327" end="2334" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M55" start="2389" end="2395" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M56" start="2389" end="2395" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M57" start="2389" end="2395" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M58" start="2468" end="2477" text="Labetolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M59" start="2468" end="2477" text="Labetolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M60" start="2468" end="2477" text="Labetolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M61" start="2468" end="2477" text="Labetolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M62" start="2468" end="2477" text="Labetolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M63" start="2468" end="2477" text="Labetolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="3503" end="3515" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="3503" end="3515" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="3503" end="3515" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="3503" end="3515" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="3503" end="3515" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="3503" end="3515" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC23" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="3503" end="3515" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="3503" end="3515" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="3503" end="3515" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="253" end="255" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="253" end="255" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="253" end="255" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="253" end="255" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="253" end="255" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="253" end="255" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC26" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="253" end="255" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="253" end="255" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="253" end="255" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>
