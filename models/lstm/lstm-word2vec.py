@@ -41,7 +41,7 @@ encoded_Y = numpy.array([encoded_Y[i:i + max_length] for i in range(0, len(encod
 
 embedding_vector_length = 100
 
-word2vec_model = gensim.models.Word2Vec.load('word2vec.model')
+word2vec_model = gensim.models.Word2Vec.load('../word2vec/word2vec.model')
 embedding_weights = numpy.zeros((nb_words, embedding_vector_length))
 
 for word, index in dictionary.items():

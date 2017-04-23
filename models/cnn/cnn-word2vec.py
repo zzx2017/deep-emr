@@ -36,7 +36,7 @@ embedding_vector_length = 100
 
 X_train = sequence.pad_sequences(X_train, maxlen=max_length)
 
-word2vec_model = gensim.models.Word2Vec.load('word2vec.model')
+word2vec_model = gensim.models.Word2Vec.load('../word2vec/word2vec.model')
 embedding_weights = numpy.zeros((nb_words, embedding_vector_length))
 
 for word, index in dictionary.items():
