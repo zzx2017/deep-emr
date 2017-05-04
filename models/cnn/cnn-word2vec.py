@@ -34,34 +34,34 @@ nb_words = 30551
 max_length = 922
 embedding_vector_length = 100
 
-X_train = sequence.pad_sequences(X_train, maxlen=max_length)
+# X_train = sequence.pad_sequences(X_train, maxlen=max_length)
 
-word2vec_model = gensim.models.Word2Vec.load('../word2vec/word2vec.model')
-embedding_weights = numpy.zeros((nb_words, embedding_vector_length))
+# word2vec_model = gensim.models.Word2Vec.load('../word2vec/word2vec.model')
+# embedding_weights = numpy.zeros((nb_words, embedding_vector_length))
 
-for word, index in dictionary.items():
-	if word in word2vec_model:
-		embedding_weights[index, :] = word2vec_model[word]
+# for word, index in dictionary.items():
+# 	if word in word2vec_model:
+# 		embedding_weights[index, :] = word2vec_model[word]
 
-model = Sequential()
-model.add(Embedding(nb_words, embedding_vector_length, input_length=max_length, weights=[embedding_weights]))
-model.add(Conv1D(filters=64, kernel_size=3, padding='same', activation='relu'))
-model.add(MaxPooling1D(pool_size=2))
-model.add(Flatten())
-model.add(Dense(254, activation='relu'))
-model.add(Dense(38, activation='sigmoid'))
-model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+# model = Sequential()
+# model.add(Embedding(nb_words, embedding_vector_length, input_length=max_length, weights=[embedding_weights]))
+# model.add(Conv1D(filters=64, kernel_size=3, padding='same', activation='relu'))
+# model.add(MaxPooling1D(pool_size=2))
+# model.add(Flatten())
+# model.add(Dense(254, activation='relu'))
+# model.add(Dense(38, activation='sigmoid'))
+# model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
-print(model.summary())
-print(model.get_config())
+# print(model.summary())
+# print(model.get_config())
 
-model.fit(X_train, encoded_Y, validation_data=(X_train, encoded_Y), epochs=60, batch_size=32)
+# model.fit(X_train, encoded_Y, validation_data=(X_train, encoded_Y), epochs=60, batch_size=32)
 
-model_json = model.to_json()
-with open("cnn-word2vec-model.json", "w") as json_file:
-    json_file.write(model_json)
-model.save_weights("cnn-word2vec-model.h5")
-print("Saved model to disk")
+# model_json = model.to_json()
+# with open("cnn-word2vec-model.json", "w") as json_file:
+#     json_file.write(model_json)
+# model.save_weights("cnn-word2vec-model.h5")
+# print("Saved model to disk")
 
 def confusion_matrix(truth, prediction):
 	matrices = list()
@@ -96,6 +96,7 @@ labels = pandas.concat([(pandas.read_csv(x, delim_whitespace=True, header=None))
 X_test = [[[int(z) for z in str(y[0]).split(',')] for y in x] for x in testset]
 Y_test = [[int(y) for y in str(x[0]).split(',')] for x in labels]
 Y_test = [x if x[0] != 0 else [] for x in Y_test]
+Y_test = [[y for y in x if y != 39] for x in Y_test]
 
 X_test = [sequence.pad_sequences(x, maxlen=max_length) for x in X_test]
 
@@ -114,6 +115,7 @@ for record in X_test:
 	prediction = numpy.array([[round(y) for y in x] for x in prediction])
 	predicted_Y = mlb.inverse_transform(prediction)
 	predicted_Y = list(set([y for x in predicted_Y for y in x]))
+	predicted_Y = [x for x in predicted_Y if x != 39]
 	predictions.append(predicted_Y)
 
 matrix = confusion_matrix(Y_test, predictions)

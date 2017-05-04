@@ -29,41 +29,41 @@ Y_train = numpy.delete(Y_train, empty_indices)
 nb_words = 30551
 max_length = 922
 
-X_train = sequence.pad_sequences(X_train, maxlen=max_length)
-Y_train = sequence.pad_sequences(Y_train, maxlen=max_length)
+# X_train = sequence.pad_sequences(X_train, maxlen=max_length)
+# Y_train = sequence.pad_sequences(Y_train, maxlen=max_length)
 
-Y_train = numpy.array([y for x in Y_train for y in x])
-encoder = LabelEncoder()
-encoder.fit(Y_train)
-encoded_Y = encoder.transform(Y_train)
-encoded_Y = np_utils.to_categorical(encoded_Y)
-encoded_Y = numpy.array([encoded_Y[i:i + max_length] for i in range(0, len(encoded_Y), max_length)])
+# Y_train = numpy.array([y for x in Y_train for y in x])
+# encoder = LabelEncoder()
+# encoder.fit(Y_train)
+# encoded_Y = encoder.transform(Y_train)
+# encoded_Y = np_utils.to_categorical(encoded_Y)
+# encoded_Y = numpy.array([encoded_Y[i:i + max_length] for i in range(0, len(encoded_Y), max_length)])
 
-embedding_vector_length = 100
+# embedding_vector_length = 100
 
-word2vec_model = gensim.models.Word2Vec.load('../word2vec/word2vec.model')
-embedding_weights = numpy.zeros((nb_words, embedding_vector_length))
+# word2vec_model = gensim.models.Word2Vec.load('../word2vec/word2vec.model')
+# embedding_weights = numpy.zeros((nb_words, embedding_vector_length))
 
-for word, index in dictionary.items():
-	if word in word2vec_model:
-		embedding_weights[index,:] = word2vec_model[word]
+# for word, index in dictionary.items():
+# 	if word in word2vec_model:
+# 		embedding_weights[index,:] = word2vec_model[word]
 
-model = Sequential()
-model.add(Embedding(nb_words, embedding_vector_length, input_length=max_length, mask_zero=True, weights=[embedding_weights]))
-model.add(LSTM(128, return_sequences=True))
-model.add(TimeDistributed(Dense(40, activation='softmax')))
-model.compile(loss='categorical_crossentropy', optimizer='rmsprop') 
+# model = Sequential()
+# model.add(Embedding(nb_words, embedding_vector_length, input_length=max_length, mask_zero=True, weights=[embedding_weights]))
+# model.add(LSTM(128, return_sequences=True))
+# model.add(TimeDistributed(Dense(40, activation='softmax')))
+# model.compile(loss='categorical_crossentropy', optimizer='rmsprop') 
 
-print(model.summary())
-print(model.get_config())
+# print(model.summary())
+# print(model.get_config())
 
-model.fit(X_train, encoded_Y, epochs=20, batch_size=32)
+# model.fit(X_train, encoded_Y, epochs=20, batch_size=32)
 
-model_json = model.to_json()
-with open("lstm-word2vec-model.json", "w") as json_file:
-    json_file.write(model_json)
-model.save_weights("lstm-word2vec-model.h5")
-print("Saved model to disk")
+# model_json = model.to_json()
+# with open("lstm-word2vec-model.json", "w") as json_file:
+#     json_file.write(model_json)
+# model.save_weights("lstm-word2vec-model.h5")
+# print("Saved model to disk")
 
 def confusion_matrix(truth, prediction):
 	matrices = list()
@@ -98,6 +98,7 @@ labels = pandas.concat([(pandas.read_csv(x, delim_whitespace=True, header=None))
 X_test = [[[int(z) for z in str(y[0]).split(',')] for y in x] for x in testset]
 Y_test = [[int(y) for y in str(x[0]).split(',')] for x in labels]
 Y_test = [x if x[0] != 0 else [] for x in Y_test]
+Y_test = [[y for y in x if y != 18] for x in Y_test]
 
 X_test = [sequence.pad_sequences(x, maxlen=max_length) for x in X_test]
 
@@ -118,6 +119,7 @@ for record in X_test:
 	prediction = [y for x in prediction for y in x]
 	prediction = list(set([x for x in prediction]))
 	prediction = [x for x in prediction if x != 0 and x != 1]
+	prediction = [x for x in prediction if x != 18]
 	predictions.append(prediction)
 
 matrix = confusion_matrix(Y_test, predictions)

@@ -1,3 +1,4 @@
+RNN EXPERIMENT 1: RNN with Word2Vec
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -22,3 +23,29 @@ Batch size: 32
 
 [3775 1366  555]
 {'recall': 0.87182448036951499, 'precision': 0.7342929391169033, 'f1': 0.79717030936543132}
+
+RNN EXPERIMENT 2: RNN with Word2Vec (Without smoker.unknown)
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_1 (Embedding)      (None, 922, 100)          3055100   
+_________________________________________________________________
+simple_rnn_1 (SimpleRNN)     (None, 922, 100)          20100     
+_________________________________________________________________
+time_distributed_1 (TimeDist (None, 922, 40)           4040      
+=================================================================
+Total params: 3,079,240.0
+Trainable params: 3,079,240
+Non-trainable params: 0.0
+
+Cost function: categorical_crossentropy
+Optimizer: rmsprop
+Number of epoches: 20
+Batch size: 32
+
+[{'class_name': 'Embedding', 'config': {'name': 'embedding_1', 'trainable': True, 'batch_input_shape': (None, 922), 'dtype': 'int32', 'input_dim': 30551, 'output_dim': 100, 'embeddings_initializer': {'class_name': 'RandomUniform', 'config': {'minval': -0.05, 'maxval': 0.05, 'seed': None}}, 'embeddings_regularizer': None, 'activity_regularizer': None, 'embeddings_constraint': None, 'mask_zero': True, 'input_length': 922}},
+{'class_name': 'SimpleRNN', 'config': {'name': 'simple_rnn_1', 'trainable': True, 'return_sequences': True, 'go_backwards': False, 'stateful': False, 'unroll': False, 'implementation': 0, 'units': 100, 'activation': 'tanh', 'use_bias': True, 'kernel_initializer': {'class_name': 'VarianceScaling', 'config': {'scale': 1.0, 'mode': 'fan_avg', 'distribution': 'uniform', 'seed': None}}, 'recurrent_initializer': {'class_name': 'Orthogonal', 'config': {'gain': 1.0, 'seed': None}}, 'bias_initializer': {'class_name': 'Zeros', 'config': {}}, 'kernel_regularizer': None, 'recurrent_regularizer': None, 'bias_regularizer': None, 'activity_regularizer': None, 'kernel_constraint': None, 'recurrent_constraint': None, 'bias_constraint': None, 'dropout': 0.0, 'recurrent_dropout': 0.0}},
+{'class_name': 'TimeDistributed', 'config': {'name': 'time_distributed_1', 'trainable': True, 'layer': {'class_name': 'Dense', 'config': {'name': 'dense_1', 'trainable': True, 'units': 40, 'activation': 'softmax', 'use_bias': True, 'kernel_initializer': {'class_name': 'VarianceScaling', 'config': {'scale': 1.0, 'mode': 'fan_avg', 'distribution': 'uniform', 'seed': None}}, 'bias_initializer': {'class_name': 'Zeros', 'config': {}}, 'kernel_regularizer': None, 'bias_regularizer': None, 'activity_regularizer': None, 'kernel_constraint': None, 'bias_constraint': None}}}}]
+
+[3773 1357  357]
+{'recall': 0.91355932203389834, 'precision': 0.73547758284600395, 'f1': 0.81490280777537805}
