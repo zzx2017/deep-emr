@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-12-14
+
+EDVISIT^43294739^FINNEY, INDIANA^12/15/90^MARTIN, CONSTANCE
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 53-year-old female
+
+with a history of insulin-dependent diabetes, hypertension and
+
+atrial fibrillation who comes in to the ER complaining of
+
+sensation of a racing heart since 5:10 p.m. in the evening.  She
+
+said it was acute onset and felt like palpitations.  She also
+
+said it felt like a burning.  She had mild shortness of breath
+
+and left arm achiness.  She had no nausea, no vomiting, no fevers
+
+or chills.  She had no trauma, no lightheadedness, and no
+
+syncope.
+
+PAST MEDICAL HISTORY:  Hypertension, insulin-dependent diabetes,
+
+and atrial fibrillation.
+
+PAST SURGICAL HISTORY:  Not related.
+
+SOCIAL HISTORY:  No tobacco or occasional alcohol.
+
+FAMILY HISTORY:  Reviewed and noncontributory.
+
+REVIEW OF SYSTEMS:  Palpitations, otherwise negative.
+
+MEDICATIONS:  Metoprolol, the patient missed two doses today,
+
+aspirin, simvastatin, glyburide and NovoLog.
+
+ALLERGIES:  Erythromycin and IV dye.
+
+PHYSICAL EXAMINATION:  Temperature 97, heart rate 155,
+
+respiratory rate 18, blood pressure 136/52, O2 100% on 2 liters. 
+
+The patient is awake and alert, well developed, well nourished,
+
+talking in complete sentences, in no acute distress.  ENT: 
+
+Atraumatic, normal to inspection.  Eyes are normal.  Neck: 
+
+Normal to inspection, supple, and nontender.  Respiratory:  Clear
+
+to auscultation bilaterally.  Cardiovascular:  Regular rate and
+
+rhythm.  No murmurs, rubs, or gallops.  GI:  Abdomen is soft and
+
+nontender.  Skin is intact, warm, and dry.  Back is nontender. 
+
+Musculoskeletal:  No lower extremity swelling or edema. 
+
+Neuropsychiatric:  Oriented x3.  Mood and affect is normal. 
+
+Cranial nerves II through XII tested and intact.  No motor or
+
+sensory deficits.
+
+EMERGENCY DEPARTMENT COURSE:  Initial EKG showed a rate of about
+
+150, unclear.  It seemed that there was T waves in V3.  There is
+
+no evidence of ST elevation MI.  We thought this could be an SVT.
+
+ It was not really consistent with an atrial fibrillation.  Our
+
+plan was to give adenosine, however, during the IV placement. 
+
+Prior to giving adenosine, the patient converted to a normal
+
+sinus rhythm with mild tachycardia at around 100, but it was
+
+clear that there was T waves.  At this point, we decided to give
+
+her baseline metoprolol dose and she missed two doses.
+
+LABORATORY DATA:  Labs checked include sodium of 139, potassium
+
+3.7, chloride 104, bicarbonate 23, BUN 14, creatinine 0.81,
+
+glucose 268.  ALT 19, AST 18, CK 350, alkaline phosphatase 128,
+
+total bilirubin 0.5, CK-MB 5.2, troponin I less than 0.04,
+
+calcium 9.1, and mag 1.9.  White blood cells 10.29, hematocrit
+
+42.7, and platelets 438, 000.  INR is 1.  UA is negative for
+
+infection with trace blood present.
+
+PLAN:  Our plan is to check two more enzymes because the patient
+
+had the left arm heaviness during the palpitations.  If both of
+
+those enzymes are negative, we feel that she is safe to go home
+
+from the ED Observation Unit.  It is unclear the etiology of her
+
+arrhythmia.  It did seem to be likely SVT, which broke
+
+spontaneously.  The patient is to follow up with her primary
+
+doctor.
+
+DISPOSITION:  ED Observation Unit.
+
+CONDITION ON DISCHARGE:  Satisfactory.
+
+I confirm that I have interviewed and examined the patient,
+
+reviewed the resident's documentation, the patient's chart,
+
+discussed the evaluation, plan of care, and disposition with the
+
+patient.
+
+______________________________
+
+MARTIN, CONSTANCE M.D.
+
+D: 12/15/90
+
+T: 12/15/90
+
+Dictated By: MARTIN, CONSTANCE
+
+eScription document:8-4109370 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="964" end="975" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="964" end="975" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="964" end="975" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="955" end="962" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="955" end="962" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="955" end="962" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="955" end="962" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="955" end="962" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="955" end="962" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M9" start="991" end="998" text="NovoLog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="991" end="998" text="NovoLog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="991" end="998" text="NovoLog" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="977" end="986" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="977" end="986" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="977" end="986" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M15" start="977" end="986" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="977" end="986" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="977" end="986" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="905" end="916" text=" Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="906" end="916" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M20" start="964" end="975" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M21" start="964" end="975" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="964" end="975" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M23" start="964" end="975" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M24" start="964" end="975" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="964" end="975" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M26" start="955" end="962" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M27" start="955" end="962" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="955" end="962" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M29" start="991" end="998" text="NovoLog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M30" start="991" end="998" text="NovoLog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M31" start="991" end="998" text="NovoLog" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M32" start="977" end="986" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M33" start="977" end="986" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M34" start="977" end="986" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M35" start="991" end="998" text="NovoLog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M36" start="991" end="998" text="NovoLog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M37" start="991" end="998" text="NovoLog" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M38" start="905" end="916" text=" Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M39" start="906" end="916" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="906" end="916" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M41" start="905" end="916" text=" Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M42" start="2345" end="2360" text="metoprolol dose" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="906" end="916" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="2345" end="2356" text="metoprolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="201" end="213" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="201" end="213" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="201" end="213" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="630" end="642" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="201" end="213" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="201" end="213" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="201" end="213" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="630" end="642" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="201" end="213" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="201" end="213" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="201" end="213" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="630" end="642" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="never">
+      <SMOKER id="S0" start="754" end="764" text="No tobacco" status="never" comment=""/>
+      <SMOKER id="S1" start="754" end="765" text="No tobacco " status="never" comment=""/>
+      <SMOKER id="S2" start="754" end="764" text="No tobacco" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="173" end="199" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="173" end="199" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="173" end="199" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="644" end="670" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="173" end="199" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="173" end="199" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="173" end="199" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="644" end="670" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="173" end="199" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="173" end="199" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="173" end="199" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="644" end="670" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

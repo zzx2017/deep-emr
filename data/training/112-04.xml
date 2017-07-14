@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2060-08-05
+
+     5 August 2060
+
+
+
+
+
+Quatrell Swanson, MD
+
+Division of Cardiology
+
+Barney Convalescent Hospital
+
+
+
+Re:	Clarence H. HESS
+
+	BCH 643-65-59-5
+
+
+
+Dear Dr. Swanson:
+
+
+
+I had the pleasure of caring for Clarence Hess at BCH 08/04-03/07.  He is a 54-year-old man with obesity, dyslipidemia and hypertension, S/P dual-chamber pacemaker placement by Dr. Una Trujillo in February, 2060.  He complained of fatigue and exertional throat tightness and a nuclear stress test in June, 2060, revealed apical ischemia and an ejection fraction of 70 percent.  Cardiac catheterization performed by Dr. Leslie Campbell on 08/04/60 via the right radial artery revealed a right dominant system, a tight lesion in the proximal LAD, and no other focally occlusive disease.  He received a 3mm stent, postdilated to 3.5mm, with an excellent angiographic result.  
+
+
+
+He spent an uneventful night without complaints, ambulating and voiding without difficulty.  His right wrist was stable, and his hand warm and well perfused.  Morning labs included a BUN of 16, creatinine 0.9, negative cardiac enzymes, hematocrit 36.4, platelets 238,000, cholesterol 182, HDL 37, LDL 91 and triglycerides 269.  He was discharged home on aspirin, 325mg po qd; Plavix, 75mg po qd, to be continued for at least six months according to the research trial protocol; atenolol, 50mg po qd; Lipitor, 80mg po qd; Prilosec, 20mg po qd; Proventil, two puffs qid; and sublingual nitroglycerin, prn chest pain.  We've asked him to see you in the next couple of weeks, and to call if he has questions before then.  He also will follow up with the research staff per protocol guidelines.  Thank you for allowing us to participate in his care.  Please don't hesitate to call with questions.
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+Brittany Witt, MD
+
+BW/brown
+
+cc:	Robert Y. Gordon, MD, 301 Fairhaven Road, Olney, OH 23751
+
+	Una Trujillo, MD, BCH Cardiology
+
+DS:    08/05/60
+
+DD:   08/05/60
+
+DT:   08/2150
+
+ 
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="299" end="311" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="299" end="311" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="299" end="311" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="299" end="311" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="299" end="311" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="299" end="311" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="299" end="311" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="299" end="311" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="299" end="311" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <OBESE id="DOC3" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="290" end="297" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="290" end="297" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="290" end="297" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC17" time="before DCT" indicator="mention">
+      <OBESE id="O3" start="290" end="297" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="290" end="297" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="290" end="297" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC23" time="during DCT" indicator="mention">
+      <OBESE id="O6" start="290" end="297" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="290" end="297" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="290" end="297" text="obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1370" end="1377" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1370" end="1377" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1370" end="1378" text="Lipitor," time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1224" end="1231" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1224" end="1231" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1224" end="1232" text="aspirin," time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M6" start="1246" end="1252" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M7" start="1246" end="1252" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M8" start="1246" end="1253" text="Plavix," time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="1224" end="1231" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1224" end="1231" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1224" end="1232" text="aspirin," time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="1454" end="1467" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="1454" end="1467" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="1454" end="1467" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M15" start="1454" end="1467" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="1454" end="1467" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="1454" end="1467" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M18" start="1246" end="1252" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M19" start="1246" end="1252" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M20" start="1246" end="1253" text="Plavix," time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1348" end="1356" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1348" end="1356" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1348" end="1356" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="1370" end="1377" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1370" end="1377" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1370" end="1378" text="Lipitor," time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="1370" end="1377" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1370" end="1377" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1370" end="1378" text="Lipitor," time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M30" start="1224" end="1231" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1224" end="1231" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1224" end="1232" text="aspirin," time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M33" start="1454" end="1467" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M34" start="1454" end="1467" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M35" start="1454" end="1467" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M36" start="1246" end="1252" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M37" start="1246" end="1252" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M38" start="1246" end="1253" text="Plavix," time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="1348" end="1356" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1348" end="1356" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="1348" end="1356" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC27" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="1348" end="1356" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1348" end="1356" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1348" end="1356" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="316" end="328" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="316" end="328" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="315" end="328" text=" hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="316" end="328" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="316" end="328" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="315" end="328" text=" hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC25" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="316" end="328" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="316" end="328" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="315" end="328" text=" hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC16" time="before DCT" indicator="test">
+      <CAD id="C0" start="571" end="778" text="Cardiac catheterization performed by Dr. Leslie Campbell on 08/04/60 via the right radial artery revealed a right dominant system, a tight lesion in the proximal LAD, and no other focally occlusive disease. " time="before DCT" indicator="test" comment=""/>
+      <CAD id="C1" start="513" end="529" text=" apical ischemia" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C2" start="702" end="736" text="a tight lesion in the proximal LAD" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C3" start="470" end="529" text="nuclear stress test in June, 2060, revealed apical ischemia" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <CAD id="DOC22" time="before DCT" indicator="event">
+      <CAD id="C4" start="778" end="802" text=" He received a 3mm stent" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="797" end="802" text="stent" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="571" end="866" text="Cardiac catheterization performed by Dr. Leslie Campbell on 08/04/60 via the right radial artery revealed a right dominant system, a tight lesion in the proximal LAD, and no other focally occlusive disease.  He received a 3mm stent, postdilated to 3.5mm, with an excellent angiographic result.  " time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC18" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2072-12-16
+
+
+MRN: 56817864
+
+CAROLYN HUNTINGTON BAILEY HEALTH CENTER
+468 Kristina Street                                Xia, Jean
+North East, AL 81699                       CHB9278143
+(687) 396-2722                                12-15-72
+
+
+CHIEF COMPLAINT: Ms. Xia is a 53 year old woman who comes in in 
+follow up. She notes that she is still having occasional sweats at 
+night. She is using the clonidine but she can't take it two times a day, 
+it makes her too sleepy, so she takes it about 3:30 towards the end of 
+her workday and then again before she goes to bed. She is having some 
+right lower back pain and otherwise is feeling well.
+
+REVIEW OF SYSTEMS: Negative except as noted. She is also taking the 
+Cozaar which she had been taking before. 
+
+She was called back in today as a result of labs which were done 
+recently which showed hemoglobin A1C of 8.7, an elevated urine 
+microalbuminuria and hypertension which needed follow up.
+
+PHYSICAL EXAMINATION: On exam today, she is well developed and well 
+nourished in no acute distress. Blood pressure 158/116, pulse 80, weight 
+166. Pupils are equal and equally reactive to light. Lids and 
+conjunctiva normal. Retinal fields normal. Disks sharp. Mouth and 
+pharynx without erythema or exudate. No adenopathy or tenderness in the 
+submandibular, cervical, posterior cervical, supraclavicular areas. 
+Heart sounds: S1, S2, with a II/VI systolic murmur heard best at the 
+right sternal border. No rub or gallop. Her chest was clear to 
+auscultation anteriorly and posteriorly with no rales, wheezes or 
+rhonchi. She was clear to percussion. She has normal bowel sounds. Her 
+abdomen was soft and nontender, no mass, organomegaly, and no guarding, 
+no rebound. Her extremities are without edema, cyanosis or clubbing. She 
+has no spine or flank tenderness. Her neck is supple, no bruits. Her 
+skin is essentially quite dry and itchy. She has multiple dark, 
+hyperpigmented, post-inflammatory scarring on her lower extremities. Her 
+mouth and pharynx are without erythema or exudate. 
+
+IMPRESSION/PLAN:
+1. Hypertension. Her blood pressure is really not well controlled. I 
+will add atenolol to her regimen 50mg PO q.d. She drinks one cup of 
+coffee a day and rarely has alcohol although she notes that she will 
+occasionally have one, a scotch, on Friday or Saturday. She does not do 
+drugs. She will return in three week for follow up of her blood 
+pressure and at that time for a physical exam for which she will be due. 
+
+2. Diabetes. The patient had been told in the past that she had diabetes 
+but she was told she did not need any sort of treatment for it. Her 
+creatinine was 0.8 last month and I explained to her that with her 
+elevated hemoglobin at 8.7 she needs treatment. We will start her on 
+Glucophage 500mg PO b.i.d. I expect we will need to increase this and if 
+she tolerates this she should increase it to 1000mg over the next week. 
+I also explained to her that if she does not eat or she is unable to eat 
+or if she is NPO she needs to stop taking this medication. I suggested 
+she actually take it with food to insure that she only takes when she is 
+eating. I gave her a referral to Ophthalmology and to Podiatry. She also 
+requested a glucometer machine and this was ordered for her along with 
+
+CAROLYN HUNTINGTON BAILEY HEALTH CENTER
+592 Kristina Street                                Xia, Jean
+North East, AL 81699                       CHB9278143
+(687) 396-2722                                12-16-72
+Page 2
+
+
+lancets, alcohol wipes and test strips and again she will return in two 
+weeks for follow up.
+
+
+______________________________
+Yolanda Osburn, M.D.
+
+CP:FO:3549 ; DD:12-16-72 ; DT:12-16-72 ; DV:12-16-72 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M0" start="2764" end="2788" text="start her on  Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2759" end="2788" text="will start her on  Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M2" start="2150" end="2162" text="add atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="2150" end="2162" text="add atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M4" start="729" end="735" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M5" start="729" end="735" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M6" start="729" end="735" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M7" start="729" end="735" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M8" start="729" end="735" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M9" start="729" end="735" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M10" start="729" end="735" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M11" start="729" end="735" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M12" start="729" end="735" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="923" end="935" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2078" end="2090" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="923" end="935" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="2078" end="2090" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="2077" end="2090" text=" Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H5" start="1062" end="1084" text="Blood pressure 158/116" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1062" end="1085" text="Blood pressure 158/116," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="1062" end="1084" text="Blood pressure 158/116" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="923" end="935" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="2078" end="2090" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2078" end="2090" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="2077" end="2090" text=" Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H12" start="923" end="935" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="2078" end="2090" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="2078" end="2090" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="2077" end="2090" text=" Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="2357" end="2362" text="drugs" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="2500" end="2508" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="2561" end="2569" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2500" end="2508" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="2500" end="2508" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="2500" end="2508" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2561" end="2569" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="2500" end="2508" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2500" end="2508" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="before DCT" indicator="A1C">
+      <DIABETES id="D8" start="860" end="881" text="hemoglobin A1C of 8.7" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D9" start="2703" end="2734" text="her  elevated hemoglobin at 8.7" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D10" start="860" end="881" text="hemoglobin A1C of 8.7" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D11" start="860" end="882" text="hemoglobin A1C of 8.7," time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC14" time="during DCT" indicator="mention">
+      <DIABETES id="D12" start="2500" end="2508" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="2561" end="2569" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="2500" end="2508" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="2500" end="2508" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

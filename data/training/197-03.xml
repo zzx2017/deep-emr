@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2098-11-04
+
+
+
+
+
+
+
+NAME:    Emmery, Donn S. 
+
+MRN:     0595726 
+
+
+
+Patient presents today for nail care. It is an initial visit for him with me. He had seen
+
+Dr. Noah Velazquez back in July of this year.  
+
+
+
+PAST MEDICAL HISTORY: Multiple and complex, consistent of hypertension,
+
+diabetes, macular degeneration, aortic stenosis, lymphoma, anemia, polyneuropathy,
+
+positive ANA nuclear bodies, pulmonary fibrosis, asbestosis, history of SOB, GERD.
+
+
+
+MEDICATIONS: Multiple meds per the LMR. 
+
+
+
+ALLERGIES: Sulfa medications - urticaria.
+
+
+
+PAST SURGICAL HISTORY: Tonsillectomy, removal of nephrolithiasis, TURP,
+
+electrocardiograms, carpal tunnel syndrome.
+
+
+
+PEDAL EXAM: Pulses are diminished bilaterally, absent digital hair growth, cool
+
+atrophic skin. Sensorium appears intact. Orthopedically speaking, he has a severe pes
+
+planus deformity bilaterally with forefoot abductus and collapse of the medial column,
+
+left greater than right. Dermatologically speaking, there are no callosities. His nails
+
+are grossly dystrophic and elongated. They were all trimmed. There were no signs of
+
+infection. Web spaces were clean, dry and intact. 
+
+
+
+ASSESSMENT: Patient with peripheral vascular disease. I recommended regular nail
+
+care approximately every 2-3 months. I answered all of his questions. He was
+
+reappointed as stated.
+
+ 
+
+
+
+
+
+
+
+Noah X. Nagle, DPM
+
+
+
+NXN/wynn/draper
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="282" end="294" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="282" end="295" text="hypertension," time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="282" end="294" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="282" end="294" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="282" end="295" text="hypertension," time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="282" end="294" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="282" end="294" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="282" end="295" text="hypertension," time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="282" end="294" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="297" end="305" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="297" end="305" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="297" end="305" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="297" end="305" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="297" end="305" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="297" end="305" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="297" end="305" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="297" end="305" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="297" end="305" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

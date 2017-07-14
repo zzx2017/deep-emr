@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2074-09-03
+
+
+HSP Cardiovascular Division
+CVD MR8
+99 Fitzpatrick Circle                                      SERGIO-STEVEN, FRANCESCA
+Adrian, TN 13467                                           80780896
+(433) 758-3431                                           09/03/74
+
+
+REFERRING PHYSICIAN:  Armando Newton, M.D.
+
+Mrs. Francesca Sergio-Steven is a 72-year-old Hispanic female who presents with a new-onset acute MI.  She has no known prior manifestations of coronary disease, but has a long history of insulin-dependent diabetes mellitus and hypertension.  She had been in her usual state of health until about 2 weeks ago, when she began to have episodes of chest discomfort.  She has only had two such episodes until the morning of admission, when she developed severe episode of chest pain at rest associated with shortness of breath.  She presented to the emergency room here where she was found to have new-onset ST-segment elevation in the inferior leads with a coving morphology involving the lateral leads as well.  There was also poor R-wave progression V1 through V3.  She was taken urgently to the cardiac catheterization laboratory, where she was found to have a markedly elevated wedge pressure at 30 mmHg with a normal cardiac index and blood pressure.  She had mid inferior wall and lateral wall akinesis initially with 3+ mitral regurgitation.  There was severe diffuse coronary disease with diffuse LAD disease and total occlusion of the proximal circumflex.  The right coronary artery was small with a 70% proximal stenosis.  The occluded circumflex was crossed with a wire and was stented with a Cypher drug-eluting stent.  She had an excellent result with the wedge also decreasing to 20 mmHg.  She had an estimated 70% ejection fraction despite the inferior and lateral akinesis.  Cardiac index was 2.5 with SVR of 1739.  She was then brought to the coronary care unit for further evaluation.
+
+Her past medical history is notable for hypertension for which she takes lisinopril 40 mg q.d. and atenolol 50 mg q.d.  She also has insulin-dependent diabetes mellitus and takes insulin.  Past medical history is also notable for a hysterectomy.
+
+Social history is notable for no cigarette or alcohol use.  She is from Paraguay and has recently arrived in this country.
+
+Review of systems show no fever, chills, nausea, or vomiting.
+
+On exam, she is comfortable with a blood pressure initially 160/80 with a heart rate of 70 and regular.  Followup pressure 125/80 with a heart rate of 72 beats per minute.  Head and neck were unremarkable.  Chest is clear.  Cardiac exam shows no jugular venous distention at 30 degrees.  PMI is normal.  S1 and S2 were normal with a physiological split.  There is an S4 and a 1/6 systolic ejection murmur as well as a 1 to 2/6 holosystolic murmur and mitral regurgitation at the left lower sternal border.  There is no S3.  Abdominal exam was unremarkable without organomegaly.  Bowel sounds are normal.  Extremities showed no edema or cyanosis.  Calf site is clean without bruits.  Distal pulse is decreased but palpable.
+
+Her resting 12-lead electrocardiogram shows evidence of her evolving inferolateral MI.
+
+Other lab values included creatinine 1.0 with normal electrolytes, hematocrit is 44.4%, white blood cell count 3.8 with platelets 322,000.  Liver function tests are normal.
+
+A portable chest x-ray shows pulmonary edema.
+
+Mrs. Sergio-Steven clearly has evidence of an inferoposterior MI initially with a very high filling pressure and pulmonary edema and mitral regurgitation.  She has had her circumflex, which is a very large vessel, well treated now with a drug-eluting stent, and her wedge has come down, and her mitral regurgitation is substantially improved.
+
+At this point, we will bring her to the coronary care unit for careful management with aspirin, Plavix, heparin, continue the Integrilin, as well as Lasix and nitrates.  We will plan to initiate afterload reduction as soon as tolerated, and also plan beta-blockade to limit her myocardial oxygen demands.  She certainly has co-existent quite substantial coronary disease including primarily the right coronary artery degree and to some degree the LAD.  At this point, if she were to have developed recurrent ischemia, we would proceed to consideration of bypass surgery.
+
+
+
+
+
+______________________________
+Yakov Ferris, MD
+
+
+Dictated By: Yakov Ferris
+
+
+eScription document:5-4672574 BFFocus
+
+
+
+DD: 09/03/74
+DT: 09/03/74
+DV: 09/03/74
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2003" end="2013" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2003" end="2013" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2003" end="2013" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="3828" end="3835" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="3828" end="3835" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="3828" end="3835" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M6" start="3837" end="3843" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M7" start="3837" end="3843" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M8" start="3837" end="3843" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="2003" end="2013" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="2003" end="2013" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="2003" end="2013" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="3900" end="3908" text="nitrates" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="3900" end="3908" text="nitrates" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="3900" end="3908" text="nitrates" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M15" start="2109" end="2116" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="2109" end="2116" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="517" end="534" text="insulin-dependent" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="2029" end="2037" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="2029" end="2037" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="2029" end="2037" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M21" start="2003" end="2013" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="2003" end="2013" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="2003" end="2013" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M24" start="2109" end="2116" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="2109" end="2116" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="517" end="534" text="insulin-dependent" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M27" start="2109" end="2116" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="2109" end="2116" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="517" end="534" text="insulin-dependent" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="2029" end="2037" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="2029" end="2037" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="2029" end="2037" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="2029" end="2037" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="2029" end="2037" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="2029" end="2037" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="557" end="569" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1970" end="1982" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="557" end="569" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="557" end="569" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="2399" end="2430" text="blood pressure initially 160/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="2424" end="2430" text="160/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="2423" end="2430" text=" 160/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="557" end="569" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1970" end="1982" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="557" end="569" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="557" end="569" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="557" end="569" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="1970" end="1982" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="557" end="569" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="557" end="569" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC10" time="during DCT" indicator="event">
+      <CAD id="C0" start="411" end="429" text="new-onset acute MI" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="411" end="429" text="new-onset acute MI" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="3088" end="3174" text="Her resting 12-lead electrocardiogram shows evidence of her evolving inferolateral MI." time="during DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="427" end="429" text="MI" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="1650" end="1655" text="stent" time="during DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC13" time="after DCT" indicator="mention">
+      <CAD id="C5" start="1401" end="1417" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="4095" end="4111" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="4083" end="4111" text="substantial coronary disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC16" time="during DCT" indicator="mention">
+      <CAD id="C8" start="1401" end="1417" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="4095" end="4111" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="4083" end="4111" text="substantial coronary disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC24" time="before DCT" indicator="mention">
+      <CAD id="C11" start="1401" end="1417" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="4095" end="4111" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="4083" end="4111" text="substantial coronary disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC17" status="never">
+      <SMOKER id="S0" start="2207" end="2219" text="no cigarette" status="never" comment=""/>
+      <SMOKER id="S1" start="2207" end="2219" text="no cigarette" status="never" comment=""/>
+      <SMOKER id="S2" start="2207" end="2220" text="no cigarette " status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="517" end="552" text="insulin-dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="2063" end="2098" text="insulin-dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="517" end="552" text="insulin-dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="535" end="543" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="517" end="552" text="insulin-dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2063" end="2098" text="insulin-dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="517" end="552" text="insulin-dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="535" end="543" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC18" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="517" end="552" text="insulin-dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="2063" end="2098" text="insulin-dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="517" end="552" text="insulin-dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="535" end="543" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-06-28
+
+Chief Complaint	
+
+The patient presents for ongoing care of her diabetes and leg pain.
+
+
+
+History of Present Illness	
+
+Ms Barrera is an 85 yo woman accompanied by her daughter, Uhura. She has a h/o DM, HTN, GERD, LBP and CAD. She was formerly followed by Dr. Laura Link and is transferring her care. She has not had any CP or SOB -- her ETT MIBI in 2062 revealed mild ischemia in the inferior wall and EF of 63%. She has had not diabetic complications. Her last A1C was 5.9 in February. She reports significant R>L LE pain that limits her mobilitiy. This has been ongoing for some time but is getting worse. No pain at rest; only with walking. She rarely takes anything for the pain. She wonders if she needs to monitor her glucose. 
+
+
+
+PMH as above.
+
+Habits: no exercise. No tobacco or EtOH
+
+FH non contributory
+
+SH: lives alone in an apartment in a senior home. Daughter involved in her care.
+
+
+
+
+
+Medications	  
+
+ECASA	 325MG PO QD
+
+ATENOLOL	 100MG PO QD
+
+GLYBURIDE	 2.5MG PO QD
+
+HCTZ	 50MG PO QD
+
+LISINOPRIL	 20MG PO QD
+
+ZOCOR	 20MG PO QHS
+
+KCL IMMEDIATE REL.	 10MEQ 2 Capsule(s) PO QD
+
+NORVASC (AMLODIPINE)	 5MG 1 Tablet(s) PO QD
+
+OSCAL+D (CALCIUM CARBONATE + VIT D(1TABLE...	  PO BID
+
+TYLENOL (ACETAMINOPHEN)	 500MG 1 Capsule(s) PO Q4H
+
+
+
+Physical Exam	
+
+WDWN F, NAD
+
+153# R 160/70 L154/70 P64 R12
+
+Chest: CTA/P
+
+Cor: RRR, S1, S2, No MRG
+
+Abd: Soft, NT. +BS. No HSM
+
+Ext: No C/C/E; no focal tenderness; B/L lateral thigh pain with internal rotation of hips.
+
+
+
+Assessment	
+
+1. DM - well-controlled. check A1C. On ace-i. up to date with optho and podiatry; no indication for home BS monitoring at this time.
+
+2. HTN - will increase lisinopril from 10 to 20 mg qd; check lytes
+
+3. Hip pain - likely OA. will obtain hip films and prescribe tylenol 500mg q6hrs prn.
+
+4. constipation - using senekot and metamucil with good results.
+
+5. Lipids - LDL 59, HDL 37 in February. Continue zocor.
+
+6. HCM-UTD.
+
+
+
+The patient will f/u with me in 12-16 weeks, or sooner prn.
+
+
+
+
+
+______________________________                              
+
+
+
+Xenakis, Tracy T., M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC20" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC27" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC29" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC31" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC32" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC30" time="before DCT" indicator="mention"/>
+    <CAD id="DOC9" time="before DCT" indicator="test"/>
+    <CAD id="DOC17" time="after DCT" indicator="mention"/>
+    <CAD id="DOC23" time="during DCT" indicator="mention"/>
+    <CAD id="DOC33" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC21" indicator="not present"/>
+    <SMOKER id="DOC25" status="never"/>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC26" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

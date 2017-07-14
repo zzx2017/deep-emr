@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-10-26
+
+
+Saint John Valley Health Center
+157 Peterborough Place                                        KIM JR, DOUGLAS
+Sulphur, AR 26822                            20163512
+(426) 819-5183                                            10/26/94
+
+
+CHIEF COMPLAINT:  Followup of atrial fibrillation and recent lab
+results.
+
+HISTORY OF PRESENT ILLNESS:  A 54 year old male with history of
+paroxysmal atrial fibrillation, borderline diabetes, and
+borderline hypertension who presents back to clinic for followup.
+ He reports that he has been feeling generally well.  He reports
+that he feels like he is in sinus today.  He denies any chest
+pain, shortness of breath, palpitations, or edema.  I reviewed
+with him his lab results from 10/14/2094, which were remarkable
+for a total cholesterol of 242, HDL of 33, triglyceride level of
+549, hemoglobin A1c of 9.8, and INR of 1.0.  The patient denies
+any symptoms of hyperglycemia or hypoglycemia.
+
+MEDICATIONS:  None.
+
+ALLERGIES:  Penicillin.
+
+SOCIAL HISTORY:  The patient is smoking 2 packs per day.
+
+PHYSICAL EXAMINATION:  Vital signs:  Weight 193 pounds, blood
+pressure 140/98, pulse 92 and regular.  Well-developed,
+well-nourished male in no acute distress.  HEENT:  Anicteric
+sclerae, oropharynx clear.  Neck:  Supple, no JVD.  Lungs:  Clear
+to auscultation bilaterally.  Cardiovascular exam:  Regular rate
+and rhythm, S1, S2 normal, no murmur.  Abdomen:  Soft, nontender,
+nondistended, normal bowel sounds.  Extremities:  No cyanosis,
+clubbing, or edema.
+
+ASSESSMENT AND PLAN
+1.  Paroxysmal atrial fibrillation.  EKG done today showing
+normal sinus rhythm at 96 beats per minute with normal intervals,
+flat T-waves in leads III, aVF, V5, and V6.  No ST changes.  Will
+refer to cardiology regarding whether to anticoagulate him.  Will
+treat today with Ecotrin 325 mg p.o. q.d.
+2.  History of borderline diabetes.  Last hemoglobin A1c was 9.8.
+ Will treat with Glucophage 500 mg p.o. q.a.m.  Dietary
+recommendations given.  We will schedule for a nursing educator
+and nutritionist appointment.  Home fingerstick monitoring as
+directed.
+3.  Hypertension.  Elevated diastolic blood pressure.  Will treat
+with lisinopril 10 mg p.o. day, #30 tablets dispensed with 2
+refills.  Will follow.
+4.  Smoking cessation counseling given.  Will follow.
+
+
+______________________________
+QUEST J. QUEENAN, M.D.
+
+eScription document:2-320209
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="high chol.">
+      <HYPERLIPIDEMIA id="HY0" start="784" end="808" text="total cholesterol of 242" time="before DCT" indicator="high chol." comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="784" end="808" text="total cholesterol of 242" time="before DCT" indicator="high chol." comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M0" start="1922" end="1932" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1922" end="1932" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M2" start="1814" end="1821" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1814" end="1822" text="Ecotrin " time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1115" end="1136" text="blood pressure 140/98" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1121" end="1136" text="pressure 140/98" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="2101" end="2113" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="2116" end="2149" text="Elevated diastolic blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="458" end="481" text="borderline hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="458" end="481" text="borderline hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="2101" end="2113" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2116" end="2149" text="Elevated diastolic blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="458" end="481" text="borderline hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="458" end="481" text="borderline hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="2101" end="2113" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="2116" end="2149" text="Elevated diastolic blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="458" end="481" text="borderline hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="458" end="481" text="borderline hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="current">
+      <SMOKER id="S0" start="1033" end="1056" text="smoking 2 packs per day" status="current" comment=""/>
+      <SMOKER id="S1" start="1033" end="1056" text="smoking 2 packs per day" status="current" comment=""/>
+      <SMOKER id="S2" start="1033" end="1040" text="smoking" status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="433" end="452" text="borderline diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="433" end="452" text="borderline diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="433" end="452" text="borderline diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="433" end="452" text="borderline diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="433" end="452" text="borderline diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="433" end="452" text="borderline diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="before DCT" indicator="A1C">
+      <DIABETES id="D6" start="848" end="869" text="hemoglobin A1c of 9.8" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D7" start="1876" end="1903" text="Last hemoglobin A1c was 9.8" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D8" start="848" end="869" text="hemoglobin A1c of 9.8" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D9" start="848" end="870" text="hemoglobin A1c of 9.8," time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

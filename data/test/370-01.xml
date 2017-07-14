@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2063-09-04
+
+                           124-23-22-9
+ 
+ 
+She returns for follow-up visit.  She has essential hypertension
+and diabetes and is s/p a small CVA.  Medications currently include
+vasotec 20 b.i.d., chlorpropamide 250 b.i.d.  I once again
+encouraged her to take aspirin which she said gives her a funny
+feeling in her stomach, but she is now agreeable to taking 80 mg
+q.d.  Hydrochlorothiazide was stopped secondary to an episode of
+hyponatremia.  She said she has felt the best over the last three
+months and reports no cardiovascular or neurological symptoms. 
+Blood pressure 130/70.  No JVD.  Carotid impulses normal.  No
+bruits.  Lungs clear.  Cardiac exam normal.  Unremarkable abdomen. 
+Full pulses throughout with no edema.  ECG is within normal limits. 
+I have made no changes to her medical regimen and she will return
+to see Dr. Isaiah Viola in six months.
+ 
+ 
+ 
+ 
+                                              
+Otha V. Espinal, M.D.
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="diuretic" type2=""/>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC16" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC15" status="unknown"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC17" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

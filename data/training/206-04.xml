@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-02-09
+
+ 
+BRENNAN CONVALESCENT HOME
+
+Reason For Visit
+Cough.
+
+History Of Present Illness
+68 year-old male presents with complaint of cough productive of white-to-clear sputum for two days.  He feels minimal chest tightness, with no shortness of breath.  No dyspnea on exertion or PND.  He denies wheeze.  He is able to tolerate exercise on treadmill without chest pain.  He denies fever or chills.  Presently, self-treating with Robitussin DM and Halls cough drops.  Has clear rhinorrhea.  No ear pain, no throat pain.  No sinus pain or pressure.
+
+Past Medical History
+CAD, status post stent x2.  
+MI.  
+Hypertension.  
+Hyperlipidemia.  
+CVA.  
+BPH.  
+Elevated PSA.  
+Tobacco use in the past.
+
+Physical Exam
+Temperature: 97.9 degrees
+Pulse: 64
+Blood Pressure: 140/70
+General: Well-developed white male in no acute distress
+HEENT: TMs and oropharynx unremarkable.  Oropharynx is clear without exudate or tonsillar hypertrophy.  No posterior pharynx exudate.  Sinuses are nontender
+Chest: Lungs are clear to auscultation bilaterally
+Cardiac: Regular rate and rhythm.  No murmur, rub, or gallop
+Extremities: No peripheral edema
+
+Assessment And Plan
+1.  Cough, likely viral.  Robitussin DM as directed for daytime use, may use Robitussin A-C at HS PRN,(patient has own).  Reassurance re:  findings on exam.  
+2.  Hypertension.  Blood pressure again today 140/70.  Continue to monitor for indication of increase in Lisinopril per Dr.  Uddin.  The patient has followup with Cardiology on 02/17/2077.
+____________________________________
+Yazmin Doss, NP
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC9" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="640" end="654" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="640" end="654" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="640" end="654" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC10" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="640" end="654" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="640" end="654" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="640" end="654" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="640" end="654" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="640" end="654" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="640" end="654" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1430" end="1440" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1430" end="1441" text="Lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M2" start="1430" end="1440" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="1430" end="1441" text="Lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M4" start="1430" end="1440" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="1430" end="1441" text="Lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="624" end="636" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="624" end="636" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1329" end="1341" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="624" end="636" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="780" end="786" text="140/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="764" end="786" text="Blood Pressure: 140/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1344" end="1377" text="Blood pressure again today 140/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="624" end="636" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="624" end="636" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1329" end="1341" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="624" end="636" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="624" end="636" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="624" end="636" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="1329" end="1341" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="624" end="636" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC1" time="before DCT" indicator="mention">
+      <CAD id="C0" start="589" end="592" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="589" end="592" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="618" end="620" text="MI" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="589" end="592" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C4" start="593" end="617" text=" status post stent x2.  " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="618" end="620" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="606" end="612" text="stent " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="618" end="620" text="MI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC11" time="during DCT" indicator="mention">
+      <CAD id="C8" start="589" end="592" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="589" end="592" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="589" end="592" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC14" time="after DCT" indicator="mention">
+      <CAD id="C11" start="589" end="592" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="589" end="592" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="589" end="592" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="past">
+      <SMOKER id="S0" start="688" end="712" text="Tobacco use in the past." status="past" comment=""/>
+      <SMOKER id="S1" start="688" end="711" text="Tobacco use in the past" status="past" comment=""/>
+      <SMOKER id="S2" start="688" end="711" text="Tobacco use in the past" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

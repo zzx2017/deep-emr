@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2067-07-28
+
+                     JELLICO EMERGENCY DEPT VISIT
+ 
+FOY,KEONTE H.   732-35-79-0                   VISIT DATE: 07/28/67
+PRESENTING COMPLAINT:  Chest pain. 
+HISTORY OF PRESENTING COMPLAINT:  The patient was seen in the 
+emergency department with Dr. Holden.  History was reviewed with Dr. 
+Holden and patient.  Briefly, this is a 59 year old gentleman with a 
+past medical history positive for insulin dependent diabetes, CVA, 
+peptic ulcer disease, who presented to the emergency department 
+with acute substernal chest pain radiating to the left arm, 
+positive diaphoresis and shortness of breath, three or four 
+episodes in the last few hours, the last episode lasting 20 
+minutes. 
+REVIEW OF SYSTEMS:  As documented by Dr. Holden. 
+PAST MEDICAL HISTORY:  As documented by Dr. Holden. 
+MEDICATIONS:  As documented by Dr. Holden. 
+ALLERGIES:  As documented by Dr. Holden. 
+SOCIAL HISTORY AND FAMILY HISTORY:  As documented by Dr. Holden. 
+PHYSICAL EXAMINATION:  No acute distress.  Blood pressure is 
+120/100, pulse 100 and regular, respirations 16, afebrile, O2 sat 
+on room air 97%.  Negative HEENT.  Patent airway.  Neck:  Supple, 
+no JVD, nodes or bruits.  Lungs:  Clear, equal breath sounds. 
+Heart:  Regular rate, no murmur.  No chest wall tenderness. 
+Abdomen:  Soft, positive bowel sounds.  Extremities:  No 
+deformities.  Guaiac negative.  Neurologic:  Alert, nonfocal.  The 
+rest of the examination is unremarkable. 
+LABORATORY EVALUATION:  Electrolytes, BUN and creatinine were 
+within normal limits.  Glucose of 26.  CBC negative.  CK 75, 
+troponin 0.  EKG shows hyperacute T wave in V1 and V2. 
+THERAPY RENDERED/COURSE IN ED:  In the emergency department, the 
+patient was treated with IV Heparin, Nitroglycerin, aspirin. 
+Symptoms improved markedly, and he was transferred to the Cardiac 
+Service for further evaluation and treatment. 
+FINAL DIAGNOSIS:  Chest pain, rule out M.I. 
+DISPOSITION (including condition upon discharge):  Total time was 2 
+hours.  Condition on admission stable. 
+___________________________________                    MF916/9742 
+TAYLOR E. INNIS, M.D.  TI56                            D:07/28/67 
+                                                       T:07/28/67 
+Dictated by:  TAYLOR E. INNIS, M.D.  TI56 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1754" end="1761" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1754" end="1761" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1754" end="1761" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M3" start="1739" end="1752" text="Nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M4" start="1739" end="1752" text="Nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M5" start="1739" end="1752" text="Nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC4" time="during DCT" indicator="symptom">
+      <CAD id="C0" start="524" end="552" text="acute substernal chest pain " time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="524" end="577" text="acute substernal chest pain radiating to the left arm" time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC2" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="419" end="446" text=" insulin dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="438" end="446" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="420" end="446" text="insulin dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="419" end="446" text=" insulin dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="438" end="446" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="420" end="446" text="insulin dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="419" end="446" text=" insulin dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="438" end="446" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="420" end="446" text="insulin dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

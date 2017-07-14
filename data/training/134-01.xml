@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2088-01-20
+
+
+
+PCC Internal Medicine PRIMARY CARE
+
+630 Poliquin Drive, 642
+
+Asmara, PA  96931
+
+
+
+RE:		Jarvis, Amador
+
+PCC#:		090-73-07
+
+
+
+January 20, 2088
+
+
+
+Reason for visit:  Mr. Jarvis comes to follow up on his hypertension, hyperglycemia, renal insufficiency and elevated PSA.  
+
+
+
+HISTORY OF PRESENT ILLNESS:  He has seen Dr. Jose Quirk and a prostate biopsy has been recommended.  This is scheduled for next week and Mr. Jarvis is quite anxious about it.  
+
+
+
+He began the Captopril and HCTZ (? or Maxide) and has noted good blood pressure control as checked at BH.  At first he developed a considerable cough but in the last two weeks this has largely resolved.  He states that the cough is productive of thick phlegm and may reflect a respiratory infection rather than the Captopril itself.  His blood sugars when checked at home have averaged between the 140 to 150 range fasting.  On one occasion a three hour postprandial was 170.  
+
+
+
+He has had no attacks of gout or gout like arthritis in the past six weeks and is quite pleased about this. 
+
+
+
+He has continued actively managing production and is planning a trip to Italy next month.  
+
+
+
+PHYSICAL EXAMINATION:  On examination today he looks well and comfortable.  His blood pressure is 140/76 right arm sitting with regular pulse of 68.  His weight is 173 (stable).  
+
+
+
+IMPRESSION:  Doing reasonably well on the new blood pressure program.  Since the cough is resolving it would seem reasonable to continue the present program.  
+
+
+
+We will look forward to seeing the results of the prostate biopsy and we will check glucose and glycosylated hemoglobin today.  He will return in four months for follow up.  
+
+
+
+
+
+Orvell Oliver, M.D. 
+
+Labs:  Hemolyzed sample shows K of 6.0.  Will check re HCTZ vs Maxide.  If the latter, will change it.
+
+O
+
+
+
+Plasma Sodium           138                      135-145        mmol/L
+
+Plasma Potassium        6.0       H              3.4-4.8        mmol/L
+
+  Result Text:
+
+     HEMOLYZED
+
+Plasma Chloride         98        L              100-108        mmol/L
+
+Plasma Carbon Dioxide   25.9                     24.0-30.0      mmol/L
+
+Plasma Urea Nitrogen    29        H              8-25           mg/dl
+
+Plasma Creatinine       2.1       H              0.6-1.5        mg/dl
+
+Plasma Glucose          167       H              70-110         mg/dl
+
+Transaminase-SGOT       26                       10-40          U/L
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="494" end="503" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="494" end="503" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M2" start="508" end="512" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M3" start="508" end="512" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M4" start="508" end="512" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M5" start="508" end="512" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M6" start="508" end="512" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M7" start="494" end="503" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="494" end="503" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="494" end="503" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M10" start="494" end="503" text="Captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="494" end="503" text="Captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M12" start="508" end="512" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M13" start="508" end="512" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="229" end="241" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="229" end="241" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="229" end="241" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="229" end="241" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="229" end="241" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="229" end="241" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="229" end="241" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="229" end="241" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="229" end="241" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

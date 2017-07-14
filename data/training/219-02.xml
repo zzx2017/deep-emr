@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-09-28
+
+59 y/o male for f/u:
+
+   1) BP - No CP, SOB, pedal edema
+
+   2) low HDL - walking daily
+
+   3) ED - Viagra working well at 50 mg 
+
+   4) hi LDL - continues Lipitor w/o muscle pain
+
+
+
+O/E Looks well. BLOOD PRESSURE   120/70  wt 218 HR 68 reg
+
+  chest - CTA
+
+  ext - no edema
+
+
+
+A/P 1) BP - good control
+
+    2) low HDL - much time spent discussing lifestyle treatment. Has increased exercise to walking but wght unchanged > will increase exercise
+
+    3) ED - no change
+
+    4) hi LDL - good control. No change
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="184" end="191" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="184" end="191" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="184" end="191" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="184" end="191" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="184" end="191" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="184" end="191" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="184" end="191" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="184" end="191" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="184" end="191" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

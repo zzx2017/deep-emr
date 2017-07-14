@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-07-01
+
+EW Neurology Resident Consult Note
+
+
+
+Patient Name:	Yusuf, Russell			MRN: 1423602
+
+Date:	7/01/76					  
+
+Consult question: evaluate for stroke/TIA
+
+HPI: 61 RHM was sitting on the couch watching TV.  At 6p he decided to walk to the store.  When he got outside, he had dizziness (lightheadedness, not spinning), and staggering gait.  He went home and sat back down.  When he got up again, he was again unsteady and lightheaded.  When he shuts his eyes, he says he has "spinning" sensation.  He took meclizine which did not help.  He has meclizine b/c he has had peripheral vertigo in the past.  He says that the dizziness he had today was different from that.  He had nausea but no vomiting.  He also had ringing in his ears and "blurry" vision and a "tingling" in the back of his head with face flushing during this episode.
+
+
+
+2d ago, he was watching TV and noted blurry vision.  He closed his R eye, and the vision was clear in his L eye.  He closed his L eye, and the vision out of his R eye was blurry.
+
+
+
+
+
+ROS: Signif for 2-3 mos of hallucinations upon waking up from sleep.  He had some chest pain the past few mos and was diagnosed with musculoskeletal pain.  He used to have some episodes of L leg giving out 6-7 yrs ago, had unremarkable emg and muscle bx at Wolfe Clinic, stopped falling 3-4 yrs ago and developed bilateral leg pains now tx'd with amitrypiline.  Otherwise negative in detail including headache, change in weight, energy, appetite, palpitations, SOB, DOE, F/N/V/D/cough/chills, rash, BRBPR, melena, abdominal pain, change in bowel or bladder habits (i.e incontinence).  No change in vision, hearing, vertigo, weakness, numbness, difficulty speaking or with language, swallowing, eating.
+
+
+
+
+
+PMH:
+
+Htn
+
+DM
+
+High cholesterol
+
+Leg pain as above
+
+Anxiety/depression
+
+
+
+MED:
+
+ASA 325
+
+Meclizine 25 prn
+
+Protonix 40
+
+Toprol 50
+
+Klonopin 6 mg qd (being weaned down)
+
+Amitryptiline 75 qhs
+
+Prozac 20 (being weaned down)
+
+Effexor 75 (being titrated up)
+
+
+
+ALL: codeine and percocet
+
+
+
+SH:	on disability d/t anx/depression.  Tobacco    ppd, remote heavy ETOH, none now, denies drugs
+
+
+
+FH: no stroke.  Dtr had vertebral dissection this past year
+
+
+
+VS:  T 98.2 HR 99 BP 158/89   RR 18 Sat  95% on RA 
+
+
+
+PE:Genl 	WD WN WM NAD
+
+HEENT 	AT/NC, MMM no lesions
+
+Neck 	Supple, no LAN, no bruits
+
+Chest 	CTA B
+
+CVS 	RRR w/o MGR
+
+ABD 	soft, NTND, + BS
+
+EXT 	no C/C/E, distal pulses full, no rashes or petechiae
+
+
+
+Neuro
+
+MS:	AA&Ox3, appropriately interactive, normal affect 
+
+Attention: intact for interview	 
+
+Speech: fluent w/o paraphasic error 
+
+Memory: not tested
+
+Calculations: not tested
+
+No finger agnosia
+
+L/R confusion: No L/R confusion
+
+Praxis: not tested
+
+Spatial: not tested
+
+No obvious perseveration.
+
+CN: 	I--not tested; II,III--PERRLA, VFF by confrontation, optic discs sharp; III,IV,VI-EOMI w/o nystagmus, no ptosis; V--sensation intact to LT/PP, masseters strong symmetrically; VII--face symmetric without weakness; VIII--hears finger rub bilaterally; IX,X--voice normal, palate elevates symmetrically; XI--SCM/trapezii 5/5; XII--tongue protrudes midline
+
+Motor:	normal bulk and tone, no tremor, rigidity or bradykinesia, no pronator drift. Arm rolling:symmetric. Strength:
+
+              
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1761" end="1777" text="High cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1761" end="1777" text="High cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1761" end="1777" text="High cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1761" end="1777" text="High cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1761" end="1777" text="High cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1761" end="1777" text="High cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1761" end="1777" text="High cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1761" end="1777" text="High cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1761" end="1777" text="High cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1826" end="1829" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1826" end="1829" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1826" end="1829" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1826" end="1829" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1826" end="1829" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1826" end="1829" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="1866" end="1873" text="Toprol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="1866" end="1872" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="1866" end="1872" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="1826" end="1829" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1826" end="1829" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1826" end="1829" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="1866" end="1873" text="Toprol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1866" end="1872" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1866" end="1872" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="1866" end="1873" text="Toprol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1866" end="1872" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1866" end="1872" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2212" end="2221" text="BP 158/89" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2212" end="2221" text="BP 158/89" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="2211" end="2221" text=" BP 158/89" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1752" end="1755" text="Htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1752" end="1755" text="Htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1752" end="1755" text="Htn" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1752" end="1755" text="Htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1752" end="1755" text="Htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1752" end="1755" text="Htn" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1752" end="1755" text="Htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1752" end="1755" text="Htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1752" end="1755" text="Htn" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="current">
+      <SMOKER id="S0" start="2070" end="2085" text="Tobacco    ppd," status="current" comment=""/>
+      <SMOKER id="S1" start="2070" end="2084" text="Tobacco    ppd" status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1757" end="1759" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1757" end="1759" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1757" end="1759" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="1757" end="1759" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1757" end="1759" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1757" end="1759" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="1757" end="1759" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1757" end="1759" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1757" end="1759" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

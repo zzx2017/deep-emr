@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-08-15
+
+EDVISIT^43294739^FINNEY, INDIANA^08/15/87^NARANJO, KENNETH
+
+The patient was seen and examined in the Emergency Department on
+
+08/15/2087.  The patient was seen by Dr. Kaminski.  I have discussed
+
+the management with her.  I have also seen the patient personally
+
+and reviewed the medical record.  This is an addendum to the
+
+medical record.
+
+HISTORY OF PRESENT ILLNESS:  This is a 50-year-old female who is
+
+sent in by her primary doctor after having had EKG changes today.
+
+ Her history, which I personally obtained and in review of the
+
+record, she has a history of sarcoidosis, recently has had
+
+increased cough and some shortness of breath, given albuterol
+
+with symptomatic improvement yesterday and returned today with
+
+some persistent pain, which she says is generally related to
+
+cough.  She has had no fevers, chills, or shortness of breath.
+
+REVIEW OF SYSTEMS:  As indicated and otherwise negative.  She is
+
+asymptomatic at this time.  She has had no recent travel.
+
+PAST MEDICAL HISTORY:  Diabetes.
+
+SOCIAL HISTORY:  She is a nonsmoker.
+
+PHYSICAL EXAMINATION:  The patient is very well appearing,
+
+pleasant and in no acute distress.  Her vital signs are stable. 
+
+She is normocephalic, atraumatic.  Pharynx and ENT is normal. 
+
+Neck is supple and nontender.  Chest is clear.  Heart is regular
+
+with normal pulses.  Abdomen is soft and nontender without masses
+
+that are appreciated.  Skin is warm and dry.  She has no CVA
+
+tenderness, no back tenderness.  She is awake, alert, and
+
+oriented.  Sensory and motor exam are normal.
+
+ASSESSMENT AND PLAN:  This is a woman who complains of having had
+
+some chest discomfort.  She has a history of sarcoid and has EKG,
+
+which I reviewed, which shows lateral T-wave changes as suggested
+
+by her referring doctor.  She is pain free.  Initial lab results
+
+show hematocrit of 40, INR of 1, and a troponin which was
+
+negative.
+
+Plan at this time is for hospital admission to rule out MI given
+
+her EKG change.  She looks clinically stable.
+
+______________________________
+
+NARANJO, KENNETH M.D.
+
+D: 08/15/87
+
+T: 08/15/87
+
+Dictated By: NARANJO, KENNETH
+
+eScription document:3-7918390 BFFocus
+
+******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC2" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="never">
+      <SMOKER id="S0" start="1065" end="1074" text="nonsmoker" status="never" comment=""/>
+      <SMOKER id="S1" start="1065" end="1075" text="nonsmoker." status="never" comment=""/>
+      <SMOKER id="S2" start="1065" end="1074" text="nonsmoker" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1028" end="1036" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1028" end="1036" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1028" end="1036" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC1" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="1028" end="1036" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1028" end="1036" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1028" end="1036" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1028" end="1036" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1028" end="1036" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1028" end="1036" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

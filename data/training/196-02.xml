@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2089-12-07
+
+
+
+
+ENT
+72 Chablis Court              UPSHUR, IRENE
+Argentine, NV  57431                    78197017
+--------                     12/07/2089
+
+
+Steven Short, M.D.
+Evans Memorial Hospital
+745 Morgan Street
+Sag Harbor, NV  62945
+
+Dear Dr. Short:
+
+I did see Irene Upshur for a followup today.  As you know, I did see her back in September where she was diagnosed with possible right-sided eustachian tube dysfunction.  Her blood sugars have been under reasonably good control, 88 and then 300.  She reports that her hearing has continued to fluctuate.  When questioned, she reports that she only used the nose spray twice since I did prescribe it.
+
+On examination today, she otherwise appears well.  Ears are unremarkable.  Her eardrums are intact.  She has no tympanosclerosis or cholesteatoma.  Her gait is normal.  There is no nystagmus.
+
+An audiogram done today does show a sloping high frequency sensorineural hearing loss, which is symmetric.  Her discrimination scores are 100% in the right ear and 100% in the left ear.
+
+Assessment:  Mild ear fullness with dysequilibrium and blockage.
+
+Plan:  She does take multiple medications.  It continues to be very unclear to me what her underlying causality is.  I would like her to use the nasal spray more consistently.  If she does fail this and this is not eustachian tube dysfunction, I would consider her to have endolymphatic hydrops.  This would respond hopefully to a diuretic and potassium supplementation.  However, she has taken multiple medications currently for both blood pressure including atenolol, Cozaar, Lasix, and verapamil.  I would need to clear to switch herself ??____?? therapy, I would like to see her back after consistent trial of the corticosteroid spray topically.
+
+Sincerely,
+
+
+______________________________
+Edward T Sheehan, M.D.
+
+
+
+
+
+eScription document:2-3083608 CSSten Tel
+
+
+
+DD: 01/21/90
+DT: 01/21/90
+DV: 12/07/89
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="1607" end="1616" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1607" end="1617" text="verapamil." time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="1607" end="1616" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="1607" end="1616" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="1607" end="1617" text="verapamil." time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="1607" end="1616" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="1578" end="1586" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="1578" end="1586" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="1578" end="1586" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="1607" end="1616" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1607" end="1617" text="verapamil." time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1607" end="1616" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M12" start="1588" end="1594" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M13" start="1588" end="1594" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M14" start="1588" end="1594" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="1578" end="1586" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1578" end="1586" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1578" end="1586" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="1578" end="1586" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1578" end="1586" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1578" end="1586" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M21" start="1588" end="1594" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M22" start="1588" end="1594" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M23" start="1588" end="1594" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M24" start="1588" end="1594" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M25" start="1588" end="1594" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M26" start="1588" end="1594" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="before DCT" indicator="glucose">
+      <DIABETES id="D0" start="512" end="515" text="300" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D1" start="512" end="515" text="300" time="before DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

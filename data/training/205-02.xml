@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-01-08
+
+                     FSH EMERGENCY DEPT VISIT
+ 
+CHANDLER,JESSICA   748-80-38-0                       VISIT DATE: 01/08/70
+HISTORY OF PRESENTING COMPLAINT:  The patient was seen and 
+evaluated by Dr. Wooten.  Please see Dr. Wooten's note.  The 
+patient is a 41 year old morbidly obese diabetic female with two 
+days of shortness of breath and cough, productive of some whitish 
+sputum.  She has had no chest pain, no nausea, no vomiting. 
+Minimal diaphoresis.  She has had a fever.  No urinary symptoms. 
+She does have chronic renal insufficiency, COPD, CHF and diabetes. 
+PAST MEDICAL HISTORY:  As above plus status post coronary artery 
+bypass grafting. 
+MEDICATIONS:  Lasix, Prilosec, Cozaar, aspirin, Paxil, Flovent, 
+albuterol and Nephrocaps. 
+ALLERGIES:  No known drug allergies. 
+SOCIAL HISTORY:  A non-smoker. 
+PHYSICAL EXAMINATION:  An obese female, mild acute distress. 
+Temperature 101 degrees.  Heart has a regular rate and rhythm. 
+Lungs:  Diffuse rhonchi throughout with bibasilar rales.  The 
+abdomen is obese, soft.  Neurologic exam is non-focal. 
+LABORATORY EVALUATION:  Chest x-ray shows a poor inspiratory 
+effort, no obvious infiltrate, perhaps some hazy infiltrates.  EKG 
+is unchanged.  Labs:  Unable to obtain at this time. 
+THERAPY RENDERED/COURSE IN ED:  The patient was seen and evaluated. 
+Chest x-ray was obtained.  The patient has an IV established but 
+were unable to draw labs.  Under my direct supervision and with 
+some attempts by me, multiple attempts are made at the 
+infraclavicular and supraclavicular left and right subclavian vein 
+without success.  The groins bilateral have damp, moist exudate and 
+the neck anatomy is difficult to assess.  We are unable to 
+establish a line.  She has a chest x-ray for rule out of 
+pneumothorax or hemothorax and she will need an arterial stick for 
+blood draws. 
+IMPRESSION:  Hypoxia, possible pneumonia and a facial abscess. 
+PLAN:  Admission. 
+DISPOSITION (including condition upon discharge):  Condition on 
+admission is stable. 
+___________________________________                    RJ446/0820 
+RONNIE HUFFMAN, M.D.  RH31                       D:01/08/70 
+                                                       T:01/09/70 
+Dictated by:  RONNIE HUFFMAN, M.D.  RH31 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC4" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="306" end="311" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="297" end="312" text="morbidly obese " time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="872" end="877" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="1046" end="1051" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="306" end="311" text="obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC7" time="during DCT" indicator="mention">
+      <OBESE id="O5" start="306" end="311" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="297" end="312" text="morbidly obese " time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="872" end="877" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="1046" end="1051" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O9" start="306" end="311" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC9" time="before DCT" indicator="mention">
+      <OBESE id="O10" start="306" end="311" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O11" start="297" end="312" text="morbidly obese " time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O12" start="872" end="877" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O13" start="1046" end="1051" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O14" start="306" end="311" text="obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="723" end="730" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="723" end="730" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="723" end="730" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="723" end="730" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="723" end="730" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="723" end="730" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="723" end="730" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="723" end="730" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="723" end="730" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M9" start="715" end="721" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M10" start="715" end="721" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M11" start="715" end="721" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M12" start="715" end="721" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M13" start="715" end="721" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M14" start="715" end="721" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M15" start="715" end="721" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M16" start="715" end="721" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M17" start="715" end="721" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C0" start="650" end="672" text="oronary artery  bypass" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="649" end="681" text="coronary artery  bypass grafting" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="637" end="681" text="status post coronary artery  bypass grafting" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="never">
+      <SMOKER id="S0" start="833" end="843" text="non-smoker" status="never" comment=""/>
+      <SMOKER id="S1" start="831" end="845" text="A non-smoker. " status="never" comment=""/>
+      <SMOKER id="S2" start="831" end="844" text="A non-smoker." status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="312" end="320" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="312" end="320" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="589" end="597" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="312" end="320" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="312" end="320" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="312" end="320" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="589" end="597" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="312" end="320" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="312" end="320" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="312" end="320" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="589" end="597" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="312" end="320" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

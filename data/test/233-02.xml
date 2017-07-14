@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2062-07-29
+
+                     DONELLSON EMERGENCY DEPT VISIT
+ 
+PICKETT,SHILPA   129-53-47-3                  VISIT DATE: 07/29/62
+PRESENTING COMPLAINT:  Syncope. 
+HISTORY OF PRESENTING COMPLAINT:  Seventy-year-old female with 
+diabetes, hypertension, coronary artery disease complaining about 
+syncopal episode today.  The patient states that over the last 
+couple of weeks she has had increased chest palpitations and two 
+weeks ago was given an event monitor which he has intermittently 
+worn saying it is difficult to wear during the heat wave.  This 
+a.m. the patient had a syncopal episode while watching a 
+disagreement between her two grandchildren.  The patient states had 
+no chest pain, dizziness, nausea, or vomiting.  The patient fell to 
+the floor and awoke, denies incontinence or tongue biting. 
+PAST MEDICAL HISTORY:  Hypertension, diabetes, coronary artery 
+disease, CVA. 
+MEDICATIONS:  Aspirin, Lasix, Lopressor, Isordil, insulin, 
+lisinopril, Colace, nitroglycerin sublingual, Cisapride, Prilosec. 
+ALLERGIES:  No known drug allergies. 
+PHYSICAL EXAMINATION:  Well developed, well nourished female with a 
+Glasgow Coma Scale of 15.  HEENT normocephalic, atraumatic.  Neck 
+supple without spinal tenderness.  Heart regular rate and rhythm, 
+positive 2/6 systolic ejection murmur.  Chest is clear.  Abdomen is 
+soft, nontender, positive bowel sounds.  Extremities without 
+clubbing, cyanosis or edema.  Neuro alert and oriented times three, 
+good motor strength throughout, sensory intact, no focality. 
+FINAL DIAGNOSIS:  Syncopal episode most likely cardiac in origin. 
+DISPOSITION (including condition upon discharge):  Will admit to 
+monitor and rule out for MI.  The patient was admitted in stable 
+condition. 
+___________________________________                    IE615/5791 
+LINDA ANDREWS, M.D.  LA06                               D:07/29/62 
+                                                       T:07/30/62 
+Dictated by:  LINDA ANDREWS, M.D.  LA06 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC24" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention"/>
+    <CAD id="DOC13" time="after DCT" indicator="mention"/>
+    <CAD id="DOC16" time="during DCT" indicator="mention"/>
+    <CAD id="DOC25" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC12" status="unknown"/>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC19" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-06-15
+
+
+
+
+JELLICO COMMUNITY HOSPITAL
+Jellico Internal Medicine Associates
+44 Brigham St
+Elwood, OH  49817
+
+Foy, Keonte
+73235790
+06/15/70
+
+HISTORY OF PRESENT ILLNESS:  This pleasant 62-year-old African American 
+gentleman returns to my clinic today for follow-up of diabetes, status 
+post MI, hyperlipidemia, and hypertension.
+
+1.  He brings in his blood sugar values with him today.  These are 
+improved since his last visit, and somewhat more believable ranging from 
+128 to 195, predominantly higher in the evenings more than the mornings 
+ranging from 150 to 190.  He is currently on a somewhat odd regime of 6 
+units of insulin regular twice a day, with a large 24 units of insulin 
+at night, and 14 units insulin in the morning.  He has not had any 
+further hypoglycemic attacks, is having no nocturnal awakening, and 
+seems to be sticking more to the diet.  He has however gained some 
+weight, which is a little disconcerting.  He does attend a podiatrist 
+and is doing well from that perspective.  He is to return to the 
+ophthalmologist for further diabetic screening later on in the year.  He 
+missed his last nutrition appointment and is not interested in further 
+follow-up with nutrition at this time.
+2.  Cardiovascular.  He is on atorvastatin 20 mg for hyperglyceridemia, 
+atenolol 25 mg, and aspirin.  Further question regarding his stroke back 
+in 2061 shows that this presents with confusional episode with 
+unsteadiness, resolving after approximately 36 hours, and he was found 
+to have a hole in his heart at that time.  He was eventually stopped off 
+Coumadin in 2063, but had a recurrent episode at that time and he was 
+put on Coumadin for life at that point.  He had an aborted myocardial 
+infarction in 2067.  He has had no chest pain in the interim, has good 
+exercise tolerance with walking, although, he can only run about 50 
+yards before getting very short of breath.  He has no orthopnea or PND.  
+He has no chest pain or use of sublingual nitro.
+3.  Health maintenance.  We discussed screening colonoscopy versus 
+flexible sigmoidoscopy and the relative benefit of each of those.  He 
+has agreed to proceed with colonoscopy, and I have instructed him stop 
+his Coumadin and aspirin five days before the test and to have an INR 
+checked on the day prior to the test.  This will be scheduled by our 
+secretary.  He will restart the Coumadin after the colonoscopy at his 
+standard dose and titrate up slowly.
+
+CURRENT MEDICATIONS:  Include aspirin, atenolol, insulin, Coumadin, and 
+Lipitor.
+
+
+
+
+
+
+
+
+Foy, Keonte
+73235790
+06/15/70
+Page 2
+
+PHYSICAL EXAMINATION:  His blood pressure is 148/82.  He is tachycardic 
+at 98 beats per minute.  Examination of his eyes shows persistent left-
+sided cataract.  Examination of the heart and lungs was normal.  The 
+abdominal examination is also normal.  His injection sites were clean 
+and without erythema.  There is no evidence of peripheral neuropathy and 
+his feet appeared well.
+
+We spent some time today talking about diabetes education again, 
+including appropriate foods, drinks, and what items to avoid.
+
+PLAN:
+1.  Supplied educational materials regarding diabetes management, 
+including calorie counting, weight loss, information about hypoglycemia 
+and hyperglycemia, and diabetic eye care.
+2.  I have increased insulin in the mornings from 14 to 16 units and 
+left the other doses as is.
+3.  I have increased the atenolol from 25 mg to 50 mg for hypertension 
+and cardioprotection with the tachycardia.
+4.  We will check cholesterol, hemoglobin A1c, CBC, and chem-7.
+5.  I have scheduled an elective outpatient colonoscopy as detailed 
+above for colorectal cancer screening.
+6.  Return to see in a week's time, understands.  He can discuss any 
+management issues regarding his insulin doses or others anytime.
+
+
+
+Yale Jordan, M.D.
+
+YJ:isenberg:74:585:40;00-10142.doc;DD:06/15/70;DT:06/16/70;DV:06/15/70
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+62 year old man with dm and vascular disease.  He is starting to improve his self-care of dm and last a1c was 8.2  Blood sugars mostly less than 250.  Increased am insulin and will increase atenolol from 25--->50 mg for a bp of 150/88.  
+
+
+
+______________________________                              
+
+
+
+Cochran, Patricia Hannah, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="313" end="327" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="313" end="327" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="313" end="327" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="313" end="327" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="313" end="327" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="313" end="327" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="313" end="327" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="313" end="327" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="313" end="327" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1265" end="1277" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1265" end="1277" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1265" end="1277" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1328" end="1335" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1328" end="1335" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1328" end="1335" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1328" end="1335" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1328" end="1335" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1328" end="1335" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M9" start="644" end="660" text=" insulin regular" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="644" end="653" text=" insulin " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="645" end="660" text="insulin regular" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="1308" end="1316" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1308" end="1316" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1308" end="1316" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M15" start="1265" end="1277" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1265" end="1277" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1265" end="1277" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M18" start="1265" end="1277" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1265" end="1277" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1265" end="1277" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M21" start="1328" end="1335" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1328" end="1335" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1328" end="1335" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M24" start="644" end="660" text=" insulin regular" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="644" end="653" text=" insulin " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="645" end="660" text="insulin regular" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M27" start="644" end="660" text=" insulin regular" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="644" end="653" text=" insulin " time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="645" end="660" text="insulin regular" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="1308" end="1316" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="1308" end="1316" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1308" end="1316" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="1308" end="1316" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="1308" end="1316" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="1308" end="1316" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="333" end="345" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="333" end="345" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="333" end="345" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="2614" end="2638" text="blood pressure is 148/82" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="2632" end="2638" text="148/82" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="4207" end="4213" text="150/88" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="2614" end="2638" text="blood pressure is 148/82" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="333" end="345" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="333" end="345" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="333" end="345" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="333" end="345" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="333" end="345" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="333" end="345" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC20" time="before DCT" indicator="event">
+      <CAD id="C0" start="309" end="311" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="309" end="311" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="1714" end="1752" text="aborted myocardial  infarction in 2067" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="309" end="311" text="MI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC2" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="4081" end="4093" text="a1c was 8.2 " time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="4076" end="4092" text="last a1c was 8.2" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D2" start="4081" end="4092" text="a1c was 8.2" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="286" end="294" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="286" end="294" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="286" end="294" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="286" end="294" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="286" end="294" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="286" end="294" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC25" time="after DCT" indicator="mention">
+      <DIABETES id="D9" start="286" end="294" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="286" end="294" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="286" end="294" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

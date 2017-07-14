@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2089-04-05
+
+
+	CARDIOLOGY
+	
+
+	SAINT VINCENT HOSPITAL
+	
+
+
+	Interval History:
+   Ursula is seen in the Cardiology office for a followup visit.  Since last seen, she notes a number of somewhat concerning symptoms.  First of all, she is noting some mid sternal chest discomfort with exertion.  She associates this with back pain related to a remote back injury, but nonetheless with exertions she develops some degree of mid sternal chest discomfort, non radiating, associated may be with some shortness of breath.  She has not used any nitroglycerin for it.  It gets better when she rests.  She denies palpitations, PND, or orthopnea.  Her sugars are out of control.  Her weight is down, nonetheless.
+
+Physical examination:
+	
+-Pulse:   80
+-BP: 130/85  
+-weight:   206 lbs.
+-General:   Overweight.  Well appearing.
+-Skin:   No rashes.  Anicteric.
+-Heent:   Unremarkable.
+-Neck:   JVP less than 5, possible venous hums bilaterally.  Carotids without bruits.
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   Apical impulse nondisplaced and discrete.  Regular rate and rhythm.  Normal S1 and split S2.  Soft S4 gallop.
+-Abdomen:   Obese, soft, nontender, and nondistended without hepatosplenomegaly, bruits, dilated aorta.
+-Extremities:   No clubbing, cyanosis, or edema.
+
+Procedures:
+	
+Electrocardiogram  normal sinus rhythm IVCD, old IMI.  In addition, she has nonspecific ST and T-wave changes.  Compared there is no important change.
+
+
+	Impression:
+   1.  Coronary artery disease status post multiple PCIs.  Ursula has the return of chest symptoms which are suggestive for angina.  I will refer her for an exercise tolerance test to better evaluate this.  I will continue on the current medication program.
+2.  Hypertension.  Her blood pressure is a bit elevated.  Given her diabetes, I think it is prudent to add an ACE inhibitor.  Accordingly, lisinopril 2.5 mg QD was added to her program.
+3.  Lipids will be checked.  I strongly suspect that her LDL is not well suppressed.  Our goal LDL in this case is less than 70 mg/dL.
+
+	
+Umberto Uzzell, MD
+
+	
+Signed electronically by  Umberto Uzzell, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC3" time="during DCT" indicator="mention">
+      <OBESE id="O0" start="1150" end="1155" text="Obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1150" end="1155" text="Obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1869" end="1879" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1869" end="1879" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M2" start="1869" end="1879" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="1869" end="1879" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M4" start="1832" end="1915" text=" add an ACE inhibitor.  Accordingly, lisinopril 2.5 mg QD was added to her program." time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="1869" end="1879" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M6" start="1869" end="1879" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1734" end="1746" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1734" end="1746" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1734" end="1746" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1734" end="1746" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1734" end="1746" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1734" end="1746" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1734" end="1746" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1734" end="1746" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1734" end="1746" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC1" time="before DCT" indicator="mention">
+      <CAD id="C0" start="1478" end="1503" text=" Coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1478" end="1502" text=" Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1479" end="1502" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C3" start="1351" end="1358" text="old IMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="1503" end="1529" text="status post multiple PCIs." time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="1515" end="1527" text="multiple PCI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC11" time="during DCT" indicator="mention">
+      <CAD id="C6" start="1478" end="1503" text=" Coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="1478" end="1502" text=" Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="1479" end="1502" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC13" time="during DCT" indicator="symptom">
+      <CAD id="C9" start="1596" end="1602" text="angina" time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C10" start="1596" end="1602" text="angina" time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="after DCT" indicator="mention">
+      <CAD id="C11" start="1478" end="1503" text=" Coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="1478" end="1502" text=" Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="1479" end="1502" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1798" end="1806" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1798" end="1806" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1798" end="1806" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="1798" end="1806" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1798" end="1806" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1798" end="1806" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC16" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="1798" end="1806" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1798" end="1806" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1798" end="1806" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

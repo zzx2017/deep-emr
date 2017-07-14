@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-04-03
+
+                     LEPROSARIUM EMERGENCY DEPT VISIT
+
+ 
+
+KIM,DOUGLAS JR   201-63-51-2                VISIT DATE: 04/03/95
+
+The patient was seen primarily by me. 
+
+PRESENTING COMPLAINT:  Fall, right knee injury.
+
+HISTORY OF PRESENTING COMPLAINT:  Mr. Killian is a very pleasant 
+
+54-year-old gentleman, with a history of diabetes, who had a fall 
+
+on December 18, 2094.  At the time, he sustained an injury to his 
+
+right knee which healed and then began to break down, and he 
+
+developed a large wound which began draining and had foul odor.  
+
+The patient had continued difficulty ambulating and presented to 
+
+the emergency department for evaluation.  The patient denies having 
+
+any hardware in his knee.  No history of osteomyelitis.  No 
+
+hardware.  No history of peripheral neuropathy.  
+
+REVIEW OF SYSTEMS:  Patient denies any fevers or chills.  No nausea 
+
+or vomiting.  No abdominal pain.  No chest pain or shortness of 
+
+breath.  Patient is only complaining of difficulty ambulating 
+
+secondary to the pain.   
+
+PAST MEDICAL HISTORY:  Two patellar tendon repairs at EDUCARE-PULLMAN in 2083, 
+
+repair of a patellar fracture.  Recent diagnosis of diabetes, 
+
+atrial fibrillation.  Hypertension, high cholesterol, and positive 
+
+PPD.  
+
+MEDICATIONS:  Please see nurses note for list of medications. 
+
+ALLERGIES:  PENICILLIN (rash). 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient is a smoker.  He 
+
+does not drink alcohol.  He works in engineering, and lives alone. 
+
+Family history is noncontributory. 
+
+PHYSICAL EXAMINATION:  GENERAL:  Patient is awake, alert, talking 
+
+in full sentences, in mild distress secondary to pain.  VITAL 
+
+SIGNS:  Afebrile, temperature 99.3, respiratory rate 20, blood 
+
+pressure 161/96, pulse 95.  HEAD:  Atraumatic.  NECK:  Supple.  
+
+LUNGS:  Clear to auscultation.  No wheezes, rales or rhonchi.  
+
+HEART:  Regular rate.  No murmurs, gallops or rubs.  ABDOMEN:  
+
+Soft, nontender.  SKIN:  A large ulcer to the right knee, right 
+
+over the patella, with significant amount of break-down necrotic 
+
+tissue and purulent discharge with a foul odor.  The depth of the 
+
+wound is difficult to assess.  Intact motor function and sensation. 
+
+Full flexion and extension of the knee, and evidence of well-healed 
+
+midline scar above the ulcer.  NEURO:  Intact with good pulses 
+
+palpable throughout.  
+
+LABORATORY EVALUATION:  Plain film of the right knee, CT of the 
+
+right knee, and laboratory values done.  Laboratory values 
+
+demonstrated a white count of 14, ESR of 13, ESRP of 2.1.  Rest of 
+
+the labs were normal except for an elevated glucose to 226.  Film 
+
+of the knee shows patellofemoral arthritis with no evidence of 
+
+osteomyelitis, no hardware seen.  CT of the knee showed a 
+
+superficial ulcer to the depth of the patellar tendon but the 
+
+patellar tendon itself was intact.  
+
+THERAPY RENDERED/COURSE IN ED:  The patient was initially seen by 
+
+orthopedic who felt that the ulcer was over the patellar tendon, at 
+
+the site of prior surgeries, with no effusion or joint pain, and 
+
+normal range of motion with joint involvement unlikely.  We are all 
+
+very hesitant to tap this knee and it will not be done at this time 
+
+for fear of introducing infection into the joint.  The patient is 
+
+awaiting consultation by general surgery for probable admission and 
+
+debridement in the operating room.  The plan at this time was to 
+
+hold off on antibiotics.  Blood cultures were sent.  The patient is 
+
+receiving IV fluids. 
+
+CONSULTATIONS (including PCP):  Orthopedics, general surgery.
+
+FINAL DIAGNOSIS:  Knee ulcer.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted and transitioned to ED Obs, awaiting evaluation by the 
+
+surgical service for probable admission.  The patient is currently 
+
+in stable and satisfactory condition, in Obs awaiting surgery 
+
+evaluation.
+
+___________________________________                    VN983/2356
+
+SHERRY PERKINS, M.D.  SP79                          D:04/03/95 
+
+                                                       T:04/04/95 
+
+Dictated by:  SHERRY PERKINS, M.D.  SP79 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1232" end="1248" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1232" end="1248" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1231" end="1249" text=" high cholesterol," time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1232" end="1248" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1232" end="1248" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1231" end="1249" text=" high cholesterol," time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC11" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1232" end="1248" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1232" end="1248" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1231" end="1249" text=" high cholesterol," time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC1" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1218" end="1230" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1218" end="1231" text="Hypertension," time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1218" end="1230" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1732" end="1755" text="blood   pressure 161/96" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1749" end="1756" text="161/96," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1732" end="1755" text="blood   pressure 161/96" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1218" end="1230" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1218" end="1231" text="Hypertension," time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1218" end="1230" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1218" end="1230" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1218" end="1231" text="Hypertension," time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1218" end="1230" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="current">
+      <SMOKER id="S0" start="1410" end="1429" text="patient is a smoker" status="current" comment=""/>
+      <SMOKER id="S1" start="1423" end="1429" text="smoker" status="current" comment=""/>
+      <SMOKER id="S2" start="1406" end="1429" text="The patient is a smoker" status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="338" end="357" text="history of diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="349" end="357" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="349" end="357" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1184" end="1192" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="338" end="357" text="history of diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="349" end="357" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="349" end="357" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1184" end="1192" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="338" end="357" text="history of diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="349" end="357" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="349" end="357" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="1184" end="1192" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-04-22
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+BROADLAWNS MEDICAL CENTER
+
+
+
+Reason for visit   elevated B/P
+
+
+
+History of present illness   Seen in ER for HTN.yesterday  224/105
+
+Per dau TX w/ IV lopressor x 4 doses, betalol & NTG
+
+Today B/P 210/90 this AM
+
+Meds not changed.
+
+No ha, no chest pain, no SOB, no blurred vision.
+
+
+
+Change in therapies and Renewals
+
+Norvasc 5mg po qd QTY:30 Refills:3 Start: 3/12/2075
+
+
+
+Assessment and plan   HTN 
+
+Discussed w/ Dr Edmondson by phone.
+
+Will add Norvasc 5 mg qd
+
+Advised family.
+
+Called to  pharm
+
+
+
+Disposition
+
+Appt w/ Dr Edmondson 4/28/79
+
+
+
+Addendum
+
+			
+
+I was present during key portions of the evaluation of the patient and agree with Noreen Dotson's findings and plan as written.
+
+Bryan Edmondson
+
+
+
+Signed electronically by Noreen O Dotson RN on Apr 22, 2079     Bryan  Edmondson MD on Aug 20, 2079     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="377" end="384" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="377" end="384" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="377" end="384" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M3" start="210" end="219" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="231" end="238" text="betalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="210" end="219" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="231" end="238" text="betalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="207" end="219" text="IV lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="231" end="238" text="betalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M9" start="241" end="244" text="NTG" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M10" start="241" end="244" text="NTG" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M11" start="241" end="244" text="NTG" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="255" end="262" text=" 210/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="246" end="270" text="Today B/P 210/90 this AM" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="256" end="262" text="210/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="90" end="121" text="Reason for visit   elevated B/P" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="169" end="172" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="454" end="457" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="169" end="172" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="454" end="457" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="169" end="182" text="HTN.yesterday" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

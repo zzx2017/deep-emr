@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-01-30
+
+                     ST VINCENT EMERGENCY DEPT VISIT
+ 
+LAU,HELEN M.   544-41-32-1              VISIT DATE: 01/30/97
+PRESENTING COMPLAINT:  Chest pain and shortness of breath. 
+HISTORY OF PRESENTING COMPLAINT:  This is a lady who has a history 
+of a coronary artery bypass graft in September of 2096, who 
+presents complaining of chest pain.  The patient describes it as 
+being sharp and stabbing.  It was associated with some diaphoresis. 
+She states that this pain is similar to her angina, however, it is 
+more frequent and persistent.  She has no fever, no chills, no 
+cough, no vomiting, no diarrhea, no abdominal pain, and no urinary 
+symptoms. 
+PAST MEDICAL HISTORY:  Past medical history is significant for 
+hypertension, coronary artery disease, insulin dependent diabetes, 
+chronic renal insufficiency, breast cancer, depression, mitral 
+valve replacement, and hypothyroidism. 
+MEDICATIONS:  Medications are multiple and are on the chart. 
+ALLERGIES:  No known drug allergies. 
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient never smoked. 
+PHYSICAL EXAMINATION:  The patient was afebrile and vital signs 
+were stable.  This is a well-developed, well-nourished female who 
+was alert and oriented times three.  Heent examination was 
+normocephalic, atraumatic.  Neck was soft and supple with no 
+jugular venous distention.  Mouth and throat normal with well 
+hydrated, moist mucosa.  Conjunctiva was clear.  Sclera were 
+anicteric.  Heart had a regular rate and rhythm.  Lungs were clear. 
+Abdomen was non-tender and non-distended.  The patient had no 
+hepatosplenomegaly.  Extremities showed no clubbing, cyanosis or 
+edema.  Rectal was heme negative. 
+LABORATORY EVALUATION:  EKG showed first degree AV block, no acute 
+ischemic changes.  Chest x-ray showed mild pleural effusion.  White 
+count was 9.7.  Hematocrit was 28.  CPK and troponin were negative. 
+Electrolytes were normal for her.  BUN and creatinine were 32 and 
+1.2. 
+THERAPY RENDERED/COURSE IN ED:  Nursing notes were reviewed.  The 
+patient was seen with the resident physician, Dr. Nix, and I 
+agree with his note.  Please see chart. 
+FINAL DIAGNOSIS:  Unstable angina. 
+DISPOSITION (including condition upon discharge):  The patient will 
+be admitted.  Condition at this time is satisfactory. 
+___________________________________                    MG040/1987 
+VIRGIL HARRELL, M.D.  VH79                                D:02/12/97 
+                                                       T:02/13/97 
+Dictated by:  VIRGIL HARRELL, M.D.  VH79 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="743" end="755" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="743" end="755" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="743" end="755" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="743" end="755" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="743" end="755" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="743" end="755" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="757" end="780" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="757" end="780" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C2" start="277" end="326" text="coronary artery bypass graft in September of 2096" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="277" end="326" text="coronary artery bypass graft in September of 2096" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="277" end="305" text="coronary artery bypass graft" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC4" time="before DCT" indicator="symptom">
+      <CAD id="C5" start="512" end="518" text="angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C6" start="167" end="178" text="Chest pain " time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC9" time="during DCT" indicator="mention">
+      <CAD id="C7" start="757" end="780" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="757" end="780" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC11" time="during DCT" indicator="symptom">
+      <CAD id="C9" start="2156" end="2173" text=" Unstable angina." time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C10" start="512" end="518" text="angina" time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C11" start="2157" end="2172" text="Unstable angina" time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C12" start="167" end="178" text="Chest pain " time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C13" start="757" end="780" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="757" end="780" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="never">
+      <SMOKER id="S0" start="1062" end="1075" text=" never smoked" status="never" comment=""/>
+      <SMOKER id="S1" start="1063" end="1075" text="never smoked" status="never" comment=""/>
+      <SMOKER id="S2" start="1051" end="1076" text="The patient never smoked." status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="782" end="808" text="insulin dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="782" end="808" text="insulin dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="782" end="808" text="insulin dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="782" end="808" text="insulin dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="782" end="808" text="insulin dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="782" end="808" text="insulin dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

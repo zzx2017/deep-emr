@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2072-11-25
+
+                     RGH EMERGENCY DEPT VISIT
+
+ 
+
+MULLINS,DOLORES U   728-41-92-0               VISIT DATE: 01/24/73
+
+This patient was seen, interviewed and examined by myself as well 
+
+as Dr. Hawkins whose note I reviewed and with which I agree.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 70-year-old female who 
+
+presents with inability to control her left arm and left leg.  The 
+
+patient had onset of her symptoms approximately two hours prior to 
+
+arrival.  The patient denies any change in sensation but she 
+
+definitely did notice weakness with decreased ability to control 
+
+her left side extremities.  The patient states that her left arm 
+
+control was regained after approximately one or two hours.  Her 
+
+left leg control is better but still is not back to baseline.  
+
+Review of systems, family history and social history as per the 
+
+resident's note.
+
+PAST MEDICAL HISTORY:  Insulin-dependent diabetes mellitus, 
+
+hypertension.
+
+MEDICATIONS:  Insulin, Diltiazem, labetalol.
+
+ALLERGIES:  TETANUS.
+
+PHYSICAL EXAMINATION:  This is a well-developed, well-nourished 
+
+female, in mild distress, appears concerned.  Temperature is 96.9 
+
+degrees, pulse 65, respiratory rate of 18, blood pressure is 
+
+163/104.  Repeat blood pressure is 174/80.  Oxygen saturation is 
+
+97% on room air.  HEENT:  Normocephalic, atraumatic.  Pupils are 
+
+equally round and reactive to light and accommodation.  Extraocular 
+
+motions are intact.  No nystagmus.  NECK:  Supple with full range 
+
+of motion.  2+ carotids, no bruits.  CARDIAC:  Regular rate and 
+
+rhythm.  EXTREMITIES:  No clubbing, cyanosis or edema.  Extremities 
+
+are nontender to palpation throughout.  NEURO:  Alert, oriented x 
+
+3.  Follows commands, appropriate.  Cranial nerves II-XII are 
+
+intact.  There is 5/5 motor strength in individual motor group 
+
+testing of the upper extremities and lower extremities bilaterally. 
+
+The patient is unable to stand without assistance.  Comprehension 
+
+is within normal limits.  Further details of the physical 
+
+examination are as per the resident's note.
+
+LABORATORY EVALUATION:  Labs are significant for a glucose of 162, 
+
+BUN of 20, creatinine 1.3, sodium 145, potassium 4.2, chloride 108, 
+
+bicarb 26, calcium 9.4.  White count is 8.1, hematocrit 39.0, 
+
+platelets 341.  A UA shows no blood, no leucocyte esterase, no 
+
+ketones.  Head CT shows no acute intracranial abnormality and mild 
+
+involutional changes.  EKG shows a sinus rhythm at 57 beats per 
+
+minute with non-specific T wave changes.  This is compared to an 
+
+EKG from 2068 and was found to be without significant change.
+
+THERAPY RENDERED/COURSE IN ED:  The patient was seen and evaluated 
+
+in the Emergency Department with labs and studies obtained as 
+
+documented above.  The initial concerns were for a focal seizure 
+
+versus a TIA.  The patient was hypertensive on her arrival and, 
+
+therefore, received labetalol for improved blood pressure control 
+
+and the Neurology Service was consulted early in the patient's 
+
+care.  The patient does not have any evidence of focal motor group 
+
+weakness at this time, nor sensation changes.  The patient will 
+
+require admission to the Neurology Service for further workup of 
+
+her seizure versus TIA.
+
+FINAL DIAGNOSIS:  TIA.
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+admitted to the hospital in satisfactory condition.
+
+___________________________________                    OH527/2519 
+
+YULIANNA ELKINS, M.D.   YE96                            D:01/24/73 
+
+                                                       T:01/24/73 
+
+Dictated by:  YULIANNA ELKINS, M.D.   YE96 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="995" end="1004" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="995" end="1004" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="995" end="1004" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="984" end="993" text="  Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="986" end="993" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="986" end="993" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="995" end="1004" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="995" end="1004" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="995" end="1004" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M9" start="1006" end="1015" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1006" end="1015" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1006" end="1015" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="995" end="1004" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="995" end="1004" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="995" end="1004" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M15" start="984" end="993" text="  Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="986" end="993" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="986" end="993" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="1006" end="1015" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1006" end="1015" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1006" end="1015" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1006" end="1015" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1006" end="1015" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="2904" end="2913" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="1006" end="1015" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M25" start="984" end="993" text="  Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="986" end="993" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="986" end="993" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1237" end="1244" text="163/104" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1217" end="1244" text="blood pressure is   163/104" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1247" end="1278" text="Repeat blood pressure is 174/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="1217" end="1244" text="blood pressure is   163/104" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="957" end="970" text="hypertension." time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="957" end="969" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="2849" end="2861" text="hypertensive" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="957" end="969" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="957" end="970" text="hypertension." time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="957" end="969" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2849" end="2861" text="hypertensive" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="957" end="969" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H12" start="957" end="970" text="hypertension." time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="957" end="969" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="2849" end="2861" text="hypertensive" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="957" end="969" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" start="146" end="150" text="This" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="936" end="944" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="918" end="953" text="Insulin-dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="918" end="953" text="Insulin-dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="936" end="944" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="918" end="953" text="Insulin-dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="918" end="953" text="Insulin-dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="936" end="944" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="918" end="953" text="Insulin-dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="918" end="953" text="Insulin-dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

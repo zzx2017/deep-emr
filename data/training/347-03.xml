@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-11-30
+
+
+Cookson Memorial Home
+Internal Medicine Room 960
+50 Wellesley Rd                                        DARLING, BETTY
+Seattle, SC 84126                                      78567873
+(121) 537-3484                                           11/30/97
+
+
+CHIEF COMPLAINT:  Hypertension, proteinuria, status post fall,
+reevaluate Coumadin.
+
+HISTORY OF PRESENT ILLNESS:  Urgent care visit for this
+77-year-old woman with the history of diabetes, multiple strokes,
+hypertension, hyperlipidemia, and multiple other issues.  Last
+week she was at Saint Joseph Memorial Hospital for an eye evaluation.
+ It was a very very windy day.  Afterwards she was outside and a
+huge gust of wind knocked her over.  Her daughter Fitzpatrick was with
+her and Fitzpatrick herself actually had to hold on to something when
+the wind blew.  There is no chest pain or presyncope, and no loss
+of consciousness either before, during, or after the episode. 
+She struck her left trochanteric area, left deltoid area, and
+left eyebrow.  She was taken to EFH where she had a normal head
+CT.  A single stitch was placed in the laceration along the
+lateral edge of her left eyebrow.  She had films of her wrist and
+hips both of which were fine.  She has bruising in these areas. 
+Other than some pain where the bruising is she feels entirely
+back to normal.
+
+She had marked hypertension up to 250.  She was treated with
+hydralazine in the ER, and was noted to have proteinuria with
+some hematuria.  Her blood pressure at home since then has been
+180 and 210 systolic on her usual 40 mg daily of lisinopril.  She
+is not on a beta-blocker currently.  She has not had any episodes
+of chest pain.  She does feel slightly more woozy than usual.
+
+MEDICATIONS:  Metformin 500 mg p.o. b.i.d., Prevacid 30 mg p.o.
+q.d., atorvastatin 10 mg q.d., sertraline 50 mg q.d., warfarin,
+lisinopril 40 mg q.d., Ambien 10 mg q.h.s. p.r.n., levothyroxine
+100 mg p.o. q.d., aspirin, eyedrops, Colace, and Dulcolax.
+
+SOCIAL HISTORY:  She is looking forward to a good Christmas. 
+She is here today with her daughter Fitzpatrick.
+
+PHYSICAL EXAMINATION:  Temperature 97.2, pulse 74, BP 208/66,
+weight 148 pounds.
+GENERAL: Well appearing woman.
+HEENT: PERRL.  Single stitch along the lateral aspect of her left
+eyebrow is easily removed.  No evidence of any infection.  Her
+left deltoid area is fine and she has good range of motion in the
+shoulder.  Her left ribcage is slightly tender but without any
+bony step-offs.  She walks well with no pain in her left hip. 
+There is a hand sized deep purple bruise over the trochanteric
+bursa.
+
+ASSESSMENT AND PLAN:  Mechanical fall with laceration and
+bruising but no more serious complications.  Fortunately she did
+not have intracranial bleeding.  I am not sure why her blood
+pressure is up, whether this is related to the stress of the
+falls verses independent causes.  Given that the high blood
+pressure has persisted, I will add atenolol 12.5 mg p.o. q.d.,
+and discuss via phone or E-mail with her daughter next week to
+see how well this is working.  Goal BP 140-160 systolic.  Her
+urine was checked today.  Hematuria has resolved.  She has 2+
+proteinuria.  I will recheck this in a week or two after we treat
+her hypertension.
+
+We spent over half of today's 45-minute visit discussing risks
+and benefits of Coumadin therapy.  Although she is at risk for
+falls, she feels quite clearly that she prefers to be on the
+Coumadin due to her fear of having a repeated thrombotic stroke. 
+She feels that she has not had any bleeding complications, and
+that she really would not like to suffer through another stroke. 
+I explained that there was some risk with falls of intracranial
+hemorrhage and its consequences.  I spoke with Dr. Dewitt last
+month about her Coumadin, and we both feel that it seems to be
+working well in terms of stroke prevention, but that she is at
+increased risk for falls.  It seems to me that she is in a gray
+area with no clear right answer in terms of risk benefit analysis
+for Coumadin for her.  She feels very strongly that she wishes to
+continue.  This was discussed in detail with her and her
+daughter, and this probably is a reasonable decision.  I
+encouraged her to restart physical therapy to work on her
+strength and hopefully diminish her risk of a subsequent fall. 
+More than half of today's 45-minute visit spent in patient
+counseling and education.
+
+
+
+
+
+______________________________
+Julia Yale, M.D.
+
+
+Dictated By: Julia Yale
+
+
+eScription document:3-5285833 EMSSten Tel
+
+
+
+DD: 11/30/97
+DT: 11/30/97
+DV: 11/30/97
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="501" end="515" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="501" end="515" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="501" end="515" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="501" end="515" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="501" end="515" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="501" end="515" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC23" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="501" end="515" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="501" end="515" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="501" end="515" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1587" end="1597" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1861" end="1871" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1587" end="1597" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="1861" end="1871" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="1587" end="1597" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M5" start="1803" end="1815" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1803" end="1815" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1803" end="1815" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M8" start="1944" end="1951" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1944" end="1951" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1944" end="1951" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M11" start="1747" end="1756" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1747" end="1756" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1747" end="1756" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M14" start="1747" end="1756" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1747" end="1756" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1747" end="1756" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M17" start="1944" end="1951" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1944" end="1951" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1944" end="1951" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M20" start="1587" end="1597" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M21" start="1861" end="1871" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="1587" end="1597" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="1861" end="1871" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M24" start="1587" end="1597" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M25" start="1587" end="1597" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="1861" end="1871" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M27" start="1587" end="1597" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M28" start="1861" end="1871" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M29" start="1587" end="1597" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="2942" end="2950" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="2938" end="2950" text="add atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M32" start="1803" end="1815" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M33" start="1803" end="1815" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1803" end="1815" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M35" start="1803" end="1815" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1803" end="1815" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="1803" end="1815" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M38" start="1747" end="1756" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M39" start="1747" end="1756" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M40" start="1747" end="1756" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M41" start="1944" end="1951" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M42" start="1944" end="1951" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M43" start="1944" end="1951" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="298" end="310" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="487" end="499" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1366" end="1378" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="3227" end="3239" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="298" end="310" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="487" end="499" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H6" start="2149" end="2158" text="BP 208/66" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="2149" end="2158" text="BP 208/66" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="2149" end="2158" text="BP 208/66" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="298" end="310" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="487" end="499" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1366" end="1378" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="3227" end="3239" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="298" end="310" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="487" end="499" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC22" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H15" start="1495" end="1558" text="blood pressure at home since then has been 180 and 210 systolic" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H16" start="1366" end="1388" text="hypertension up to 250" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H17" start="1495" end="1559" text="blood pressure at home since then has been 180 and 210 systolic " time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H18" start="1385" end="1388" text="250" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC24" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H19" start="298" end="310" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H20" start="487" end="499" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H21" start="1366" end="1378" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H22" start="3227" end="3239" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H23" start="298" end="310" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H24" start="487" end="499" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="1986" end="1992" text="SOCIAL" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="459" end="467" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="459" end="467" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="459" end="467" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="459" end="467" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="459" end="467" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="459" end="467" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC25" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="459" end="467" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="459" end="467" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="459" end="467" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

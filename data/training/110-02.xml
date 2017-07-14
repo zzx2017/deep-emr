@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2075-01-07
+
+
+
+
+
+NAME:    Villegas, Yosef  
+
+MRN:      8249813
+
+
+
+S:   Here for follow up of his colonic polyps.  He wants to know the results from
+
+     them.  He is not taking hydrochlorothiazide and is curious about his blood
+
+     pressure.  He said he has cut his alcohol back to 6 pack once a week.  He
+
+     has cut back his cigarettes to one time per week.  He does say he has had
+
+     some problems with his memory recently, although no other manifestations
+
+     of dementia and no difficulty with ADLs.  He says he uses Viagra
+
+     occasionally and it works for him.
+
+
+
+O:   Well-appearing male. Blood pressure 142/74.  Chest clear.  COR: No
+
+     murmur.
+
+
+
+A:   (1)  Alcohol excess discussed.  I told him to cut it out entirely.
+
+     (2)  Cigarette smoking.  Discussed.
+
+     (3)  Hypertension. Under good control.
+
+     (4)  Elevated lipids.  Will check FLP.
+
+     (5)  Worried about dementia. Will check B12, TSH, RPR for now.
+
+     (6)  Status-post knee replacement.  Gets occasional Vicodin from his
+
+          orthopedist.  Says he wanted 8 Percocet for the next month or two
+
+          that he will take on rare occasions when his pain is more severe, and I
+
+          did give him 8 Percocet.
+
+
+
+P:   Follow up with Dr. Hobbs in 3 months.
+
+
+
+  
+
+Gilbert P. Perez, M.D.
+
+
+
+GPP/church/olinger
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC0" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="812" end="824" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="812" end="824" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="812" end="824" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="639" end="646" text="142/74." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="639" end="645" text="142/74" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="639" end="646" text="142/74." time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="812" end="824" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="812" end="824" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="812" end="824" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="812" end="824" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="812" end="824" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="812" end="824" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="current">
+      <SMOKER id="S0" start="334" end="378" text="cut back his cigarettes to one time per week" status="current" comment=""/>
+      <SMOKER id="S1" start="333" end="357" text=" cut back his cigarettes" status="current" comment=""/>
+      <SMOKER id="S2" start="347" end="378" text="cigarettes to one time per week" status="current" comment=""/>
+      <SMOKER id="S3" start="770" end="787" text="Cigarette smoking" status="current" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

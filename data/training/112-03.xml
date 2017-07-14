@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2060-05-21
+
+
+
+
+
+
+
+HESS, CLARENCE
+
+64365595
+
+05/21/2060
+
+
+
+
+
+Robert Y. Gordon, M.D.
+
+WMNH Internal Medicine Olney
+
+494 Fairhaven Road
+
+Olney, OH  23751
+
+
+
+Dear Dr. Gordon:
+
+
+
+I had the pleasure of seeing Mr. Hess in followup in Cardiology today.  As you know, he is a 54-year-old gentleman who underwent implantation of a permanent pacemaker on 02/11/2060 for his presyncope and pauses on Holter monitoring.
+
+
+
+His past medical history is significant for hyperlipidemia, gastroesophageal reflux disease, and asthma.  Prior to his pacemaker placement, an exercise stress test was performed because of a history of exertional chest pain.  He was able to exercise for 8 minutes and 4 seconds.  The test was terminated for 7/10 substernal chest pain, but no hypotension or overt ECG changes were noted.  We proceeded to pacemaker implant and Mr. Hess has done well since that time.  He remarks that his intermittent symptoms of lightheadedness have resolved.  However, he occasionally still has nocturnal palpitations as well as occasional exertional chest discomfort.  He tells me that he underwent testing at Wheatland Memorial consisting of a stress test with MIBI imaging that perhaps showed an abnormality, though the report of this test is not available to me today for review.
+
+
+
+Interrogation today of his Medtronic Kappa CTE 226 pacemaker reveals that his underlying rhythm is sinus tachycardia with intact AV conduction.  The estimated longevity on the battery life is 95 months.  The atrial impedance is 544 ohms and the ventricular impedance is 519 ohms.  The P-wave in the atrium is 5.6 mV and the R-wave in the ventricle is 31 mV.  The threshold in the atrium is stable at 0.5 V at 0.4 msec, and the threshold in the ventricle is also stable at 0.5 V at 0.4 msec.
+
+
+
+In summary, the pacemaker appears to be working quite well.  However, Mr. Hess persists in a perplexing sinus tachycardia that has been present since his last pacemaker interrogation.  I have therefore ordered an echocardiogram to rule out any ill effects of the sinus tachycardia or any structural heart disease that may be causing the sinus tachycardia.  In addition, I have performed a 12-lead ECG, which appears to show sinus mechanism rather than an atrial tachycardia.  Today in the office, his sinus rate is 109 beats per minute with stable blood pressure.  Mr. Hess and I have checked thyroid studies in the recent past and those have been unremarkable.  
+
+
+
+I have discussed this case with Dr. Quatrell Swanson who has agreed to assist in Cardiology care for Mr. Hess in the near future, since Dr. Law is moving his practice to the NCHC.  I plan to see Mr. Hess in followup in three months' time for his pacemaker.  If any issues arise in the interim, please do not hesitate to contact me.
+
+
+
+Sincerely,
+
+
+
+
+
+______________________________
+
+Una Trujillo, MD
+
+
+
+
+
+
+
+
+
+
+
+eScription document:4-3989721 UFFocus transcriptionists
+
+
+
+
+
+
+
+DD: 06/02/60
+
+DT: 06/02/60
+
+DV: 05/21/60
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC0" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="470" end="484" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="470" end="484" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="470" end="485" text="hyperlipidemia," time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC1" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="470" end="484" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="470" end="484" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="470" end="485" text="hyperlipidemia," time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC2" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="470" end="484" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="470" end="484" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="470" end="485" text="hyperlipidemia," time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC5" time="before DCT" indicator="test">
+      <CAD id="C0" start="1157" end="1221" text="stress test with MIBI imaging that perhaps showed an abnormality" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C1" start="719" end="760" text="terminated for 7/10 substernal chest pain" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

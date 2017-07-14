@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-06-20
+
+Prents for followup of medical problems:
+
+
+
+Coronary artery disease :  stable disease, medical management. Deneis chest pain. Walking at least 3 miles a day without difficulty.
+
+
+
+Hyperlipidemia : on lipitor and working on wt loss/diet/exercise to bring down TGs.
+
+
+
+Borderline diabetes mellitus :  last Hba1c HbA1c 6.4.  No hypoglycemic episdoes
+
+
+
+Impotence :  Viagra prn asking for sample pack today
+
+
+
+Claudication : symptoms of le pain on ambulation, minimally symptomatic. Tells me today that sxs resolved
+
+
+
+Pancreatitis :  + FH pancreatic ca. chronic, noted on CT abd for eval of kidney stones - no stones noted. Presented with R flank pain - sxs resolved with toradol, inc fluids. Amylase 117/lipase 4.7. Since our last visit, he saw GI - going for scope to eval pancreas and do biopsies?
+
+
+
+NO other complaints. Thinks he mgiht have passed a small kidney stone a few weeks ago. Now no urinary sxs.  NO fevers.
+
+ROS o/w negaitve.
+
+
+
+Medications
+
+Metoprolol TARTRATE 50MG TABLET take 1 Tablet(s) PO BID , ?dose 37.5?
+
+Asa (ACETYLSALICYLIC ACID) 325MG TABLET take 1 Tablet(s) PO QD , Take as directed 
+
+Folic ACID 1MG TABLET take 1 Tablet(s) PO QD 
+
+Viagra (SILDENAFIL) 100MG TABLET take 1 Tablet(s) PO x1 PRN prn , do not combine with nitroglycerin
+
+Protonix (PANTOPRAZOLE) 40MG TABLET EC take 1 Tablet(s) PO QD 
+
+Lipitor (ATORVASTATIN) 20MG TABLET take 1 Tablet(s) PO QD , Take as directed 
+
+Toradol (KETOROLAC TROMETHAMINE) 10MG TABLET take 1 Tablet(s) PO Q8H PRN prn pain , TAke with food
+
+Lopid (GEMFIBROZIL) 600MG TABLET take 1 Tablet(s) PO BID 
+
+
+
+Allergies
+
+Penicillins - Angiodema, Hives, 
+
+Erythromycins - Hives, 
+
+Iv Contrast - convulsions, Hypotension 
+
+
+
+Vital signs
+
+BP 132/70, Wt 179 lb 
+
+
+
+Gen NAD. A&Ox4
+
+Affect nl
+
+NEck supple
+
+Lungs CTAb
+
+Cardiac RRR.
+
+Abd soft, nt, nd, nl bs. No hsm noted
+
+Ext no edema
+
+
+
+A/P:
+
+
+
+Coronary artery disease : stable, asympt, no changes
+
+
+
+Hyperlipidemia : controleld on lipitor, cont efforts with diet/exercise
+
+
+
+Borderline diabetes mellitus : controlled with diet/exercise - continue
+
+
+
+Impotence :Viagra prn -  gave sample pack and directions today
+
+
+
+Pancreatitis : plan for scope to eval pancreas with GI noted
+
+
+
+? Kidney stone : counseled inc po fluids to dec risk of recurrent stones.
+
+
+
+f/u 3 mos
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="208" end="222" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="208" end="223" text="Hyperlipidemia " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="208" end="222" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC4" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="208" end="222" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="208" end="223" text="Hyperlipidemia " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="208" end="222" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC11" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="208" end="222" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="208" end="223" text="Hyperlipidemia " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="208" end="222" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="228" end="235" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1350" end="1357" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1350" end="1357" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="228" end="235" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="1054" end="1057" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1054" end="1057" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1054" end="1057" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M7" start="1054" end="1057" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1054" end="1057" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1054" end="1057" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="fibrate" type2="">
+      <MEDICATION id="M10" start="1529" end="1534" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M11" start="1529" end="1534" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M12" start="1529" end="1534" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M13" start="983" end="993" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="983" end="993" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="983" end="1002" text="Metoprolol TARTRATE" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M16" start="228" end="235" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1350" end="1357" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1350" end="1357" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="228" end="235" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M20" start="228" end="235" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1350" end="1357" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1350" end="1357" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="228" end="235" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M24" start="1054" end="1057" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1054" end="1057" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1054" end="1057" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="fibrate" type2="">
+      <MEDICATION id="M27" start="1529" end="1534" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M28" start="1529" end="1534" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M29" start="1529" end="1534" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="fibrate" type2="">
+      <MEDICATION id="M30" start="1529" end="1534" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M31" start="1529" end="1534" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M32" start="1529" end="1534" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="983" end="993" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="983" end="993" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="983" end="1002" text="Metoprolol TARTRATE" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M36" start="983" end="993" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="983" end="993" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="983" end="1002" text="Metoprolol TARTRATE" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC12" time="during DCT" indicator="mention">
+      <CAD id="C0" start="72" end="95" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="72" end="96" text="Coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="72" end="95" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="after DCT" indicator="mention">
+      <CAD id="C3" start="72" end="95" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="72" end="96" text="Coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="72" end="95" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC19" time="before DCT" indicator="mention">
+      <CAD id="C6" start="72" end="95" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="72" end="96" text="Coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="72" end="95" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

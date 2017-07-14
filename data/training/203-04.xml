@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2092-06-10
+
+
+
+                          OFFICE NOTE
+George, Rickey
+MRN: 1131414
+06/10/92
+
+REASON FOR VISIT:  Scheduled follow up of multiple medical problems.
+
+PROBLEMS:
+1.   Status post removal of infected AICD and pacer.  Admitted to Massillon Community 12/91 with infection of his AICD and permanent pacer.  He was managed by multiple
+services including EP, Cardiology, and ID.  His OR cultures grew candida and he was treated
+with a prolonged course of fluconazole.  Although he had runs of NSVT, he was managed
+effectively with carvedilol.  Notably his digoxin was stopped because of bradycardia during the
+hospitalization. He never had any sustained VT or VF.  He was subsequently discharged home
+with a Life vest defibrillator.
+
+He has done well with no recurrent evidence of infection.  He currently has no AICD or
+pacemaker but saw Dr. Cook yesterday and apparently he is being evaluated for new hardware
+for his arrhythmia issues.  He has a history of both VF arrest and sick sinus syndrome.  Currently
+his heart rate is slightly irregular but a reasonable rate and he will continue on his current
+regimen as prescribed by Dr. Cook with close follow up.  
+
+2.   CHF.  Immediately after his discharge from CCGH after his hospitalization, he went
+directly to West Virginia where his wife was able to care for him. He had one episode of CHF, which
+was managed as an outpatient, and he is now on slightly doses of Lasix than previously.  At the
+present time, he has no active symptoms of CHF, he continues to sleep on two large pillows at
+night without symptoms of orthopnea and has minimal to no peripheral edema.  He does
+continue on an ACE inhibitor and potassium along with his Lasix. 
+
+3.   Coronary artery disease.  Despite all of his active issues, he has no current symptoms of
+angina and has tolerated his multiple recent procedures well.
+
+4.   Status post infected (staph) left knee arthroplasty.  His left TKR also required removal
+due to infection and he had replacement of new hardware by Dr. Judd 10/91.  He has had no
+recurrent infection, but his rehabilitation has been more limited because of his other medical
+issues.  He does report that he was swimming in the pool and doing things on his own while
+down in West Virginia, but we will make a formal rehab referral now that he is back in the Mexico area.
+
+5.   Diabetes mellitus.  Throughout his numerous medical problems over the past six to
+twelve months, he has had a significant weight loss and not surprisingly, his diabetes regimen
+has been gradually decreased.  He is now on Glyburide 5 mg b.i.d. and he reports that his fasting
+sugars which he is checking about three times a week are running quite good in the 100 to 120
+range.  He has no complaints of hypoglycemia or blood sugars greater than 200.  We will check
+his HbA1c today and continue his current regimen.
+George, Rickey
+MRN: 1131414
+06/10/92
+Page 2
+
+6.   Hyperlipidemia.  He continues on Lipitor.  We'll recheck his fasting lipids, LFTs and
+CPK.
+
+7.   Diabetic nephropathy.  He remains on ACE inhibitor and will check renal function today
+to re-establish baseline.
+
+8.   Status post CVA.  Known moderate right carotid stenosis.  Minimal residual dysarthria
+and right-sided weakness. Has had no recent neurologic symptoms and remains on Coumadin.
+
+PHYSICAL EXAM:  Blood pressure by palpation 130.  Was unable to get sufficient blood
+pressure by cuff.  Pulse 60, mostly irregular. General, thin, but no distress.  Lungs, clear to
+auscultation and percussion.  Cor, distant heart sounds.  No S3 appreciated. Old pacer/AICD site. 
+No evidence of erythema or fluctuance.  Extremities, trace edema bilaterally.
+
+DISPOSITION:  Close ongoing follow up.
+
+ADDENDUM:  In reviewing patient's medical records after he left today, I found mention of
+both hematuria and guaiac positive stool during his recent hospitalizations.  At this time, he was
+quite debilitated and I do not think it would be a good time for colonoscopy.  He did deny
+abdominal symptoms as part of my review of systems today.  
+
+At this point, my plan will be to send him some stool guaiac cards which he can do at home and
+send in to me by mail.  I have also sent off a CBC today.  I will plan to repeat urinalysis at his
+next visit.  If he has persistent hematuria or guaiac positive stool, then we will need to discuss
+more aggressive work-up, but given his overall health condition, I do not feel the need to be
+aggressive at this time and would like to see him get some strength back first. 
+
+
+
+____________________________________
+Opal C. Fierro, M.D.
+Dictated/Not read
+kurtz
+
+cc:
+Keith Cook, M.D.
+Massillon Community Hospital
+22 Monterey Avenue, Cardiology Service
+Mexico, CT 33383-9795
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="2914" end="2928" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="2914" end="2928" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="2914" end="2928" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC12" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="2914" end="2928" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="2914" end="2928" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="2914" end="2928" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="2914" end="2928" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="2914" end="2928" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="2914" end="2928" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="2947" end="2954" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2947" end="2954" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2947" end="2954" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="549" end="559" text="carvedilol" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="549" end="559" text="carvedilol" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M5" start="2572" end="2581" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M6" start="2572" end="2581" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M7" start="2572" end="2581" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M8" start="549" end="559" text="carvedilol" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="549" end="559" text="carvedilol" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M10" start="2572" end="2581" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="2572" end="2581" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M12" start="2572" end="2581" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M13" start="2947" end="2954" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="2947" end="2954" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M15" start="2947" end="2954" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M16" start="2947" end="2954" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="2947" end="2954" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M18" start="2947" end="2954" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M19" start="2572" end="2581" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="2572" end="2581" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M21" start="2572" end="2581" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M22" start="549" end="559" text="carvedilol" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="549" end="559" text="carvedilol" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC11" time="after DCT" indicator="mention">
+      <CAD id="C0" start="1718" end="1741" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1718" end="1741" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1718" end="1742" text="Coronary artery disease." time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC13" time="during DCT" indicator="mention">
+      <CAD id="C3" start="1718" end="1741" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="1718" end="1741" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1718" end="1742" text="Coronary artery disease." time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC14" time="before DCT" indicator="mention">
+      <CAD id="C6" start="1718" end="1741" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="1718" end="1741" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="1718" end="1742" text="Coronary artery disease." time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC18" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="2351" end="2368" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="2511" end="2519" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2351" end="2368" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="2351" end="2359" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="2351" end="2368" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2511" end="2519" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="2351" end="2368" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2351" end="2359" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC19" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="2351" end="2368" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="2511" end="2519" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="2351" end="2368" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="2351" end="2359" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

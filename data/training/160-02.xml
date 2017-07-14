@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2064-04-20
+
+                             OFFICE NOTE
+ 
+Uher, Olga
+258-16-49-2
+04/20/64
+ 
+She returns to clinic for follow up. Unfortunately she missed her
+entire appointment and did not bring her blood glucose log with
+her. She reports that at 4 a.m. last Thursday she woke up and felt
+disoriented with sweats. She checked her blood glucose, it was 50,
+and she treated herself by eating. This led to resolution of her
+symptoms, although she said that she overshoots. She has developed
+a foot infection, has been seen by a podiatrist and started on
+antibiotics. She has also been taking a thyroid hormone but she
+still feels that it is making her tired. She just in general has
+not been feeling as well as she had been previously.
+ 
+Past Medical History:
+ 
+1.   IDDM.
+ 
+Medications: See previous notes.
+ 
+Allergies:  Same.
+ 
+Physical Examination:  Not performed. The patient had a  special
+orthopedic shoe on, her foot was wrapped.
+ 
+Impression:  Patient with IDDM with usual blood glucoses in the
+200's and an elevated A1C. Discussed the need for consistent meals
+and exercise and need for more control. Will increase day time
+insulin to 17 units of Lente and evening will stay at 10. She will
+follow up in one month. Will check a TSH today.
+ 
+ 
+ 
+Phyllis Jacobson, M.D.
+ 
+/lott
+ 
+DD: 04/20/64
+DT: 04/22/64
+DV: 04/20/64
+ 
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="1143" end="1150" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1165" end="1172" text=" Lente " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1143" end="1150" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1166" end="1171" text="Lente" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M4" start="1143" end="1150" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1165" end="1172" text=" Lente " time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1143" end="1150" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1166" end="1171" text="Lente" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M8" start="1143" end="1150" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1165" end="1172" text=" Lente " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1143" end="1150" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1166" end="1171" text="Lente" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="777" end="781" text="IDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="779" end="781" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="776" end="782" text=" IDDM." time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="777" end="781" text="IDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="779" end="781" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="776" end="782" text=" IDDM." time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="777" end="781" text="IDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="779" end="781" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="776" end="782" text=" IDDM." time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

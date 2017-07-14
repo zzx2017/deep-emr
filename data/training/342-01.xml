@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-01-13
+
+EDVISIT^32612454^Barr, Nicky^01/13/93^IP, CARRIE
+
+I saw this patient in conjunction with Dr. Xue.  I confirm
+
+that I have interviewed and examined the patient, reviewed the
+
+resident's documentation on the patient's chart, and discussed
+
+the evaluation, plan of care, and disposition with the patient.
+
+CHIEF COMPLAINT:  A 57-year-old with back pain.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a young woman with a
+
+complicated past medical history, presents with a chronic history
+
+of low back pain, worse over the last week.  She states that 3
+
+years ago, she had a motor vehicle accident.  Since that time,
+
+has had chronic low back pain.  She has been able to ambulate at
+
+home.  Denies any fevers, rashes, history of urinary
+
+incontinence, weakness, or numbness.  She went to EDUCARE-FARGO earlier
+
+this week and was prescribed Percocet, comes here now because the
+
+patient's family and the patient would like to change her care to
+
+Lansing Dover Clinic.  Denies any numbness or weakness. 
+
+States that she is no longer taking her pills at home.  Denies
+
+any suicidal or homicidal ideation, has a flat affect.  Denies
+
+any depression.  Her son, however, with whom she lives disagrees
+
+and is very concerned that she may be depressed.  He is also very
+
+concerned that she is not taking her medicines and that she is
+
+not caring for herself well at home.
+
+PAST MEDICAL HISTORY:  Remarkable for hypertension, diabetes, and
+
+a prior stroke.
+
+PAST SURGICAL HISTORY:  She has also had knee surgery.
+
+SOCIAL HISTORY, FAMILY HISTORY, AND REVIEW OF SYSTEMS:  As per
+
+the written note.  The patient was counseled regarding smoking
+
+cessation.
+
+MEDICATIONS:  Hydrochlorothiazide and Coumadin.
+
+ALLERGIES:  None.
+
+PHYSICAL EXAMINATION:  The patient is awake and alert in no acute
+
+distress.  Vital signs are within normal limits as documented. 
+
+For full physical exam findings, please see the resident's
+
+written note.  Specifically, HEENT, neck, respiratory, cardiac,
+
+rectal, and abdominal exam are within normal limits as
+
+documented.  Skin exam is remarkable for erythematous changes in
+
+the groin where the patient has significant skin fold due to
+
+obesity.  Musculoskeletal exam is otherwise unremarkable.  Range
+
+of motion is full.  Strength and tone is normal.  The patient
+
+does have a positive straight leg raise on the left, reproducing
+
+her back pain.  Neurologically, the patient has a flat affect but
+
+is oriented with intact cranial nerves and no focal neurologic
+
+deficit in either motor or sensory distribution.  She does,
+
+however, walk with a limp, which is chronic for her.
+
+LABORATORY DATA:  White blood count is slightly elevated at 11.3.
+
+ BUN and creatinine is also significantly elevated at 26 and 1.1,
+
+respectively.  Potassium is also quite low at 2.9.  Urinalysis is
+
+positive with 35-40 white blood cells, 15-20 red blood cells, and
+
+2+ bacteria.
+
+EMERGENCY DEPARTMENT COURSE:  My chief concern for this patient
+
+is her inability to care for self at home.  It is apparent that
+
+her son is interested in helping her and do so, but the patient
+
+on physical exam has some obvious lack of hygiene and I am
+
+concerned that potentially the patient has either an underlying
+
+neurologic or psychiatric issue that is preventing her from
+
+thriving at home.  Psychiatry initially was consulted.  Their
+
+impression was that the patient may have neuro behavior problem
+
+that needs further outpatient workup, and she was referred to a
+
+specific providers within the next 2 weeks.  The patient was
+
+treated with potassium chloride for her hypokalemia.  Care
+
+coordinator and social services were consulted.  The patient will
+
+have a home safety evaluation and will be referred for primary
+
+care services, was discharged with a cane for ambulation, and
+
+will likely also receive VNA Services to help her with medication
+
+compliance and other ADLs.
+
+ ******** Not reviewed by Attending Physician ********
+
+DIAGNOSES:
+
+1.  Chronic low back pain.
+
+2.  Hypokalemia.
+
+3.  Urinary tract infection.
+
+4.  Failure to thrive.
+
+DISPOSITION:  Discharged.
+
+CONDITION ON DISCHARGE:  Satisfactory.
+
+______________________________
+
+IP, CARRIE MD
+
+D: 01/13/93
+
+T: 01/13/93
+
+Dictated By: IP, CARRIE
+
+eScription document:1-1843613 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M0" start="1683" end="1702" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M1" start="1682" end="1703" text=" Hydrochlorothiazide " time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M2" start="1683" end="1702" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M3" start="1683" end="1702" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M4" start="1682" end="1703" text=" Hydrochlorothiazide " time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M5" start="1683" end="1702" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M6" start="1682" end="1703" text=" Hydrochlorothiazide " time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1427" end="1439" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1427" end="1439" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1427" end="1439" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1427" end="1439" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1427" end="1439" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1427" end="1439" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1427" end="1439" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1427" end="1439" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1427" end="1439" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="current">
+      <SMOKER id="S0" start="1616" end="1666" text="patient was counseled regarding smoking  cessation" status="current" comment=""/>
+      <SMOKER id="S1" start="1648" end="1667" text="smoking  cessation." status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1441" end="1449" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1441" end="1449" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1441" end="1449" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="1441" end="1449" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1441" end="1449" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1441" end="1449" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="1441" end="1449" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1441" end="1449" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1441" end="1449" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

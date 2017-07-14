@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-05-10
+
+
+LUH Cardiovascular Division
+CVD ER8
+92 Batchelder Street                                      VANCE, JENNIFER
+Minerva, TN 41694                                           54266003
+(727) 859-7945                                           05/10/73
+
+Wanda A. Koontz, M.D.
+Internal Medicine Associates
+Barton Memorial Hospital
+70 Batchelder Street
+Minerva, TN  41694
+
+
+Dear Wanda:
+
+Mr. Vance returns for followup.  Since last seen, she apparently was recently seen in the walk-in clinic in your office complaining of profound fatigue and depression.  She wonders if she was having a flare of her porphyria.  Apparently, her examination at that time was relatively benign, and no specific new findings were noted.  After talking with Dr. Vogt at that office visit, she felt modestly improved, and over the past few weeks feels that her energy level has returned to its baseline.  Lab studies obtained at that time revealed creatinine 0.9, glucose elevated at 236, hematocrit of 43, with a white count 10.  As no specific pathology was noted, she was sent home without any change in her medical regimen.
+
+Currently, she continues on Lantus insulin 20 units subcutaneous. q.p.m., Celexa 40 mg p.o. q.d., enteric-coated aspirin 81 mg p.o. q.d., Flonase 1-2 puffs p.o. q.d., isosorbide mononitrate 60 mg p.o. q.d., Neurontin 600 mg p.o. t.i.d., nitroglycerin p.r.n. which she has not had to take, lisinopril 10 mg p.o. q.d., furosemide 20 mg p.o. q.d., and p.r.n. Motrin.
+
+Physical exam reveals a thin woman in no acute distress.  Blood pressure right arm sitting 105/78, heart rate 70 and regular, respirations 14 and unlabored, and weight is pending.  The neck is supple.  JVP is flat.  Carotids are 2+ with very soft bilateral referred murmurs.  Chest is clear.  Cardiac exam shows normal S1, physiologically split S2 with 1/6 systolic ejection murmur radiating from the apex to the base, and a 1-2/6 holosystolic murmur radiating from the apex to the axilla.  No significant diastolic murmur or rub.  The abdomen is benign.  Extremities reveal trace bipedal edema.  Peripheral pulses are diminished but detectable.
+
+Electrocardiogram is pending.
+
+Impression:  Ms. Vance remains relatively stable from a cardiovascular perspective.  However, as you know, her last echocardiogram did show evidence of at least moderate mitral regurgitation with significantly reduced left ventricular systolic function.  She has made it quite clear that under no circumstances would she consider repeat cardiac surgery to treat her valvular heart disease.  Nonetheless, I think it would be helpful for her to undergo repeat echocardiogram to help gauge the current status of her left ventricle and degree of regurgitation, which may allow for additional modifications to her therapeutic regimen.  Beyond this, her condition is actually relatively stable from a cardiovascular standpoint.  I have not further altered her medical regimen.
+
+Thank you very much for allowing me to assist in her care.
+
+Sincerely yours,
+
+
+
+
+
+______________________________
+Timothy Quarterman, M.D.
+
+
+Dictated By: Timothy Quarterman
+
+
+eScription document:6-0437424 GFFocus
+
+
+CC: John Koontz MD
+489 MONICA STREET
+MINERVA, TN 41694
+
+DD: 05/10/73
+DT: 05/11/73
+DV: 05/10/73
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1416" end="1426" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1416" end="1426" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1416" end="1426" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="1162" end="1169" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1155" end="1169" text="Lantus insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1155" end="1161" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="1162" end="1169" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1155" end="1169" text="Lantus insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1155" end="1161" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M9" start="1294" end="1316" text="isosorbide mononitrate" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M10" start="1294" end="1316" text="isosorbide mononitrate" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M11" start="1364" end="1377" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M12" start="1293" end="1317" text=" isosorbide mononitrate " time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="1364" end="1377" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M14" start="1240" end="1247" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1240" end="1247" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1240" end="1247" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M17" start="1416" end="1426" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="1416" end="1426" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="1416" end="1426" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M20" start="1416" end="1426" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M21" start="1416" end="1426" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="1416" end="1426" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M23" start="1240" end="1247" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1240" end="1247" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1240" end="1247" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M26" start="1162" end="1169" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1155" end="1169" text="Lantus insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1155" end="1161" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M29" start="1294" end="1316" text="isosorbide mononitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M30" start="1294" end="1316" text="isosorbide mononitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M31" start="1364" end="1377" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M32" start="1293" end="1317" text=" isosorbide mononitrate " time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M33" start="1364" end="1377" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M34" start="1294" end="1316" text="isosorbide mononitrate" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M35" start="1294" end="1316" text="isosorbide mononitrate" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M36" start="1364" end="1377" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M37" start="1293" end="1317" text=" isosorbide mononitrate " time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M38" start="1364" end="1377" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M39" start="1240" end="1247" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M40" start="1240" end="1247" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M41" start="1240" end="1247" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

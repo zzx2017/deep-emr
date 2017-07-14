@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2118-01-08
+
+
+
+
+
+Garner Medical Clinic Internal Medicine 
+Attending: Dr Mariusz Soto, MD
+Senior:  Gregory Xing, MD 
+Intern: Frances Justus, MD
+Medical Students: Robert Joshi, Sylvia Cordova.
+
+
+
+
+Patient Name: Usrey, Anthony
+MR#: 6444877
+Date: 01/08/2118
+--
+CC: scheduled for surgery on 1/13/18 
+
+
+HPI: 
+Patient is a 54 y.o. male with h/o aortic valve replacement, CHF, and HTN who presented to PNC as a transfer from Montebello Convalescent Hospital with a diagnosis of post-ERCP pancreatitis. The patient was admitted to Montebello Convalescent with a history of RUQ pain that began on July 3rd. He was found to have choledochal stones and underwent an ERCP with sphincterotomy on July 07. Subsequent to this he developed a bout of generalized abdominal pain two days later and he was noted to have a marked and new increase in his amylase and lipase levels (3191 and 2171, respectively), diagnosed as acute post ERCP pancreatitis and transferred to PNC for further management.
+Dr Gregory Xing explained to him via an interpreter and with images of his CT scan that he has gallstones and pancreatic pseudocysts that have persisted as compared to his last CT in July 2117.
+The procedure of open cholecystectomy with Roux en Y drainage of pancreatic psudocyst was explained to him and he was consented. 
+
+
+He will be an inpatient 3 days prior to surgery for transition from Coumadin to heparin / lovenox therapy.
+He is presently doing well, with no fevers or abd pain. He is eating well and has returned to his normal life.
+
+
+PMH: S/p mechanical aortic valve replacement, CHF, HTN, hyperlipidemia
+--
+PSH: CABG, AVR
+--
+Meds: Lisinopril 40 MG QD
+Coumadin 5 MG QHS
+Lipitor 40 mg QD.
+
+
+Allergies: NKDA
+--
+Physical Exam: 
+
+
+CV: RRR (+) S1/S2, 2+ radial pulses, audible mechanical valve click
+Pulm: CTAB
+Abdomen: Abdomen soft. He is completely nontender.
+Ext: No e/c/c.
+--
+Imaging:
+1. CXR: Bilateral pleural effusions, no free air under the diaphragm seen.
+2. CT scan from OSH of abdomen: reveals phlegmon in the lesser sac and gas in both the biliary tree as well as the portal vein.
+3. CT scan from 10/10/17 at PNC: Overall decrease in abdominal phlegmonous change, with interval development of a 13 x 5.4 x 4.8 cm well defined collection anterior to the pancreas.
+4. CT from 1/02/18: No significant change in hypodense lesions anterior    to the pancreatic body/tail and tail most consistent with pseudocysts.
+     Cholelithiasis.
+     Diverticulosis without diverticulitis.
+
+
+Assessment/Plan: 54 y.o. male with post-ERCP pancreatitis which is not responding to conservative management
+
+
+-Cardiology consult.
+-Anesthesia pre-op clearance
+-Home meds.
+-d/c Coumadin
+-Start heparin drip after stat labs (check PTT, INR)
+-Regular diet.
+
+
+
+
+Patient has been seen by Gregory Xing, senior resident SOPH Internal Medicine
+
+
+
+
+
+
+Frances Justus, MD
+PNC Surgery
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1596" end="1610" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1596" end="1610" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1596" end="1610" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC9" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1596" end="1610" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1596" end="1610" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1596" end="1610" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1596" end="1610" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1596" end="1610" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1596" end="1610" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1638" end="1648" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1638" end="1648" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1638" end="1649" text="Lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1676" end="1683" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1676" end="1683" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1676" end="1683" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="1676" end="1683" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1676" end="1683" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1676" end="1683" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1638" end="1648" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1638" end="1648" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1638" end="1649" text="Lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="1676" end="1683" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1676" end="1683" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1676" end="1683" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M15" start="1638" end="1648" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="1638" end="1648" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="1638" end="1649" text="Lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="388" end="391" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="388" end="391" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="388" end="392" text="HTN " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1591" end="1594" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="388" end="391" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="388" end="391" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="388" end="392" text="HTN " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1591" end="1594" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="388" end="391" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="388" end="391" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="388" end="392" text="HTN " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1591" end="1594" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC6" time="before DCT" indicator="event">
+      <CAD id="C0" start="1619" end="1623" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="1619" end="1623" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="1618" end="1624" text=" CABG," time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

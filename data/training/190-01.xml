@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2084-01-21
+
+ORLANDO REGIONAL                                Xavier, Fred
+                                              65856594
+                                              1-21-84 
+ 
+ 
+ 
+Mr. Xavier is a 71-year-old male coming in for the first time for 
+evaluation and follow up for health maintenance.  He comes in without 
+major complaints.  He is a gentleman from Eritrea who is now retired.  
+He is a very active person.  He is able to walk 2-3 kilometers without any 
+dyspnea on exertion, no chest pain, no shortness of breath.  He sleeps 
+well.  There is no nocturia.  There is no orthopnea or PND.  There is 
+currently no claudication.  He does say that he has a history of a left 
+femoral/popliteal bypass done in January of 2083, one month after 
+arriving from Eritrea.  This was due to chronic left lower extremity 
+claudication.  Since then he has had no symptoms of claudication on both 
+legs.  He does say that intermittently over the past 3-4 months he has had 
+right knee pain mostly after sitting down for a long time.  No 
+predominance of the AM right knee pain.  No erythema, no edema.  No 
+fevers.  He has no other joint involvement.  He tells me that he has been 
+told that he has low-grade diabetes that is being treated with diet, 
+although on his presentation to the hospital last year he was found not be 
+be diabetic.
+ 
+His past medical history, as mentioned:
+ 
+1.   Status post a left fempop.
+2.   Status post right cataract surgery.
+3.   History of diabetes.  Diet control in Eritrea.
+ 
+Medications:  only multivitamins.
+ 
+Smoking:  1 pack/day x 40 years.  He stopped one year ago and now smokes 
+intermittently 2-3 cigarettes/day.  He has never had an alcohol abuse 
+problem.  He is not a drug consumer.  
+ 
+Physical exam:  He has an appearance that is appropriate to his age.  He 
+is a very pleasant man in no acute distress.  His heart rate is 78.  His 
+blood pressure is 160/80.  Respiratory rate 16.  His eyes have bilateral 
+arcus, no clear-cut central cataract on the right, but on the left there 
+is some opacity.  No funduscopic examination was done.  HEENT is 
+unremarkable.  Neck exam is supple, nontender.  He has no bruits.  Normal 
+thyroid gland.  He has no JVD.  His cardiac exam is regular rate and 
+rhythm, no murmurs, no gallops, no rubs, normal S1 and S2.  His lung exam 
+is clear to auscultation bilaterally.  Abdominal exam is flat, supple, 
+nontender, no organomegaly, normal bowel sounds.  Extremities:  He has 
+very faint trace left ankle edema where he has status post fifth digit 
+amputation in the past in Eritrea.  There is no evidence of 
+hypoperfusion.  There is normal color and normal temperature to the skin.  
+There is crepitance upon passive motion of the right knee with no 
+erythema, no edema.  His vital extremities are normal.  His pulse is 1+ on 
+the right posterior tibialis and nonpalpable on the left.  His popliteals 
+on the right and the left are normal.  
+ 
+ORLANDO REGIONAL                                Xavier, Fred
+                                              65856594
+Page 2                                        1-21-84 
+ 
+ 
+Assessment and Plan: 
+ 
+1.   Mild systolic hypertension.  At this time I will observe and follow 
+     this blood pressure.  I will get a cholesterol level, a renal and a 
+     CBC.
+ 
+2.   History of diet-controlled diabetes.  I will obtain glycemia today.  
+     He is 8 hours fasting.  
+ 
+3.   Right knee pain.  This is likely due secondary to osteoarthritis.  I 
+     am recommending Tylenol for pain.  
+ 
+4.   Peripheral vascular disease.  I am recommending 1 aspirin q.d. for 
+     his PVD as well as lowering cardiac risk.  
+ 
+ 
+ 
+ 
+ 
+_________________________
+Yadiel Fisher, M.D. 
+ 
+TF:WM:8839
+DD:1-21-84 
+DT:1-22-84 
+DV:1-21-84 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="3573" end="3595" text="recommending 1 aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="3588" end="3595" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="3167" end="3179" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="3167" end="3179" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H2" start="1920" end="1926" text="160/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="1920" end="1926" text="160/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1902" end="1926" text="blood pressure is 160/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="3167" end="3179" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="3167" end="3179" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="3153" end="3180" text="Mild systolic hypertension." time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="3167" end="3179" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="3167" end="3179" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="3153" end="3179" text="Mild systolic hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="current">
+      <SMOKER id="S0" start="1568" end="1575" text="Smoking" status="current" comment=""/>
+      <SMOKER id="S1" start="1634" end="1676" text="smokes  intermittently 2-3 cigarettes/day." status="current" comment=""/>
+      <SMOKER id="S2" start="1630" end="1675" text="now smokes  intermittently 2-3 cigarettes/day" status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1494" end="1502" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1483" end="1502" text="History of diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1229" end="1237" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="3340" end="3348" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1494" end="1502" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="1494" end="1502" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="1483" end="1502" text="History of diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1229" end="1237" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="3340" end="3348" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D9" start="1494" end="1502" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="1483" end="1502" text="History of diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="1229" end="1237" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="3340" end="3348" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

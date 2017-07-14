@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2107-10-24
+
+TOOLE COUNTY HOSPITAL
+Cardiology
+871 Westerdale Drive                           Werner, Nancy
+West Liberty, AL 54854                       2-05-09
+ 
+ 
+ 
+Routine Visit
+ 
+Taking Diabeta 10 b.i.d. as well as other medications and has now added 
+Pravachol 40 mg. at bedtime.  She is tolerating the Pravachol well.  
+Blood sugars at home, morning and at bedtime, are in the 130-155 range.  
+No side effects of the medication.  No evidence of hypoglycemia.  No 
+polyuria, polydipsia.  Trying to walk on a treadmill inside the house 20 
+minutes at a time several times a week.  Trying to watch diet.
+ 
+Physical Exam:  Blood pressure:  150/86, 148/84.  Pulse 78.  PERRL.  
+Carotids 1+, no bruits.  No peripheral edema.
+ 
+Assessment:  Blood pressure adequately controlled.  Sounds like diabetes 
+is moderately well controlled.  Check hemoglobin A1 today.  She will 
+call me for these results in 10 days.  Adjust Diabeta if necessary.  
+Return here in three months.  
+ 
+ 
+ 
+ 
+ 
+_________________________
+Paul D. Quaglia, M.D.
+ 
+mzy:KX:7901
+DD:2-15-09
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="270" end="279" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="270" end="279" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="270" end="279" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="270" end="279" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="270" end="279" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="270" end="279" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="270" end="279" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="270" end="279" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="270" end="279" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M9" start="204" end="211" text="Diabeta" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="204" end="211" text="Diabeta" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="204" end="211" text="Diabeta" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="204" end="211" text="Diabeta" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="204" end="211" text="Diabeta" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="204" end="211" text="Diabeta" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M15" start="204" end="211" text="Diabeta" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="204" end="211" text="Diabeta" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="204" end="211" text="Diabeta" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="655" end="671" text=" 150/86, 148/84." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="654" end="662" text="  150/86" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="656" end="662" text="150/86" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="664" end="670" text="148/84" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="805" end="813" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="204" end="211" text="Diabeta" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="805" end="813" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="204" end="211" text="Diabeta" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="805" end="813" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="204" end="211" text="Diabeta" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

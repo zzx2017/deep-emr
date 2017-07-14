@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2064-07-26
+
+July 26, 2064
+
+
+
+
+
+Harry R. Lynn, M.D.
+
+Doraville County Health Center
+
+897 Cider Street
+
+Platteville, HI 79812 
+
+
+
+RE:  		Isabelle Y. Quick
+
+ATCH: 		655-75-45
+
+
+
+Dear Harry and Yair:
+
+
+
+My thanks for your kind referral of the above noted patient with respect to her disabling claudication and of course she is not in a very happy circumstance.  As you know, she is just 52 years of age.  Her cardiovascular risk factors include type 2 diabetes treated with metformin and Glyburide, hypertension, hyperlipidemia and she is a former cigarette smoker but she has not smoked in a year.  She spends a lot of time caring for her partially disabled husband.  She has known and impressive history of peripheral vascular disease.  She has undergone bilateral leg revascularizations.  On the left side initially an iliac stent was tried but in January of 2063 she had a left iliofemoral endarterectomy with angioplasty and in situ above knee left fem-pop bypass graft.  This reconstruction is functioning well, as evidenced by pulse examination and she certainly does not have any major symptoms in the left side.  In April of 2063 she had a right common femoral and external iliac endarterectomy with a right fem-pop bypass graft to the above-knee popliteal artery using transposed greater saphenous veins.  There had previously been a right iliac PTA and stent.  She states that the procedure in the right leg was only transiently of benefit.  By last spring, i.e. a year ago she again had rather limiting claudication.  She says this is now worse over the past several months and she quantifies this as severe calf pain after just a couple of blocks.  Importantly she does not have ischemic rest pain and she has never had tissue loss.  Recently resting ABIs were recorded at 0.46 on the right and 0.8 on the left.  Her continued complaints led to a repeat arteriogram last October documenting a superficial femoral artery occlusion (??? length thereof - she did not bring the films themselves) and a patent albeit small reconstituted above-knee popliteal artery with decent runoff.  Understandably Dr. Adcock was reluctant about recommending further revascularizations.  She has sought an opinion here in this regard.  She has no known coronary artery disease and her general system review is notable for a prior hospitalization in 2061 for severe pancreatitis requiring laparotomy.  On physical examination blood pressure was 140/80.  Pulse was 70 and regular.  Carotid upstroke was normal and there were no major carotid bruits.  She has femoral pulses on both sides and the left fem-pop bypass graft in situ is palpable, as is the left popliteal pulse.  There is no right popliteal nor right foot pulse.  She does have dependent rubor on that right side although there is no tissue breakdown.
+
+
+
+This is of course a very unhappy situation.  Further attempts at surgical revascularization in the setting of having both greater saphenous veins harvested and so forth is really not justified for claudication alone since the result can be anticipated to be not very good.  However I am not absolutely ruling this out.  I would suggest the following.  Her risk factor control is decent and she should certainly stay on the Lipitor, aspirin and Plavix.  Since her problem is claudication I would like Yair to institute Pletal at full dosages and give this at least a couple of months before we can say that she has had an adequate trial with question benefit.  She will get the actual arteriogram from the October study to me.  If it seems reasonable and the right superficial femoral artery block is not too long an attempt at percutaneous recanalization could be considered.  I will get back to you after review of the films themselves.  My thanks once again.  With every best wish.
+
+
+
+Sincerely,
+
+
+
+
+
+Daniel W. Iniguez, M.D.
+
+
+
+cc:	Yair K. Bennett, M.D., 208 Pheasant Lane, Platteville, HI 79812
+
+
+
+DWI/yim
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="525" end="539" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="525" end="539" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="525" end="539" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="525" end="539" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="525" end="539" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="525" end="539" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="525" end="539" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="525" end="539" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="525" end="539" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="3245" end="3252" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="3245" end="3252" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="3245" end="3252" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="3254" end="3261" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="3254" end="3261" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="3254" end="3261" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M6" start="3266" end="3272" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M7" start="3266" end="3272" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M8" start="3266" end="3272" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="486" end="495" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="486" end="495" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="486" end="495" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="486" end="495" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="486" end="495" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="486" end="495" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="3254" end="3261" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="3254" end="3261" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="3254" end="3261" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M18" start="500" end="509" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M19" start="500" end="509" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="500" end="509" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M21" start="500" end="509" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M22" start="500" end="509" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M23" start="500" end="509" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M24" start="3266" end="3272" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M25" start="3266" end="3272" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M26" start="3266" end="3272" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="3245" end="3252" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="3245" end="3252" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="3245" end="3252" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M30" start="3245" end="3252" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="3245" end="3252" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="3245" end="3252" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M33" start="486" end="495" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M34" start="486" end="495" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M35" start="486" end="495" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M36" start="3254" end="3261" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M37" start="3254" end="3261" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M38" start="3254" end="3261" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M39" start="500" end="509" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M40" start="500" end="509" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M41" start="500" end="509" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M42" start="3266" end="3272" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M43" start="3266" end="3272" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M44" start="3266" end="3272" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="511" end="523" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="511" end="523" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="511" end="523" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="511" end="523" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="511" end="523" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="511" end="523" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC23" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="511" end="523" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="511" end="523" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="511" end="523" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC24" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="past">
+      <SMOKER id="S0" start="553" end="576" text="former cigarette smoker" status="past" comment=""/>
+      <SMOKER id="S1" start="553" end="576" text="former cigarette smoker" status="past" comment=""/>
+      <SMOKER id="S2" start="589" end="609" text="not smoked in a year" status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="457" end="472" text="type 2 diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="457" end="472" text="type 2 diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="464" end="472" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="457" end="472" text="type 2 diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="457" end="472" text="type 2 diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="464" end="472" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC25" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="457" end="472" text="type 2 diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="457" end="472" text="type 2 diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="464" end="472" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

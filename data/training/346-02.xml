@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2086-01-17
+
+Xavier Oshea
+
+MGH #581 77 50
+
+
+
+1/17/86
+
+
+
+Referred for urologic consultation by :Veronica Frey, MD
+
+
+
+Reason for consultation:Voiding dysfunction
+
+
+
+Chief Complaint of:Problem urinatingHistory of Present Illness
+
+ Pt iss/p TURP in 2082 in NY. for BPH.  He was on Flomax but stopped because he felt it was not helping his nocturia 3-4x.  He says he had 2 prostate bx's in NY that were negative.  His PSA in past has been in range of 5.2-6.5.  He has sent some Urology notes from previous providers but these are not here today.No frequency, hesitancy or urgency or gross hematuria. 
+
+
+
+
+
+Past Medical History: 
+
+      Diabetes mellitus
+
+      Hypertension
+
+      Glaucoma
+
+      Visual impairment    : pt legally blind
+
+
+
+Past Surgical History:
+
+
+
+Medications:
+
+      DIPYRIDAMOLE   75MG,  2 Tablet(s)  PO TID
+
+      Enalapril Maleate    20MG,  1 Tablet(s)  PO QD
+
+      Metoprolol Tartrate    50MG,  1 Tablet(s)  PO BID
+
+      TRAZODONE   50MG,  1 Tablet(s)  PO QHS PRN insomnia
+
+      Insulin 70/30 Human    30 UNITS SC BID : 30U qAM, 30U qPM
+
+      Insulin Nph Human    30 UNITS SC BID BEFORE BREAKFAST AND BEFORE SUPPER
+
+
+
+
+
+Allergies: NKDA
+
+
+Family History
+
+mother died age 37 of ?PE; father died age 52 complication of EtOHism; otherwise non-contributory.
+
+
+
+Social History
+
+language: English
+
+living: w/ son and his wife; moved here from NY in 12/2084
+
+work: retired
+
+tobacco: 2 ppd x 24 yrs; quit age 39
+
+EtOH:  remote hx heavy use; quit age 39
+
+drug: none
+
+sexual: not active
+
+
+
+No family history of GU diseases or malignancies
+
+Married/Single
+
+Sexually Active
+
+Smoke
+
+Alcohol use
+
+
+
+Review of Systems:
+
+ROS: pt denies fever, chills, wt change; denies eye problems, visual change, hearing problems, sinus symptoms, throat soreness; denies chest pain, palpitations; denies sob, wheezing, cough; denies nausea, vomiting, diarrhea, constipation, abdominal pain, BRBPR; denies hesitancy, weak stream,denies cold or heat intolerance, tremor, hair loss; denies polyuria, polydipsia, polyphagia; denies rashes; All other systems reviewed and are unremarkable.
+
+Genitourinary Review of Systems
+
+No Kidney stones
+
+No Urinary tract infections
+
+No Strictures
+
+No Sexually transmitted diseases		
+
+
+
+Physical Examination:
+
+
+
+Vital Signs:
+
+Well nourished, well-developed
+
+Respirations: 14
+
+Pulse Regular
+
+
+
+Complete Genitourinary Examination: 
+
+Flank: Non tender to palpation or masses 
+
+Bladder: Non tender Non distended
+
+Scrotum: No lesions
+
+Intrascrotal: No hydrocele, varicocele or spermatocele
+
+Hernia: Non palpable
+
+Epididymus: No masses, cyst  
+
+Testes:Descended bilaterally No masses or tenderness
+
+Urethral Meatus: Normal size and location
+
+Penis: Foreskin without lesions
+
+Prostate: No Nodules, non tender or boggy  BPH 1+ Seminal Vesicles: Symmetric
+
+Sphincter Tone: Normal
+
+Hemorrhoids: Absent
+
+Rectal Masses: Absent
+
+
+
+Laboratory Values:
+
+X-Ray studies:N/A
+
+Post-void residual by bladder scan is  cc's
+
+An independent review of a urinalysis shows:
+
+                          No WBC's
+
+                          No RBC's
+
+                          No Glucose
+
+                          No Protein
+
+                          No Bilirubin
+
+                          Nitrite Negative
+
+:
+
+
+
+
+
+Impression: S/P TURP for BPH with persistent LUTS
+
+
+
+            
+
+Plan: Repeat PSA and Free%
+
+Recommended to restart Flomax 0.4mgqhs (Pt will think about this)
+
+
+
+
+
+Follow Up:  prn 
+
+
+
+
+
+Signed,
+
+
+
+
+
+Taj E. Landers, MD
+
+Urology- Martinsville General Hospital
+
+Norfolk University
+
+131-631-4189
+
+
+
+cc:Dr. Veronica Frey
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="844" end="891" text="Enalapril Maleate    20MG,  1 Tablet(s)  PO QD" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="845" end="854" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="845" end="855" text="Enalapril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="1014" end="1034" text="Insulin 70/30 Human" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1080" end="1097" text="Insulin Nph Human" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1015" end="1034" text="Insulin 70/30 Human" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1080" end="1097" text="Insulin Nph Human" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1015" end="1022" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M8" start="844" end="891" text="Enalapril Maleate    20MG,  1 Tablet(s)  PO QD" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="845" end="854" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="845" end="855" text="Enalapril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M11" start="899" end="949" text="Metoprolol Tartrate    50MG,  1 Tablet(s)  PO BID " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="899" end="909" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="899" end="909" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M14" start="844" end="891" text="Enalapril Maleate    20MG,  1 Tablet(s)  PO QD" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="845" end="854" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="845" end="855" text="Enalapril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M17" start="1014" end="1034" text="Insulin 70/30 Human" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1080" end="1097" text="Insulin Nph Human" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1015" end="1034" text="Insulin 70/30 Human" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1080" end="1097" text="Insulin Nph Human" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1015" end="1022" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M22" start="899" end="949" text="Metoprolol Tartrate    50MG,  1 Tablet(s)  PO BID " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="899" end="909" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="899" end="909" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M25" start="899" end="949" text="Metoprolol Tartrate    50MG,  1 Tablet(s)  PO BID " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="899" end="909" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="899" end="909" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M28" start="1014" end="1034" text="Insulin 70/30 Human" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1080" end="1097" text="Insulin Nph Human" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1015" end="1034" text="Insulin 70/30 Human" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1080" end="1097" text="Insulin Nph Human" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1015" end="1022" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="671" end="683" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="671" end="683" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="671" end="684" text="Hypertension " time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="671" end="683" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="671" end="683" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="671" end="684" text="Hypertension " time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="671" end="683" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="671" end="683" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="671" end="684" text="Hypertension " time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="past">
+      <SMOKER id="S0" start="1403" end="1439" text="tobacco: 2 ppd x 24 yrs; quit age 39" status="past" comment=""/>
+      <SMOKER id="S1" start="1403" end="1437" text="tobacco: 2 ppd x 24 yrs; quit age " status="past" comment=""/>
+      <SMOKER id="S2" start="1403" end="1433" text="tobacco: 2 ppd x 24 yrs; quit " status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="646" end="663" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="640" end="663" text="      Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="645" end="663" text=" Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="646" end="663" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="640" end="663" text="      Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="645" end="663" text=" Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="646" end="663" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="640" end="663" text="      Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="645" end="663" text=" Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

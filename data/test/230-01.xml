@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-05-31
+
+VASCULAR SURGERY H&P
+Ulysses Richard
+8913196
+May 31, 2078
+
+Service: 	Mosley
+Attending:	Snyder
+Fellow:	Allison
+Senior:		Fulton
+Junior:		Benitez
+
+Mr Richard is an 85 year old gentleman with a long-standing history of peripheral vascular disease who presents with progressive rest pain and ischemic ulceration of his right foot. He underwent angiography, but no lesions amenable to percutaneous intervention were identified. He presents now in anticipation of a distal bypass procedure.
+
+PMH:	CAD
+	HTN
+	CRI (Cr 1.8 at baseline)
+	DM
+	PVD s/p left fem-pop (failed) and redo left fem-pop-peroneal
+	CAS s/p endarterectomy
+	CHF
+	Atrial Fibrillation
+	Nephrolithiasis
+	Spinal Stenosis
+
+Meds:	Norvasc 10
+	Glyburide 10 BID
+	Labetalol 200 BID
+	Lisinopril 10 BID
+	ASA 325
+	Plavix 75
+	Doxazosin 4
+	Aciphex 20 BID
+	Zocor 20
+	NitroDur 0.2mg/hr
+	Ativan 0.5 PRN
+	Lasix 40 PRN
+	Vicodin PRN
+	Tylenol PRN
+	Zantac PRN
+	Coumadin
+
+Allergies: ASA
+SH: never smoked, widower
+PE: Afebrile	75SR	132/52	94% RA
+NAD
+Chest CTAB
+Heart Irreg, II/VI SEM
+Abd soft
+RLE with ischemic, but clean ulceration.
+LLE warm without lesions
+Vasc:	Car	Rad	Fem	Pop	DP	PT
+R	2+	2+	1+	-	-	-
+L	2+	2+	2+	1+	D	1+
+
+EKG Afeb
+PVR pulsatile on L, flat on R
+CXR No acute processes
+
+Impression: RLE limb ischemia
+Plan: 	OR in AM for Fem-distal bypass
+	IV Heparin overnight
+	Consent obtained
+
+Richard Benitez, MD, MPH
+Resident in Surgery
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC17" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC20" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC29" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC30" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC32" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC33" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC16" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC31" time="before DCT" indicator="mention"/>
+    <CAD id="DOC18" time="after DCT" indicator="mention"/>
+    <CAD id="DOC23" time="during DCT" indicator="mention"/>
+    <CAD id="DOC34" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC21" indicator="not present"/>
+    <SMOKER id="DOC26" status="never"/>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC27" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

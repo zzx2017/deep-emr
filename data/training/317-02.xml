@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-05-08
+
+
+ED Surgery Consult                 Date/Time: 5/8/78   4:56PM
+****************************************************
+Name:  Hendricks, Hannah
+MRN# 75322175
+Resident: Xavier G. England, MD, EdM
+Attending: Dr. Hunter Ishikawa
+****************************************************
+CC: Bleeding from groin wound
+HPI: Ms. Hendricks is a 52yoF with a history of PVD and non-healing wounds of the LLE s/p redo left femoral-tibial bypass with arm vein on 5/3/78 who was discharged to home yesterday and now returns after she noted a gush of blood from her left groin wound while coughing earlier today.  She was doing well until this morning when she coughed and immediately noted that her left pant leg was soaked with blood from the left groin down the left leg.  When she took off her pants there was no active bleeding from the wound and she denies any light-headedness or dizziness.  There has been no further bleeding from the wound and she is otherwise without complaints.  
+PMHx: PVD, HTN, Hypercholesterolemia
+PSHx: Right fem-pop bypass 2066, Left fem-dp bypass 2066, redo left fem-pt bypass 5/3/78.
+Meds: Tylenol, ASA, Vitamin C, Atenolol, Lipitor, Colace, Folic Acid, Lactulose, Milk of Magnesia, Oxycodone, Valsartan
+All: Percocet-&gt;nausea
+SHx: Denies any recent etoh/ivda/tob
+
+
+PE: 98.7 78    134/72     12      100% on RA
+General: No distress
+HEENT: NCAT
+Chest: CTAB
+Heart: RRR, no mrg
+Abdomen:  soft, NT/NE
+Extremities: RUE wound healing well without erythema/warmth/tenderness.  Left groin wound with small mobile collection at cephalad portion of wound.  No obvious bleeding.  
+Pulses: Biphasic dp/pt on LLE
+
+
+Labs:   CBC: Pending
+            
+Imaging: 
+LLE U/S at bedside: 3x2 cm simple fluid collection at cephalad portion of groin wound.
+
+
+Assessment/Plan: 
+- 52yoF s/p recent redo left fem-tib bypass with right arm vein with single episode of bleeding from left groin wound.  This likely represents extrusion of a postoperative hematoma.  There is currently no evidence of active bleeding from the wound.  A CBC should be obtained in the ED to ensure that her hct is stable and she can then d/c home.  She will follow up with Dr. Ishikawa at her scheduled postop visit.  Should the bleeding persist or return she should return to the ER or the clinic for a vascular U/S to assess for a pseudoaneurysm or AV fistula. 
+
+
+D/W Dr. Casey Iacono (Surgery Fellow), who agrees with assessment and plan.
+
+
+Thanks,
+
+
+
+
+Xavier G. England, MD, EdM      #15725
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1016" end="1036" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1016" end="1036" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1016" end="1036" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC9" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1016" end="1036" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1016" end="1036" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1016" end="1036" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1016" end="1036" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1016" end="1036" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1016" end="1036" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1168" end="1175" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1168" end="1175" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1168" end="1175" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1168" end="1175" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1168" end="1175" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1168" end="1175" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1142" end="1145" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1141" end="1145" text=" ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1142" end="1146" text="ASA," time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="1168" end="1175" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1168" end="1175" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1168" end="1175" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M12" start="1237" end="1246" text="Valsartan" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M13" start="1237" end="1246" text="Valsartan" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M14" start="1142" end="1145" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1141" end="1145" text=" ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1142" end="1146" text="ASA," time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M17" start="1158" end="1166" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="1158" end="1166" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1158" end="1166" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M20" start="1237" end="1246" text="Valsartan" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M21" start="1237" end="1246" text="Valsartan" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M22" start="1142" end="1145" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1141" end="1145" text=" ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1142" end="1146" text="ASA," time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M25" start="1158" end="1166" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1158" end="1166" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1158" end="1166" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M28" start="1158" end="1166" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1158" end="1166" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="1158" end="1166" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M31" start="1237" end="1246" text="Valsartan" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M32" start="1237" end="1246" text="Valsartan" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1011" end="1014" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1011" end="1014" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1011" end="1014" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1011" end="1014" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1011" end="1014" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1011" end="1014" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1011" end="1014" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1011" end="1014" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1011" end="1014" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC19" status="never">
+      <SMOKER id="S0" start="1277" end="1308" text="Denies any recent etoh/ivda/tob" status="never" comment=""/>
+      <SMOKER id="S1" start="1305" end="1308" text="tob" status="never" comment="no recent Tobacco"/>
+      <SMOKER id="S2" start="1277" end="1308" text="Denies any recent etoh/ivda/tob" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

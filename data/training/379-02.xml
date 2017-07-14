@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2092-05-24
+
+
+
+
+BAYONNE MEDICAL CENTER
+Internal Medicine
+15 Hassell Brook Road
+Daytona Highridge Estates, AZ  39757
+
+							Nancy-Jasmine, Nikkolas 
+							69331181
+							05/24/92 
+
+
+The patient is a 67-year-old man with hypertension, diabetes, and 
+history of recent stroke who comes in for follow up and for 
+evaluation of positive PPD.
+
+HISTORY OF PRESENT ILLNESS:  He was being evaluated for day 
+program and in the course of this had a PPD placed which was 
+positive.  He has no history of prior TB testing.  He has had no 
+chest pain, shortness of breath, cough, fever, chills, weight 
+loss or night sweats.  He has had no known exposure to TB.  
+
+He is being treated for hypertension which has been difficult to 
+control but seems recently to be doing quite well on a 
+combination of HCTZ 12.5mg, metoprolol 50mg b.i.d., Norvasc 10mg 
+PO q.d., Zestril 20mg PO q.d.  Today's blood pressure was 
+terrific at 128/70.  
+
+He has diabetes and his hemoglobin A1C came down from 10.4 in 
+February to 7.9 in May.  He had been started in February on 
+Glucophage 500mg PO b.i.d. and seems to e tolerating it quite 
+well.  
+
+He did have a stroke in August 2091 with right-sided hemiparesis.  
+He is able to walk to the bathroom with a cane but otherwise uses 
+a wheelchair.  He had a form for me to complete for a day program 
+listing his typical functioning.
+
+PHYSICAL EXAMINATION:  He is a well-developed, well-nourished, 
+pleasant man.  Weight was not done.  Blood pressure 128/70.  
+HEENT: throat clear.  Neck supple, no adenopathy or thyromegaly.  
+No carotid bruits.  No JVD.  Heart: no murmurs.  Lungs are clear.  
+Extremities: no edema.  Neuro: he has weakness in the right leg 
+and arm. 
+
+ASSESSMENT AND PLAN:
+1. 	Positive PPD.  At the time of this dictation, his chest x-ray 
+came back and is completely normal.  Given his age and unknown 
+duration of his positive PPD, will not treat.  
+2. 	Hypertension.  Doing well on current combination of 
+medications.
+3. 	Diabetes, doing much better since he started Glucophage.  At 
+his next visit, I will need to confirm when his last eye 
+appointment was.  
+4. 	Status post CVA.  He seems to be functioning well. 
+
+
+
+Nena Quiambao, M.D.
+
+NQ:jaeger; 80-55488880.doc; DD: 5/27/92; DT: 5/28/92; DV: 5/24/92 
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="867" end="874" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="866" end="874" text=" Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="867" end="874" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="1064" end="1074" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1064" end="1074" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1064" end="1074" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="2028" end="2038" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M7" start="1064" end="1074" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1064" end="1074" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1064" end="1074" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2028" end="2038" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M11" start="867" end="874" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="866" end="874" text=" Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="867" end="874" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M14" start="807" end="811" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M15" start="806" end="811" text=" HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M16" start="807" end="811" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M17" start="844" end="851" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="843" end="851" text=" Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="844" end="851" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M20" start="844" end="851" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="843" end="851" text=" Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="844" end="851" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M23" start="820" end="830" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="820" end="830" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="820" end="830" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M26" start="807" end="811" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M27" start="806" end="811" text=" HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M28" start="807" end="811" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M29" start="1064" end="1074" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1064" end="1074" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1064" end="1074" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M32" start="2028" end="2038" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M33" start="867" end="874" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M34" start="866" end="874" text=" Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M35" start="867" end="874" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M36" start="807" end="811" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M37" start="806" end="811" text=" HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M38" start="807" end="811" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M39" start="844" end="851" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="843" end="851" text=" Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="844" end="851" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="820" end="830" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="820" end="830" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="820" end="830" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M45" start="820" end="830" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="820" end="830" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M47" start="820" end="830" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="237" end="249" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="237" end="249" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="237" end="249" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="694" end="706" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1913" end="1925" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="237" end="249" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="237" end="249" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="237" end="249" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="694" end="706" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1913" end="1925" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="237" end="249" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="237" end="249" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="237" end="249" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="694" end="706" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="1913" end="1925" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="251" end="259" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="251" end="259" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="251" end="259" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="947" end="955" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1983" end="1991" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention">
+      <DIABETES id="D5" start="251" end="259" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="251" end="259" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="251" end="259" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="947" end="955" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1983" end="1991" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="before DCT" indicator="A1C">
+      <DIABETES id="D10" start="975" end="1025" text="A1C came down from 10.4 in  February to 7.9 in May" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D11" start="964" end="1025" text="hemoglobin A1C came down from 10.4 in  February to 7.9 in May" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D12" start="964" end="1025" text="hemoglobin A1C came down from 10.4 in  February to 7.9 in May" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention">
+      <DIABETES id="D13" start="251" end="259" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="251" end="259" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="251" end="259" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D16" start="947" end="955" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D17" start="1983" end="1991" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

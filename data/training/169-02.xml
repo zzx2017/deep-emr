@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-09-28
+
+Nutrition Clinic Initial Assessment 9/28/76
+
+Problems:  HTN, type 2 DM, class III obesity
+
+
+
+
+
+Wt: 278#
+
+Ht: 5'6"
+
+BMI: 44.5
+
+Weight History: long Hx obesity  highest bw 285#
+
+
+
+Activity Level: ADL's     just began walking per report q other d
+
+Maintenance Calorie Needs: 2,400kcals/d
+
+wt. loss kcals: 1,900kcals/d
+
+
+
+Diet History:    
+
+Calories -  
+
+% Protein - 
+
+% Fat - 
+
+% CHO - 
+
+
+
+% Sat Fat - 
+
+mg Chol- 
+
+mg Na - 
+
+
+
+
+
+Labs: HbAIC 8.10% 8/76 
+
+SMBG qd 120-140mg
+
+Assessment: 48 yo class III obese m. w/ HTN, type 2 DM interested in improving bp and wt. Notes w/ past diets difficult to be on b/c some high in Na (atkins he tried) and others not good for DM.  Requests 2,000kcal diet which will comply w/ his med needs.  Also on the road often for work and eats most lunches out.  Recall reveals, he is careful w/ label reading yet some inconsistencies in cho intake and high fat , high Na choices when eating out which is qd.  Reviewed all basics today including meal plan w/ consistent CHO intake, fiber, and lean pro @ each meal
+
+
+
+Treatment Plan:
+
+5 small meals/d
+
+consistent CHO intake @ each meal
+
+lean pro w/ each meal
+
+increase fiber goal 20-35g/d
+
+label reading <250 mg Na
+
+<2,400mg/d Na goal
+
+portion control
+
+sat fat <7% kcals
+
+healthful eating out guidelines
+
+regular exercise
+
+Recommended Additional visits:
+
+prn
+
+Educational materials provided:
+
+handouts, written guidelines
+
+Pt Response:                                                                   
+
+Receptive
+
+RTC:
+
+5wks w/ food record
+
+Sampson, MS,RD,LDN
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC2" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="110" end="117" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="110" end="117" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="110" end="117" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC4" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="110" end="117" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="110" end="117" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="110" end="117" text="obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC10" time="before DCT" indicator="mention">
+      <OBESE id="O6" start="110" end="117" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="110" end="117" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="110" end="117" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC12" time="during DCT" indicator="BMI">
+      <OBESE id="O9" start="143" end="152" text="BMI: 44.5" time="during DCT" indicator="BMI" comment=""/>
+      <OBESE id="O10" start="142" end="152" text=" BMI: 44.5" time="during DCT" indicator="BMI" comment=""/>
+      <OBESE id="O11" start="143" end="152" text="BMI: 44.5" time="during DCT" indicator="BMI" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="84" end="87" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="84" end="87" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="84" end="87" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="84" end="87" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="84" end="87" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="84" end="87" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="84" end="87" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="84" end="87" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="84" end="87" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="88" end="98" text=" type 2 DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="96" end="98" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="89" end="98" text="type 2 DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="before DCT" indicator="A1C">
+      <DIABETES id="D3" start="459" end="477" text=" HbAIC 8.10% 8/76 " time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D4" start="460" end="471" text="HbAIC 8.10%" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D5" start="459" end="471" text=" HbAIC 8.10%" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="88" end="98" text=" type 2 DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="96" end="98" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="89" end="98" text="type 2 DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D9" start="88" end="98" text=" type 2 DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="96" end="98" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="89" end="98" text="type 2 DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

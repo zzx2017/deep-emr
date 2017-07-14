@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-06-29
+
+
+
+Fairview Lakes Regional Medical Center
+
+64 Tara Boulevard
+
+ASB II, 9st Xloor                                         GERALD, MARION
+
+Cedar Hill Lakes, KY 99249                                      48967301
+
+(290) 680-0790                                           06/29/83
+
+
+
+
+
+Xochil Higgins, M.D.
+
+091 Keith Street
+Antioch, KY 71287
+
+
+
+Dear Dr. Higgins,
+
+
+
+Marion Gerald will be seeing you sometime in September for primary
+
+care.  I was seeing her for various rheumatologic issues.  She
+
+comes in today with ongoing pain in the left side of her face. 
+
+Actually, upon exam, she clearly simply has left TMJ.  She has
+
+been told this by ENT and I reinforced to her that that is what
+
+she has and she will go ahead with a dental visit that she had
+
+planned.  However, she has other medical problems which I will
+
+deal with until she sees you.  At her last visit, there was a
+
+question of PMR and she had "25 shots" of steroids but I have not
+
+given her steroids and she has done reasonably well.  However,
+
+she does have a history of a recent mild anemia but has diabetes,
+
+hypertension and hypercholesterolemia and medications include
+
+metformin, verapamil 250 b.i.d., Avapro 150 q.d., Pravachol 20
+
+q.d., Bumex, Bentyl, Prilosec and Allegra.
+
+
+
+Physical examination today reveals left TMJ pain which reproduces
+
+her pain.  She had had no lymphadenopathy or thyromegaly.  HEENT
+
+was otherwise unremarkable.  I obtained blood studies which
+
+revealed a blood sugar of 208, abnormal LFTs with an AST of 62
+
+and ALT of 58, normal ferritin B12 and folic acid, TSH of 8.8
+
+with thyroid antibodies pending, urine microalbumin/creatinine of
+
+14.5 and a CBC which had anemia with a hematocrit of 32.9.  A1c
+
+pending.  A protein electrophoresis is pending and urinalysis did
+
+not reveal proteinuria or sediment.  HBsAG and HCV are pending as
+
+well.
+
+
+
+I will be in touch with her regarding these results.  I was
+
+wondering if you could see her sooner than September because of
+
+these abnormalities outlined.  Thanks for letting me participate
+
+in her care.
+
+
+
+Sincerely yours,
+
+
+
+Dictated By: Miguel Ames
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+Miguel Ames, M.D.
+
+
+
+
+
+eScription document:6-0391514 ZB
+
+
+
+
+
+
+
+DD: 06/30/83
+
+DT: 07/01/83
+
+DV: 06/30/83
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1121" end="1141" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1121" end="1141" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1121" end="1141" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1121" end="1141" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1121" end="1141" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1121" end="1141" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1121" end="1141" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1121" end="1141" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1121" end="1141" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1217" end="1226" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1217" end="1226" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1217" end="1226" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="1167" end="1176" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1167" end="1176" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1167" end="1176" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="1167" end="1176" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1167" end="1176" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1167" end="1176" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="1178" end="1187" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1178" end="1187" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1178" end="1188" text="verapamil " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="1178" end="1187" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1178" end="1187" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1178" end="1188" text="verapamil " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M15" start="1200" end="1206" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M16" start="1200" end="1206" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M17" start="1200" end="1206" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M18" start="1217" end="1226" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1217" end="1226" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1217" end="1226" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M21" start="1217" end="1226" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1217" end="1226" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1217" end="1226" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M24" start="1167" end="1176" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1167" end="1176" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1167" end="1176" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M27" start="1178" end="1187" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="1178" end="1187" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1178" end="1188" text="verapamil " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M30" start="1200" end="1206" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M31" start="1200" end="1206" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M32" start="1200" end="1206" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M33" start="1200" end="1206" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M34" start="1200" end="1206" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M35" start="1200" end="1206" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1104" end="1116" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1104" end="1116" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1104" end="1117" text="hypertension " time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1104" end="1116" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1104" end="1116" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1104" end="1117" text="hypertension " time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1104" end="1116" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1104" end="1116" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1104" end="1117" text="hypertension " time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1093" end="1101" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1093" end="1101" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1093" end="1101" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1093" end="1101" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1093" end="1101" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1093" end="1101" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1093" end="1101" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1093" end="1101" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1093" end="1101" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>
