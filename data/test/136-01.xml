@@ -52,35 +52,11 @@ AJ/yeung/updegraff
 
 ]]></TEXT>
   <TAGS>
-    <FAMILY_HIST id="DOC3" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="after DCT" indicator="mention">
-      <DIABETES id="D0" start="146" end="174" text="type 2 diabetes mellitus.   " time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="153" end="161" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="146" end="170" text="type 2 diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC1" time="before DCT" indicator="A1C">
-      <DIABETES id="D3" start="832" end="868" text="hemoglobin A1C was 7.9% on 04/29/73." time="before DCT" indicator="A1C" comment=""/>
-      <DIABETES id="D4" start="843" end="856" text="A1C was 7.9% " time="before DCT" indicator="A1C" comment=""/>
-      <DIABETES id="D5" start="832" end="867" text="hemoglobin A1C was 7.9% on 04/29/73" time="before DCT" indicator="A1C" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC2" time="during DCT" indicator="mention">
-      <DIABETES id="D6" start="146" end="174" text="type 2 diabetes mellitus.   " time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="153" end="161" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="146" end="170" text="type 2 diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC5" time="before DCT" indicator="mention">
-      <DIABETES id="D9" start="146" end="174" text="type 2 diabetes mellitus.   " time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D10" start="153" end="161" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D11" start="146" end="170" text="type 2 diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <FAMILY_HIST id="DOC3" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="A1C"/>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention"/>
   </TAGS>
 </root>

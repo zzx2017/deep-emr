@@ -259,91 +259,24 @@ Louise Eisenberg, MD pgr 76699
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC4" time="during DCT" indicator="high LDL">
-      <HYPERLIPIDEMIA id="HY0" start="4834" end="4842" text=" LDL 153" time="during DCT" indicator="high LDL" comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="4839" end="4842" text="153" time="during DCT" indicator="high LDL" comment=""/>
-    </HYPERLIPIDEMIA>
-    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
-      <MEDICATION id="M0" start="5224" end="5233" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M1" start="5224" end="5233" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
-      <MEDICATION id="M2" start="5202" end="5209" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M3" start="5202" end="5209" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
-      <MEDICATION id="M4" start="5189" end="5192" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M5" start="5189" end="5192" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M6" start="5189" end="5192" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2="">
-      <MEDICATION id="M7" start="5194" end="5200" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M8" start="5194" end="5200" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M9" start="5194" end="5200" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
-      <MEDICATION id="M10" start="5189" end="5192" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M11" start="5189" end="5192" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC7" time="after DCT" type1="thienopyridine" type2="">
-      <MEDICATION id="M12" start="5194" end="5200" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M13" start="5194" end="5200" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M14" start="5214" end="5222" text="Bblocker" time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M15" start="5214" end="5222" text="Bblocker" time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M16" start="5682" end="5691" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
-      <MEDICATION id="M17" start="5202" end="5209" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M18" start="5202" end="5209" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
-      <MEDICATION id="M19" start="5202" end="5209" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M20" start="5202" end="5209" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M21" start="5202" end="5209" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2="">
-      <MEDICATION id="M22" start="5189" end="5192" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M23" start="998" end="1001" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M24" start="5189" end="5192" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC16" time="before DCT" type1="thienopyridine" type2="">
-      <MEDICATION id="M25" start="5194" end="5200" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M26" start="5194" end="5200" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC17" time="before DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M27" start="5214" end="5222" text="Bblocker" time="before DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M28" start="5214" end="5222" text="Bblocker" time="before DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M29" start="5682" end="5691" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC18" time="during DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M30" start="5214" end="5222" text="Bblocker" time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M31" start="5214" end="5222" text="Bblocker" time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M32" start="5214" end="5222" text="Bblocker" time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M33" start="5682" end="5691" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <CAD id="DOC6" time="before DCT" indicator="test">
-      <CAD id="C0" start="4102" end="4235" text="cath lab 7/11 where his RHC showed RA 9, PA 25/15/20, PCWP 13, CO 6.4.  Mild LAD disease, 30% circumflex stenosis, RCA 100% occlusion" time="before DCT" indicator="test" comment=""/>
-      <CAD id="C1" start="4102" end="4235" text="cath lab 7/11 where his RHC showed RA 9, PA 25/15/20, PCWP 13, CO 6.4.  Mild LAD disease, 30% circumflex stenosis, RCA 100% occlusion" time="before DCT" indicator="test" comment=""/>
-    </CAD>
-    <CAD id="DOC12" time="during DCT" indicator="symptom">
-      <CAD id="C2" start="366" end="376" text="chest pain" time="during DCT" indicator="symptom" comment=""/>
-      <CAD id="C3" start="663" end="764" text="crushing sub-sternal chest pain, 8/10, no radiation, associated with mild SOB and marked diaphoresis." time="during DCT" indicator="symptom" comment=""/>
-    </CAD>
-    <CAD id="DOC14" time="before DCT" indicator="event">
-      <CAD id="C4" start="4236" end="4287" text=" stented x3 with dissection of RCA during procedure" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C5" start="4237" end="4270" text="stented x3 with dissection of RCA" time="before DCT" indicator="event" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC9" indicator="present">
-      <FAMILY_HIST id="F0" start="292" end="336" text="family history (father died of MI at age 41)" indicator="present" comment=""/>
-      <FAMILY_HIST id="F1" start="308" end="336" text="father died of MI at age 41)" indicator="present" comment=""/>
-      <FAMILY_HIST id="F2" start="292" end="336" text="family history (father died of MI at age 41)" indicator="present" comment=""/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC15" status="current">
-      <SMOKER id="S0" start="280" end="287" text="smoking" status="current" comment=""/>
-      <SMOKER id="S1" start="280" end="287" text="smoking" status="current" comment=""/>
-      <SMOKER id="S2" start="280" end="287" text="smoking" status="current" comment=""/>
-    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC4" time="during DCT" indicator="high LDL"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="beta blocker" type2=""/>
+    <CAD id="DOC6" time="before DCT" indicator="test"/>
+    <CAD id="DOC12" time="during DCT" indicator="symptom"/>
+    <CAD id="DOC14" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC9" indicator="present"/>
+    <SMOKER id="DOC15" status="current"/>
   </TAGS>
 </root>

@@ -66,28 +66,10 @@ DV:12-16-84
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC1" time="before DCT" indicator="high chol.">
-      <HYPERLIPIDEMIA id="HY0" start="1754" end="1775" text="lipids today (was 327" time="before DCT" indicator="high chol." comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="1768" end="1775" text="was 327" time="before DCT" indicator="high chol." comment=""/>
-      <HYPERLIPIDEMIA id="HY2" start="1772" end="1775" text="327" time="before DCT" indicator="high chol." comment=""/>
-    </HYPERLIPIDEMIA>
-    <MEDICATION id="DOC2" time="after DCT" type1="statin" type2="">
-      <MEDICATION id="M0" start="1785" end="1804" text=" start atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M1" start="1792" end="1804" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="1030" end="1036" text="140/90" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="1011" end="1036" text="Blood  pressure is 140/90" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC0" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC1" time="before DCT" indicator="high chol."/>
+    <MEDICATION id="DOC2" time="after DCT" type1="statin" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC0" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
   </TAGS>
 </root>

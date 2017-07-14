@@ -307,71 +307,17 @@ Renal Fellow
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC1" time="before DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY0" start="1985" end="1999" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="1985" end="1999" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY2" start="1985" end="1999" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC4" time="after DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY3" start="1985" end="1999" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY4" start="1985" end="1999" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY5" start="1985" end="1999" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY6" start="1985" end="1999" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY7" start="1985" end="1999" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY8" start="1985" end="1999" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <MEDICATION id="DOC3" time="before DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M0" start="2056" end="2065" text="Atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M1" start="2056" end="2064" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M2" start="2055" end="2076" text=" Atenolol 25 mg po qd" time="before DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC6" time="before DCT" type1="aspirin" type2="">
-      <MEDICATION id="M3" start="2078" end="2082" text="ASA " time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M4" start="2078" end="2081" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M5" start="2078" end="2082" text="ASA " time="before DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M6" start="2056" end="2065" text="Atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M7" start="2056" end="2064" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M8" start="2055" end="2076" text=" Atenolol 25 mg po qd" time="after DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M9" start="2056" end="2065" text="Atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M10" start="2056" end="2064" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M11" start="2055" end="2076" text=" Atenolol 25 mg po qd" time="during DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC0" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H0" start="472" end="475" text="HTN" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H1" start="1756" end="1768" text="hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H2" start="1945" end="1948" text="HTN" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H3" start="472" end="475" text="HTN" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H4" start="471" end="476" text=" HTN " time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H5" start="472" end="475" text="HTN" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H6" start="1756" end="1768" text="hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H7" start="1945" end="1948" text="HTN" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="472" end="475" text="HTN" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H9" start="471" end="476" text=" HTN " time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H10" start="472" end="475" text="HTN" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H11" start="1756" end="1768" text="hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H12" start="1945" end="1948" text="HTN" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H13" start="472" end="475" text="HTN" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H14" start="471" end="476" text=" HTN " time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC11" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC8" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" start="2157" end="2171" text="Social History" status="unknown" comment=""/>
-    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC4" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC3" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC0" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC11" indicator="not present"/>
+    <SMOKER id="DOC8" status="unknown"/>
   </TAGS>
 </root>

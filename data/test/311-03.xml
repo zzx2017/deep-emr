@@ -93,30 +93,10 @@ eScription document:3-7918390 BFFocus
 
 ]]></TEXT>
   <TAGS>
-    <FAMILY_HIST id="DOC2" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="never">
-      <SMOKER id="S0" start="1065" end="1074" text="nonsmoker" status="never" comment=""/>
-      <SMOKER id="S1" start="1065" end="1075" text="nonsmoker." status="never" comment=""/>
-      <SMOKER id="S2" start="1065" end="1074" text="nonsmoker" status="never" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="1028" end="1036" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="1028" end="1036" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="1028" end="1036" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC1" time="during DCT" indicator="mention">
-      <DIABETES id="D3" start="1028" end="1036" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="1028" end="1036" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="1028" end="1036" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC3" time="after DCT" indicator="mention">
-      <DIABETES id="D6" start="1028" end="1036" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="1028" end="1036" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="1028" end="1036" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <FAMILY_HIST id="DOC2" indicator="not present"/>
+    <SMOKER id="DOC4" status="never"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC1" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

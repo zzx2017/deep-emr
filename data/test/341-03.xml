@@ -172,101 +172,23 @@ Casey Frey, M.D.                 Pager 46311
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M0" start="4599" end="4612" text="Verapamil Hcl" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M1" start="4626" end="4636" text="Nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M2" start="4599" end="4609" text="Verapamil " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M3" start="4626" end="4636" text="Nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
-      <MEDICATION id="M4" start="4363" end="4386" text="Atorvastatin (Lipitor )" time="after DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M5" start="4363" end="4398" text="Atorvastatin (Lipitor ) 40 MG PO QD" time="after DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M6" start="4363" end="4376" text="Atorvastatin " time="after DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
-      <MEDICATION id="M7" start="4363" end="4386" text="Atorvastatin (Lipitor )" time="during DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M8" start="4363" end="4398" text="Atorvastatin (Lipitor ) 40 MG PO QD" time="during DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M9" start="4363" end="4376" text="Atorvastatin " time="during DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2="">
-      <MEDICATION id="M10" start="4318" end="4349" text="Acetylsalicylic Acid (Aspirin )" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M11" start="4340" end="4347" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M12" start="4318" end="4338" text="Acetylsalicylic Acid" time="during DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="before DCT" type1="statin" type2="">
-      <MEDICATION id="M13" start="4363" end="4386" text="Atorvastatin (Lipitor )" time="before DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M14" start="4363" end="4398" text="Atorvastatin (Lipitor ) 40 MG PO QD" time="before DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M15" start="4363" end="4376" text="Atorvastatin " time="before DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
-      <MEDICATION id="M16" start="4318" end="4349" text="Acetylsalicylic Acid (Aspirin )" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M17" start="4340" end="4347" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M18" start="4318" end="4338" text="Acetylsalicylic Acid" time="after DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M19" start="4599" end="4612" text="Verapamil Hcl" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M20" start="4626" end="4636" text="Nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M21" start="4599" end="4609" text="Verapamil " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M22" start="4626" end="4636" text="Nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC9" time="before DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M23" start="4518" end="4550" text="Metoprolol Tartrate (Lopressor) " time="before DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M24" start="4539" end="4548" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M25" start="4518" end="4529" text="Metoprolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC10" time="after DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M26" start="4599" end="4612" text="Verapamil Hcl" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M27" start="4626" end="4636" text="Nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M28" start="4599" end="4609" text="Verapamil " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M29" start="4626" end="4636" text="Nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC12" time="before DCT" type1="aspirin" type2="">
-      <MEDICATION id="M30" start="4318" end="4349" text="Acetylsalicylic Acid (Aspirin )" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M31" start="4340" end="4347" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M32" start="4318" end="4338" text="Acetylsalicylic Acid" time="before DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M33" start="4518" end="4550" text="Metoprolol Tartrate (Lopressor) " time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M34" start="4539" end="4548" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M35" start="4518" end="4529" text="Metoprolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M36" start="4518" end="4550" text="Metoprolol Tartrate (Lopressor) " time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M37" start="4539" end="4548" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M38" start="4518" end="4529" text="Metoprolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="4921" end="4938" text="BP= 127-160/63-74" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="4921" end="4938" text="BP= 127-160/63-74" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H2" start="4922" end="4938" text="P= 127-160/63-74" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H3" start="342" end="345" text="HTN" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H4" start="4180" end="4183" text="HTN" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H5" start="342" end="345" text="HTN" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H6" start="342" end="345" text="HTN" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC11" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H7" start="342" end="345" text="HTN" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="4180" end="4183" text="HTN" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H9" start="342" end="345" text="HTN" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H10" start="342" end="345" text="HTN" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H11" start="342" end="345" text="HTN" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H12" start="4180" end="4183" text="HTN" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H13" start="342" end="345" text="HTN" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H14" start="342" end="345" text="HTN" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC16" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC17" status="never">
-      <SMOKER id="S0" start="4700" end="4703" text="tob" status="never" comment=""/>
-      <SMOKER id="S1" start="4691" end="4710" text="No EtOH, tob, drugs" status="never" comment=""/>
-      <SMOKER id="S2" start="4690" end="4703" text=" No EtOH, tob" status="never" comment=""/>
-    </SMOKER>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC17" status="never"/>
   </TAGS>
 </root>

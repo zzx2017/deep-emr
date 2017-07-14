@@ -81,34 +81,11 @@ Dictated by:  YVES BLACKBURN, M.D.       HB79
 
 ]]></TEXT>
   <TAGS>
-    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="935" end="941" text="157/69" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="920" end="943" text="blood pressure 157/69. " time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC3" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC5" status="never">
-      <SMOKER id="S0" start="835" end="849" text="does not smoke" status="never" comment=""/>
-      <SMOKER id="S1" start="835" end="850" text="does not smoke." status="never" comment=""/>
-      <SMOKER id="S2" start="831" end="849" text="She does not smoke" status="never" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="258" end="274" text="type II diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="258" end="274" text="type II diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="258" end="274" text="type II diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC2" time="during DCT" indicator="mention">
-      <DIABETES id="D3" start="258" end="274" text="type II diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="258" end="274" text="type II diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="258" end="274" text="type II diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC4" time="after DCT" indicator="mention">
-      <DIABETES id="D6" start="258" end="274" text="type II diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="258" end="274" text="type II diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="258" end="274" text="type II diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC3" indicator="not present"/>
+    <SMOKER id="DOC5" status="never"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

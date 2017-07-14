@@ -359,36 +359,12 @@ Pager 49057
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M0" start="3256" end="3265" text="Verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M1" start="3256" end="3265" text="Verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M2" start="3256" end="3269" text="Verapamil SR " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
-      <MEDICATION id="M3" start="1614" end="1621" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M4" start="1614" end="1621" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="after DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M5" start="3256" end="3265" text="Verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M6" start="3256" end="3265" text="Verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="before DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M7" start="3256" end="3265" text="Verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M8" start="3256" end="3265" text="Verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M9" start="3256" end="3268" text="Verapamil SR" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
-      <MEDICATION id="M10" start="9166" end="9178" text="re-start ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M11" start="9175" end="9178" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC5" indicator="present">
-      <FAMILY_HIST id="F0" start="3768" end="3799" text=" Mother died of MI at age 59.  " indicator="present" comment=""/>
-      <FAMILY_HIST id="F1" start="3769" end="3796" text="Mother died of MI at age 59" indicator="present" comment=""/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC3" status="past">
-      <SMOKER id="S0" start="3678" end="3720" text="50 pack year h/o tobacco. Quit 7-8 yrs ago" status="past" comment=""/>
-      <SMOKER id="S1" start="3704" end="3708" text="Quit" status="past" comment=""/>
-      <SMOKER id="S2" start="3678" end="3720" text="50 pack year h/o tobacco. Quit 7-8 yrs ago" status="past" comment=""/>
-    </SMOKER>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <FAMILY_HIST id="DOC5" indicator="present"/>
+    <SMOKER id="DOC3" status="past"/>
   </TAGS>
 </root>

@@ -68,67 +68,18 @@ eScription document:2-320209
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="high chol.">
-      <HYPERLIPIDEMIA id="HY0" start="784" end="808" text="total cholesterol of 242" time="before DCT" indicator="high chol." comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="784" end="808" text="total cholesterol of 242" time="before DCT" indicator="high chol." comment=""/>
-    </HYPERLIPIDEMIA>
-    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
-      <MEDICATION id="M0" start="1922" end="1932" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M1" start="1922" end="1932" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
-      <MEDICATION id="M2" start="1814" end="1821" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M3" start="1814" end="1822" text="Ecotrin " time="after DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="1115" end="1136" text="blood pressure 140/98" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="1121" end="1136" text="pressure 140/98" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H2" start="2101" end="2113" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H3" start="2116" end="2149" text="Elevated diastolic blood pressure" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H4" start="458" end="481" text="borderline hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H5" start="458" end="481" text="borderline hypertension" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H6" start="2101" end="2113" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H7" start="2116" end="2149" text="Elevated diastolic blood pressure" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="458" end="481" text="borderline hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H9" start="458" end="481" text="borderline hypertension" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H10" start="2101" end="2113" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H11" start="2116" end="2149" text="Elevated diastolic blood pressure" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H12" start="458" end="481" text="borderline hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H13" start="458" end="481" text="borderline hypertension" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC10" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="current">
-      <SMOKER id="S0" start="1033" end="1056" text="smoking 2 packs per day" status="current" comment=""/>
-      <SMOKER id="S1" start="1033" end="1056" text="smoking 2 packs per day" status="current" comment=""/>
-      <SMOKER id="S2" start="1033" end="1040" text="smoking" status="current" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="after DCT" indicator="mention">
-      <DIABETES id="D0" start="433" end="452" text="borderline diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="433" end="452" text="borderline diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC1" time="before DCT" indicator="mention">
-      <DIABETES id="D2" start="433" end="452" text="borderline diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D3" start="433" end="452" text="borderline diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC7" time="during DCT" indicator="mention">
-      <DIABETES id="D4" start="433" end="452" text="borderline diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="433" end="452" text="borderline diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC12" time="before DCT" indicator="A1C">
-      <DIABETES id="D6" start="848" end="869" text="hemoglobin A1c of 9.8" time="before DCT" indicator="A1C" comment=""/>
-      <DIABETES id="D7" start="1876" end="1903" text="Last hemoglobin A1c was 9.8" time="before DCT" indicator="A1C" comment=""/>
-      <DIABETES id="D8" start="848" end="869" text="hemoglobin A1c of 9.8" time="before DCT" indicator="A1C" comment=""/>
-      <DIABETES id="D9" start="848" end="870" text="hemoglobin A1c of 9.8," time="before DCT" indicator="A1C" comment=""/>
-    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="high chol."/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC10" indicator="not present"/>
+    <SMOKER id="DOC4" status="current"/>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="before DCT" indicator="A1C"/>
   </TAGS>
 </root>

@@ -42,30 +42,10 @@ Dictated by: Quanisha Logan, PA-C
 
 ]]></TEXT>
   <TAGS>
-    <FAMILY_HIST id="DOC0" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC1" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" start="158" end="171" text="Your patient," status="unknown" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC2" time="after DCT" indicator="mention">
-      <DIABETES id="D0" start="1335" end="1343" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="1335" end="1343" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="1335" end="1343" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC3" time="during DCT" indicator="mention">
-      <DIABETES id="D3" start="1335" end="1343" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="1335" end="1343" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="1335" end="1343" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC4" time="before DCT" indicator="mention">
-      <DIABETES id="D6" start="1335" end="1343" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="1335" end="1343" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="1335" end="1343" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <FAMILY_HIST id="DOC0" indicator="not present"/>
+    <SMOKER id="DOC1" status="unknown"/>
+    <DIABETES id="DOC2" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention"/>
   </TAGS>
 </root>

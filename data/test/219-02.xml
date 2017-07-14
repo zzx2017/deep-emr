@@ -47,30 +47,10 @@ A/P 1) BP - good control
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
-      <MEDICATION id="M0" start="184" end="191" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M1" start="184" end="191" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M2" start="184" end="191" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
-      <MEDICATION id="M3" start="184" end="191" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M4" start="184" end="191" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M5" start="184" end="191" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="after DCT" type1="statin" type2="">
-      <MEDICATION id="M6" start="184" end="191" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M7" start="184" end="191" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M8" start="184" end="191" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC3" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
-    </SMOKER>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="statin" type2=""/>
+    <FAMILY_HIST id="DOC3" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
   </TAGS>
 </root>

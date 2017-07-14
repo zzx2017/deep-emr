@@ -59,43 +59,13 @@ eScription document:2-0605694 BFFocus
 
 ]]></TEXT>
   <TAGS>
-    <OBESE id="DOC1" time="after DCT" indicator="mention">
-      <OBESE id="O0" start="637" end="642" text="obese" time="after DCT" indicator="mention" comment=""/>
-      <OBESE id="O1" start="637" end="642" text="obese" time="after DCT" indicator="mention" comment=""/>
-    </OBESE>
-    <OBESE id="DOC2" time="during DCT" indicator="mention">
-      <OBESE id="O2" start="637" end="642" text="obese" time="during DCT" indicator="mention" comment=""/>
-      <OBESE id="O3" start="637" end="642" text="obese" time="during DCT" indicator="mention" comment=""/>
-      <OBESE id="O4" start="637" end="642" text="obese" time="during DCT" indicator="mention" comment=""/>
-    </OBESE>
-    <OBESE id="DOC4" time="before DCT" indicator="mention">
-      <OBESE id="O5" start="637" end="642" text="obese" time="before DCT" indicator="mention" comment=""/>
-      <OBESE id="O6" start="637" end="642" text="obese" time="before DCT" indicator="mention" comment=""/>
-    </OBESE>
-    <FAMILY_HIST id="DOC5" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC6" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="after DCT" indicator="mention">
-      <DIABETES id="D0" start="920" end="928" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="920" end="928" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="920" end="928" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC3" time="during DCT" indicator="mention">
-      <DIABETES id="D3" start="920" end="928" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="920" end="928" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="920" end="928" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC7" time="before DCT" indicator="mention">
-      <DIABETES id="D6" start="920" end="928" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="920" end="928" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="920" end="928" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <OBESE id="DOC1" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC2" time="during DCT" indicator="mention"/>
+    <OBESE id="DOC4" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
   </TAGS>
 </root>

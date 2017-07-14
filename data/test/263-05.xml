@@ -73,25 +73,9 @@ eScription document:6-1192641 BFFocus
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
-      <MEDICATION id="M0" start="761" end="768" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M1" start="761" end="768" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M2" start="761" end="768" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC3" time="during DCT" type1="nitrate" type2="">
-      <MEDICATION id="M3" start="781" end="794" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M4" start="781" end="794" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M5" start="781" end="794" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC0" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC1" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="nitrate" type2=""/>
+    <FAMILY_HIST id="DOC0" indicator="not present"/>
+    <SMOKER id="DOC1" status="unknown"/>
   </TAGS>
 </root>

@@ -94,83 +94,20 @@ PNC Surgery
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC7" time="after DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY0" start="1596" end="1610" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="1596" end="1610" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY2" start="1596" end="1610" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC9" time="before DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY3" start="1596" end="1610" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY4" start="1596" end="1610" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY5" start="1596" end="1610" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY6" start="1596" end="1610" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY7" start="1596" end="1610" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY8" start="1596" end="1610" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
-      <MEDICATION id="M0" start="1638" end="1648" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M1" start="1638" end="1648" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M2" start="1638" end="1649" text="Lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
-      <MEDICATION id="M3" start="1676" end="1683" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M4" start="1676" end="1683" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M5" start="1676" end="1683" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
-      <MEDICATION id="M6" start="1676" end="1683" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M7" start="1676" end="1683" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M8" start="1676" end="1683" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
-      <MEDICATION id="M9" start="1638" end="1648" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M10" start="1638" end="1648" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M11" start="1638" end="1649" text="Lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC5" time="after DCT" type1="statin" type2="">
-      <MEDICATION id="M12" start="1676" end="1683" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M13" start="1676" end="1683" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M14" start="1676" end="1683" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC10" time="before DCT" type1="ACE inhibitor" type2="">
-      <MEDICATION id="M15" start="1638" end="1648" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M16" start="1638" end="1648" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M17" start="1638" end="1649" text="Lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H0" start="388" end="391" text="HTN" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H1" start="388" end="391" text="HTN" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H2" start="388" end="392" text="HTN " time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H3" start="1591" end="1594" text="HTN" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H4" start="388" end="391" text="HTN" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H5" start="388" end="391" text="HTN" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H6" start="388" end="392" text="HTN " time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H7" start="1591" end="1594" text="HTN" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H8" start="388" end="391" text="HTN" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H9" start="388" end="391" text="HTN" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H10" start="388" end="392" text="HTN " time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H11" start="1591" end="1594" text="HTN" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <CAD id="DOC6" time="before DCT" indicator="event">
-      <CAD id="C0" start="1619" end="1623" text="CABG" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C1" start="1619" end="1623" text="CABG" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C2" start="1618" end="1624" text=" CABG," time="before DCT" indicator="event" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC12" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC13" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC7" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC9" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <CAD id="DOC6" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC12" indicator="not present"/>
+    <SMOKER id="DOC13" status="unknown"/>
   </TAGS>
 </root>

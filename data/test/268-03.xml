@@ -307,224 +307,46 @@ Signed electronically by Riddle, Rhonda on Sep 25, 2092
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY0" start="1327" end="1341" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="1327" end="1341" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY2" start="1327" end="1341" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY3" start="1327" end="1341" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY4" start="1327" end="1341" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY5" start="1327" end="1341" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC26" time="after DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY6" start="1327" end="1341" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY7" start="1327" end="1341" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY8" start="1327" end="1341" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
-      <MEDICATION id="M0" start="3401" end="3408" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M1" start="3401" end="3408" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M2" start="3401" end="3408" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
-      <MEDICATION id="M3" start="3818" end="3825" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M4" start="3818" end="3825" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M5" start="3818" end="3825" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
-      <MEDICATION id="M6" start="3462" end="3472" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M7" start="3462" end="3472" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M8" start="3462" end="3472" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
-      <MEDICATION id="M9" start="3462" end="3472" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M10" start="3462" end="3472" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M11" start="3462" end="3472" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
-      <MEDICATION id="M12" start="3818" end="3825" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M13" start="3818" end="3825" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M14" start="3818" end="3825" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC9" time="after DCT" type1="nitrate" type2="">
-      <MEDICATION id="M15" start="3569" end="3576" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M16" start="3654" end="3659" text="Nitro" time="after DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M17" start="3569" end="3576" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M18" start="3654" end="3664" text="Nitro stat" time="after DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M19" start="3569" end="3576" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M20" start="3654" end="3659" text="Nitro" time="after DCT" type1="nitrate" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC10" time="during DCT" type1="nitrate" type2="">
-      <MEDICATION id="M21" start="3569" end="3576" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M22" start="3654" end="3659" text="Nitro" time="during DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M23" start="3569" end="3576" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M24" start="3654" end="3664" text="Nitro stat" time="during DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M25" start="3569" end="3576" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M26" start="3654" end="3659" text="Nitro" time="during DCT" type1="nitrate" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC11" time="during DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M27" start="3588" end="3596" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M28" start="3588" end="3596" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M29" start="3588" end="3596" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC13" time="after DCT" type1="sulfonylureas" type2="">
-      <MEDICATION id="M30" start="3539" end="3548" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M31" start="3539" end="3548" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M32" start="3539" end="3548" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC14" time="before DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M33" start="3183" end="3192" text="procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M34" start="3300" end="3307" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M35" start="3588" end="3596" text="Cardizem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M36" start="3588" end="3596" text="Cardizem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M37" start="3588" end="3596" text="Cardizem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC15" time="during DCT" type1="sulfonylureas" type2="">
-      <MEDICATION id="M38" start="3539" end="3548" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M39" start="3539" end="3548" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M40" start="3539" end="3548" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC17" time="after DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M41" start="3517" end="3525" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M42" start="3517" end="3525" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M43" start="3517" end="3525" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC19" time="after DCT" type1="ARB" type2="">
-      <MEDICATION id="M44" start="3639" end="3645" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
-      <MEDICATION id="M45" start="3639" end="3645" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
-      <MEDICATION id="M46" start="3639" end="3645" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC20" time="before DCT" type1="statin" type2="">
-      <MEDICATION id="M47" start="3401" end="3408" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M48" start="3401" end="3408" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M49" start="3401" end="3408" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC22" time="during DCT" type1="statin" type2="">
-      <MEDICATION id="M50" start="3401" end="3408" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M51" start="3401" end="3408" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-      <MEDICATION id="M52" start="3401" end="3408" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC24" time="before DCT" type1="metformin" type2="">
-      <MEDICATION id="M53" start="3462" end="3472" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M54" start="3462" end="3472" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M55" start="3462" end="3472" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC28" time="before DCT" type1="aspirin" type2="">
-      <MEDICATION id="M56" start="3818" end="3825" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M57" start="3818" end="3825" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M58" start="3818" end="3825" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC29" time="before DCT" type1="nitrate" type2="">
-      <MEDICATION id="M59" start="3569" end="3576" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M60" start="3654" end="3659" text="Nitro" time="before DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M61" start="3569" end="3576" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M62" start="3654" end="3664" text="Nitro stat" time="before DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M63" start="3569" end="3576" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M64" start="3654" end="3659" text="Nitro" time="before DCT" type1="nitrate" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC33" time="before DCT" type1="sulfonylureas" type2="">
-      <MEDICATION id="M65" start="3539" end="3548" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M66" start="3539" end="3548" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M67" start="3539" end="3548" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC34" time="after DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M68" start="3588" end="3596" text="Cardizem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M69" start="3588" end="3596" text="Cardizem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M70" start="3588" end="3596" text="Cardizem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC36" time="before DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M71" start="3517" end="3525" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M72" start="3517" end="3525" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M73" start="3517" end="3525" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC37" time="during DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M74" start="3517" end="3525" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M75" start="3517" end="3525" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M76" start="3517" end="3525" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC39" time="during DCT" type1="ARB" type2="">
-      <MEDICATION id="M77" start="3639" end="3645" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
-      <MEDICATION id="M78" start="3639" end="3645" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
-      <MEDICATION id="M79" start="3639" end="3645" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC40" time="before DCT" type1="ARB" type2="">
-      <MEDICATION id="M80" start="3639" end="3645" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
-      <MEDICATION id="M81" start="3639" end="3645" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
-      <MEDICATION id="M82" start="3639" end="3645" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H0" start="1067" end="1079" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H1" start="1067" end="1079" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H2" start="1067" end="1079" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC16" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H3" start="1067" end="1079" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H4" start="1067" end="1079" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H5" start="1067" end="1079" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC35" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H6" start="1067" end="1079" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H7" start="1067" end="1079" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="1067" end="1079" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <CAD id="DOC18" time="after DCT" indicator="mention">
-      <CAD id="C0" start="1035" end="1065" text="Coronary artery disease MAJOR " time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C1" start="1035" end="1058" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C2" start="1035" end="1058" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC21" time="before DCT" indicator="symptom">
-      <CAD id="C3" start="1171" end="1186" text="Angina pectoris" time="before DCT" indicator="symptom" comment=""/>
-      <CAD id="C4" start="1171" end="1186" text="Angina pectoris" time="before DCT" indicator="symptom" comment=""/>
-      <CAD id="C5" start="2146" end="2161" text="Unstable angina" time="before DCT" indicator="symptom" comment=""/>
-      <CAD id="C6" start="240" end="262" text="pressure in his chest." time="before DCT" indicator="symptom" comment=""/>
-    </CAD>
-    <CAD id="DOC23" time="before DCT" indicator="test">
-      <CAD id="C7" start="2146" end="2185" text="Unstable angina 1/86 cath lad stenosis." time="before DCT" indicator="test" comment=""/>
-      <CAD id="C8" start="2195" end="2231" text=" ETT 3/2091 mild ant./basal ischemia" time="before DCT" indicator="test" comment=""/>
-      <CAD id="C9" start="2167" end="2184" text="cath lad stenosis" time="before DCT" indicator="test" comment=""/>
-      <CAD id="C10" start="2196" end="2231" text="ETT 3/2091 mild ant./basal ischemia" time="before DCT" indicator="test" comment=""/>
-      <CAD id="C11" start="2167" end="2184" text="cath lad stenosis" time="before DCT" indicator="test" comment=""/>
-    </CAD>
-    <CAD id="DOC27" time="during DCT" indicator="mention">
-      <CAD id="C12" start="1035" end="1065" text="Coronary artery disease MAJOR " time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C13" start="1035" end="1058" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C14" start="1035" end="1058" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC32" time="before DCT" indicator="event">
-      <CAD id="C15" start="4161" end="4207" text="coronary artery bypass surgery in August 2081." time="before DCT" indicator="event" comment=""/>
-      <CAD id="C16" start="4161" end="4206" text="coronary artery bypass surgery in August 2081" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C17" start="4161" end="4192" text="coronary artery bypass surgery " time="before DCT" indicator="event" comment=""/>
-    </CAD>
-    <CAD id="DOC38" time="before DCT" indicator="mention">
-      <CAD id="C18" start="1035" end="1065" text="Coronary artery disease MAJOR " time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C19" start="1035" end="1058" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C20" start="1035" end="1058" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC25" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC30" status="never">
-      <SMOKER id="S0" start="4870" end="4900" text="Smoking status: never smoked  " status="never" comment=""/>
-      <SMOKER id="S1" start="4886" end="4898" text="never smoked" status="never" comment=""/>
-      <SMOKER id="S2" start="4886" end="4898" text="never smoked" status="never" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC6" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="1088" end="1112" text="Diabetes mellitus MAJOR " time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="1088" end="1105" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="1088" end="1105" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC8" time="during DCT" indicator="mention">
-      <DIABETES id="D3" start="1088" end="1112" text="Diabetes mellitus MAJOR " time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="1088" end="1105" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="1088" end="1105" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC31" time="after DCT" indicator="mention">
-      <DIABETES id="D6" start="1088" end="1112" text="Diabetes mellitus MAJOR " time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="1088" end="1105" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="1088" end="1105" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC26" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC15" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC17" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC19" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC29" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC33" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC34" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC36" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC37" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC39" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC40" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC16" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC35" time="before DCT" indicator="mention"/>
+    <CAD id="DOC18" time="after DCT" indicator="mention"/>
+    <CAD id="DOC21" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC23" time="before DCT" indicator="test"/>
+    <CAD id="DOC27" time="during DCT" indicator="mention"/>
+    <CAD id="DOC32" time="before DCT" indicator="event"/>
+    <CAD id="DOC38" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC25" indicator="not present"/>
+    <SMOKER id="DOC30" status="never"/>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC31" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

@@ -104,51 +104,13 @@ Faye Easley, NP
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC1" time="after DCT" type1="insulin" type2="">
-      <MEDICATION id="M0" start="317" end="342" text=" requiring insulin since " time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M1" start="297" end="304" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M2" start="328" end="335" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
-      <MEDICATION id="M3" start="317" end="342" text=" requiring insulin since " time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M4" start="297" end="304" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M5" start="328" end="335" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="during DCT" type1="insulin" type2="">
-      <MEDICATION id="M6" start="317" end="342" text=" requiring insulin since " time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M7" start="297" end="304" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M8" start="328" end="335" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC5" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC7" status="never">
-      <SMOKER id="S0" start="2187" end="2197" text="Non-smoker" status="never" comment=""/>
-      <SMOKER id="S1" start="2187" end="2197" text="Non-smoker" status="never" comment=""/>
-      <SMOKER id="S2" start="2187" end="2197" text="Non-smoker" status="never" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="218" end="226" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="218" end="226" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="211" end="226" text="type 1 diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D3" start="1072" end="1080" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="3111" end="3115" text="T1DM" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC3" time="during DCT" indicator="mention">
-      <DIABETES id="D5" start="218" end="226" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D6" start="218" end="226" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="211" end="226" text="type 1 diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="1072" end="1080" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D9" start="3111" end="3115" text="T1DM" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC6" time="after DCT" indicator="mention">
-      <DIABETES id="D10" start="218" end="226" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D11" start="218" end="226" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D12" start="211" end="226" text="type 1 diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D13" start="1072" end="1080" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D14" start="3111" end="3115" text="T1DM" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <MEDICATION id="DOC1" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="insulin" type2=""/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC7" status="never"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

@@ -83,30 +83,10 @@ Dictated by:  HAROLD OSBORNE, M.D.       HO97
 
 ]]></TEXT>
   <TAGS>
-    <HYPERTENSION id="DOC0" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H0" start="880" end="892" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H1" start="880" end="892" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H2" start="880" end="892" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H3" start="880" end="892" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H4" start="880" end="892" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H5" start="880" end="892" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC3" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H6" start="880" end="892" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H7" start="880" end="892" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="880" end="892" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC1" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="unknown">
-      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <HYPERTENSION id="DOC0" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC3" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC1" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
   </TAGS>
 </root>

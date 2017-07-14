@@ -338,138 +338,27 @@ Internal Medicine PGY1
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY0" start="411" end="423" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="2041" end="2061" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY2" start="4311" end="4323" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY3" start="411" end="423" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY4" start="2041" end="2061" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY5" start="411" end="423" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY6" start="2041" end="2061" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY7" start="4311" end="4323" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY8" start="411" end="423" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY9" start="2041" end="2061" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC14" time="after DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY10" start="411" end="423" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY11" start="2041" end="2061" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY12" start="4311" end="4323" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY13" start="411" end="423" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY14" start="2041" end="2061" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
-      <MEDICATION id="M0" start="2401" end="2404" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M1" start="2401" end="2404" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M2" start="2401" end="2404" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="after DCT" type1="aspirin" type2="">
-      <MEDICATION id="M3" start="2401" end="2404" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M4" start="2401" end="2404" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M5" start="2401" end="2404" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC6" time="before DCT" type1="diuretic" type2="">
-      <MEDICATION id="M6" start="2436" end="2440" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M7" start="2466" end="2470" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M8" start="6587" end="6592" text="HCTZ " time="before DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M9" start="6607" end="6621" text="Aliskiren/HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M10" start="2436" end="2440" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M11" start="2436" end="2440" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC8" time="during DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M12" start="2349" end="2359" text="Amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M13" start="2349" end="2359" text="Amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC9" time="after DCT" type1="insulin" type2="">
-      <MEDICATION id="M14" start="4963" end="5006" text="SSI with meals (convert daily usage to NPH)" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M15" start="637" end="644" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC10" time="before DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M16" start="2349" end="2359" text="Amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M17" start="2349" end="2359" text="Amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M18" start="2349" end="2359" text="Amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC13" time="during DCT" type1="diuretic" type2="">
-      <MEDICATION id="M19" start="2436" end="2440" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M20" start="2466" end="2470" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M21" start="6587" end="6592" text="HCTZ " time="during DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M22" start="6607" end="6621" text="Aliskiren/HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M23" start="2436" end="2440" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M24" start="2436" end="2440" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2="">
-      <MEDICATION id="M25" start="2401" end="2404" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M26" start="2401" end="2404" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M27" start="2401" end="2404" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC16" time="before DCT" type1="insulin" type2="">
-      <MEDICATION id="M28" start="1126" end="1141" text="regular insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M29" start="4716" end="4724" text=" insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M30" start="637" end="644" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M31" start="1134" end="1141" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC17" time="after DCT" type1="diuretic" type2="">
-      <MEDICATION id="M32" start="2436" end="2440" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M33" start="2466" end="2470" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M34" start="6587" end="6592" text="HCTZ " time="after DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M35" start="6607" end="6621" text="Aliskiren/HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M36" start="2436" end="2440" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M37" start="2436" end="2440" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC18" time="after DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M38" start="5443" end="5459" text="dilt (30 mg TID)" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M39" start="2349" end="2359" text="Amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M40" start="2349" end="2359" text="Amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC20" time="during DCT" type1="insulin" type2="">
-      <MEDICATION id="M41" start="4934" end="4958" text="10 U regular insulin now" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M42" start="637" end="644" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H0" start="406" end="409" text="HTN" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H1" start="2012" end="2024" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H2" start="4306" end="4310" text="HTN," time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H3" start="6524" end="6527" text="HTN" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H4" start="406" end="409" text="HTN" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H5" start="406" end="409" text="HTN" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H6" start="406" end="409" text="HTN" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H7" start="2012" end="2024" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="4306" end="4310" text="HTN," time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H9" start="6524" end="6527" text="HTN" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H10" start="406" end="409" text="HTN" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H11" start="406" end="409" text="HTN" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H12" start="406" end="409" text="HTN" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H13" start="2012" end="2024" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H14" start="4306" end="4310" text="HTN," time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H15" start="6524" end="6527" text="HTN" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H16" start="406" end="409" text="HTN" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H17" start="406" end="409" text="HTN" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC21" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC3" status="past">
-      <SMOKER id="S0" start="2625" end="2651" text="60 pk year smoking history" status="past" comment=""/>
-      <SMOKER id="S1" start="2652" end="2671" text=" but none currently" status="past" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC1" time="before DCT" indicator="A1C">
-      <DIABETES id="D0" start="4581" end="4593" text="HgbA1c 6.80 " time="before DCT" indicator="A1C" comment=""/>
-      <DIABETES id="D1" start="4581" end="4604" text="HgbA1c 6.80 in the past" time="before DCT" indicator="A1C" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC12" time="before DCT" indicator="glucose">
-      <DIABETES id="D2" start="924" end="936" text="FSBG&amp;gt;500." time="before DCT" indicator="glucose" comment=""/>
-      <DIABETES id="D3" start="974" end="988" text="glucose of 804" time="before DCT" indicator="glucose" comment=""/>
-      <DIABETES id="D4" start="1163" end="1170" text="Glu 479" time="before DCT" indicator="glucose" comment=""/>
-      <DIABETES id="D5" start="974" end="990" text="glucose of 804. " time="before DCT" indicator="glucose" comment=""/>
-      <DIABETES id="D6" start="1163" end="1170" text="Glu 479" time="before DCT" indicator="glucose" comment=""/>
-      <DIABETES id="D7" start="974" end="988" text="glucose of 804" time="before DCT" indicator="glucose" comment=""/>
-    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC14" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC17" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC18" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC20" time="during DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC21" indicator="not present"/>
+    <SMOKER id="DOC3" status="past"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="A1C"/>
+    <DIABETES id="DOC12" time="before DCT" indicator="glucose"/>
   </TAGS>
 </root>

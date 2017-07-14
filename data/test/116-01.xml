@@ -53,24 +53,9 @@ Dictated by:  FRANK E. BENDER, M.D.  FB25
 
 ]]></TEXT>
   <TAGS>
-    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="838" end="845" text="177/90," time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="838" end="844" text="177/90" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H2" start="837" end="844" text=" 177/90" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC0" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC1" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC3" time="during DCT" indicator="glucose">
-      <DIABETES id="D0" start="1534" end="1545" text="glucose 230" time="during DCT" indicator="glucose" comment=""/>
-      <DIABETES id="D1" start="1534" end="1545" text="glucose 230" time="during DCT" indicator="glucose" comment=""/>
-    </DIABETES>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC0" indicator="not present"/>
+    <SMOKER id="DOC1" status="unknown"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="glucose"/>
   </TAGS>
 </root>

@@ -95,43 +95,12 @@ Regular      8 Units                  Blood Sugar under 101
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC1" time="after DCT" type1="insulin" type2="">
-      <MEDICATION id="M0" start="552" end="555" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M1" start="560" end="576" text="Regular insulins" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M2" start="785" end="788" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M3" start="808" end="815" text="Regular" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M4" start="1249" end="1256" text="Regular" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M5" start="552" end="555" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M6" start="560" end="576" text="Regular insulins" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M7" start="441" end="449" text="insulin " time="after DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
-      <MEDICATION id="M8" start="497" end="506" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M9" start="685" end="694" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M10" start="497" end="506" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M11" start="497" end="506" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC4" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC5" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="after DCT" indicator="mention">
-      <DIABETES id="D0" start="290" end="298" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="290" end="299" text="Diabetes " time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC3" time="during DCT" indicator="mention">
-      <DIABETES id="D2" start="290" end="298" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D3" start="290" end="299" text="Diabetes " time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC6" time="before DCT" indicator="mention">
-      <DIABETES id="D4" start="290" end="298" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="290" end="299" text="Diabetes " time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <MEDICATION id="DOC1" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <FAMILY_HIST id="DOC4" indicator="not present"/>
+    <SMOKER id="DOC5" status="unknown"/>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention"/>
   </TAGS>
 </root>

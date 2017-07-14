@@ -70,35 +70,11 @@ Note:  The duration of this visit was 25 minutes with the majority of the time s
 
 ]]></TEXT>
   <TAGS>
-    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="1859" end="1868" text="above 160" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="1851" end="1868" text=" it was above 160" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H2" start="1865" end="1869" text="160 " time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC3" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="1018" end="1026" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="1018" end="1026" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="1018" end="1026" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC2" time="during DCT" indicator="mention">
-      <DIABETES id="D3" start="1018" end="1026" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="1018" end="1026" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="1018" end="1026" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC5" time="after DCT" indicator="mention">
-      <DIABETES id="D6" start="1018" end="1026" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="1018" end="1026" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="1018" end="1026" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC3" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

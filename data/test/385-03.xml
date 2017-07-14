@@ -57,45 +57,13 @@ DV: 09/04/88
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC1" time="after DCT" type1="insulin" type2="">
-      <MEDICATION id="M0" start="1092" end="1100" text="insulin " time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M1" start="1035" end="1041" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC3" time="during DCT" type1="insulin" type2="">
-      <MEDICATION id="M2" start="1092" end="1100" text="insulin " time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M3" start="1035" end="1041" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC7" time="before DCT" type1="insulin" type2="">
-      <MEDICATION id="M4" start="1092" end="1100" text="insulin " time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M5" start="1035" end="1041" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC4" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC5" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="414" end="422" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="414" end="422" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="414" end="457" text="Diabetes mellitus type 2, insulin dependent" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D3" start="937" end="945" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC2" time="during DCT" indicator="mention">
-      <DIABETES id="D4" start="414" end="422" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="414" end="422" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D6" start="414" end="457" text="Diabetes mellitus type 2, insulin dependent" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="937" end="945" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC6" time="after DCT" indicator="mention">
-      <DIABETES id="D8" start="414" end="422" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D9" start="414" end="422" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D10" start="414" end="457" text="Diabetes mellitus type 2, insulin dependent" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D11" start="937" end="945" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <MEDICATION id="DOC1" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="insulin" type2=""/>
+    <FAMILY_HIST id="DOC4" indicator="not present"/>
+    <SMOKER id="DOC5" status="unknown"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

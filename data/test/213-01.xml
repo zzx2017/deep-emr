@@ -117,68 +117,19 @@ Dictated by:  AMANDA A. VAUGHT, M.D.     AV55
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
-      <MEDICATION id="M0" start="1304" end="1311" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M1" start="1304" end="1311" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M2" start="1304" end="1311" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
-      <MEDICATION id="M3" start="1293" end="1299" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M4" start="1293" end="1299" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M5" start="1293" end="1299" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
-      <MEDICATION id="M6" start="1304" end="1311" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M7" start="1304" end="1311" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M8" start="1304" end="1311" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC7" time="after DCT" type1="thienopyridine" type2="">
-      <MEDICATION id="M9" start="1293" end="1299" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M10" start="1293" end="1299" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M11" start="1293" end="1299" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
-      <MEDICATION id="M12" start="1304" end="1311" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M13" start="1304" end="1311" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M14" start="1304" end="1311" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC13" time="before DCT" type1="thienopyridine" type2="">
-      <MEDICATION id="M15" start="1293" end="1299" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M16" start="1293" end="1299" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M17" start="1293" end="1299" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H0" start="1107" end="1120" text="hypertension " time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H1" start="1107" end="1119" text="hypertension" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H2" start="1107" end="1120" text="hypertension " time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H3" start="1107" end="1119" text="hypertension" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H4" start="1107" end="1120" text="hypertension " time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H5" start="1107" end="1119" text="hypertension" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC10" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC12" status="never">
-      <SMOKER id="S0" start="1394" end="1413" text="No current tobacco " status="never" comment=""/>
-      <SMOKER id="S1" start="1394" end="1412" text="No current tobacco" status="never" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="1097" end="1105" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="1097" end="1105" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC3" time="during DCT" indicator="mention">
-      <DIABETES id="D2" start="1097" end="1105" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D3" start="1097" end="1105" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC6" time="after DCT" indicator="mention">
-      <DIABETES id="D4" start="1097" end="1105" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="1097" end="1105" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="thienopyridine" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC10" indicator="not present"/>
+    <SMOKER id="DOC12" status="never"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

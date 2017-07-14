@@ -53,39 +53,12 @@ Dictated by:  IVAN UHER, M.D.  IU67
 
 ]]></TEXT>
   <TAGS>
-    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="1322" end="1343" text="Blood Pressure 163/89" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="1322" end="1343" text="Blood Pressure 163/89" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H2" start="1322" end="1343" text="Blood Pressure 163/89" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <CAD id="DOC0" time="before DCT" indicator="mention">
-      <CAD id="C0" start="363" end="386" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C1" start="363" end="386" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C2" start="352" end="386" text="history of coronary artery disease" time="before DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC2" time="before DCT" indicator="symptom">
-      <CAD id="C3" start="749" end="817" text="pressure like sensation in the left chest with radiation to the neck" time="before DCT" indicator="symptom" comment=""/>
-      <CAD id="C4" start="749" end="817" text="pressure like sensation in the left chest with radiation to the neck" time="before DCT" indicator="symptom" comment=""/>
-    </CAD>
-    <CAD id="DOC3" time="during DCT" indicator="mention">
-      <CAD id="C5" start="363" end="386" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C6" start="363" end="386" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C7" start="352" end="386" text="history of coronary artery disease" time="during DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC6" time="after DCT" indicator="mention">
-      <CAD id="C8" start="363" end="386" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C9" start="363" end="386" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C10" start="352" end="386" text="history of coronary artery disease" time="after DCT" indicator="mention" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC4" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC5" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp"/>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC2" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC3" time="during DCT" indicator="mention"/>
+    <CAD id="DOC6" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC4" indicator="not present"/>
+    <SMOKER id="DOC5" status="unknown"/>
   </TAGS>
 </root>

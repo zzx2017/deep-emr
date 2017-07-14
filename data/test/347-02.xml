@@ -212,111 +212,23 @@ DV: 12/09/95
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
-      <MEDICATION id="M0" start="3708" end="3718" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M1" start="3708" end="3718" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M2" start="3708" end="3718" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
-      <MEDICATION id="M3" start="3871" end="3898" text="Enteric-coated baby aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M4" start="3891" end="3899" text="aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M5" start="3871" end="3898" text="Enteric-coated baby aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC3" time="before DCT" type1="sulfonylureas" type2="">
-      <MEDICATION id="M6" start="3263" end="3272" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M7" start="3802" end="3811" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M8" start="3263" end="3272" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M9" start="3802" end="3811" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M10" start="6915" end="6924" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
-      <MEDICATION id="M11" start="3871" end="3898" text="Enteric-coated baby aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M12" start="3891" end="3899" text="aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M13" start="3871" end="3898" text="Enteric-coated baby aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
-      <MEDICATION id="M14" start="3708" end="3718" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M15" start="3708" end="3718" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M16" start="3708" end="3718" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2="">
-      <MEDICATION id="M17" start="3263" end="3272" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M18" start="3802" end="3811" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M19" start="3263" end="3272" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M20" start="3802" end="3811" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M21" start="6915" end="6924" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC9" time="after DCT" type1="ACE inhibitor" type2="">
-      <MEDICATION id="M22" start="3708" end="3718" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M23" start="3708" end="3718" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
-      <MEDICATION id="M24" start="3708" end="3718" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC10" time="during DCT" type1="sulfonylureas" type2="">
-      <MEDICATION id="M25" start="3263" end="3272" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M26" start="3802" end="3811" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M27" start="3263" end="3272" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M28" start="3802" end="3811" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M29" start="6915" end="6924" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC13" time="after DCT" type1="aspirin" type2="">
-      <MEDICATION id="M30" start="3871" end="3898" text="Enteric-coated baby aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M31" start="3891" end="3899" text="aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M32" start="3871" end="3898" text="Enteric-coated baby aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="5014" end="5082" text=" BP 214/108, initially (patient very anxious), and 171/74 on repeat." time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="5015" end="5026" text="BP 214/108," time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H2" start="5015" end="5025" text="BP 214/108" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H3" start="5065" end="5081" text="171/74 on repeat" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H4" start="3354" end="3366" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H5" start="3354" end="3367" text="Hypertension." time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H6" start="3354" end="3366" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H7" start="7603" end="7615" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="7691" end="7710" text="severe hypertension" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC12" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H9" start="3354" end="3366" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H10" start="3354" end="3367" text="Hypertension." time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H11" start="3354" end="3366" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H12" start="7603" end="7615" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H13" start="7691" end="7710" text="severe hypertension" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC16" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H14" start="3354" end="3366" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H15" start="3354" end="3367" text="Hypertension." time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H16" start="3354" end="3366" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H17" start="7603" end="7615" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H18" start="7691" end="7710" text="severe hypertension" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC14" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC15" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" start="4538" end="4544" text="SOCIAL" status="unknown" comment=""/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
-    <DIABETES id="DOC1" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="3240" end="3257" text="Diabetes, type II" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="3240" end="3248" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="3240" end="3257" text="Diabetes, type II" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D3" start="6759" end="6767" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC11" time="after DCT" indicator="mention">
-      <DIABETES id="D4" start="3240" end="3257" text="Diabetes, type II" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="3240" end="3248" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D6" start="3240" end="3257" text="Diabetes, type II" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="6759" end="6767" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC17" time="during DCT" indicator="mention">
-      <DIABETES id="D8" start="3240" end="3257" text="Diabetes, type II" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D9" start="3240" end="3248" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D10" start="3240" end="3257" text="Diabetes, type II" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D11" start="6759" end="6767" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="aspirin" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC16" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC15" status="unknown"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC17" time="during DCT" indicator="mention"/>
   </TAGS>
 </root>

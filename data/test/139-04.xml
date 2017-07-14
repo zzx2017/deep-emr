@@ -68,35 +68,11 @@ HW/warren/stark
 
 ]]></TEXT>
   <TAGS>
-    <CAD id="DOC0" time="before DCT" indicator="mention">
-      <CAD id="C0" start="1627" end="1630" text="CAD" time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C1" start="1627" end="1630" text="CAD" time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C2" start="1627" end="1630" text="CAD" time="before DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC1" time="before DCT" indicator="event">
-      <CAD id="C3" start="148" end="171" text="emergent bypass surgery" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C4" start="157" end="163" text="bypass" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C5" start="116" end="171" text="status post hospitalization for emergent bypass surgery" time="before DCT" indicator="event" comment=""/>
-    </CAD>
-    <CAD id="DOC2" time="during DCT" indicator="mention">
-      <CAD id="C6" start="1627" end="1630" text="CAD" time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C7" start="1627" end="1630" text="CAD" time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C8" start="1627" end="1630" text="CAD" time="during DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC5" time="after DCT" indicator="mention">
-      <CAD id="C9" start="1627" end="1630" text="CAD" time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C10" start="1627" end="1630" text="CAD" time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C11" start="1627" end="1630" text="CAD" time="after DCT" indicator="mention" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC3" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC1" time="before DCT" indicator="event"/>
+    <CAD id="DOC2" time="during DCT" indicator="mention"/>
+    <CAD id="DOC5" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC3" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
   </TAGS>
 </root>

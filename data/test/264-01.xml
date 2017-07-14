@@ -95,33 +95,11 @@ Dictated by:  ORLANDO R. PIERRE, M.D.   OP63
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
-      <MEDICATION id="M0" start="1663" end="1670" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M1" start="1663" end="1670" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-      <MEDICATION id="M2" start="1663" end="1670" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC5" time="during DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M3" start="1672" end="1685" text="beta blockers" time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M4" start="1672" end="1685" text="beta blockers" time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M5" start="1672" end="1685" text="beta blockers" time="during DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <CAD id="DOC1" time="before DCT" indicator="event">
-      <CAD id="C0" start="836" end="858" text="myocardial infarction " time="before DCT" indicator="event" comment=""/>
-      <CAD id="C1" start="836" end="857" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C2" start="836" end="857" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
-    </CAD>
-    <CAD id="DOC3" time="before DCT" indicator="symptom">
-      <CAD id="C3" start="680" end="690" text="chest pain" time="before DCT" indicator="symptom" comment=""/>
-      <CAD id="C4" start="411" end="426" text="chest tightness" time="before DCT" indicator="symptom" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC4" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC2" status="past">
-      <SMOKER id="S0" start="999" end="1010" text="past smoker" status="past" comment=""/>
-      <SMOKER id="S1" start="999" end="1010" text="past smoker" status="past" comment=""/>
-    </SMOKER>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="beta blocker" type2=""/>
+    <CAD id="DOC1" time="before DCT" indicator="event"/>
+    <CAD id="DOC3" time="before DCT" indicator="symptom"/>
+    <FAMILY_HIST id="DOC4" indicator="not present"/>
+    <SMOKER id="DOC2" status="past"/>
   </TAGS>
 </root>

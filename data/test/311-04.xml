@@ -137,63 +137,16 @@ eScription document:0-6602107 BFFocus
 
 ]]></TEXT>
   <TAGS>
-    <OBESE id="DOC2" time="after DCT" indicator="mention">
-      <OBESE id="O0" start="1508" end="1515" text="obesity" time="after DCT" indicator="mention" comment=""/>
-      <OBESE id="O1" start="1508" end="1515" text="obesity" time="after DCT" indicator="mention" comment=""/>
-      <OBESE id="O2" start="1508" end="1515" text="obesity" time="after DCT" indicator="mention" comment=""/>
-    </OBESE>
-    <OBESE id="DOC4" time="during DCT" indicator="mention">
-      <OBESE id="O3" start="1508" end="1515" text="obesity" time="during DCT" indicator="mention" comment=""/>
-      <OBESE id="O4" start="1508" end="1515" text="obesity" time="during DCT" indicator="mention" comment=""/>
-      <OBESE id="O5" start="1508" end="1515" text="obesity" time="during DCT" indicator="mention" comment=""/>
-    </OBESE>
-    <OBESE id="DOC7" time="before DCT" indicator="mention">
-      <OBESE id="O6" start="1508" end="1515" text="obesity" time="before DCT" indicator="mention" comment=""/>
-      <OBESE id="O7" start="1508" end="1515" text="obesity" time="before DCT" indicator="mention" comment=""/>
-      <OBESE id="O8" start="1508" end="1515" text="obesity" time="before DCT" indicator="mention" comment=""/>
-    </OBESE>
-    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M0" start="2367" end="2424" text="20 mg without significant response, followed by 40  mg ID" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M1" start="2509" end="2518" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M2" start="2367" end="2372" text="20 mg" time="during DCT" type1="calcium channel blocker" type2="" comment="Diltiazem"/>
-      <MEDICATION id="M3" start="2415" end="2424" text="40  mg ID" time="during DCT" type1="calcium channel blocker" type2="" comment="Diltiazem"/>
-      <MEDICATION id="M4" start="2509" end="2518" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC3" time="before DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M5" start="951" end="960" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M6" start="2301" end="2310" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M7" start="951" end="960" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M8" start="2301" end="2310" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC5" time="after DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M9" start="2681" end="2700" text="diltiazem overnight" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M10" start="2649" end="2700" text="She should get an oral dose of  diltiazem overnight" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M11" start="2681" end="2690" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC8" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC9" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
-    <DIABETES id="DOC1" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="443" end="467" text="diabetes mellitus type 2" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="443" end="467" text="diabetes mellitus type 2" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="443" end="468" text="diabetes mellitus type 2 " time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC6" time="during DCT" indicator="mention">
-      <DIABETES id="D3" start="443" end="467" text="diabetes mellitus type 2" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="443" end="467" text="diabetes mellitus type 2" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="443" end="468" text="diabetes mellitus type 2 " time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC10" time="after DCT" indicator="mention">
-      <DIABETES id="D6" start="443" end="467" text="diabetes mellitus type 2" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="443" end="467" text="diabetes mellitus type 2" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="443" end="468" text="diabetes mellitus type 2 " time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <OBESE id="DOC2" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC4" time="during DCT" indicator="mention"/>
+    <OBESE id="DOC7" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <FAMILY_HIST id="DOC8" indicator="not present"/>
+    <SMOKER id="DOC9" status="unknown"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

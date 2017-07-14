@@ -57,50 +57,14 @@ cc:  Georgia Xing, M.D.
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY0" start="386" end="406" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="386" end="406" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY2" start="386" end="406" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC4" time="after DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY3" start="386" end="406" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY4" start="386" end="406" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY5" start="386" end="406" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY6" start="386" end="406" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY7" start="386" end="406" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY8" start="386" end="406" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERTENSION id="DOC0" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H0" start="369" end="381" text="hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H1" start="369" end="381" text="hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H2" start="369" end="381" text="hypertension" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H3" start="1517" end="1534" text="BP sitting 145/70" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H4" start="1528" end="1534" text="145/70" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H5" start="1517" end="1534" text="BP sitting 145/70" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H6" start="369" end="381" text="hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H7" start="369" end="381" text="hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="369" end="381" text="hypertension" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC5" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H9" start="369" end="381" text="hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H10" start="369" end="381" text="hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H11" start="369" end="381" text="hypertension" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC6" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC7" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC4" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC0" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC6" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
   </TAGS>
 </root>

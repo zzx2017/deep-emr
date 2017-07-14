@@ -45,35 +45,11 @@ Dictated by:  CHRISTOPHER LEMUS, M.D.       CL58
 
 ]]></TEXT>
   <TAGS>
-    <CAD id="DOC1" time="before DCT" indicator="event">
-      <CAD id="C0" start="764" end="788" text=" myocardial  infarction," time="before DCT" indicator="event" comment=""/>
-      <CAD id="C1" start="765" end="787" text="myocardial  infarction" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C2" start="765" end="787" text="myocardial  infarction" time="before DCT" indicator="event" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC3" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="807" end="815" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="807" end="815" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="789" end="815" text="insulin dependent diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC2" time="during DCT" indicator="mention">
-      <DIABETES id="D3" start="807" end="815" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="807" end="815" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="789" end="815" text="insulin dependent diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC5" time="after DCT" indicator="mention">
-      <DIABETES id="D6" start="807" end="815" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="807" end="815" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="789" end="815" text="insulin dependent diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <CAD id="DOC1" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC3" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

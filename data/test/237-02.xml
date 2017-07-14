@@ -56,32 +56,11 @@ Document Status: Final
 
 ]]></TEXT>
   <TAGS>
-    <CAD id="DOC0" time="before DCT" indicator="mention">
-      <CAD id="C0" start="419" end="437" text=" coronary disease." time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C1" start="319" end="335" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC1" time="before DCT" indicator="event">
-      <CAD id="C2" start="1257" end="1279" text="coronary bypass graft " time="before DCT" indicator="event" comment=""/>
-      <CAD id="C3" start="1257" end="1287" text="coronary bypass graft in 2082," time="before DCT" indicator="event" comment=""/>
-      <CAD id="C4" start="1988" end="2005" text=" bypass operation" time="before DCT" indicator="event" comment=""/>
-    </CAD>
-    <CAD id="DOC2" time="during DCT" indicator="mention">
-      <CAD id="C5" start="419" end="437" text=" coronary disease." time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C6" start="319" end="335" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC5" time="after DCT" indicator="mention">
-      <CAD id="C7" start="419" end="437" text=" coronary disease." time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C8" start="319" end="335" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC3" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
-    </SMOKER>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC1" time="before DCT" indicator="event"/>
+    <CAD id="DOC2" time="during DCT" indicator="mention"/>
+    <CAD id="DOC5" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC3" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
   </TAGS>
 </root>

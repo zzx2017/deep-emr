@@ -119,46 +119,13 @@ Internal Medicine B Attending
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC0" time="before DCT" type1="ARB" type2="diuretic">
-      <MEDICATION id="M0" start="367" end="373" text="Hyzaar" time="before DCT" type1="ARB" type2="diuretic" comment=""/>
-      <MEDICATION id="M1" start="367" end="373" text="Hyzaar" time="before DCT" type1="ARB" type2="diuretic" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC1" time="during DCT" type1="ARB" type2="diuretic">
-      <MEDICATION id="M2" start="6519" end="6528" text="Stop HCTZ" time="during DCT" type1="ARB" type2="diuretic" comment=""/>
-      <MEDICATION id="M3" start="367" end="373" text="Hyzaar" time="during DCT" type1="ARB" type2="diuretic" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H0" start="341" end="353" text="hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H1" start="341" end="354" text="hypertension " time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H2" start="341" end="353" text="hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H3" start="5481" end="5493" text="hypertension" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H4" start="1689" end="1698" text="BP 158/79" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H5" start="1689" end="1698" text="BP 158/79" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H6" start="1689" end="1698" text="BP 158/79" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H7" start="341" end="353" text="hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="341" end="354" text="hypertension " time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H9" start="341" end="353" text="hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H10" start="5481" end="5493" text="hypertension" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H11" start="341" end="353" text="hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H12" start="341" end="354" text="hypertension " time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H13" start="341" end="353" text="hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H14" start="5481" end="5493" text="hypertension" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC6" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC7" status="never">
-      <SMOKER id="S0" start="318" end="327" text="Nonsmoker" status="never" comment=""/>
-      <SMOKER id="S1" start="318" end="327" text="Nonsmoker" status="never" comment=""/>
-      <SMOKER id="S2" start="318" end="327" text="Nonsmoker" status="never" comment=""/>
-    </SMOKER>
+    <MEDICATION id="DOC0" time="before DCT" type1="ARB" type2="diuretic"/>
+    <MEDICATION id="DOC1" time="during DCT" type1="ARB" type2="diuretic"/>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC6" indicator="not present"/>
+    <SMOKER id="DOC7" status="never"/>
   </TAGS>
 </root>

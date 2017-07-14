@@ -113,53 +113,14 @@ eScription document:7-5753770 BFFocus
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M0" start="2207" end="2215" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M1" start="2207" end="2215" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M2" start="2207" end="2215" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
-      <MEDICATION id="M3" start="1097" end="1103" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M4" start="1097" end="1103" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="during DCT" type1="insulin" type2="">
-      <MEDICATION id="M5" start="1097" end="1103" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M6" start="1097" end="1103" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2="">
-      <MEDICATION id="M7" start="1097" end="1103" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M8" start="1097" end="1103" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC5" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC8" status="never">
-      <SMOKER id="S0" start="1017" end="1031" text="denies smoking" status="never" comment=""/>
-      <SMOKER id="S1" start="1017" end="1031" text="denies smoking" status="never" comment=""/>
-      <SMOKER id="S2" start="1017" end="1031" text="denies smoking" status="never" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC1" time="after DCT" indicator="mention">
-      <DIABETES id="D0" start="200" end="208" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="200" end="208" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="200" end="208" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D3" start="851" end="877" text="Insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="1884" end="1892" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC3" time="during DCT" indicator="mention">
-      <DIABETES id="D5" start="200" end="208" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D6" start="200" end="208" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="200" end="208" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="851" end="877" text="Insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D9" start="1884" end="1892" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC7" time="before DCT" indicator="mention">
-      <DIABETES id="D10" start="200" end="208" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D11" start="200" end="208" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D12" start="200" end="208" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D13" start="851" end="877" text="Insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D14" start="1884" end="1892" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2=""/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC8" status="never"/>
+    <DIABETES id="DOC1" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
   </TAGS>
 </root>

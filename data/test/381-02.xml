@@ -161,57 +161,13 @@ Amanda Qualls, M.D.
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2="">
-      <MEDICATION id="M0" start="6892" end="6899" text="novolog" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M1" start="4395" end="4402" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M2" start="6892" end="6899" text="novolog" time="before DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="during DCT" type1="insulin" type2="">
-      <MEDICATION id="M3" start="6892" end="6899" text="novolog" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M4" start="4395" end="4402" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M5" start="6892" end="6899" text="novolog" time="during DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2="">
-      <MEDICATION id="M6" start="6892" end="6899" text="novolog" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M7" start="4395" end="4402" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M8" start="6892" end="6899" text="novolog" time="after DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC5" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC2" status="past">
-      <SMOKER id="S0" start="7358" end="7423" text="Tob: smoked 30 years, rolled her own cigarettes; quit 8 years ago" status="past" comment=""/>
-      <SMOKER id="S1" start="7407" end="7423" text="quit 8 years ago" status="past" comment=""/>
-      <SMOKER id="S2" start="7358" end="7423" text="Tob: smoked 30 years, rolled her own cigarettes; quit 8 years ago" status="past" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="457" end="459" text="DM" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="580" end="582" text="DM" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="457" end="459" text="DM" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D3" start="573" end="582" text="type I DM" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="916" end="918" text="DM" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="4193" end="4202" text="type I DM" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D6" start="11386" end="11395" text="type I DM" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC3" time="during DCT" indicator="mention">
-      <DIABETES id="D7" start="457" end="459" text="DM" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="580" end="582" text="DM" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D9" start="457" end="459" text="DM" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D10" start="573" end="582" text="type I DM" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D11" start="916" end="918" text="DM" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D12" start="4193" end="4202" text="type I DM" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D13" start="11386" end="11395" text="type I DM" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC6" time="after DCT" indicator="mention">
-      <DIABETES id="D14" start="457" end="459" text="DM" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D15" start="580" end="582" text="DM" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D16" start="457" end="459" text="DM" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D17" start="573" end="582" text="type I DM" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D18" start="916" end="918" text="DM" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D19" start="4193" end="4202" text="type I DM" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D20" start="11386" end="11395" text="type I DM" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2=""/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC2" status="past"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

@@ -83,19 +83,8 @@ eScription document:1-6434630 BFFocus
 
 ]]></TEXT>
   <TAGS>
-    <CAD id="DOC1" time="during DCT" indicator="event">
-      <CAD id="C0" start="1584" end="1617" text="End-stage ischemic cardiomyopathy" time="during DCT" indicator="event" comment=""/>
-      <CAD id="C1" start="226" end="249" text="ischemic cardiomyopathy" time="during DCT" indicator="event" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC0" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC2" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <CAD id="DOC1" time="during DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC0" indicator="not present"/>
+    <SMOKER id="DOC2" status="unknown"/>
   </TAGS>
 </root>

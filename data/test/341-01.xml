@@ -95,27 +95,10 @@ TL:95468     :423
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC0" time="before DCT" type1="ARB" type2="diuretic">
-      <MEDICATION id="M0" start="1719" end="1726" text=" Hyzaar" time="before DCT" type1="ARB" type2="diuretic" comment=""/>
-      <MEDICATION id="M1" start="1720" end="1726" text="Hyzaar" time="before DCT" type1="ARB" type2="diuretic" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC1" time="during DCT" type1="ARB" type2="diuretic">
-      <MEDICATION id="M2" start="1719" end="1726" text=" Hyzaar" time="during DCT" type1="ARB" type2="diuretic" comment=""/>
-      <MEDICATION id="M3" start="1720" end="1726" text="Hyzaar" time="during DCT" type1="ARB" type2="diuretic" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="after DCT" type1="ARB" type2="diuretic">
-      <MEDICATION id="M4" start="1719" end="1726" text=" Hyzaar" time="after DCT" type1="ARB" type2="diuretic" comment=""/>
-      <MEDICATION id="M5" start="1720" end="1726" text="Hyzaar" time="after DCT" type1="ARB" type2="diuretic" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC3" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="never">
-      <SMOKER id="S0" start="2558" end="2572" text="does not smoke" status="never" comment=""/>
-      <SMOKER id="S1" start="2553" end="2572" text=" She does not smoke" status="never" comment=""/>
-      <SMOKER id="S2" start="2554" end="2572" text="She does not smoke" status="never" comment=""/>
-    </SMOKER>
+    <MEDICATION id="DOC0" time="before DCT" type1="ARB" type2="diuretic"/>
+    <MEDICATION id="DOC1" time="during DCT" type1="ARB" type2="diuretic"/>
+    <MEDICATION id="DOC2" time="after DCT" type1="ARB" type2="diuretic"/>
+    <FAMILY_HIST id="DOC3" indicator="not present"/>
+    <SMOKER id="DOC4" status="never"/>
   </TAGS>
 </root>

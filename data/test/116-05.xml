@@ -115,21 +115,8 @@ Dictated by:  FAITH GALINDO, M.D.       FG9
 
 ]]></TEXT>
   <TAGS>
-    <FAMILY_HIST id="DOC0" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC1" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC2" time="during DCT" indicator="glucose">
-      <DIABETES id="D0" start="788" end="804" text="greater than 600" time="during DCT" indicator="glucose" comment=""/>
-      <DIABETES id="D1" start="1805" end="1821" text="glucose   of 934" time="during DCT" indicator="glucose" comment=""/>
-      <DIABETES id="D2" start="758" end="804" text="blood   sugar was noted to be greater than 600" time="during DCT" indicator="glucose" comment=""/>
-      <DIABETES id="D3" start="1805" end="1821" text="glucose   of 934" time="during DCT" indicator="glucose" comment=""/>
-    </DIABETES>
+    <FAMILY_HIST id="DOC0" indicator="not present"/>
+    <SMOKER id="DOC1" status="unknown"/>
+    <DIABETES id="DOC2" time="during DCT" indicator="glucose"/>
   </TAGS>
 </root>

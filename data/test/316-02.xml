@@ -101,48 +101,13 @@ Dictated by:  CHRISTOPHER QUIGLEY, M.D.       CQ03
 
 ]]></TEXT>
   <TAGS>
-    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H0" start="797" end="809" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H1" start="796" end="810" text=" Hypertension," time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H2" start="797" end="809" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H3" start="797" end="809" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H4" start="796" end="810" text=" Hypertension," time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H5" start="797" end="809" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H6" start="797" end="809" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H7" start="796" end="810" text=" Hypertension," time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="797" end="809" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC5" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC7" status="never">
-      <SMOKER id="S0" start="1103" end="1117" text="does not smoke" status="never" comment=""/>
-      <SMOKER id="S1" start="1100" end="1117" text="he does not smoke" status="never" comment=""/>
-      <SMOKER id="S2" start="1103" end="1117" text="does not smoke" status="never" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="394" end="402" text="diabetic" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="393" end="402" text=" diabetic" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="394" end="403" text="diabetic " time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D3" start="811" end="820" text="diabetes," time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC3" time="during DCT" indicator="mention">
-      <DIABETES id="D4" start="394" end="402" text="diabetic" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="393" end="402" text=" diabetic" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D6" start="394" end="403" text="diabetic " time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="811" end="820" text="diabetes," time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC6" time="after DCT" indicator="mention">
-      <DIABETES id="D8" start="394" end="402" text="diabetic" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D9" start="393" end="402" text=" diabetic" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D10" start="394" end="403" text="diabetic " time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D11" start="811" end="820" text="diabetes," time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC7" status="never"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

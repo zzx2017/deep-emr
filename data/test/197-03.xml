@@ -83,45 +83,13 @@ NXN/wynn/draper
 
 ]]></TEXT>
   <TAGS>
-    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H0" start="282" end="294" text="hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H1" start="282" end="295" text="hypertension," time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H2" start="282" end="294" text="hypertension" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H3" start="282" end="294" text="hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H4" start="282" end="295" text="hypertension," time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H5" start="282" end="294" text="hypertension" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H6" start="282" end="294" text="hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H7" start="282" end="295" text="hypertension," time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="282" end="294" text="hypertension" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC5" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC6" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="after DCT" indicator="mention">
-      <DIABETES id="D0" start="297" end="305" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="297" end="305" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="297" end="305" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC3" time="during DCT" indicator="mention">
-      <DIABETES id="D3" start="297" end="305" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="297" end="305" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="297" end="305" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC7" time="before DCT" indicator="mention">
-      <DIABETES id="D6" start="297" end="305" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="297" end="305" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="297" end="305" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
   </TAGS>
 </root>

@@ -52,29 +52,10 @@ Dictated by:  FRANCES LOVELL, M.D.  FL01
 
 ]]></TEXT>
   <TAGS>
-    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="1070" end="1076" text="150/70" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="1052" end="1076" text="blood pressure of 150/70" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H2" start="1051" end="1076" text=" blood pressure of 150/70" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <CAD id="DOC0" time="during DCT" indicator="symptom">
-      <CAD id="C0" start="461" end="471" text="chest pain" time="during DCT" indicator="symptom" comment=""/>
-      <CAD id="C1" start="448" end="471" text="intermittent chest pain" time="during DCT" indicator="symptom" comment=""/>
-    </CAD>
-    <CAD id="DOC4" time="before DCT" indicator="event">
-      <CAD id="C2" start="252" end="256" text="CABG" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C3" start="252" end="288" text="CABG in September of  this past year" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C4" start="252" end="256" text="CABG" time="before DCT" indicator="event" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC1" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC3" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp"/>
+    <CAD id="DOC0" time="during DCT" indicator="symptom"/>
+    <CAD id="DOC4" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC1" indicator="not present"/>
+    <SMOKER id="DOC3" status="unknown"/>
   </TAGS>
 </root>

@@ -143,60 +143,16 @@ eScription document:8-2575360 BFFocus
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY0" start="1183" end="1200" text="high cholesterol," time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="1183" end="1200" text="high cholesterol," time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY2" start="1183" end="1199" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC5" time="after DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY3" start="1183" end="1200" text="high cholesterol," time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY4" start="1183" end="1200" text="high cholesterol," time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY5" start="1183" end="1199" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY6" start="1183" end="1200" text="high cholesterol," time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY7" start="1183" end="1200" text="high cholesterol," time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY8" start="1183" end="1199" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M0" start="1761" end="1770" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M1" start="1761" end="1770" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M2" start="1761" end="1770" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC3" time="before DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M3" start="1761" end="1770" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M4" start="1761" end="1770" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M5" start="1761" end="1770" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="after DCT" type1="calcium channel blocker" type2="">
-      <MEDICATION id="M6" start="1761" end="1770" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M7" start="1761" end="1770" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-      <MEDICATION id="M8" start="1761" end="1770" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC7" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC8" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC1" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="1212" end="1239" text=" insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="1213" end="1239" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="1231" end="1239" text="diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC6" time="during DCT" indicator="mention">
-      <DIABETES id="D3" start="1212" end="1239" text=" insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="1213" end="1239" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="1231" end="1239" text="diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC9" time="after DCT" indicator="mention">
-      <DIABETES id="D6" start="1212" end="1239" text=" insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="1213" end="1239" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="1231" end="1239" text="diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC5" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <FAMILY_HIST id="DOC7" indicator="not present"/>
+    <SMOKER id="DOC8" status="unknown"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

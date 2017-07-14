@@ -97,34 +97,11 @@ eScription document:3-4025432 BF
 
 ]]></TEXT>
   <TAGS>
-    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="858" end="864" text="140/60" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="843" end="865" text="blood pressure 140/60," time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <CAD id="DOC0" time="before DCT" indicator="mention">
-      <CAD id="C0" start="641" end="664" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C1" start="641" end="665" text="coronary artery disease " time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C2" start="641" end="664" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC2" time="during DCT" indicator="mention">
-      <CAD id="C3" start="641" end="664" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C4" start="641" end="665" text="coronary artery disease " time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C5" start="641" end="664" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC5" time="after DCT" indicator="mention">
-      <CAD id="C6" start="641" end="664" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C7" start="641" end="665" text="coronary artery disease " time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C8" start="641" end="664" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC3" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp"/>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC2" time="during DCT" indicator="mention"/>
+    <CAD id="DOC5" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC3" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
   </TAGS>
 </root>

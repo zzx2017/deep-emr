@@ -83,19 +83,8 @@ FN/warren/forbes
 
 ]]></TEXT>
   <TAGS>
-    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="2587" end="2599" text="BP is 170/88" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="2593" end="2599" text="170/88" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC0" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC1" status="unknown">
-      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC0" indicator="not present"/>
+    <SMOKER id="DOC1" status="unknown"/>
   </TAGS>
 </root>

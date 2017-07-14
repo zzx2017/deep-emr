@@ -107,37 +107,11 @@ DV: 12/13/96
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC0" time="before DCT" indicator="high LDL">
-      <HYPERLIPIDEMIA id="HY0" start="516" end="523" text="LDL 136" time="before DCT" indicator="high LDL" comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="515" end="523" text=" LDL 136" time="before DCT" indicator="high LDL" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC1" time="before DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY2" start="413" end="427" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY3" start="413" end="427" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY4" start="2083" end="2098" text=" Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY5" start="412" end="427" text=" Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC3" time="after DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY6" start="413" end="427" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY7" start="413" end="427" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY8" start="2083" end="2098" text=" Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY9" start="412" end="427" text=" Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC5" time="during DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY10" start="413" end="427" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY11" start="413" end="427" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY12" start="2083" end="2098" text=" Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY13" start="412" end="427" text=" Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <FAMILY_HIST id="DOC4" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC2" status="current">
-      <SMOKER id="S0" start="811" end="839" text=" He smokes one pack per week" status="current" comment=""/>
-      <SMOKER id="S1" start="812" end="840" text="He smokes one pack per week." status="current" comment=""/>
-      <SMOKER id="S2" start="812" end="839" text="He smokes one pack per week" status="current" comment=""/>
-    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC0" time="before DCT" indicator="high LDL"/>
+    <HYPERLIPIDEMIA id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC3" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC5" time="during DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC4" indicator="not present"/>
+    <SMOKER id="DOC2" status="current"/>
   </TAGS>
 </root>

@@ -163,70 +163,19 @@ HW/warren/stark
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC2" time="during DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY0" start="2632" end="2648" text="Elevated lipids," time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="2632" end="2647" text="Elevated lipids" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY2" start="2632" end="2647" text="Elevated lipids" time="during DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY3" start="2632" end="2648" text="Elevated lipids," time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY4" start="2632" end="2647" text="Elevated lipids" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY5" start="2632" end="2647" text="Elevated lipids" time="before DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY6" start="2632" end="2648" text="Elevated lipids," time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY7" start="2632" end="2647" text="Elevated lipids" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY8" start="2632" end="2647" text="Elevated lipids" time="after DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <MEDICATION id="DOC4" time="before DCT" type1="nitrate" type2="">
-      <MEDICATION id="M0" start="1179" end="1192" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M1" start="1179" end="1192" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M2" start="1168" end="1192" text="sublingual nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC12" time="after DCT" type1="nitrate" type2="">
-      <MEDICATION id="M3" start="1179" end="1192" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M4" start="1179" end="1192" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M5" start="1168" end="1192" text="sublingual nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC13" time="during DCT" type1="nitrate" type2="">
-      <MEDICATION id="M6" start="1179" end="1192" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M7" start="1179" end="1192" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
-      <MEDICATION id="M8" start="1168" end="1192" text="sublingual nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H0" start="2383" end="2406" text="Elevated blood pressure" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H1" start="2383" end="2406" text="Elevated blood pressure" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H2" start="1786" end="1793" text="150/80." time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H3" start="1786" end="1792" text="150/80" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H4" start="1771" end="1792" text="Blood pressure 150/80" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H5" start="2383" end="2406" text="Elevated blood pressure" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H6" start="2383" end="2406" text="Elevated blood pressure" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H7" start="2383" end="2406" text="Elevated blood pressure" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="2383" end="2406" text="Elevated blood pressure" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <CAD id="DOC0" time="before DCT" indicator="symptom">
-      <CAD id="C0" start="330" end="359" text="complaining of left jaw pain," time="before DCT" indicator="symptom" comment=""/>
-      <CAD id="C1" start="1269" end="1296" text="upper chest wall tenderness" time="before DCT" indicator="symptom" comment=""/>
-    </CAD>
-    <CAD id="DOC7" time="during DCT" indicator="symptom">
-      <CAD id="C2" start="330" end="359" text="complaining of left jaw pain," time="during DCT" indicator="symptom" comment=""/>
-      <CAD id="C3" start="2078" end="2155" text="Chest wall tenderness over superior aspect  of sternum and its border on left" time="during DCT" indicator="symptom" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC10" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC11" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC4" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="nitrate" type2=""/>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <CAD id="DOC0" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC7" time="during DCT" indicator="symptom"/>
+    <FAMILY_HIST id="DOC10" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
   </TAGS>
 </root>

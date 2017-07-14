@@ -245,47 +245,15 @@ DV: 09/21/92
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2="">
-      <MEDICATION id="M0" start="2345" end="2352" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M1" start="2345" end="2352" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC6" time="during DCT" type1="insulin" type2="">
-      <MEDICATION id="M2" start="2345" end="2352" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M3" start="2345" end="2352" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M4" start="3959" end="3998" text="start on a small dose of a beta-blocker" time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M5" start="3986" end="3998" text="beta-blocker" time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M6" start="3986" end="3998" text="beta-blocker" time="after DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC9" time="after DCT" type1="insulin" type2="">
-      <MEDICATION id="M7" start="2345" end="2352" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M8" start="2345" end="2352" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="2561" end="2567" text="160/85" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="2542" end="2567" text=" blood pressure of 160/85" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC4" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC3" status="past">
-      <SMOKER id="S0" start="668" end="771" text="long history  of cigarette smoking with a 3-packet-per-day history for 30  years, stopping 15 years ago" status="past" comment=""/>
-      <SMOKER id="S1" start="685" end="702" text="cigarette smoking" status="past" comment=""/>
-      <SMOKER id="S2" start="668" end="771" text="long history  of cigarette smoking with a 3-packet-per-day history for 30  years, stopping 15 years ago" status="past" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="1300" end="1337" text=" insulin-dependent diabetes  mellitus" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="1300" end="1337" text=" insulin-dependent diabetes  mellitus" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC5" time="during DCT" indicator="mention">
-      <DIABETES id="D2" start="1300" end="1337" text=" insulin-dependent diabetes  mellitus" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D3" start="1300" end="1337" text=" insulin-dependent diabetes  mellitus" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC8" time="after DCT" indicator="mention">
-      <DIABETES id="D4" start="1300" end="1337" text=" insulin-dependent diabetes  mellitus" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="1300" end="1337" text=" insulin-dependent diabetes  mellitus" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC4" indicator="not present"/>
+    <SMOKER id="DOC3" status="past"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

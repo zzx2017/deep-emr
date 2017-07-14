@@ -111,50 +111,14 @@ eScription document:5-52221754 FVQtwry
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY0" start="1128" end="1142" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="1128" end="1142" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY2" start="1128" end="1142" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC3" time="after DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY3" start="1128" end="1142" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY4" start="1128" end="1142" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY5" start="1128" end="1142" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY6" start="1128" end="1142" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY7" start="1128" end="1142" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY8" start="1128" end="1142" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <CAD id="DOC0" time="after DCT" indicator="mention">
-      <CAD id="C0" start="1189" end="1213" text="coronary artery  disease" time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C1" start="1189" end="1213" text="coronary artery  disease" time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C2" start="1189" end="1213" text="coronary artery  disease" time="after DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC1" time="before DCT" indicator="event">
-      <CAD id="C3" start="1225" end="1245" text=" non-ST elevation MI" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C4" start="1225" end="1245" text=" non-ST elevation MI" time="before DCT" indicator="event" comment=""/>
-      <CAD id="C5" start="1214" end="1245" text="status post non-ST elevation MI" time="before DCT" indicator="event" comment=""/>
-    </CAD>
-    <CAD id="DOC4" time="during DCT" indicator="mention">
-      <CAD id="C6" start="1189" end="1213" text="coronary artery  disease" time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C7" start="1189" end="1213" text="coronary artery  disease" time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C8" start="1189" end="1213" text="coronary artery  disease" time="during DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC6" time="before DCT" indicator="mention">
-      <CAD id="C9" start="1189" end="1213" text="coronary artery  disease" time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C10" start="1189" end="1213" text="coronary artery  disease" time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C11" start="1189" end="1213" text="coronary artery  disease" time="before DCT" indicator="mention" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC5" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC8" status="never">
-      <SMOKER id="S0" start="1387" end="1400" text=" Never smoked" status="never" comment=""/>
-      <SMOKER id="S1" start="1388" end="1400" text="Never smoked" status="never" comment=""/>
-      <SMOKER id="S2" start="1388" end="1400" text="Never smoked" status="never" comment=""/>
-    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC3" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention"/>
+    <CAD id="DOC0" time="after DCT" indicator="mention"/>
+    <CAD id="DOC1" time="before DCT" indicator="event"/>
+    <CAD id="DOC4" time="during DCT" indicator="mention"/>
+    <CAD id="DOC6" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC8" status="never"/>
   </TAGS>
 </root>

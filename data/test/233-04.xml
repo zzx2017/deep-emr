@@ -73,34 +73,11 @@ Dictated by:  ADAM OLDHAM, M.D.   AO66
 
 ]]></TEXT>
   <TAGS>
-    <CAD id="DOC0" time="before DCT" indicator="mention">
-      <CAD id="C0" start="392" end="408" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C1" start="391" end="409" text=" coronary disease " time="before DCT" indicator="mention" comment=""/>
-      <CAD id="C2" start="392" end="408" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC2" time="during DCT" indicator="mention">
-      <CAD id="C3" start="392" end="408" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C4" start="391" end="409" text=" coronary disease " time="during DCT" indicator="mention" comment=""/>
-      <CAD id="C5" start="392" end="408" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
-    </CAD>
-    <CAD id="DOC3" time="during DCT" indicator="symptom">
-      <CAD id="C6" start="604" end="658" text="increase in chest tightness and dyspnea on exertion.  " time="during DCT" indicator="symptom" comment=""/>
-      <CAD id="C7" start="311" end="322" text=" Chest pain" time="during DCT" indicator="symptom" comment=""/>
-    </CAD>
-    <CAD id="DOC5" time="after DCT" indicator="mention">
-      <CAD id="C8" start="392" end="408" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C9" start="391" end="409" text=" coronary disease " time="after DCT" indicator="mention" comment=""/>
-      <CAD id="C10" start="392" end="408" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
-    </CAD>
-    <FAMILY_HIST id="DOC1" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC4" status="unknown">
-      <SMOKER id="S0" start="915" end="921" text="SOCIAL" status="unknown" comment=""/>
-      <SMOKER id="S1" status="unknown"/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC2" time="during DCT" indicator="mention"/>
+    <CAD id="DOC3" time="during DCT" indicator="symptom"/>
+    <CAD id="DOC5" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC1" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
   </TAGS>
 </root>

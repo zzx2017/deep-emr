@@ -145,74 +145,19 @@ T:  02/07/2095
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC0" time="before DCT" type1="metformin" type2="">
-      <MEDICATION id="M0" start="1291" end="1300" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M1" start="1291" end="1300" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M2" start="1291" end="1300" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="during DCT" type1="thiazolidinedione" type2="">
-      <MEDICATION id="M3" start="1306" end="1313" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
-      <MEDICATION id="M4" start="1306" end="1313" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
-      <MEDICATION id="M5" start="1306" end="1313" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC3" time="before DCT" type1="thiazolidinedione" type2="">
-      <MEDICATION id="M6" start="1306" end="1313" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
-      <MEDICATION id="M7" start="1306" end="1313" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
-      <MEDICATION id="M8" start="1306" end="1313" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="before DCT" type1="sulfonylureas" type2="">
-      <MEDICATION id="M9" start="1280" end="1289" text="Glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M10" start="1280" end="1289" text="Glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M11" start="1280" end="1289" text="Glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC5" time="after DCT" type1="metformin" type2="">
-      <MEDICATION id="M12" start="1291" end="1300" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M13" start="1291" end="1300" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M14" start="1291" end="1300" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC6" time="during DCT" type1="metformin" type2="">
-      <MEDICATION id="M15" start="1291" end="1300" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M16" start="1291" end="1300" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
-      <MEDICATION id="M17" start="1291" end="1300" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2="">
-      <MEDICATION id="M18" start="1280" end="1289" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M19" start="1280" end="1289" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M20" start="1280" end="1289" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2="">
-      <MEDICATION id="M21" start="1280" end="1289" text="Glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M22" start="1280" end="1289" text="Glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
-      <MEDICATION id="M23" start="1280" end="1289" text="Glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC11" time="after DCT" type1="thiazolidinedione" type2="">
-      <MEDICATION id="M24" start="1306" end="1313" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
-      <MEDICATION id="M25" start="1306" end="1313" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
-      <MEDICATION id="M26" start="1306" end="1313" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC12" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC7" status="past">
-      <SMOKER id="S0" start="1622" end="1635" text="former smoker" status="past" comment=""/>
-      <SMOKER id="S1" start="1622" end="1636" text="former smoker " status="past" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC1" time="before DCT" indicator="mention">
-      <DIABETES id="D0" start="1115" end="1123" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="1115" end="1124" text="Diabetes." time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="1115" end="1123" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC10" time="during DCT" indicator="mention">
-      <DIABETES id="D3" start="1115" end="1123" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D4" start="1115" end="1124" text="Diabetes." time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="1115" end="1123" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC13" time="after DCT" indicator="mention">
-      <DIABETES id="D6" start="1115" end="1123" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="1115" end="1124" text="Diabetes." time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D8" start="1115" end="1123" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <MEDICATION id="DOC0" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="thiazolidinedione" type2=""/>
+    <FAMILY_HIST id="DOC12" indicator="not present"/>
+    <SMOKER id="DOC7" status="past"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC13" time="after DCT" indicator="mention"/>
   </TAGS>
 </root>

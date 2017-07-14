@@ -93,50 +93,14 @@ Dictated by:  ROXANNE SPEARS, M.D.  RS40
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC0" time="during DCT" type1="diuretic" type2="">
-      <MEDICATION id="M0" start="958" end="977" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M1" start="958" end="977" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M2" start="958" end="977" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC1" time="before DCT" type1="diuretic" type2="">
-      <MEDICATION id="M3" start="958" end="977" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M4" start="958" end="977" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M5" start="958" end="977" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC5" time="after DCT" type1="diuretic" type2="">
-      <MEDICATION id="M6" start="958" end="977" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M7" start="958" end="977" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
-      <MEDICATION id="M8" start="958" end="977" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
-    </MEDICATION>
-    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
-      <HYPERTENSION id="H0" start="1250" end="1256" text="162/67" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H1" start="1250" end="1256" text="162/67" time="during DCT" indicator="high bp" comment=""/>
-      <HYPERTENSION id="H2" start="1250" end="1256" text="162/67" time="during DCT" indicator="high bp" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
-      <HYPERTENSION id="H3" start="816" end="828" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H4" start="816" end="828" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H5" start="816" end="828" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
-      <HYPERTENSION id="H6" start="816" end="828" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H7" start="816" end="828" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H8" start="816" end="828" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <HYPERTENSION id="DOC7" time="before DCT" indicator="mention">
-      <HYPERTENSION id="H9" start="816" end="828" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H10" start="816" end="828" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-      <HYPERTENSION id="H11" start="816" end="828" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
-    </HYPERTENSION>
-    <FAMILY_HIST id="DOC6" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC8" status="never">
-      <SMOKER id="S0" start="1078" end="1100" text="negative for   tobacco" status="never" comment=""/>
-      <SMOKER id="S1" start="1078" end="1100" text="negative for   tobacco" status="never" comment=""/>
-      <SMOKER id="S2" start="1078" end="1100" text="negative for   tobacco" status="never" comment=""/>
-    </SMOKER>
+    <MEDICATION id="DOC0" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC1" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="diuretic" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC6" indicator="not present"/>
+    <SMOKER id="DOC8" status="never"/>
   </TAGS>
 </root>

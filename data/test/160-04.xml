@@ -61,33 +61,10 @@ DV: 06/26/71
 
 ]]></TEXT>
   <TAGS>
-    <MEDICATION id="DOC0" time="after DCT" type1="insulin" type2="">
-      <MEDICATION id="M0" start="696" end="703" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M1" start="775" end="778" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M2" start="695" end="703" text=" insulin" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M3" start="696" end="703" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC1" time="during DCT" type1="insulin" type2="">
-      <MEDICATION id="M4" start="696" end="703" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M5" start="775" end="778" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M6" start="695" end="703" text=" insulin" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M7" start="696" end="703" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC4" time="before DCT" type1="insulin" type2="">
-      <MEDICATION id="M8" start="696" end="703" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M9" start="775" end="778" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M10" start="695" end="703" text=" insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M11" start="696" end="703" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC2" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC3" status="unknown">
-      <SMOKER id="S0" status="unknown"/>
-      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
-      <SMOKER id="S2" status="unknown"/>
-    </SMOKER>
+    <MEDICATION id="DOC0" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="insulin" type2=""/>
+    <FAMILY_HIST id="DOC2" indicator="not present"/>
+    <SMOKER id="DOC3" status="unknown"/>
   </TAGS>
 </root>

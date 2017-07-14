@@ -113,102 +113,22 @@ Galena, MN 64864
 
 ]]></TEXT>
   <TAGS>
-    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY0" start="2070" end="2084" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY1" start="2070" end="2085" text="hyperlipidemia " time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY2" start="5401" end="5413" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY3" start="2070" end="2085" text="hyperlipidemia " time="before DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY4" start="2070" end="2084" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY5" start="2070" end="2085" text="hyperlipidemia " time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY6" start="5401" end="5413" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY7" start="2070" end="2085" text="hyperlipidemia " time="after DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention">
-      <HYPERLIPIDEMIA id="HY8" start="2070" end="2084" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY9" start="2070" end="2085" text="hyperlipidemia " time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY10" start="5401" end="5413" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
-      <HYPERLIPIDEMIA id="HY11" start="2070" end="2085" text="hyperlipidemia " time="during DCT" indicator="mention" comment=""/>
-    </HYPERLIPIDEMIA>
-    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2="">
-      <MEDICATION id="M0" start="2559" end="2566" text="Novolog" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M1" start="2019" end="2026" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M2" start="2559" end="2583" text="Novolog (INSULIN ASPART)" time="before DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M3" start="2559" end="2566" text="Novolog" time="before DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
-      <MEDICATION id="M4" start="2297" end="2308" text="Clopidogrel" time="during DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M5" start="2297" end="2308" text="Clopidogrel" time="during DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M6" start="5983" end="5994" text="clopidogrel" time="during DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M7" start="2297" end="2309" text="Clopidogrel " time="during DCT" type1="thienopyridine" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M8" start="2653" end="2663" text="Toprol XL " time="before DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M9" start="2653" end="2703" text="Toprol XL (METOPROLOL SUCCINATE EXTENDED RELEASE) " time="before DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M10" start="2653" end="2662" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC9" time="after DCT" type1="thienopyridine" type2="">
-      <MEDICATION id="M11" start="2297" end="2308" text="Clopidogrel" time="after DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M12" start="2297" end="2308" text="Clopidogrel" time="after DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M13" start="5983" end="5994" text="clopidogrel" time="after DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M14" start="2297" end="2309" text="Clopidogrel " time="after DCT" type1="thienopyridine" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC10" time="during DCT" type1="insulin" type2="">
-      <MEDICATION id="M15" start="2559" end="2566" text="Novolog" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M16" start="2019" end="2026" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M17" start="2559" end="2583" text="Novolog (INSULIN ASPART)" time="during DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M18" start="2559" end="2566" text="Novolog" time="during DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M19" start="2653" end="2663" text="Toprol XL " time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M20" start="2653" end="2703" text="Toprol XL (METOPROLOL SUCCINATE EXTENDED RELEASE) " time="after DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M21" start="2653" end="2662" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2="">
-      <MEDICATION id="M22" start="2653" end="2663" text="Toprol XL " time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M23" start="2653" end="2703" text="Toprol XL (METOPROLOL SUCCINATE EXTENDED RELEASE) " time="during DCT" type1="beta blocker" type2="" comment=""/>
-      <MEDICATION id="M24" start="2653" end="2662" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC13" time="before DCT" type1="thienopyridine" type2="">
-      <MEDICATION id="M25" start="2297" end="2308" text="Clopidogrel" time="before DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M26" start="2297" end="2308" text="Clopidogrel" time="before DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M27" start="5983" end="5994" text="clopidogrel" time="before DCT" type1="thienopyridine" type2="" comment=""/>
-      <MEDICATION id="M28" start="2297" end="2309" text="Clopidogrel " time="before DCT" type1="thienopyridine" type2="" comment=""/>
-    </MEDICATION>
-    <MEDICATION id="DOC16" time="after DCT" type1="insulin" type2="">
-      <MEDICATION id="M29" start="2559" end="2566" text="Novolog" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M30" start="2019" end="2026" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M31" start="2559" end="2583" text="Novolog (INSULIN ASPART)" time="after DCT" type1="insulin" type2="" comment=""/>
-      <MEDICATION id="M32" start="2559" end="2566" text="Novolog" time="after DCT" type1="insulin" type2="" comment=""/>
-    </MEDICATION>
-    <FAMILY_HIST id="DOC15" indicator="not present">
-      <FAMILY_HIST id="F0" indicator="not present"/>
-      <FAMILY_HIST id="F1" indicator="not present"/>
-      <FAMILY_HIST id="F2" indicator="not present"/>
-    </FAMILY_HIST>
-    <SMOKER id="DOC5" status="past">
-      <SMOKER id="S0" start="2912" end="2937" text="remote history of smoking" status="past" comment=""/>
-      <SMOKER id="S1" start="2912" end="2937" text="remote history of smoking" status="past" comment=""/>
-      <SMOKER id="S2" start="2912" end="2937" text="remote history of smoking" status="past" comment=""/>
-    </SMOKER>
-    <DIABETES id="DOC0" time="after DCT" indicator="mention">
-      <DIABETES id="D0" start="1984" end="2008" text="type 2 diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D1" start="1984" end="2008" text="type 2 diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D2" start="5382" end="5399" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
-      <DIABETES id="D3" start="1984" end="2026" text="type 2 diabetes mellitus requiring insulin" time="after DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC3" time="during DCT" indicator="mention">
-      <DIABETES id="D4" start="1984" end="2008" text="type 2 diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D5" start="1984" end="2008" text="type 2 diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D6" start="5382" end="5399" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
-      <DIABETES id="D7" start="1984" end="2026" text="type 2 diabetes mellitus requiring insulin" time="during DCT" indicator="mention" comment=""/>
-    </DIABETES>
-    <DIABETES id="DOC6" time="before DCT" indicator="mention">
-      <DIABETES id="D8" start="1984" end="2008" text="type 2 diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D9" start="1984" end="2008" text="type 2 diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D10" start="5382" end="5399" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
-      <DIABETES id="D11" start="1984" end="2026" text="type 2 diabetes mellitus requiring insulin" time="before DCT" indicator="mention" comment=""/>
-    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="insulin" type2=""/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC5" status="past"/>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention"/>
   </TAGS>
 </root>
