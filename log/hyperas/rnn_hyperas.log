@@ -1,9 +1,0 @@
-{'SimpleRNN': 128, 'batch_size': 64, 'optimizer': 'nadam'}
-{'SimpleRNN': 256, 'batch_size': 32, 'optimizer': 'nadam'}
-{'SimpleRNN': 256, 'batch_size': 32, 'optimizer': 'nadam'}
-{'SimpleRNN': 256, 'batch_size': 32, 'optimizer': 'nadam'}
-{'SimpleRNN': 256, 'batch_size': 32, 'optimizer': 'nadam'}
-{'SimpleRNN': 256, 'batch_size': 32, 'optimizer': 'nadam'}
-{'optimizer': 'nadam'}
-{'SimpleRNN': 256}
-{'dropout': 0.1, 'dropout_1': 0.2}
