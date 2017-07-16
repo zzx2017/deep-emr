@@ -9,7 +9,7 @@ def evaluate(tp, fp, fn):
 
 indices = [91 ,55 ,94 ,8 ,1 ,30 ,66 ,0 ,20 ,17 ,28 ,68 ,59 ,99 ,2 ,14 ,39 ,29 ,41 ,69 ,21 ,96 ,49 ,95 ,13 ,33 ,61 ,43 ,76 ,80 ,74 ,101 ,5 ,27 ,4 ,42 ,71 ,47 ,11 ,98 ,67 ,88 ,77 ,25 ,52 ,50 ,58 ,9 ,53 ,51 ,38 ,7 ,57 ,81 ,70 ,18 ,37 ,90 ,62 ,26 ,93 ,92 ,82 ,60 ,86 ,78 ,32 ,65 ,54 ,46 ,6 ,36 ,87 ,56 ,15 ,83 ,84 ,72 ,34 ,35 ,63 ,23 ,40 ,79 ,45 ,10 ,64 ,89 ,19 ,73 ,97 ,100 ,31 ,48 ,85 ,75 ,24 ,16 ,44 ,12 ,3 ,22]
 
-results = pandas.read_csv("results-cnn.csv", header=None).values
+results = pandas.read_csv("blstm-performance.csv", header=None).values
 results = [results[x] for x in indices]
 
 indices = [7, 10, 11, 14, 16, 22, 23, 26, 27, 28, 30, 34, 36, 37, 38, 42, 43, 46, 47, 54, 55, 60, 61, 62, 85, 86, 88, 89, 93, 105, 117, 132, 134]
@@ -59,7 +59,8 @@ for i in range(len(results)):
 results = numpy.array(results)
 
 for result in results:
-	print(result)
+	print(','.join(str(x) for x in result))
+print('\n')
 
 micro_tp = numpy.sum(results[:, 2])
 micro_fp = numpy.sum(results[:, 3])
@@ -67,6 +68,7 @@ micro_fn = numpy.sum(results[:, 4])
 
 micro_performance = evaluate(micro_tp, micro_fp, micro_fn)
 print(micro_performance)
+print('\n')
 
 indicator_level_results = list()
 
@@ -89,7 +91,8 @@ for i in range(96, 103):
 	indicator_level_results.append(entry)
 
 for result in indicator_level_results:
-	print(result)
+	print(','.join(str(x) for x in result))
+print('\n')
 
 risk_level_results = list()
 
@@ -98,7 +101,7 @@ indices = [(0, 12), (12, 21), (21, 27), (27, 36), (36, 42), (42, 96), (96, 101),
 for i in indices:
 	tp = numpy.sum(results[i[0]:i[1], 2])
 	fp = numpy.sum(results[i[0]:i[1], 3])
-	fp = numpy.sum(results[i[0]:i[1], 4])
+	fn = numpy.sum(results[i[0]:i[1], 4])
 	performance = evaluate(tp, fp, fn)
 	label = results[i[0]][0].split('.')
 	label = label[0]
@@ -106,4 +109,5 @@ for i in indices:
 	risk_level_results.append(entry)
 
 for result in risk_level_results:
-	print(result)
+	print(','.join(str(x) for x in result))
+print('\n')
