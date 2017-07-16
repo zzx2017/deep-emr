@@ -159,13 +159,10 @@ report = {x: [0, 0, 0] for x in range(2, 104)}
 matrix = confusion_matrix(y_test, predictions, report)
 performance = evaluate(matrix)
 
-print("\nLabel,Truth,TP,FP,FN,Recall,Precision,F-measure")
+file = open("rnn-performance.csv", 'w')
 for k, v in report.items():
 	tp, fp, fn = v[0], v[1], v[2]
-	recall = tp / (tp + fn) if (tp + fn) != 0 else -1
-	precision = tp / (tp + fp) if (tp + fp) != 0 else -1
-	f1 = 2 * ((precision * recall) / (precision + recall)) if (precision + recall) != 0 else -1
-	print("%s,%d,%d,%d,%d,%f,%f,%f" % (classes[k][2::], expected[k] if k in expected else 0, tp, fp, fn, recall, precision, f1))
+	file.write("%s,%d,%d,%d,%d,%f,%f,%f\n" % (classes[k][2::], expected[k] if k in expected else 0, tp, fp, fn, 0, 0, 0))
+file.close()
 
-print("\nConfusion Matrix:", matrix)
-print("Micro-averaged Performance:", performance)
+print(performance)

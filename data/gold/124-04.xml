@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-02-01
+
+ADMISSION NOTE
+02/01/97
+
+
+HPI: 61y/o male who underwent heart transplant in 2083 and has ESRD on HD (recently started -&gt; 9 sessions so far FAT). 
+He is been electively admitted from his cardiologists office w/ slightly elevated troponins peaked at 0.41, most recent 0.24.  He is CP free and stable and is being transferred for further evaluation and work up.  Last HD session on Tuesday. 
+
+
+Last dobutamine echo last year showed some LV apex hypokinesis, which augments in response dobutamine. 
+
+
+ECG revealed NSR at 82 w/ poor R wave progression on anterior leads. Qwave on AvL but no new TWI or ST changes. 
+
+
+Echo at OSH reveiled lower EF at 30-35% with HK on anteroseptal, mid anterior, apical lateral and apical inferior walls segments. 
+
+
+He reports chronic dypsnea on moderate exertion. He is quite sedentary. 
+
+
+ROS: preserved appetite. 
+
+
+PMH: CAD, obesity, diabetes, obstructive sleep apnea wears cpap at night, ESRD hemodialysis dependent, depression and GERD.  
+
+
+His current medications include aspirin 81 mg p.o. daily, Axid 150 mg p.o. b.i.d., Cardizem CD 360 mg p.o. daily, Effexor 125 mg p.o. daily, , Lantus 120 units subcutaneously b.i.d., Lasix 60 m p.o. BID nonHD days, lexapro 10 mg p.o. daily, Lipitor 10 mg p.o. daily, cyclosporine 75 mg p.o. b.i.d.,  Toprol-XL 50 mg p.o. daily, vitamin C 500 mg p.o. b.i.d., and vitamin E 400 international units p.o. b.i.d.
+
+
+All: pravastatin
+
+
+SH: lives w/ wife. Ex-smoker
+
+
+FH: positive for DM and CAD
+
+
+PE:  96.3  130/74  16 100% 2l
+NAD, JVP flat
+RRR distant HS
+CTA b/l
+Abd obese, soft, NT, ND
+L forearm AVF w/ good thrill and bruit
+LE no edema
+
+
+LABS
+pending
+
+
+IMPRESSION
+61 yo M s/p heart transplant and ESRD on HD presenting with elevated troponin. The trend of his creatinine from outside hospital is not suggestive of acute coronary syndrome. Troponin leak is a common finding in patients with ESRD on hemodialysis since the hemodynamic changes lead to subendocardial ischemia during short-time ultrafiltration. On the other hand, due to the difficulty in evaluating ACS in patients that had undergone transplant, will repeat cardiac markers for the next 12 hours and meanwhile, continue medical management with ASA, statin, BB and heparin. The lower EF on outside echo could suggest as well recent past event of myocardial infarction, especially with the multiple walls demonstrating hypokinesis. 
+&gt; Continue other home meds.
+&gt; Check CSA level in am.
+&gt; Since stable volume status, consider contacting renal in am for further decision about next HD session depending on lab results. 
+&gt; Will continue lasix on nonHD days. 
+&gt; Will defer further testing to primary cardiologist in am.
+&gt; CPAP at night
+&gt; Keep NPO after MN. 
+&gt; Will check PTH, iron store, Ca/PO4 and 25 vitD. 
+
+
+_________________
+Henry Norris, MD
+    
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC2" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC13" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC19" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC20" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC21" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2=""/>
+    <CAD id="DOC10" time="after DCT" indicator="mention"/>
+    <CAD id="DOC15" time="during DCT" indicator="mention"/>
+    <CAD id="DOC24" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC17" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

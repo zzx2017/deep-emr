@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2151-04-11
+
+ 
+                                              
+                                                     FHC CANCER CENTER
+                                         Oncology
+
+cc: locally advanced pancreatic cancer 
+
+INTERVAL HISTORY Black bowel movement x 2 this morning, ?tarry, feels lousy, + indigestion. 
+
+ONCOLOGIC HISTORY:  
+- Mr. Caldwell reports "zingers" beginning a couple of months ago, describing RUQ intermittent, fleeting boughts of pain. - -Mr. Caldwell was referred for CT scan and subsequently EUS/bx on 1/13/51, pathology of  pancreatic head mass is consistent with adenocarcinoma. 
+-Mr. Caldwell was referred to Dr. Macias and found to have unfortunately tumor abutting/invading portal vein and thus unresectable disease, and was referred for chemoradiation and potential IORT candidacy. 
+ - chemoradiation CIV 5FU/XRT 3/20/51 - current
+
+PMHx:
+CAD, s/p CATH, circumflex stent 3/151
+AAA repair 2131, endovascular repair 2/2151
+HTN
+NIDDM 6 years ago
+colonoscopy January 2151 - "nrml"
+spinal stenosis
+kidney stonesCholecystectomy 2131
+prostate cancer 2142, prostatectomy
+lung cancer (RLL) 2143, surgically resected...5 years for f/up no recurrence
+
+ALLERGY: IV contrast, parotid swelling , sudaphed - insomnia
+
+MEDICATIONS:
+Clopidogrel 75 MG (75MG TABLET take 1) PO QD 
+Compazine (PROCHLORPERAZINE MALEATE) 10 MG (10MG TABLET take 1) PO Q6H PRN 
+Ecasa 325 MG PO QD 
+Glyburide 10 MG (5MG TABLET ) PO BID 
+Lisinopril 5 MG (5MG TABLET take 1) PO QD 
+Metoprolol TARTRATE 25 MG (25MG TABLET take 1) PO BID 
+Simvastatin 80 MG (80MG TABLET take 1) PO QHS 
+
+PE:
+
+Vital Signs
+HT. 67.75 in
+WEIGHT 148 lb
+TEMPERATURE 96.7 F
+PULSE SITTING 76 
+RESPIRATORY RATE 16 
+BLOOD PRESSURE 80/54 
+PAIN LEVEL (0-10) 0 
+FATIGUE (0-10) 5 
+
+GENERAL:  ashen, arrives in wheelchair, fatigued
+HEENT: - oral/ph
+LUNG: CTA b 
+CARD: nrml S1S2, port site unremarkable
+ABD: +BS soft NTND 
+EXT: -e
+NEURO: AAO x 3
+
+
+Results
+04/11/2151 NA PEND,  K PEND,  CL PEND,  CO2 PEND,  BUN PEND,  CRE PEND,  GLU PEND
+
+04/11/2151 CA PEND,  TBILI PEND,  DBILI PEND,  TP PEND,  ALB PEND,  GLOB PEND
+
+04/11/2151 ALT/SGPT PEND,  AST/SGOT PEND,  ALKP PEND,  TBILI PEND,  DBILI PEND
+
+04/11/2151 WBC 7.4,  RBC 2.86 (L),  HGB 8.7 (L),  HCT 24.7 (L),  MCV 86,  MCH 30.5,  MCHC 35.4,  PLT 228
+     
+IMPRESSION: Mr. Caldwell is a 75 yo male with h/o CAD, AAA, NIDDM and locally advanced pancreatic adenocarcinoma receiving chemoradiation (CIV 5FU), with potential IORT (intraoperative radiation therapy) post treatment.  Black BM x 2 this AM, arrives in clinic ashen, hypotensive with decrease in HCT, likely GI bleeding. ?Source erosion of pancreatic cancer into duodenum, stomach; bleed from aneurysm, vs other.  Per ER systolics in 90s, to get IVF and anticipate stable for floor. Discussed GI consult and notify vascualr (Dr. Quan's team) of admission/GI bleeding.  Chemotherapy pump discontinued.  Transfusion/resuscitation as needed. 
+
+Angeline Barajas, MD
+Oncology
+
+cc:
+Vera, A. MD
+Quan, J. MD
+Macias, B. MD
+Erickson, F. MD
+Hendrickson, D. MD
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC27" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC28" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC26" time="before DCT" indicator="mention"/>
+    <CAD id="DOC15" time="after DCT" indicator="mention"/>
+    <CAD id="DOC20" time="during DCT" indicator="mention"/>
+    <CAD id="DOC23" time="before DCT" indicator="event"/>
+    <CAD id="DOC29" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC14" status="unknown"/>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

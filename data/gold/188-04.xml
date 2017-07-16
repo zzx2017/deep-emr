@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2067-11-30
+
+CARDIOLOGY
+
+OCHILTREE GENERAL HOSPITAL
+
+
+
+Reason for visit:
+
+   Follow-up appointment for cardiomyopathy
+
+
+
+Interval History:
+
+   Mr Lara reports no problems since the time of his last visit. He insistists that he has absolutely abstained from etoh since his last visit.
+
+
+
+Denies fevers, chills. denies palpitations or syncope.
+
+
+
+Under a fair amount of stress at home: his son is home after a head injury and neurological complications of an MVA and is fairly debilitated. He has had to give up his job to help take care of him. 
+
+
+
+Past medical history:
+
+   diabetes, cad, cardiomyopathy
+
+
+
+Medications (Confirmed):
+
+
+
+			
+
+aspirin 325 mg 1 tab  qd
+
+Avandia 2 mg 1 tab  qd
+
+Levitra 10mg po qd PRN
+
+Lipitor
+
+lisinopril 10 mg  QD
+
+Patanol 0.1% eye drops
+
+Prilosec 20mg po bid
+
+Synalar ointment  .025%    
+
+Toprol XL
+
+
+
+Social history:
+
+   Currently not working out of the house; denies etoh..
+
+
+
+Review of systems:
+
+   see above. remainder negative in detail
+
+
+
+Physical examination:
+
+-BP: 160/90  
+
+-Pulse: 73  bpm
+
+-General:   No acute distress.
+
+-Heent:   Unremarkable
+
+-Chest:   Clear to auscultation and percussion.
+
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2. There were no clicks or rubs. ? faint 1/6 systolic murmur at the apex.
+
+-weight: 205  
+
+-BMI:   
+
+-Abdomen:   normal active bowel sounds.
+
+-Extremities:   without clubbing or edema.
+
+-Neuro:   A+Ox3
+
+
+
+EKG:
+
+   Sinus Rhythm with 2 pvcs. Q waves leads 1, AVL RPO high lateral infarction. Apical TWI. Q waves leads V5 and v6 rpo oapical MI. C 8/67, TWI more marked. 
+
+
+
+Assessment and plan:
+
+   55 yom with history of cardiomyopathy likely secondary to etoh use; at time of cath, he had mild-moderate CAD found. Also, hypetension
+
+1) Patient missed his last echo appt. Will reschedule to check for interval improvement on treatment and off moonshine. Pt counseled to give up all etoh for ~ 6mos at least. He voices understanidng.
+
+2) hypertension: not acceptable at this level given diabetes. I have asked Joe to increase his lisinopril to 40 mg 
+
+3) diabetes: well controlled by Dr. Thomson
+
+4) CAD: on a statin (DM is CAD equiv as well) 
+
+
+
+Cardiac prescriptions written
+
+
+
+Changes to Medications this visit
+
+Avandia 2 mg 1 tab    qd QTY:30 Refills:3 Start: 1/31/2065
+
+aspirin 325 mg 1 tab    qd QTY:30 Refills:1 yr Start: 3/12/2065
+
+lisinopril 40 mg  po qd QTY:30 Refills:11 Start: 8/4/2066
+
+Lipitor 10mg  po qd Start: 12/17/2066
+
+Toprol XL 50 mg  po qd Start: 03/06/2067
+
+Prilosec 20mg  po bid QTY:60 Refills:1 Start: 03/06/2067 take before meals
+
+Levitra 10mg  po qd PRN QTY:10 Refills:3 Start: 06/26/2067 Max: one tab per day; take one hour prior to sexual activity
+
+Synalar ointment  .025%      QTY: 45g Refills: 2 Start: 06/26/2067  apply bid
+
+Patanol 0.1% eye drops     QTY:5cc Refills:1 Start: 10/10/2065 2gtt  bid
+
+
+
+DX Tests Ordered:
+
+   echocardiogram to eval LV function
+
+
+
+Signed electronically by   Elon  Levine MD  on  Nov 30, 2067     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC23" time="after DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC25" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC15" time="before DCT" indicator="mention"/>
+    <CAD id="DOC12" time="after DCT" indicator="mention"/>
+    <CAD id="DOC19" time="during DCT" indicator="mention"/>
+    <CAD id="DOC26" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC17" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC16" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC21" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2088-02-02
+
+ Renal Transplant Admission Note
+
+Date this visit: 02/02/88
+
+Cause of ESRD: DM T1
+Date of this kidney transplant: 9/83
+
+CC: SOB/DOE
+
+HPI:  48 y/o F h/o ESRD 2/2 DM T1 s/p renal tx 09/83.  Pt. was seen in clinic today with worsening peripheral edema to waist.  She also reports worsening DOE, and some paroxysmal nocturnal dyspnea requiring at least 2 pillows to sleep. She reports worsening of her symptoms over the past week.  She denies n/v/d.   No CP/Abd pain/f/c/s.
+
+Current immunosuppression:  Tacrolimus 1mg qd, Imuran 50mg qd,  prednisone 5 mg QOD
+Other meds: Toprol XL 200mg qam, Lasix 20-40mg qd, Felodipine 10mg qd,  valtrex 1,000 mg qod, CaCarb 1250 mg bid, Vit D 800 units qd, Plavix 75 mg qd, Humalog SS, Lantus 10 units qpm, ASA 81 mg qd, Lipitor 20 mg qd, Avapro 75 mg qd, Epo 6000 qweek, Zantac 150mg bid, ferrous gluconate 325mg qd.
+
+Other medical problems: 
+ESRD 2/2 DM type I s/p renal tx c/b both cellular and humoral rejection.
+Hypertension
+Hyperlipidemia 
+Hepatitis C
+Vertigo 
+T Rubrum infection on back 10/2087 - no treatement d/t insurance issues -resolved by itself
+Shingles 2085
+2 vessel CAD with PTCA and Stent 7/2087
+Sqamous Cell CA- she has had 5 SCCA skin lesions removed in the past 5 years.
+
+Exam: Weight 138.5 lbs, T 96.7 P68 , BP138/68 mmHg,  O2sat 93%on RA
+General: WD, WN, WF, mild distress.
+HEENT: oropharynx clear, neck supple, no LAD, increased JVD.
+CVS: RRR, normal S1/S2, 3/6 SEM at RUSB
+Lungs:  scant bibasislar rales, no wheezing, no rhonchi
+Abd: soft, nontender, nondistended
+Allograft: nontender
+Ext: 3++ bilateral pitting lower ext edema up to waist.
+Neuro: A&Ox 3, mood okay
+
+Results
+labs- pending today  
+
+A/P:  Ms. Xanders is a 48 y/o F w/ h/o ESRD 2/2 DM type I s/p renal tx c/b both cellular and humoral rejection.  She will be admitted to the Renal Clinic under attending Uriah Aranda  for further evaluation and management.
+
+1. Renal- impaired renal function but creatinine has been stable.  Will send urine for 24 hour protein to r/o nephrotic syndrome.
+2. Immunosupopression- cont. current regimen.  Will follow FK levels and adjust as needed.
+3. CVS- hypervolemic, hypertensive with significant peripheral edema.  No IVF's.  Will get EKG, CXR, ECHO while in house.
+4. Pulm-  CHF: will give Lasix 200mg IV bid for diuresis.  Will repeat CXR 
+5. FEN- renal diet
+6. Labs- CBC w/diff, BMP, LDH, albumin, PO4, tacrolimus level qa.m.
+
+_____________________________________________
+Emma S. Crane,PA-C
+Renal Clinic
+bb#78058
+
+
+Staff Note:
+Patient seen by me: Hx, Ex, A/P confirmed.
+Landon Neville, MD, Renal Attg
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC21" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC17" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC27" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC30" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC31" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC32" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC34" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC35" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC29" time="before DCT" indicator="mention"/>
+    <CAD id="DOC16" time="after DCT" indicator="mention"/>
+    <CAD id="DOC22" time="during DCT" indicator="mention"/>
+    <CAD id="DOC26" time="before DCT" indicator="event"/>
+    <CAD id="DOC33" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC20" indicator="not present"/>
+    <SMOKER id="DOC15" status="unknown"/>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

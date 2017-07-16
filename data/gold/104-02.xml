@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-12-08
+
+NMH Admission Note
+
+
+
+45 yo female with Hepatitis C, Type 2 DM, anxiety who c/o severe, generalized joint and limb pain.  She especially complains of severe foot , which is burning, stinging and shooting.  She notes severe RUQ pain, which has been worked up in the past with chest CT and bone scan.  She complains of generalized swelling and pain in fingers as well. C/o swelling in ankles and feet.  She has been maintained in Neurontin 300 mg tid, oxycodone 5 mg and oxycontin 10 mg bid.  She has called frequently, tearfully stating that she cannot handle the pain as an outpatient.  She is referred for an elective admission to try and sort out her pain issues.
+
+
+
+
+
+Problems
+
+Hepatitis C : liver biopsy 2093 with chronic hepatitis, stage III/IV, bridging fibrosis, failed interferon
+
+Hypothyroidism 
+
+Hypertension 
+
+Bipolar disease - Dr. Good
+
+Smoking : stopped 7/96 
+
+otalgia : possible neuralgia
+
+Diabetes mellitus 
+
+Obsessive compulsive disorder  Dr. Good
+
+Arthralgias
+
+Neuropathy
+
+
+
+
+
+
+
+Medications
+
+Ativan (LORAZEPAM) 1MG, 1 Tablet(s) PO QHS
+
+Xalatan (LATANOPROST) 1 DROP OU QPM
+
+Tegretol (CARBAMAZEPINE) 100MG, 1 Tablet(s) PO TID : 2 Tablets QAM, 3 Tablets QPM
+
+Wellbutrin (BUPROPION Hcl) 75MG, 1 Tablet(s) PO QD
+
+Oxycontin (OXYCODONE Sr) 20MG, 1 Tablet(s) PO BID PRN prn severe pain : never picked up today
+
+Ativan (LORAZEPAM) 0.5MG, 1 Tablet(s) PO TID
+
+Neurontin (GABAPENTIN) 100MG, 3 Capsule(s) PO TID x 30 day(s)
+
+Humulin 70/30 (INSULIN 70/30 (HUMAN)) 22 U QPM, 20 U QPM SC BID
+
+Albuterol Inhaler 2 PUFF INH QID PRN prn
+
+Synthroid (LEVOTHYROXINE Sodium) 175MCG, 1 Tablet(s) PO QD x 90 day(s)
+
+LISINOPRIL 5MG, 1 Tablet(s) PO QD
+
+Insulin Regular Humulin (INSULIN Regular Human) Sliding Scale SC 
+
+OXYCODONE 5MG, 1 Tablet(s) PO Q4H PRN pain in back, ribs 
+
+
+
+
+
+Allergies
+
+Aspirin - Unknown
+
+Sulfa - Unknown 
+
+
+
+SH: Lives in Pooler with boyfriend.  Nonsmoker, sober x 5 years. No illicit drugs.
+
+
+
+
+
+Plan:
+
+
+
+1)  Probable arthritis,  due to Hepatitis C- has seen Dr. Nixon as an outpatient for workup of her intermittent joint pain. Declined recommended EMG. Did not keep last appointment.   Consider Rheum input re: dx.
+
+
+
+2) Paresthesias in feet- assume due to DM- already on Neurontin (and tegretol for psych issues).  Suggest consult by pharmacology.  Would like to broaden her pain control regimen to other modalities (non - narcotics, hydrotherapy, etc).
+
+
+
+3)  DM- says FS at home have been <180 now on NPH bid.
+
+
+
+4)  Psychosocial- benefits from limit setting and clear boundaries, ressurance. Anxiolytics and antidepressants. depression meds from outside mental health provider.
+
+
+
+I expect her stay to be brief.  Dr. Bruce Koontz will cover the weekend 12/09/96 through 12/10/96.
+
+
+
+
+
+_____________________________________________
+
+Mia Tapia, MD
+
+
+
+
+
+  
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC10" indicator="not present"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

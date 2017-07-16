@@ -10,7 +10,7 @@ from nltk.stem.snowball import SnowballStemmer
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
-files = glob.glob("../data/training/*.xml")
+files = glob.glob("../data/complete/*.xml")
 sentences = list()
 
 for file in files:

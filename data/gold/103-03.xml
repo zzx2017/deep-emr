@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2068-09-21
+
+EDVISIT^84091519^Thomas-yosef, Julia^09/21/68^KEMPER, SYLVAN
+
+The patient seen on 09/21/2068 with Dr. Jewell-Wilson. 
+
+Resident's history was reviewed.  Patient was interviewed and
+
+examined by me.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 40-year-old woman
+
+with history of coronary disease and has had intermittent chest
+
+pain over the past 4 days, unrelieved by 2 sublingual
+
+nitroglycerin yesterday, today relieved after 20 minutes with 1
+
+sublingual.  See resident's note for further details.  The
+
+patient is pain free now.
+
+PAST MEDICAL HISTORY:  Coronary disease, cardiac stent,
+
+hypercholesterolemia, and diabetes.
+
+CURRENT MEDICATIONS:  Atenolol, Zocor, Plavix, aspirin, and
+
+metformin.  See resident's note for further details.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Past cigarette smoker.
+
+REVIEW OF SYSTEMS:  No shortness of breath, no nausea or
+
+vomiting, no headache.
+
+PHYSICAL EXAMINATION:  Temperature 97.5, blood pressure 124/55,
+
+pulse 79, respirations 18, O2 saturation 99% on room air.  HEENT:
+
+ Normocephalic, atraumatic.  Pupils are equal, round, and
+
+reactive to light.  Extraocular muscles intact.  Neck:  Supple,
+
+no meningeal sign.  CV:  Regular rate and rhythm.  Lungs:  Clear.
+
+ Abdomen:  Positive bowel sounds, soft, nontender.  Extremities: 
+
+No cyanosis, clubbing, or edema.  Neurologic:  Alert and oriented
+
+x3.  Cranial nerves are intact.  Motor and sensory are intact.
+
+LABORATORY DATA:  EKG was normal sinus rhythm, with no ST
+
+changes.
+
+The patient was seen by Dr. Donnelly in the Emergency
+
+Department.  The patient will be admitted to the Cardiology
+
+Service for further evaluation for unstable angina.  Started on
+
+heparin in the Emergency Department and likely cardiac
+
+catheterization tomorrow.
+
+See resident's note for details.
+
+______________________________
+
+KEMPER, SYLVAN M.D.
+
+D: 09/21/68
+
+T: 09/21/68
+
+Dictated By: KEMPER, SYLVAN
+
+eScription document:6-7180439 BFFocus
+
+******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC27" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC29" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC30" time="during DCT" type1="beta blocker" type2=""/>
+    <CAD id="DOC14" time="after DCT" indicator="mention"/>
+    <CAD id="DOC16" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC19" time="during DCT" indicator="symptom"/>
+    <CAD id="DOC20" time="after DCT" indicator="symptom"/>
+    <CAD id="DOC21" time="during DCT" indicator="mention"/>
+    <CAD id="DOC26" time="before DCT" indicator="event"/>
+    <CAD id="DOC31" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC24" indicator="not present"/>
+    <SMOKER id="DOC5" status="past"/>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC25" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

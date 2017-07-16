@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2091-03-15
+
+
+
+
+
+
+
+
+
+CHIEF COMPLAINT:
+
+Cough and followup of diabetes.
+
+
+
+SUBJECTIVE:
+
+The patient is a 63-year-old woman with 2-1/2 weeks of dry cough.  It is 
+
+occurring in spasms.  No phlegm.  Her daughter had a bad cold.
+
+
+
+Her diabetes has been managed with insulin and oral hypoglycemics.  She takes 
+
+20 units of Humulin, she is not sure what kind in the morning, and she also has 
+
+been taking Glucovance once or twice a day 5/500 mg.  She states that values 
+
+recently have gone around the 200 level at home.
+
+
+
+OBJECTIVE:
+
+Unremarkable pharynx.  Normal TMs.  Lungs:  Clear.  Normal heart sounds.  
+
+Benign abdomen.
+
+
+
+ASSESSMENT:
+
+1.	Cough, possibly viral syndrome.
+
+2.	Diabetes.
+
+
+
+PLAN:
+
+1.	Chest x-ray if not better in 48 hours.
+
+2.	Robitussin A-C, 4 ounces take 5 cc p.o. q.6h. p.r.n..
+
+3.	Refills to be called in for her insulin and Glucovance.
+
+
+
+
+
+
+
+
+
+William K. Joslin, M.D., M.P.H.
+
+
+
+
+
+WKJ/edge
+
+FI:  23755
+
+DD:  03/15/2091
+
+DT:  03/16/2091
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="sulfonylureas" type2="metformin"/>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="sulfonylureas" type2="metformin"/>
+    <MEDICATION id="DOC5" time="before DCT" type1="sulfonylureas" type2="metformin"/>
+    <MEDICATION id="DOC8" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="insulin" type2=""/>
+    <FAMILY_HIST id="DOC9" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

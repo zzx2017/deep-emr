@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-03-29
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+SOUTH BAY HOSPITAL
+
+
+
+Major Problems
+
+Diabetes mellitus
+
+She takes Glucotrol 5 mg BID in addition to Avandia 4 mg PO QD and a Glucophage 500 mg PO BID.  Her last hemoglobin A1c was 7%.  She saw her eye doctor last year who recommended seeing her in another two years.  She is on Lipitor. 
+
+  O:  Examination below. 
+
+  A:  Type 2 diabetes. 
+
+P:  Repeat hemoglobin A1c with microalbumin.  She is on Cozaar.
+
+
+
+add: A1C 3/23/90 8%.  increase glucophage to 1000mg po bid. 
+
+
+
+Change in therapies and Renewals
+
+Glucophage 1000 mg po bid QTY:180 Refills:3 Start: 2/16/2086 take with meals
+
+
+
+Signed electronically by   Dana  Michael MD  on  Mar 30, 2090     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="ARB" type2=""/>
+    <FAMILY_HIST id="DOC17" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="before DCT" indicator="A1C"/>
+    <DIABETES id="DOC18" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

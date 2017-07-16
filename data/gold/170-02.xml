@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2147-05-03
+
+S:  66 yo man comes to clinic c/o laryngitis x 2days.  Hurts his L ear when he swallows.  Feels pain along R side of his neck when turning his head.   No cough, chills, sweats.    No wheeze, SOB, chest tightness. No HA, facial pain, earache, sore throat. Throat feels dry.  No fatigue or appetite changes. Non smoker.
+
+
+
+Problems
+
+Diabetes mellitus 
+
+
+
+
+
+Medications
+
+
+
+O: Temp 98.6
+
+bp 140/70
+
+HEENT:  PERRL, sclera, TM's w/clr fluid bilat, sinuses nt,  no rhinorrhea, O/P benign: no erythema or exudate, no lad.
+
+Lungs: clr.  RR 16
+
+Heart: reg S1S2, no m/r/g
+
+A/P: URI, prob viral.  Gargles, lozenges, decongestants prn. RTC if sx exacerbate.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC3" indicator="not present"/>
+    <SMOKER id="DOC5" status="never"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

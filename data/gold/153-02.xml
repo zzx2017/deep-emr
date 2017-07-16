@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-01-21
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+MESA VISTA HOSPITAL
+
+
+
+Personal data and overall health   Primary care physician, Ronnie Le, MD.
+
+
+
+Major Problems
+
+Syncope
+
+Syncopal episode.  S:  The patient speaks Korean with limited English and is here with his wife who informed me that they are here for a followup visit after an inpatient hospitalization at as best as I could understand it was Abbott Hospital.  The patient is on multiple medications.  However does not have a list of his medications, and according to the record, the patient is on atenolol, Norvasc, hydrochlorothiazide, Zestril, metformin, and Lipitor.  The patient feels well.  No shortness of breath.  No chest pain.  No recurrent syncopal episodes.       O:  See physical examination.       A:  The patient with stable hypertension, diabetes, and elevated cholesterol.      P:  We will check labs today.  We will verify the patient has a carotid ultrasound scheduled, and the patient is scheduled  to follow up with Dr. Le in March 2077.  May return to clinic PRN if needed.
+
+
+
+Physical examination
+
+Pulse   64
+
+Blood pressure 130/60    Right arm 130/60
+
+Chest   Lungs clear to auscultation.  Carotid, marked bruit on the right
+
+
+
+Note transcribed by outside service   Transcription errors may be present.
+
+
+
+Signed electronically by Amy  Jenkins  on Jun 30, 2077     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC21" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC23" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC22" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC24" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC27" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC25" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC20" indicator="not present"/>
+    <SMOKER id="DOC14" status="unknown"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC28" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-04-07
+
+ Surgery Admission Note
+
+
+CC: Presents for lung transplant
+
+HPI: Mr. Horn is a 59-year-old man with end-stage lung disease due to idiopathic pulmonary fibrosis. He was admitted to the BCC from 1/8/94 to 3/15/94 with hypoxic respiratory failure requiring endotracheal intubation and admission to the medical ICU. During that admission he was listed for lung transplantation. He was discharged to a rehab facility and then to home two days ago. He returns now for single lung transplant from a deceased donor.
+
+PMH:
+Idiopathic pulmonary fibrosis
+Obstructive sleep apnea
+CAD (last cardiac cath 1/15/94)
+Paroxysmal atrial fibrillation
+Diabetes
+GERD
+ESBL Klebsiella UTI
+C. Difficile colitis
+Bilateral pneumothoraces requiring chest tube
+Right foot drop due to common peroneal nerve palsy
+
+PSH: 
+2091: Flexible Bronchoscopy, Mediastinoscopy, Right VATS with multiple right sided wedge biopsies (Dr. Yerger)
+2/2093: Left chest tube
+     
+MEDICATIONS (Confirmed 4/7/94 on admission):
+Reglan 10mg PO AC+HS
+Lopressor 50mg PO TID
+Prednisone 10mg PO QD
+Potassium Chloride immed release 40meq PO QD
+Digoxin 0.125mg PO QD
+Omeprazole 40mg PO QD
+Bactrim SS 1 tab PO QD
+Sucralfate 1gram PO QHS
+Mycophenolate Mofetil (Cellcept ) 750 MG PO BID
+Clonazepam 1mg PO QHS PRN insomnia
+Lipitor 20mg PO QD
+Acetylcysteine 20%(200 Mg/ml)  PO 600 MG Q8H
+Colace 100 TID
+Senna PO 2 TAB BID PRN constipation
+Fentanyl (Patch)  TRANSDERMAL 25 MCG/HR Q72H
+Codeine 30mg PO 9am, 3pm, 9pm, 3am
+Codeine 15mg PO 12am, 6pm, 6am, 12pm
+Insulin NPH Human  SC 28 units before breakfast
+Insulin regular SC 4 units before lunch
+Acetylsalicylic Acid (Aspirin )  PO 325 MG QD
+Gamma interferon ?dose SC three times weekly
+Multivitamin 1 tab PO QD
+
+ALLERGIES: NKDA: No Known Drug Allergies
+
+Exam:
+VS: 97.3, 82 regular, 127/63, 20-24, 98% on 8LNC 
+General: Pleasant man in NAD on nasal oxygen. Speaks a few words at a time. Here with his family.
+Neck: Supple, no JVD
+Lungs: Distant, clear, expansion symmetric.
+Heart: RRR without appreciable MRG
+Abd: Soft, nontender, nondistended
+GU: Circumcised; hypospadias with very small urethral orifice
+Sacrum: Area of redness over the sacrum with soft skin but no skin breakdown, drainage, or fluctuance
+Extr: WWP, + trace digital clubbing.  Nail beds pink with brisk capillary refill.
+
+Assessment: 59-year-old man with end-stage pulmonary fibrosis, admitted now for lung transplant
+
+Plan:
+-Pre-op labs and studies including crossmatch for 10 units each PRBC, FFP, platelets
+-OR for lung transplant; surgical consent signed and on chart
+-Antibiotics/inductions meds in OR per Dr. Patterson (ordered; availability confirmed)
+-Urology re hypospadias
+-SICU post-op
+
+
+________________________ 
+Nicholas Lange, MD
+BCC Surgery PGY-1 14338
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC16" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="beta blocker" type2=""/>
+    <CAD id="DOC7" time="after DCT" indicator="mention"/>
+    <CAD id="DOC11" time="before DCT" indicator="mention"/>
+    <CAD id="DOC12" time="during DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC10" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC19" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

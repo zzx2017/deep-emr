@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-02-18
+
+
+KH Cardiovascular Division
+CVD RM5
+75 Weymouth Dr                                      FAIR, BILL
+Plymouth, IN 46368                                           22041864
+(958) 688-5162                                           02/18/85
+
+
+Florence Mildred Yuan, M.D.
+Endocrinology/Osteopathic Medical Center
+02 Weymouth Dr
+Plymouth, IN  46368
+
+Dear Dr. Yuan:
+
+I saw your patient, Bill Fair, in the Cardiology Office today for evaluation of his coronary artery disease in anticipation of knee replacement on March 23, 2085, and thank you for having him come here for evaluation.  I will be sending a copy of this letter to
+Dr. Oliver Oates as evaluation for preop assessment as well.
+
+Mr. Fair is a 61-year-old male who has a number of risk factors for coronary artery disease but is unaware of any known prior manifestations.  He has had diabetes mellitus for about 20 years.  About two months ago, he started on insulin, and he is now followed by you at the Endocrine Group.  His most recent glucose had been in the range of 86 with his lipids including total cholesterol of 157, triglycerides 103, HDL of 42, and LDL of 94.  His current medical regimen for these and his other problems include insulin NPH 10 units in the morning, 25 units in the afternoon, glyburide 20 mg q.d., and metformin 1000 mg q.d..  He also takes Lasix 60 mg per day, lisinopril 40 mg per day, and Lipitor 10 mg q.d.
+
+His other risk factors are notable for hypertension, which has been labile and borderline high in the past.  He is currently on the lisinopril with apparently good control of his pressure.  He has had hypercholesterolemia and is now doing well on Lipitor.  He does not smoke cigarettes, but he is obese.
+
+He has no known history of MI, angina, or shortness of breath.
+
+His other risk is notable for his family history, which includes his father who died at the age of 72 of an MI as well as leukemia.  His mother died at the age of 74 of mesothelioma, and he has two sisters and one brother who are well.
+
+He had an echo performed on February 2, 2085, in anticipation of his knee surgery in March 2085, and this was notable for a mildly dilated left ventricle with mild concentric LVH.  Overall LV function is mildly-to-moderately reduced with an estimated ejection fraction of 40%.  The entire inferior and posterior walls were akinetic and thin consistent with myocardial scar.  The apical anterior wall, apical lateral wall, and left ventricular apex were hypokinetic suggestive of myocardial hibernation or scar.  The right ventricle was normal in size and function, the left atrium was mildly dilated, the aortic valve was unremarkable, the mitral valve was slightly thickened with mild-to-moderate mitral regurgitation, and the tricuspid valve was structurally normal.
+
+His past medical history is notable for kidney stones, which he has had over the past 10 years or so.  He has had three or four attacks, the most recent one was two years ago.
+He also has the severe osteoarthritis of the lower extremities predominantly affecting the knees.  Both Achilles tendons have been damaged as well apparently.  He is anticipating knee replacement with Dr. Oates on March 23, 2085.
+
+Social history is notable for no cigarette or alcohol use.  He has a convenience store and frequently eats out of it throughout the day with poor dietary habits.
+
+His review of systems is otherwise unremarkable.
+
+On exam, he is obese but comfortable.  Blood pressure is 150/80, heart rate of 67 and regular, and weight of 278 pounds.  Head and neck are unremarkable.  Chest is clear.  Cardiac exam shows no jugular venous distention at 30 degrees.  PMI is normal.  S1 and S2 are normal with a physiologic split.  There is an S4 and 1/6 systolic ejection murmur at the left lower sternal border.  Abdominal exam is unremarkable without organomegaly.  The abdomen is obese.  Extremities show no edema or cyanosis.  Carotid upstrokes are normal in contour and volume without bruit.  Distal pulses are normal.
+
+His resting 12-lead electrocardiogram demonstrates normal sinus rhythm with evidence of previous inferior MI and poor R-wave progression, V1 through V3.  He has a superior axis likely related to the inferior MI.  The QRS is increased with nonspecific intraventricular conduction delay.
+
+Mr. Fair clearly has evidence of coronary artery disease with at least one myocardial infarction.  This had been entirely asymptomatic and was quite a shock for Mr. Fair to hear this information.  We will obtain an adenosine MIBI scan prior to his surgery to be sure we have a better idea of the status of his myocardial perfusion.  In addition, I strongly encouraged him to lose as much weight as possible.  He seems both very interested in losing weight but at the same time somewhat cavalier an overly confident that he will be able to do so.  I think the most important thing is going to be dietary management, since I doubt he will ever be able to do enough physical activity to burn sufficient calories to lose weight on that basis alone.  We will check his Chem-25 today as well as CRP, and I will review these results with him as soon as they are available.
+I also asked him to check on his blood pressure at home and let me know the results.
+If any problems develop in the interim, please do not hesitate to contact me.  We will hopefully be able to identify his preop risk factor status with his perfusion scan within the next week.  Thank you for allowing me to help with his care.
+
+Kindest personal regards.
+
+
+
+
+
+______________________________
+Liam Mcmahon, MD
+
+
+Dictated By: Liam Mcmahon
+
+
+eScription document:6-8059879 SFFocus
+
+
+CC: Oliver Oates M.D.
+Osteopathic Medical Center
+73 Weymouth Dr
+Plymouth, IN 46368
+
+DD: 02/18/85
+DT: 02/18/85
+DV: 02/18/85
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC21" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC26" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC3" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC20" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC27" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC30" time="during DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC29" time="before DCT" indicator="mention"/>
+    <CAD id="DOC16" time="after DCT" indicator="mention"/>
+    <CAD id="DOC22" time="during DCT" indicator="mention"/>
+    <CAD id="DOC32" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC31" indicator="not present"/>
+    <SMOKER id="DOC23" status="never"/>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

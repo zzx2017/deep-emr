@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2123-11-25
+
+			
+
+NPH 9 / R 0  (H)
+
+Lopressor 75 mg tid	795-76-17
+
+Lisinopril 10 mg qd	CORONA, Bruce
+
+ASA 325 mg qd	
+
+Zocor 40 mg qd (D/C'd by Dr. Chandler)
+
+Flomax 0.4 mg bid
+
+Celebrex 100 mg qd
+
+Colace 100 mg tid
+
+
+
+November 25, 2123
+
+
+
+Interim History:	
+
+Comes to review diabetes and related problems.
+
+He feels that he gets tired and needs to rest more after doing any exercise. He denies shortness of breath or chest pain, but he is not just describing generalized fatigue in that this is clearly related to physical exercise. He has not had an ETT since April, 2122.
+
+Home Blood Tests:  
+
+B 	103-149
+
+L	not testing
+
+S	not testing
+
+HS	150-175, about 2pc
+
+
+
+Retinopathy:	Sees Dr. Dailey each January. In January, he had very mild diabetic retinopathy and slight macular degeneration.
+
+Nephropathy:	Due for microalbumin/creatinine ratio; normal in past.
+
+Neuropathy:	No foot discomfort.
+
+Cardiac:	above; has seen Dr. Brian recently.
+
+Vascular:	No claudication
+
+
+
+Past Medical History: 
+
+Has had flu shot this year.
+
+He told me in 2119 that he had had a PneumoVax, but did not know exactly when.
+
+
+
+Social History: 
+
+His wife has had walking difficulty after radiation therapy for her gynecologic malignancy. She sees Dr. YAEL Pratt.
+
+
+
+Social History:
+
+He retired. A new management gave him 3 hours to decide whether to retire or to work nights.
+
+
+
+Review of Systems: above
+
+
+
+Physical Exam:	
+
+Looks well.
+
+BP:   126/60		P:   72, regular	
+
+Wt:   148.5 without shoes, down 17 since May !
+
+HEENT:	Anicteric. 
+
+Carotids:	Normal pulses, without bruits
+
+Chest:	Clear to auscultation
+
+Heart:	Normal S1; physiologic S2.  S4.  2/6 systolic ejection murmur
+
+Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+
+Extremities:	Trace edema.         DP absent R, 1+ L.   PT absent.   There is an area at medial tip of L great toe with ? underlying dark blood and overlying callus that is of concern.
+
+
+
+Impressions and Plan:	
+
+Would check some BS before supper as well.
+
+I have several concerns:
+
+Could his exercise-induced fatigue be an angina-equivalent? Will defer to Dr. Brian with respect to the need for another ETT.
+
+His weight loss continues, without explanation. Dr. Chandler is aware of this.
+
+His L great toe is of concern. Dr. Aldridge has been following this area and he will continue to follow-up with him.
+
+A1c, CBC, Fe, TIBC, ferritin, SGOT, SGPT, alkaline phosphatase, Bili T/D, TSH, Electrolytes, BUN/Creatinine, spot urine for microalbumin and creatinine
+
+
+
+Appointments:	4 months
+
+
+
+cc:	Devan Chandler, M.D., Ph.D.
+
+	Bruce Brian, M.D.
+
+
+
+
+
+			Betty G. Pierce, M.D., Ph.D.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC16" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="beta blocker" type2=""/>
+    <FAMILY_HIST id="DOC12" indicator="not present"/>
+    <SMOKER id="DOC3" status="unknown"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC19" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

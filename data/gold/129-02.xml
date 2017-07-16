@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-08-26
+
+Renal Associates
+
+
+
+8/26/3
+
+
+
+She has been discharged from SCH to home. Having difficulty with low BP on dialysis.
+
+Her BP was 80/40 at completion of HD yesterday by her report.
+
+Her BP is 150/80 today. She has not taken am meds.
+
+
+
+- decrease Procardia to 60mg non dialysis days
+
+- decrease ISDN to 10mg tid, hold pre dialysis.
+
+
+
+Follow up prn. HD on Mon at Souther Millway Hospital.
+
+
+
+
+
+Eddie Love MD.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC2" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="nitrate" type2=""/>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC4" indicator="not present"/>
+    <SMOKER id="DOC5" status="unknown"/>
+  </TAGS>
+</root>

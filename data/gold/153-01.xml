@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-12-06
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+MESA VISTA HOSPITAL
+
+
+
+Reason for visit   Follow up after recent hospitalization.
+
+
+
+History of present illness   Was admitted to LCMH after an episode of syncope.  Had a brief episode where he had light - headedness followed by slump to ground and brief LOC. No seizure activity.  Work-up at LCMH unrevealing - Holter, echo, enzymes and brain scan without issue.  I had let them know about the carotid bruit and the result of CNIS.
+
+No recurrence, feeling otherwise well.  THey added lipitor to his regime.
+
+
+
+Change in therapies and Renewals
+
+aspirin 325 mg po qd QTY:90 Refills:3 Start: 1/2/2076
+
+Lipitor 20mg po qd QTY:90 Refills:3 Start: 12/06/2076
+
+
+
+Physical examination
+
+Pulse 68  
+
+Blood pressure 138/88  both arms
+
+General appearance   Well developed, well nourished, no acute distress.
+
+Heent   NC/AT, PERRL, EOMI, O/P clear without erythema or exudates.
+
+Neck   JVP flat; carotid bruit as before, no goiter.
+
+Chest   CTA B w/o c/w/r. No dullness to precussion, no egophony.
+
+Cor   PMI at 5th ICS, MCL. RRR nl s1, s2 without m/r/g.
+
+Abdomen   NT/ND, no HSM. Normal active bowel sounds.
+
+
+
+Assessment and plan   Dec 76 
+
+Continue current meds.
+
+He is due to be seen by neuro at LCMH - no need to refer to neuro here.
+
+Call me if recurs, reassured likely vaso-vagal or due to BP meds.
+
+
+
+Nov 76 -
+
+HTN - add HCTZ, check labs in two weeks.
+
+DM - continue glucophage. HBA1C next visit. 
+
+Screening - to address next visit. 
+
+FLu shot given. 
+
+
+
+			
+
+Case reviewed with Dr. Lee. No med change for now. Pt's wife will reduce high Na+ sauces in her food preperation. Pt will walk min of 5x/week for 30-40 min. RTC x 1 week for b/p check. Pt refuses to purchase a b/p cuff for home moitoring. Will check labs at next visit.
+
+
+
+Disposition
+
+See me in three months.
+
+
+
+Signed electronically by   W. Ronnie  Le MD  on  Dec 12, 2076     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="aspirin" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC13" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC15" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

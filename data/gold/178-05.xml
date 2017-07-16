@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2124-03-01
+
+
+
+Problems
+Diabetes mellitus type 2 : 10/20
+Hyperlipidemia : 10/20
+Smoking 
+sp oral cancer : 6/21
+Thyroid nodule 
+
+cad
+stent placement
+Medications
+Aspirin (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET Take 1) PO QD 
+Atenolol 50MG TABLET Take 1 Tablet(s) PO QD 
+Lipitor (ATORVASTATIN) 80 MG (80MG TABLET Take 1) QD #30 Tablet(s)
+Nitroglycerin 1/200 (0.3 MG) 1 TAB SL as directed PRN chest pain , 1 Q 5 minutes X 3 prn 
+Plavix (CLOPIDOGREL) 75 MG (75MG TABLET Take 1) PO QD 
+Zestril (LISINOPRIL) 10 MG (10MG TABLET Take 1) PO QD #30 Tablet(s)
+
+Allergies
+Tetracycline Hcl - headache, : 
+Vital Signs
+BP 170/80, P 64
+O2 SAT 98 
+
+Comes in today after stent pacement 
+no chest pain
+walks
+not strict with diabetes to date
+chest clear
+hs 1,2
+carotids ok
+no nodes 
+abdo nad
+pulses present
+Reinforced the need for tight control of her diabetes, bp and lipids given her recent cad
+will add metformin bid
+increase zestril 20mg
+may be able to reduce dose of lipitor to 40 mg if target ldl of 70 is reached
+tcb 6/67
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC26" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC29" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC30" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC13" time="during DCT" indicator="high bp"/>
+    <CAD id="DOC16" time="after DCT" indicator="mention"/>
+    <CAD id="DOC21" time="during DCT" indicator="mention"/>
+    <CAD id="DOC25" time="before DCT" indicator="event"/>
+    <CAD id="DOC31" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC27" status="current"/>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

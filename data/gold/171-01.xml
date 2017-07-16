@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-10-09
+
+
+
+NAME:     Usrey, John 
+
+MRN:       6762675
+
+
+
+This is a 76-year-old man who comes in with a chief complaint of left calf pain. 
+
+This occurs after walking about one block and pain is sufficient to prevent him
+
+from walking further.  He will then stop, pain will disappear.  He will continue
+
+walking at which time it will occur at about the same distance.  There is no rest
+
+pain.  The pain had been present for a couple of months although it has been
+
+increasing in severity.   
+
+
+
+PAST MEDICAL HISTORY:  Is significant for intracranial bleed secondary to an
+
+AV malformation.  He refused surgery at that time at Campellton-Graceville Hospital and has done
+
+well on Dilantin without any seizures.  There has been no further bleed or problem
+
+from this malformation.  He also has treated hypothyroidism.  He is status post
+
+TURP, cholecystectomy, and appendectomy.  He does have a chronic anxiety
+
+disorder for which he is on Ativan intermittently.  He also has pustular psoriasis.
+
+
+
+MEDICATIONS:  Dilantin 600 mg per day, which keeps his level at about 7.  At
+
+these levels he has had no seizures.  He is also on Synthroid at 0.075 per day.  
+
+
+
+PHYSICAL EXAMINATION:  He is a mostly German-speaking man.  There is a
+
+right-sided tremor which has been present since his intracranial bleed.  Neck
+
+supple.  Blood pressure is at 140/80.  Weight 184.  Heart rate is at 70.  There are
+
+no carotid bruits.  Lungs are clear.  Heart is regular without gallop or murmur. 
+
+Abdominal exam - No mass, tenderness, or organomegaly.  There are multiple
+
+scars. There is a bruit over the right femoral artery with a decreased pulsation there
+
+compared to the left.  There is no pulse palpable below popliteal on the right side. 
+
+There is no visible ischemic change of the right leg.  The left femoral is fuller, and
+
+there is a palpable dorsalis pedis on that side.  
+
+
+
+IMPRESSION:  Peripheral vascular disease, probably right iliofemoral.  He will
+
+undergo arteriovascular studies.  He will also be placed on aspirin at 81 mg per
+
+day.  In addition he is begun on Lipitor 10 mg per day for hyperlipidemia.  He will
+
+follow up following that vascular study.  This evaluation was also communicated to
+
+her daughter, Quinn, because of the language barrier.
+
+
+
+
+
+Xenia Jaramillo, M.D.
+
+
+
+XJ/camp/williams
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC3" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+  </TAGS>
+</root>

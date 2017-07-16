@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2074-11-09
+
+                     HEARTHSTONE EMERGENCY DEPT VISIT
+ 
+LEVINE,LYDIA   813-25-60-5                   VISIT DATE: 11/10/74
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 48 year old 
+female who while working at home two days ago noticed pain and 
+swelling of the left fifth finger.  The patient was also noted to 
+complain of pain, erythema and a slight amount of pus of the fifth 
+finger of the left hand.  She denies any other complaints.  There 
+is no fever, no chills, no nausea or vomiting. 
+PAST MEDICAL HISTORY:  She has a history of insulin dependent 
+diabetes mellitus. 
+MEDICATIONS:  Insulin for her diabetes. 
+ALLERGIES:  No known allergies. 
+PHYSICAL EXAMINATION:  Temperature of 99, pulse of 96, respiratory 
+rate of 16, blood pressure is 165/96.  Examination of the fifth 
+finger noted pus and erythema of the extensor surface of the fifth 
+finger of the left hand.  She was noted to have full range of 
+motion of the fifth finger of the left hand. 
+THERAPY RENDERED/COURSE IN ED:  Pus was drained from the wound, 
+approximately 1/2 cc of pus.  The patient was given Ancef 1 gram IV 
+piggyback. 
+DISPOSITION (including condition upon discharge):  She was 
+discharged home on Keflex 250 mg p.o. q.i.d. x seven days.  She was 
+also given a tetanus shot.  Condition on discharge stable. 
+___________________________________                    JD134/2915 
+D. EMON DUBOIS, M.D.  ED65                            D:11/10/74 
+                                                       T:11/10/74 
+Dictated by:  D. EMON DUBOIS, M.D.  ED65 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

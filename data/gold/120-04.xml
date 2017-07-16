@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2075-12-03
+
+                     AGH EMERGENCY DEPT VISIT
+
+ 
+
+HARDY,TERESA   360-52-41-3                    VISIT DATE: 12/03/75
+
+This patient was seen concurrently with Dr. Jeter, whose note I 
+
+have reviewed and with which I agree. 
+
+PRESENTING COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 56-year-old female who 
+
+presents with complaints of chest pain.  The patient has a known 
+
+history of coronary artery disease and most recently had a stent 
+
+placed in April of 2075.  The patient had an episode of chest 
+
+tightness with dyspnea while walking to catch a bus.  The patient 
+
+states that this is unusual for her.  She does not usually have 
+
+discomfort with exertion since having her stent placed.  That did 
+
+resolve with rest and now the patient states she had a just "trace" 
+
+of chest tightness throughout the day otherwise.  The patient came 
+
+to Abbeville General Hospital and while walking uphill towards 
+
+the hospital entrance she had recurrence of her discomfort.  The 
+
+patient is pain-free on arrival to the emergency department.   
+
+REVIEW OF SYSTEMS:  As per the written note. 
+
+PAST MEDICAL HISTORY:  Non-insulin-dependent diabetes mellitus, 
+
+angioplasty, stent, coronary artery disease, pulmonary 
+
+hypertension. 
+
+MEDICATIONS:  Glyburide, aspirin, Lasix, and otherwise as per the 
+
+written note.
+
+ALLERGIES:  Actifed.
+
+PHYSICAL EXAMINATION:  This is a well-developed, well-nourished 
+
+female in no acute distress.  VITAL SIGNS:  Temperature 97.9, pulse 
+
+87, respiratory rate 20, blood pressure 161/93.  Oxygen saturation 
+
+is 98% on room air.  HEENT:  Normocephalic, atraumatic.  Pupils are 
+
+equal, round, reactive to light and accommodation.  Extraocular 
+
+motions are intact.  LUNGS:  Clear to auscultation bilaterally.  No 
+
+crackles.  No wheezes.  CARDIOVASCULAR:  Regular rate and rhythm.  
+
+Physical exam is otherwise as per the written note.  
+
+LABORATORY EVALUATION: Labs are significant for an EKG which shows 
+
+a sinus rhythm at 87 beats per minute.  There are 1-mm ST 
+
+depressions in leads V5 and V6.  This was compared to a prior EKG 
+
+from July 2075 and was found to be without significant change.  The 
+
+only new change on the EKG is that a previously biphasic T-wave in 
+
+V4 is now upright.  Glucose is 215, BUN 21, creatinine 1.1, sodium 
+
+140, potassium 3.9, chloride 100, bicarb 32, CK 321, MB 3.1, trauma 
+
+0.07, calcium 9.4, white count 8.8, hematocrit 40.1, platelets 247, 
+
+PT 11.3, PTT 25.0.  Urinalysis shows no blood, no leukocyte 
+
+esterase, no nitrates.  Chest x-ray shows no infiltrate, no 
+
+pulmonary edema.
+
+THERAPY RENDERED/COURSE IN ED:  The patient was seen and evaluated 
+
+in the emergency department with labs and studies obtained as 
+
+documented above.  The patient's history is concerning for angina.  
+
+The patient received an aspirin, as well as Lopressor, while in the 
+
+emergency department.  She has remained pain-free throughout her 
+
+period of observation while in the emergency department.  The 
+
+patient will require serial cardiac enzymes due to her most recent 
+
+chest discomfort being en route to the hospital and if these are 
+
+unremarkable the patient will require a functional cardiac study 
+
+such as an exercise tolerance test. 
+
+FINAL DIAGNOSIS:  Angina.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted to the hospital in satisfactory condition. 
+
+___________________________________                    JM057/26484 
+
+LATRISHA ERVIN, M.D.       LE72                        D:12/04/75 
+
+                                                       T:12/04/75 
+
+Dictated by:  LATRISHA ERVIN, M.D.       LE72 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC7" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention"/>
+    <CAD id="DOC2" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC11" time="after DCT" indicator="mention"/>
+    <CAD id="DOC12" time="during DCT" indicator="mention"/>
+    <CAD id="DOC15" time="before DCT" indicator="event"/>
+    <CAD id="DOC20" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC9" status="unknown"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC14" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

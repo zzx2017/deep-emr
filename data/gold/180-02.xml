@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-11-01
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 6, 2083
+ 
+ 
+ 
+Vincent Ventura, M.D.
+0758 Edmatteric Drive
+Cheney, TX 37523
+ 
+Re:  Peggy Tinsley
+     MR#  236-67-03-3
+ 
+Dear Dr. Ventura:
+ 
+Peggy Tinsley was seen in the Renal Clinic today.  Her chief
+symptomatic complaint is severe pruritus, which has not improved
+much with Benadryl.  She has yet to fill the prescription for Sarna
+lotion.  Her diarrhea has improved with Imodium, and she brought in
+samples for cultures today.  Her appetite has improved somewhat.
+She notes exertional fatigue and shortness of breath.  Medications
+include Phoslo 1 tablet t.i.d., Lasix 160 mg b.i.d., Altase  2.5 mg
+b.i.d., Lopressor 100 mg b.i.d., NPH 10 units q.d., iron t.i.d.
+ 
+On examination, weight was 46.8 kilos, which is stable.  Heart rate
+was 72, blood pressure 130/64.  JVP was clearly seen at 6 cm
+greater than the sternal angle, and there was 1 plus peripheral
+edema.  There was no S3.  Chest examination revealed bibasilar
+inspiratory crackles.  Her left hand is no longer cold, but the
+PTFE graft remains slightly edematous.
+ 
+Blood work from May 30th showed a hematocrit of 23, potassium 5.2,
+bicarbonate 15, BUN 91, creatinine 7.9, calcium 5.5., phosphate
+5.2, albumin 3.4.
+ 
+We will continue to hold off on dialysis until such time as Peggy's
+PTFE graft is suitable.  This will save her the additional
+morbidity of a semipermanent IJ catheter.  She is more hypervolemic
+than last week, and I added Zaroxolyn 2.5 mg in the morning to her
+diuretic regimen.  By oversight, she was not started on Rocaltrol,
+and I have started her on Rocaltrol .25 mcg p.o. q.d., and
+Nephrocaps 1 p.o. q.d.
+ 
+Page 2
+Vincent Ventura, M.D.
+Re:  Peggy Tinsley
+     MR#  236-67-03-3
+June 6, 2083
+ 
+A follow-up appointment was arranged in one week's time.
+ 
+Yours sincerely,
+ 
+ 
+ 
+Keith Quant, M.D.
+Renal Fellow
+ 
+ 
+ 
+Y. Quinton Xanders, M.D.
+ 
+DD: 6-6-83
+DT: 06/13/83
+DV: 6-6-83
+ 
+ 
+ 
+cc:
+Ivan Tomlinson, M.D.
+Surgery
+FPM
+ 
+ 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC2" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="insulin" type2=""/>
+    <FAMILY_HIST id="DOC9" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
+  </TAGS>
+</root>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2151-01-25
+
+ January 25, 2151 (initial office note) Frank Caldwell:
+	He is a 75 year old man who is referred by Dr. Freda Erickson of Mauston for consultation regarding a biopsy proven adenocarcinoma in the head of the pancreas. He apparently developed some twinge type pain in his right upper quadrant which he describes as    zingers    6 or 7 weeks ago. Work-up then involved imaging with a CT scan which I reviewed but do not have the written report on. This shows a mass in the head of the pancreas abutting and perhaps distorting the portal vein. He has not had any jaundice and does not have any change in his bowel functions. A subsequent endoscopic ultrasound examination confirms the mass in the head of the pancreas with features of portal vein invasion. Fine needle aspiration has confirmed adenocarcinoma. The mass itself is about 2   cm in diameter.
+	His family history does not include any pancreatic cancer but his father had lung cancer.
+	He denies smoking, drinking but exercises by walking about 5 days a week.
+	His past surgical history includes a resection of an aortic aneurysm in 2131, cholecystectomy in 2131, prostatectomy for cancer in 2142 and resection of a lung cancer in 2143.
+	His current medications include Lipitor 40mg a day, Glyburide 5mg three times a day (he has been taking it for 6     7 years), Lisinopril 5mg a day and a baby aspirin.
+	He is said to be allergic to Sudafed and the dye used for CAT scans (the latter was apparently salivary gland swelling on the day following a CAT scan - - it is unclear whether the two are related).
+	His review of systems also includes kidneys stones and spinal stenosis. He has had some mild recent weight loss. He denies symptoms of heart disease, neurologic disease or respiratory disease. His review of systems is otherwise unremarkable.
+	I think he is not a candidate for attempted surgical resection at this time. With the findings consistent with portal vein invasion, he should first be treated with chemoradiation. He may be a candidate for subsequent surgery, probably not resection but perhaps intra-operative radiation therapy. I   ve explained this to him, his wife and daughter. After discussing the various alternatives we have agreed to have him evaluated in the Sawtooth Cancer Clinic for treatment planning for chemoradiation, with consideration of subsequent IORT. He comes from Elk Ridge and probably would prefer to have his treatment carried out at the Elk Ridge Health Center in coordination with us. This seems quite reasonable and we will proceed to set that up. I will also get a CA19-9 today and plan to see him at the completion of his chemoradiation.
+	I spent 45 minutes in consultation and coordination of care.
+						Benjaman Y. Macias, M.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="statin" type2=""/>
+    <FAMILY_HIST id="DOC12" indicator="not present"/>
+    <SMOKER id="DOC13" status="never"/>
+  </TAGS>
+</root>

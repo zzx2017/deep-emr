@@ -4,10 +4,7 @@
 {'Dense': 512, 'Dropout': 0.036459287808666654, 'Dropout_1': 0.16029311711821462, 'batch_size': 128, 'filters': 64, 'optimizer': 'nadam'}
 {'Dense': 256, 'Dropout': 0.026648789729431493, 'Dropout_1': 0.11933024785100171, 'batch_size': 64, 'filters': 64, 'optimizer': 'nadam'}
 {'Dense': 1024, 'Dropout': 0.0024426169798841824, 'Dropout_1': 0.0818016168916952, 'batch_size': 128, 'filters': 32, 'optimizer': 'nadam'}
-
 {'optimizer': 'nadam', 'lr': 0.0011351251112733669}
 {'optimizer': 'adamax'}
-
 {'Dropout': 0.2935245491872076, 'Dropout_1': 0.026309854371732944}
-
 {'lr': 0.001}

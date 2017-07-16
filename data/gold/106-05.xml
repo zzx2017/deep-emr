@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2091-07-24
+
+
+
+Visit Note
+
+
+Patient Name: JUSTUS, QUIANA                       MRN: 9814048
+Dictated Date: 07/27/2091                      Dictated By: Ida Xayachack, M.D.
+
+
+Date of Visit: 07/24/2091
+
+
+
+
+The patient is a 79-year-old woman with a history of diabetes, hypertension, coronary artery disease who comes in today for followup. Please see the recent note from cardiology from 06/27/2091. She is status post stenting in 03/2091 and 06/2091. Post her second procedure she also had a large hematoma which has been gradually resolving. 
+
+
+She has type 2 diabetes and her fasting sugars have been very well controlled. She is currently on metformin 1000 mg b.i.d. and glyburide 5 mg b.i.d. She is trying to watch her diet and salt intake. She has not had any symptoms of hypoglycemia. She had lost some weight after her first heart attack but her weight has been stable. 
+
+
+Her lisinopril was recently increased by cardiology. She has no exertional chest pain, PND, orthopnea, edema, or claudication. 
+
+
+She has a history of iron deficiency anemia and had refused colonoscopies in the past. At the time of her heart attack she had been intubated and had some coffee grounds noted and also required a blood transfusion. She has not noted any epigastric pain, abdominal pain, melena, or hematochezia. She does take her iron supplements and her stools are dark on the iron supplements. I had discussed with patient and daughter several times that she should get a colonoscopy to evaluate her guaiac iron deficiency anemia but she continues to refuse one. 
+
+
+Also noted on her admissions was that she had a lung nodule and possible pancreatic mass on CT from 03/2091 and 06/2091. She should get a repeat CT in 12/2091. 
+
+
+She is not having any abdominal pain. 
+
+
+She has chronic back pain and osteoarthritis pain. Of note she also had elevated parathyroid levels in the past but refuses to see Endocrinology either in Fayetteville or at United Methodist Behavioral Hospital. 
+
+
+Please see her medication list which was reviewed with the patient and her daughter. 
+
+
+PHYSICAL EXAMINATION: She is in no acute distress. Blood pressure 132/70. Neck: Supple without JVD or bruits. Lungs: Clear without wheezes, rales, or rhonchi. Cardiac: Rate regularly regular, normal S1 and S2. No S3, S4 or bruits. Abdomen: Mildly obese, soft, nontender. She still has some residual hematoma near her right groin. She has a left femoral artery bruit. The hematoma has significantly decreased in size compared to prior visit. No CCE. Distal pulses intact. 
+
+
+1. Coronary artery disease. She has no symptoms of decompensated heart failure on her current regimen. Her blood pressure is well controlled with the recent increase in the lisinopril from 20 to 40 mg daily. Check Chem-7. 
+
+
+Hypomagnesemia. Check followup magnesium level. 
+
+
+Type 2 diabetes. Her last hemoglobin A1c was 6.1 which is excellent. Continue current medications. 
+Iron deficiency anemia. She should have a colonoscopy +/- an upper endoscopy but she declines these procedures. She is aware that we have not ruled out colon cancer or adenomatous colonic polyps or other cause for her iron deficiency anemia. Check CBC. 
+
+
+History of lung nodule and possible pancreatic mass versus IPMN. These were both stable on imaging from 03/2091 and 06/2091. She needs repeat imaging in 6 months. She will follow up with me in 10/2091 so we can get a flu shot and schedule these procedures. 
+
+
+
+
+___________________________
+Ida Xayachack, M.D.
+
+
+
+
+
+
+cc:
+
+
+
+
+
+
+TD: 07/28/2091 04:38:30
+TR: 7999590
+BackJob ID:  411287
+VoiceJob ID:  17480048
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC17" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="sulfonylureas" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention"/>
+    <CAD id="DOC11" time="after DCT" indicator="mention"/>
+    <CAD id="DOC14" time="during DCT" indicator="mention"/>
+    <CAD id="DOC16" time="before DCT" indicator="event"/>
+    <CAD id="DOC21" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC20" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-03-21
+
+ 
+
+
+
+
+
+
+
+
+
+21 March 2085
+
+
+
+
+
+Liam K. Mcmahon, MD
+
+Division of Cardiology
+
+Osteopathic Medical Center
+
+
+
+Re:	Bill FAIR
+
+	OMC 220-41-86-4
+
+
+
+Dear Dr. Mcmahon:
+
+
+
+I had the pleasure of caring for Mr. Fair at OMC 03/20-21/05.  He is a 61-year-old man with CAD, DM, high cholesterol, HTN, and family history of early CAD, who had a stress test that showed peri-infarct ischemia in the left circumflex and PDA.  Angiography showed a codominant system, a 100 percent left circumflex occlusion, an 85 percent RC lesion, and nonobstructive LAD lesions.  The left circumflex was recanalized and a Taxus 2.5mm by 32mm stent was placed.  The procedure was done with Angiomax and the sheath was pulled manually.  There were no complications.
+
+
+
+He spent an uneventful evening without complaints or complications, ambulating without difficulty.  His groin was soft and tender with ecchymosis but no hematoma.  Extremities were warm with 1+ edema to the ankles; pulses were 2+ throughout.  Morning labs included cholesterol of 114, triglycerides 109, HDL 34 and LDL 58.  He was discharged home on NPH insulin; Mucomyst, 600mg bid; aspirin, 325mg qd; atenolol, 25mg qd; Lasix, 60mg qd; glyburide, 10mg qd; lisinopril, 40mg qd; Lipitor, 40mg qd; Diovan, 80mg qd; Plavix, 75mg qd; metformin, 500mg bid to be restarted on 03/23/85; and sublingual nitroglycerin, prn chest pain.  He will require aspirin for life and Plavix for six months; he will not stop either medication unless told to do so by you.  His HDL is low and given his degree of atherosclerosis, you may wish to start gemfibrozil or Niaspan.  He will see you in follow-up in the next two weeks.  Thank you for allowing us to share in his care.  Please call if you have questions.
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+Rodger Lester, MD
+
+RL/ferreira
+
+cc:	Uriel Lim, MD, 2192 Manatee Street, Plymouth, IN 74489
+
+DS:   03/21/85
+
+DD:   03/21/85
+
+DT:   03/25/85
+
+     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC15" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC29" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC36" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC18" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC20" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC23" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC26" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC31" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC32" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC34" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC37" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC38" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC40" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC41" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC42" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC44" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC45" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC19" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC39" time="before DCT" indicator="mention"/>
+    <CAD id="DOC22" time="after DCT" indicator="mention"/>
+    <CAD id="DOC27" time="before DCT" indicator="test"/>
+    <CAD id="DOC30" time="during DCT" indicator="mention"/>
+    <CAD id="DOC35" time="before DCT" indicator="event"/>
+    <CAD id="DOC43" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC24" indicator="present"/>
+    <SMOKER id="DOC21" status="unknown"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC33" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

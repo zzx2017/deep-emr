@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-03-16
+
+
+
+
+NAME:    Vines, Stephen
+MRN:      1672569
+
+Stephen comes in today.  He has been feeling pretty well.  Really has no new
+complaints.  He still has 5 block claudication in his calves and he continues to smoke 
+a half pack per day.  His neuropathy is stabilized and his sugars have been good for
+the most part in the 140-150 range on insulin.  His weight has been stable.  He has
+had no shortness of breath or chest pain and his review of systems is otherwise
+negative.
+
+HABITS: Smokes about a half pack per day.  Does not drink, not really getting much
+exercise.  His legs hurt only when he walks over 5 blocks.  It doesn't hurt when he is
+working in the McCormick Company.
+
+PHYSICAL EXAM: He looks well.  His blood pressure is 142/80.  His pulse is 74
+and regular.  Respirations are 16. Lungs are clear.  No worrisome skin lesions. No
+bruits.  1+ carotids.  Abdomen is soft and nontender, no hepatosplenomegaly, no
+pulsatile masses, no bruits. Decreased pulses in the feet and decreased capillary refill
+and decreased sensation of vibration and fine touch.
+
+ASSESSMENT AND PLAN:  
+
+(1)  Diabetes.  Will check his hemoglobin A1c to see where we stand.  Continue
+     on his current regimen.  Encouraged him to increase his exercise and watch his
+     diet.  He has an eye exam scheduled.  His feet look okay, though we will have
+     to be careful given his neuropathy and peripheral vascular disease.
+
+(2)  Claudication.  Once again, talked to Mr. Vines about the absolute
+     importance of quitting smoking.  He is going to try using the Wellbutrin.  Gave
+     him a prescription for #60.  He will take one a day for 3-4 days and then go
+     up to 1 p.o. b.i.d.  He has no contraindications. I also encouraged him to use
+     the patch.  Hopefully, we will be able to get him off the cigarettes.  I also
+     encouraged him to walk until it hurts at least 3-4 x a day to try and train his
+     legs.
+
+(3)  Hypertension.  Our goal is to get his blood pressure down about 130.  Will
+     increase the Mavik to twice a day.
+
+(4)  Hyperlipidemia.  Well controlled on Lipitor.  Recheck his lipids.
+
+(5)  Neuropathy.  Stable.  He doesn't feel the need for any medication for it.
+
+(6)  HPDP.  Will check his guaiac cards.  He is not interested in a sigmoidoscopy. 
+     He has had a Pneumovax.  Patient will follow up with me in 3 months. 
+
+  
+
+Scott Phipps, M.D.
+
+SP/irons/quang
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC13" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC16" status="current"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-08-12
+
+
+
+
+XANDERS, RUTH
+56419927
+08/12/2087
+
+
+Quinton Sparks, M.D.
+Cardiovascular Division
+Louisville Care Center
+08 Mosele Court
+Changchun, LA  14176
+
+Dear Quin,
+
+Just a note for the records regarding Ms. Xanders's recent admission to our Cardiology Service between 08/09/2087 and 08/12/2087.  As you know, she is a lovely 47-year-old woman with type 1 diabetes, hypertension, cigarette smoking and end-stage renal disease for which she underwent transplantation in 2083. She is now under evaluation for pancreatic transplantation.  She has not had symptoms of angina or left ventricular dysfunction and LVEF has been normal.  An exercise test in July 2087 achieved 79% of the maximal predicted heart rate, no chest discomfort, but 1-mm of ST depression in the lateral leads.  Her other recent issues have included marked anemia, possibly related to her immunosuppressive drugs (negative upper and lower endoscopy) and transient hyperglycemia following a glucocorticoid bolus.
+
+At the time of admission, the hematocrit remained in the low 20s and she was transfused in preparation for cardiac catheterization.  Appropriate bicarbonate and Mucomyst therapies were administered, and we also took advantage of the precatheterization time to reinforce the importance of smoking cessation.
+
+Coronary angiography on 08/11/2087 demonstrated a co-dominant system with chronic occlusion of the right coronary artery with left to right collaterals perfusing that territory.  There was also a 95% stenosis of the proximal LAD.  After careful consideration of the options, Dr. Valdez placed a Cypher stent at that location successfully.  She tolerated the procedure well,  was ambulatory the following morning and the creatinine had actually improved to 2.0; the hematocrit remained "stable" in the mid 20s.  She will likely be discharged later today, following a discussion with the renal transplant service regarding augmenting her antihypertensive regime.
+
+She understands the importance of uninterrupted clopidogrel therapy,  preferably for more than one year.
+
+It was a pleasure to participate in Ms. Xanders's care.  A copy of the discharge abstract as list of discharge medications will be forwarded to you separately.
+
+With best regards.
+
+Sincerely yours,
+
+
+______________________________
+Stanley V Stanley, MD
+
+
+
+
+
+eScription document:3-2627386 KFFocus
+
+
+
+DD: 08/12/87
+DT: 08/12/87
+DV: 08/12/87
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC4" time="after DCT" type1="thienopyridine" type2=""/>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC6" indicator="not present"/>
+    <SMOKER id="DOC2" status="current"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

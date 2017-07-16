@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2121-06-06
+
+
+Problems
+Diabetes mellitus type 2 : 10/20
+Hyperlipidemia : 10/20
+Smoking 
+FH Uncoded Information:
+	 Comments: Father: age + 80 prostate cancer; diabetesMother: age 40 + uterine cancerSiblings:1bMarital status:mChildren:1F - 16FH is notable for the presence (+) or absence(-) of CAD ;Cancer ++ ;diabetes + ;HTN ; genetic disorder
+Medications
+Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) QD 
+Aspirin (ACETYLSALICYLIC ACID) 81MG TABLET EC take 1 Tablet(s) PO QD 
+Allergies
+Tetracycline Hcl - headache,
+Health Maintenance
+Influenza Vaccine 02/20/2121 given 
+Cholesterol 03/14/2121 137 
+M-alb/creat ratio 10/17/2120 9.4 
+Mammogram 07/31/2120 see report in Results 
+Pap Smear 09/13/2120 see report in Results 
+Pneumovax 02/20/2121 11/20 
+UA-Protein 07/25/12 NEG 
+Ophthal Exam 02/20/2121 set up 
+Triglycerides 03/14/2121 85 
+Cholesterol-LDL 03/14/2121 76 
+Microalbumin 10/17/2120 1.0 
+Bone Density 02/20/2121 set up 
+Hct (Hematocrit) 08/28/2120 40.8 
+Cholesterol-HDL 03/14/2121 44 
+Hgb (Hemoglobin) 08/28/2120 14.0 
+HbA1c 01/13/2121 7.50
+COLONOSCOPY 
+Vital Signs
+BP 120/88
+AGE 57y8.4m
+Comes in today because she was diagnosed yesterday with an oral mucosal cancer
+Feels well otherwise
+no chest pain or dyspnoea
+lesion on floor of mouth
+no nodes
+carotid bruits
+chest clear
+hs 1,2
+refer to oral surgeon
+set up carotid us again
+reminded about colonoscopy 
+
+ 
+
+
+ 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="aspirin" type2=""/>
+    <FAMILY_HIST id="DOC12" indicator="not present"/>
+    <SMOKER id="DOC6" status="current"/>
+    <DIABETES id="DOC4" time="before DCT" indicator="A1C"/>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC13" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

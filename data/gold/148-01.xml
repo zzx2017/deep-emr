@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-03-19
+
+
+
+
+
+
+
+March 19, 2087
+
+
+
+
+
+Dear Dr. Quentin Carlson
+
+
+
+
+
+Ms. Shari Etheridge was admitted to Parkview Memorial Hospital.  I have included a brief hospital summary below.  A full discharge summary should be sent to you shortly.  
+
+
+
+Parkview Memorial Hospital
+
+Admission Date:March 16, 2087
+
+Discharge Date: March 19, 2087
+
+General Medicine Service 
+
+Etheridge, Shari (94482315)
+
+
+
+83 year old woman with history of COPD, HTN, NIDDM who presented with shortness of breath and bilateral pedal edema.  Ms. Etheridge was given lasix with a good response.  Her shortness of breath resolved.  Her EKG was normal and her cardiac enzymes were flat.  It was felt that she had tracheobronchitis with sputum production and consequently treated with azithromycin.  She will continue on her nebulization and steroid taper for her underlying COPD.  Mr. Etheridge was discharged on March 19, 2087
+
+
+
+Follow Up
+
+[] Outpatient ECHO
+
+
+
+
+
+Thank you for allowing us to take care of your patient.
+
+
+
+Sincerely Yours,
+
+
+
+
+
+Frankie Echols, MD
+
+PMH-Promptcare Hospitalist Attending
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
+  </TAGS>
+</root>

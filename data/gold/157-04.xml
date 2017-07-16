@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-10-28
+
+55 yo s/p admit for chest pain, PTCA and stent of LAD. no enzyme bump
+
+
+
+As he says himself "a lucky wake-up call". He is motivated to watch BS carefully and lose 150 lbs. He is looking forward to meeting with nurtitionist. He feels fine.
+
+
+
+He was started on metformin 500 mg BID for HgbA1c of 7.4.
+
+Started Lipitor 40 mg though total chol 131,LDL was 87 in February.
+
+Discharged on Zantac though it was only used in house for prophylaxis.  Will hold.
+
+Lasix was stopped when he was hydrated peri-cath. Will hold for now but resume promptly for edema.
+
+
+
+Discharge meds as follows:
+
+
+
+Medications
+
+Folic Acid PO 
+
+Vit C (ASCORBIC Acid) PO 
+
+Vit E (TOCOPHEROL-DL-ALPHA) PO 
+
+Vit B12 (CYANOCOBALAMIN) PO 
+
+Vitamin B 6 (PYRIDOXINE Hcl) PO 
+
+One Touch Test Strips BLANK test up to tid : disp # 100
+
+AMOXICILLIN 500MG, 1 Capsule(s) PO TID
+
+Vasotec (ENALAPRIL Maleate) 20MG, 2 Tablet(s) PO QD
+
+(Lasix (FUROSEMIDE) 40MG, 1 Tablet(s) PO BID)
+
+ALLOPURINOL 300MG, 1 Tablet(s) PO QD
+
+ULTRAM BLANK PO BID
+
+Ecasa (ASPIRIN Enteric Coated) 325MG, 1 Tablet(s) PO QD
+
+Plavix (CLOPIDOGREL) 75 MG PO QD
+
+Lipitor (ATORVASTATIN) 40MG, 1 Tablet(s) PO QD
+
+Imdur (ISOSORBIDE MONONIT.(SR)) 30MG, 3 Tablet(s) PO QD
+
+Norvasc (AMLODIPINE) 10MG, 1 Tablet(s) PO QD
+
+METFORMIN 500MG, 1 Tablet(s) PO BID 
+
+
+
+Vital signs
+
+BP 144/78, Wt 366 lb 
+
+
+
+f/u 2-3 weeks
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC24" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="thienopyridine" type2=""/>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp"/>
+    <CAD id="DOC12" time="during DCT" indicator="event"/>
+    <CAD id="DOC26" time="during DCT" indicator="symptom"/>
+    <FAMILY_HIST id="DOC20" indicator="not present"/>
+    <SMOKER id="DOC15" status="unknown"/>
+    <DIABETES id="DOC16" time="before DCT" indicator="A1C"/>
+  </TAGS>
+</root>

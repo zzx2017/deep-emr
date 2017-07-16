@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-05-27
+
+                     GLENN HELEN EMERGENCY DEPT VISIT
+ 
+VINCENT,ROBERTA J.   380-18-32-2                    VISIT DATE: 05/27/96
+PRESENTING COMPLAINT:  Shortness of breath. 
+HISTORY OF PRESENTING COMPLAINT:  This is a 59 year old female who 
+presents to us with shortness of breath tonight.  She has been 
+developing shortness of breath now with nausea and vomiting today. 
+There is no history of fevers, no chills, and no abdominal pain. 
+She does complain of some mild flank pain but nothing significant. 
+She has had chronic back pain for years. 
+PAST MEDICAL HISTORY:  The patient has a significant past medical 
+history.  History is significant for hypertension, diabetes, and 
+congestive heart failure.  She is status post total abdominal 
+hysterectomy and bilateral salpingo-oophorectomy and status post 
+L5-S1 laminectomy. 
+MEDICATIONS:  The patient is on multiple medications including 
+Lasix, lisinopril, prednisone, Premarin, nifedipine. 
+PHYSICAL EXAMINATION:  Here the patient looked mildly 
+uncomfortable.  Blood pressure was 151/58, oxygen saturation was 99 
+percent, and heart rate was 98.  Blood pressure has remained stable 
+since she has been here.  Heent examination was normal.  Pupils 
+were reactive normally bilaterally.  Oropharynx was clear.  Neck 
+was mildly obese with no jugular venous distention.  There were 
+good carotid upstrokes, no bruit.  Lungs had some crackles 
+two-thirds of the way up and some rales at the bases, one-half way 
+up.  Cardiac examination revealed S1 and S2, somewhat tachycardic, 
+with a 2/6 murmur.  Abdomen had multiple striae and was soft and 
+non-tender, with good bowel sounds.  There were good pulses 
+throughout.  Extremities were normal. 
+LABORATORY EVALUATION:  Electrolytes here were normal.  Blood sugar 
+was normal.  White count was 14, hematocrit 34.  Initial CK was 
+140, troponin 2.6.  Chest x-ray showed moderate effusion and a 
+small left effusion.  Patient's last echocardiogram showed an 
+ejection fraction of 60 percent.  This echocardiogram was done in 
+February of 2096.  She also had a second echocardiogram in April of 
+2096 which showed an ejection fraction of 55 percent, with moderate 
+MR.  EKG here showed ST depression in V6 and some decreased T's in 
+aVR and aVL.  Sinus rhythm on EKG rated about 100. 
+THERAPY RENDERED/COURSE IN ED:  In the Emergency Department the 
+patient was heparinized.  She was placed on oxygen, given an 
+aspirin, and placed on a Nitroglycerin drip.  She also received 
+some Nitropaste here.  She also received a mg of Morphine.  SFOC 
+Cardiology was aware of the patient's troponin of 2.6, indicating 
+that she had a myocardial infarction or could still be evolving a 
+myocardial infarction here.  She received IV Lasix 60 mg here and 
+responded very well.  She was diuresing considerably and her 
+shortness of breath appeared to be much better than when she 
+arrived here in the Emergency Department. 
+FINAL DIAGNOSIS:  Congestive heart failure with myocardial 
+infarction, diuresing well and responding to medications. 
+DISPOSITION (including condition upon discharge):  The patient was 
+admitted to the CCU.  SFOC is aware.  She remains in stable 
+condition here and is going to be transferred up to CCU in a little 
+while.  Condition at this time is satisfactory. 
+___________________________________                    PF091/9353 
+DEXTER N. JOHNSON, M.D.  DJ50                             D:05/27/96 
+                                                       T:05/27/96 
+Dictated by:  DEXTER N. JOHNSON, M.D.  DJ50 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC15" time="before DCT" indicator="mention"/>
+    <CAD id="DOC8" time="during DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC17" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

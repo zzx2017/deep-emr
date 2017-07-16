@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-12-19
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 19, 2073
+ 
+ 
+ 
+Jacob Bautista, M.D.
+989 Eldorado Circle
+Coeburn, WA 42646
+ 
+RE:  Kenneth Umstead
+     MR #401-10-87-8
+ 
+Dear Jac:
+ 
+I saw your patient, Kenneth Umstead, in the Cardiology Office today
+and he seems like he is improved. He feels his legs are better and
+that he can walk greater distances. He feels very comfortable. 
+ 
+His current medications include Metoprolol 50 mg per day,
+Nifedipine XL 60 mg per day, Lasix 20 mg per day. 
+ 
+On exam today, he has a blood pressure of 146/76, a heart rate of
+65 and regular. Weight 210 pounds. Head and neck unremarkable.
+Chest is clear. Cardiac exam is notable for an S4 and a I/VI
+systolic ejection murmur. The rest of his exam was unremarkable.
+ 
+Resting 12 lead electrocardiogram is unchanged demonstrating normal
+sinus rhythm and a left axis deviation. There is a nonspecific
+intraventricular conduction delay. 
+ 
+I think Mr. Umstead is doing very well. He would like to have his
+arterial pulses rechecked noninvasively and I tried to arrange that
+schedule. In addition, his Metoprolol has been only once a day and
+if he can tolerate it twice a day he will have a better control and
+more prolonged risk prevention. I suggest that we increase it to 50
+mg bid. I also told him how to take his pulse and he can keep an
+eye on it. If it drops too low we can reduce the dose. He asked
+that I see him again in about six months for routine re-evaluation
+and I will be happy to do so. If any problems develop in the
+interim please do not hesitate to contact me. 
+ 
+Thank you for allowing me to help with his care. 
+ 
+Kindest regards.
+ 
+Kenneth Umstead
+MR #401-10-87-8                   -2-           December 19, 2073
+ 
+Sincerely yours,
+ 
+ 
+ 
+ 
+ 
+Marshall O. Lehman, M.D.
+Wilson Medical Center
+23 Whipple St
+Tonkawa, WA 67495
+ 
+/donovan
+ 
+DD: 12/19/73
+DT: 12/22/73
+DV: 12/19/73
+ 
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC7" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC8" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+  </TAGS>
+</root>

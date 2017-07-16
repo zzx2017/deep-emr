@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2126-11-07
+
+
+
+	CARDIOLOGY
+
+	
+
+	FAMILY HEALTH CLINIC
+
+	
+
+
+
+	Interval History:
+
+   Dr. Devan Chandler
+
+100 CRP
+
+
+
+RE:  Bruce Corona
+
+FHC Unit #:  795-76-17
+
+
+
+Dear Dunham:
+
+
+
+I had the pleasure of seeing  Bruce Corona in the Cardiology Department office for a f/u visit.  Since I last saw him, he continues to complain of dyspnea.  An ETT was negative for ischemia.  PFTs were not really useful.  CT of the chest showed scarring/fibrosis.  His NT-proBNP has been on the marginal side, though he is without evidence for overt CHF.
+
+
+
+Medications:  Aspirin 325 mg qd, Flomax 0.4 mg qd, Lopressor 25 mg bid, Lipitor 10 mg qd, Lisinopril 20 mg qd, Colace 100 mg tid.
+
+
+
+Physical examination:  Reveals him to be well appearing. His BP is 120/70 and his heart rate is 60 and regular. He is 170 pounds.  There is no jugular venous distention and carotid pulses are 2+ bilaterally without bruits.  His lungs are clear throughout, and notably demonstrate only very slight dullness at the left base.  His sternotomy is healing well and is stable.  His apical impulse is non-displaced with a slightly irregular rate and rhythm, a normal S1 and S2.  He has an S3 gallop.  No murmur.  His abdomen is benign without hepatosplenomegaly, bruits, or a dilated aorta.  There is no pedal edema and posterior tibial pulses are 2+ bilaterally.
+
+
+
+EKG:  NSR with a 1st degree AV block.  He has a LBBB, which is chronic.
+
+
+
+Impression:
+
+
+
+1.CAD, s/p MI: currently stable.
+
+
+
+2. Hypertension: under good control.
+
+
+
+3.Hypercholesterolemia: controlled
+
+
+
+4. Dyspnea: I suspect he has an element of diastolic dysfunction.  I will restart low-dose lasix.
+
+
+
+Thank you very much for the opportunity to participate in his care.
+
+
+
+With best regards,
+
+
+
+Bruce D. Brian, Jr., M.D.
+
+
+
+	Signed electronically by   Bruce D Brian MD  on  Nov 7, 2126     
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC15" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC19" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention"/>
+    <CAD id="DOC11" time="after DCT" indicator="mention"/>
+    <CAD id="DOC16" time="during DCT" indicator="mention"/>
+    <CAD id="DOC18" time="before DCT" indicator="event"/>
+    <CAD id="DOC23" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+  </TAGS>
+</root>

@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-07-22
+
+CARDIOLOGY
+
+PERHAM MERITCARE CLINIC
+
+
+
+Reason for visit:
+
+   Ms. Neill came into the emergency room even though she was feeling fine because she insists that she wanted to see me today even though it is not an office day.  She was instructed to come to the office and I was able to see her in between catheterization cases
+
+
+
+Interval History:
+
+   Ms. Neill was recently evaluated at Janesville Clinic for her dyspnea.  She was concerned that her dyspnea was related to her lungs and I believe self referred to Janesville for further evaluation.  
+
+
+
+She was found by cardiac echo there to have significant decrease in her ejection fraction to 15%.  Previously here last fall her ejection fraction measured 43%.  She had global hypokinesis.
+
+
+
+She was hospitalized at Janesville and had an abnormal set of pulmonary function tests showing moderate restrictive disease.  She had some air trapping and was noted to have room air saturation 97% at rest, 94% with exertion.  Lower extremity ultrasound negative for DVT.  d dimer 400 rnage.  BNP elevated at 500.  VQ scan showed possible perfusion defect in the left lower lobe.  Previous CTA in the emergency room had been negative for pulmonary embolus.  Because of continued suspicion about PE she underwent pulmonary arterogram which was unremarkable.  A repeat VQ scan after a normal PA gram showed some persistence in the left lower lobe defect and ultimately it was felt that she did not have evidence of any thromboembolic pulmonary vascular disease.  Of note pulmonary artery pressure was approximately 50 at the time of PA gram.
+
+
+
+The patient was commenced on Lasix 20mg.  Her Atenolol was changed to Toprol.
+
+
+
+Unfortunately she does not bring with her a complete list of her medications today although she relates that she is taking:
+
+Lasix 20mg
+
+Toprol XL 50mg
+
+ASA 325mg
+
+Zestril 20mg
+
+Lantus 10 units hs
+
+Glucovance 2.5/500mg
+
+Multivitamin
+
+
+
+She relates that her dyspnea is better
+
+
+
+She is extremely reluctant to undergo Cardiac catheterization at this time despite recommendation on my part.  She would much prefer cardiac echo and if there is improvement, continued medical therapy.
+
+
+
+
+
+Past medical history:
+
+   1. Diabetes
+
+2. Hypertension
+
+3. Hyperlipidemia
+
+4. Sick Sinus syndrome requiring permanant pacemaker
+
+5. cardiomypathy
+
+6. Minimal CAD by cath 2090
+
+
+
+Family history:
+
+   No significant cardiac disease
+
+
+
+Social history:
+
+   She and her husband are doing well.  She has retired. Daughter is finished with college and Quarry Worker in the Bristow area.
+
+
+
+Review of systems:
+
+   Patinet is improved with regard to exertional tolerance as noted.  Denies edema, PND, orthopnea.  Still has dyspnea with walking flat ground but not until 1-2 blocks.
+
+
+
+Physical examination:
+
+-BP: 130/80  
+
+-General appearance:   No acute distress.
+
+-Skin:   No rashes, anicteric.
+
+-Heent:   Unremarkable
+
+-Neck:   CVP 8.  No carotid bruits
+
+-Chest:   Clear to auscultation and percussion.
+
+-Cardiac:   S1 S2.   No significant murmurs.  PMI normal.
+
+-Abdomen:   Obese, soft, no hepatosplenomegly
+
+-Extremities:   Good pulses, no edema
+
+-Neuro:   Non-focal
+
+-Pulse: 89  
+
+
+
+EKG:
+
+   Atrial triggered ventricular pacing with borderline first degree AV block.
+
+
+
+Impression:
+
+   Ms. Neill is very reluctant regarding angiography despite a drop in her ejection fraction.
+
+
+
+Her evaluation at Janesville Clinic for thromboembolic pulmonary disease was unremarkable.
+
+
+
+She was found to have a markedly positive ANA at 1-1280 with a speckled pattern and single stranded DNA postive.  Further markers etc are not available to me at this time.
+
+
+
+At this point, repeat cardiac echo at our institution will be obtained.
+
+
+
+Depending upon the results I will again approach the patient regarding considering Cardiac catheterization although in truth her pattern in LV dysfunction is more suggestive of recurrent myocarditis/undetermined cardiomyopathy than coronary disease.
+
+
+
+In addition, the patient relates that she stopped Lipitor due to myalgia and that she is taking a differrent cholesterol tablet at this time although once again she unable to name the medication.  She relates that she will call our office.
+
+
+
+Signed electronically by   Samantha G Noland MD  on  Jul 27, 2094     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC18" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC24" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC25" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2="metformin"/>
+    <MEDICATION id="DOC9" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="sulfonylureas" type2="metformin"/>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="sulfonylureas" type2="metformin"/>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC27" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC29" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC26" time="before DCT" indicator="mention"/>
+    <CAD id="DOC19" time="before DCT" indicator="mention"/>
+    <CAD id="DOC20" time="during DCT" indicator="mention"/>
+    <CAD id="DOC22" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC17" indicator="not present"/>
+    <SMOKER id="DOC13" status="unknown"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC30" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

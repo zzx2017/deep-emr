@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-07-03
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+MESA VISTA HOSPITAL
+
+
+
+Reason for visit   f/u labs DM, presync, htn, hyperlipidemia
+
+
+
+Major Problems
+
+Chest pain
+
+June/ june77 - no recurrence.
+
+Hypertension
+
+The patient has been treated since November of 2076 with hydrochlorothiazide in addition to his atenolol and lisinopril and Norvasc.  Since that time, his creatinine has risen significantly.  Cre stable at 2.2.  Has htn today 160/90 and microalb quite high.  Will d/c hctz and double lisinopril to 40,  returning in two weeks for review of sx/labs.
+
+Diabetes mellitus
+
+Taking Glucophage 500mg po bid. He has stable nocturia without change. We will recheck his renal function and his hemoglobin A1c.  He is not fasting today, and we will check fasting in the near future
+
+Syncope
+
+He was admitted to Leake County Memorial Hospital in December-January 2077. It was thought that he was symptomatic because of dehydration. Had frank sync 1/10,77, and also Nov 18 lost consciousness. There was no sense of TIA or unsteadiness on his feet. He has a carotid bruit and was scheduled to have another ultrasound in the last few months. However, no ultrasound is at hand. Three or four years ago there was insignificant carotid disease documented. Has no symptoms now, no dizziness, sync, but + bruit, and distal peripheral vascular disease, we will proceed to re-image.
+
+Renal failure
+
+Creatinine is elevated high microalbumin and urind 2= alb.  Will check 24 hour urine after stable regimen.
+
+Health maintenance
+
+No cigarettes. No alcohol. Exercises 30 minutes per day. There is recent normal LDL cholesterol on 20 mg of lisinopril.  LFTs not done. No sx tc 169, LDL 86 and HDL 57 tis June.
+
+Coronary artery disease
+
+The patient is status post stent. He had exercise tolerance test after the stenting showing resolution of his inferoposterior ischemia. This was four to five years ago, and the patient has been stable since. His last exercise test was in 2072 with submaximal exercise loads..
+
+
+
+Other Problems
+
+Smoking
+
+Never
+
+Diabetes insipidus
+
+error
+
+Smoking Status: Former Smoker
+
+more than 10 yrs ago.
+
+
+
+Change in therapies and Renewals
+
+lisinopril 40 mg po qd QTY:90 Refills:3 Start: 1/2/2076
+
+hydrochlorothiazide 12.5 mg po qd QTY:30 Refills:6 Start: 11/1/2076 End: 7/3/2077 - Inactivated
+
+Lotrimin cream    top  bid QTY: 60 g Refills: 5 Start: 7/3/2077  to feet
+
+
+
+Review of systems
+
+			
+
+GU -- no frequency, dysuria nocturia 2x, no change.
+
+ HE HAS INTERMITTENT CLAUDICATION AT ABOUT 5 BLOCKS 10 minutes- HAS HAD WHAT SOUNDS LIKE PVRS DONE.  Right is more consistently a problem.
+
+
+
+Physical examination
+
+Pulse 56   
+
+Blood pressure 160/80   
+
+Respiratory rate 12  
+
+Weight 127   
+
+Foot exam   Good hygiene and good sensation by filament.  Has t pedis bilat and r is >> left. long toenails some onychomychosis, no cellulitis. 
+
+Extrem   No edema, no pt or dp pulses but toes warm.
+
+Musc skel   No bony deformities.
+
+height   
+
+
+
+Disposition
+
+f/utwo weeks. Pt wants me to be pcp.
+
+
+
+Signed electronically by Oswald M Jeffers MD on Jul 07, 2077     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC23" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC24" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC27" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC25" time="before DCT" indicator="mention"/>
+    <CAD id="DOC16" time="after DCT" indicator="mention"/>
+    <CAD id="DOC20" time="during DCT" indicator="mention"/>
+    <CAD id="DOC22" time="before DCT" indicator="event"/>
+    <CAD id="DOC28" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC3" status="past"/>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC21" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

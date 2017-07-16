@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2131-05-30
+
+EDVISIT^22267708^JONES, URIEL^05/30/31^COOKE, FREDI
+
+CHIEF COMPLAINT:  Shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:  A 67 year-old male was seen in
+
+transfer from Friends Hospital for evaluation of progressively
+
+worsening shortness of breath over the last 2 days, associated
+
+with increased fatigue and episodes of chest pressure yesterday. 
+
+He did note increase weight for the last 1-2 months,
+
+progressively worsening shortness of breath with minimal
+
+exertion.  He did have chest pressure at rest yesterday, which
+
+did radiate to his left shoulder.  This seemed to resolve
+
+spontaneously and then he noted shortness of breath with any kind
+
+of exertion at all.  The shortness of breath was exclusively
+
+exertional.  He has not noticed nausea, vomiting, diaphoresis,
+
+presyncopal symptoms or diarrhea.  No fevers.  He does have a
+
+slight cough that is nonproductive.  He was seen at a local
+
+Emergency Department today where he had laboratory studies as
+
+well as was given Lasix, albuterol, and nitroglycerin and states
+
+he has some relief of his symptoms associated with this.  He was
+
+cardioverted 2 days ago for atrial fibrillation by his
+
+cardiologist at SAH.  Additionally, at the outside Emergency
+
+Department, his INR was therapeutic at 2 as he is on Coumadin,
+
+but his troponin was elevated at 0.16.
+
+PAST MEDICAL HISTORY:  Significant for hypertension, orally
+
+controlled diabetes, hypercholesterolemia, and atrial flutter. 
+
+He has had a cardiac catheterization last in 2127.
+
+SOCIAL HISTORY:  He is a past smoker with 10 pack years of
+
+smoking.
+
+REVIEW OF SYSTEMS:  As noted in the written chart and HPI,
+
+otherwise negative.
+
+MEDICATIONS:  Coumadin, citalopram, metoprolol, lisinopril,
+
+glipizide, Cipro, and simvastatin.
+
+ALLERGIES:  He is allergic to penicillin.
+
+PHYSICAL EXAMINATION:  Temperature 99, pulse 63, respiratory rate
+
+20, blood pressure 140/86, and oxygen saturation 96% on room air.
+
+ HEENT:  Normocephalic and atraumatic.  Pleasant, calm.  Neck is
+
+supple.  Respiratory:  Clear to auscultation, except for
+
+scattered rales in the left lower lung field.  Cardiovascular: 
+
+Regular rate and rhythm without murmur.  Abdomen is soft and
+
+nontender.  Skin is intact, warm, and dry.  Extremities:  He has
+
+got 1+ edema of the bilateral lower extremities that is
+
+symmetric.  Neuropsych:  He is oriented x3, moves all extremities
+
+equally.
+
+LABORATORY DATA:  ECG shows a sinus rhythm at 65 with poor R-wave
+
+progression, but no acute ST segment abnormalities.  Chest x-ray
+
+shows interstitial increased markings with a small left pleural
+
+effusion and prominence of the ventricle consistent with mild
+
+pulmonary edema.  Cardiac biomarkers show troponin of 0.16 with
+
+creatinine of 1.43, CK-MB of 3.2 with normal index, and CK of 87.
+
+ BNP is still pending.  INR is 2.5, which is therapeutic on
+
+Coumadin.
+
+EMERGENCY DEPARTMENT COURSE:  At the outside Emergency
+
+Department, he did receive Lasix and he put off approximately 2
+
+liters of urine since then with significant symptomatic
+
+improvement in his dyspnea.  He has no further episodes of chest
+
+pain or pressure.  I did discuss the case with Dr. Davison,
+
+the SAH cardiologist on-call.  I believe this patient has CHF
+
+exacerbation.  He also was recently cardioverted, which ____
+
+explain his troponin elevation.  Additionally, his CHF
+
+exacerbation alone could explain his troponin elevation, and I
+
+doubt the patient has an acute coronary syndrome.  At this point,
+
+the patient is already anticoagulated by virtue of being on
+
+Coumadin.  We will hold any further heparinization or Lovenox at
+
+this time.  However, he will have serial cardiac biomarkers, will
+
+be admitted to the Cardiology Service for evaluation and for
+
+further evaluation and optimization of his congestive heart
+
+failure and for monitoring of his troponin levels.
+
+DIAGNOSIS:  Congestive heart failure exacerbation, troponin
+
+elevation, and diabetes.
+
+DISPOSITION:  Admission in stable condition.
+
+______________________________
+
+COOKE, FREDI M.D.
+
+D: 05/30/31
+
+T: 05/31/31
+
+Dictated By: COOKE, FREDI
+
+eScription document:0-8412167 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC22" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC26" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC24" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC2" status="past"/>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC21" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

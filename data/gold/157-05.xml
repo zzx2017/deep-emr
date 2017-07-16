@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-12-31
+
+56 yo for CPE
+
+
+
+He has been doing very well, though lost all dietary control over Thanksgiving. He has now been very careful for the past week and is having a new treadmill delivered which he thinks he can use without bothering his knees.
+
+
+
+His shoulder improved dramatically with the injection.
+
+
+
+
+
+Vital signs
+
+BP 134/82, Wt 369 lb 
+
+
+
+
+
+Medications
+
+Vit B12 (CYANOCOBALAMIN) PO 
+
+Vitamin B 6 (PYRIDOXINE Hcl) PO 
+
+One Touch Test Strips BLANK test up to tid : disp # 100
+
+Ecasa (ASPIRIN Enteric Coated) 325MG, 1 Tablet(s) PO QD
+
+Nitroquick (NITROGLYCERIN 1/150 (0.4 Mg)) 1 TAB SL under the tongue q 5min.prn chest pain call md if you still have pain after 3 tab.
+
+Lipitor (ATORVASTATIN) 40MG, 1 Tablet(s) PO QD
+
+Folic Acid 1MG, 2 Tablet(s) PO QD : this is a dose increase from 1 tab to 2 tabs qd
+
+Imdur (ISOSORBIDE MONONIT.(SR)) 30MG, 3 Tablet(s) PO QD
+
+Vasotec (ENALAPRIL Maleate) 20MG, 2 Tablet(s) PO QD
+
+Plavix (CLOPIDOGREL) 75 MG PO QD
+
+Toprol Xl (METOPROLOL (SUST. Rel.)) 200MG, 1 Tablet(s) PO BID
+
+Ultram (TRAMADOL) 50MG, 1-2 Tablet(s) PO BID
+
+Nifedipine (EXTENDED Release) 30MG, 1 Tablet(s) PO QD
+
+ALLOPURINOL 300MG, 1 Tablet(s) PO QD
+
+METFORMIN 500MG, 1 Tablet(s) PO BID
+
+HYDROCHLOROTHIAZIDE 25MG, 1 Tablet(s) PO QD 
+
+
+
+
+
+Problems
+
+Coronary artery disease : tiny MI, stent placement--he saw Dr. Yeater recently
+
+Hypertension --in good range
+
+Obesity -- as above.  he is again motivated.
+
+Diabetes mellitus : Type 2--now on glucophage.FBS was elevated over Thanksgiving, but has been better over the past week. Will check HgbA1c, Creat
+
+Elevated cholesterol--has been in excellent range on Lipitor.  Will check lipids,GOT 
+
+Elevated alkaline phosphatase 
+
+Venous insufficiency : stasis edema, R>L, due to old injury
+
+Hereditary spherocytosis : s/p splenectomy at age 18;
+
+Degenerative joint disease : bilateral knees (R knee film 10/29/82)--knees and ankles have been feeling better.
+
+Gout 
+
+Sleep apnea : obstructive; on c-pap;
+
+lower extremity ulcer 
+
+Nephropathy 
+
+H/O Kidney stone : inactive problem
+
+Osteopenia : on knee film 10/29/2082.r/o PTH--check Ca P Vit D PTH
+
+
+
+Social history : Happily married. Five grown children (one adopted),grandchildren. Disabled.
+
+Family history : Mother 80 cerebrovascular disease, emphysema;Father died recently.
+
+Habits: : No smoking;no alcohol;has a new treadmill.
+
+ROS otherwise neg in detail. 
+
+
+
+EXAM   Looks well   P60      reg   skin ok  PERRL  mouth ok
+
+            no adenopathy or thyromegaly  lungs clear  cor S1S2
+
+            no HSmegaly masses, or tenderness, but limited by habitus
+
+            normal genitalia
+
+            rectal normal prostate normal stool guaiac neg
+
+
+
+HM:  still resistent to colonoscopy, but willing to consider it when he returns from Kansas, if could use a different prep. Would also consider barium enema.
+
+
+
+f/u late March on return from Kansas
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC17" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC30" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC37" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC5" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC28" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC38" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC15" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC16" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC18" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC20" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC22" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC25" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC26" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC27" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC32" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC33" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC39" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC40" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC42" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC43" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC21" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC41" time="before DCT" indicator="mention"/>
+    <CAD id="DOC23" time="after DCT" indicator="mention"/>
+    <CAD id="DOC31" time="during DCT" indicator="mention"/>
+    <CAD id="DOC36" time="before DCT" indicator="event"/>
+    <CAD id="DOC44" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC29" indicator="not present"/>
+    <SMOKER id="DOC34" status="never"/>
+    <DIABETES id="DOC9" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC35" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

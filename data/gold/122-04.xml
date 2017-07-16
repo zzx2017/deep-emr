@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-08-15
+
+      CARDIOLOGY ADMISSION NOTE
+
+
+
+Nathan-Oliver OCAMPO
+
+HSC 805-31-35-9
+
+Date of admission 08/16/93, 
+
+Date of dictation/seen in clinic 08/15/93
+
+Ref:  Ken Sylvester, MD
+
+
+
+This 76-yr-old man is admitted for eval of progressive angina.  Longstanding intermittent claudication, control of hypertension and dyslipidemia.  Recently had episodes of intrascapular pain brought on by exertion, relieved immediately w/rest.  2 days ago had episode of intrascapular pain w/radiation to arms at rest.  He discussed his case w/Dr. Ken Sylvester who recommended early eval.
+
+
+
+PMH:  Claudication, HTN, dyslipidemia, BPH.
+
+
+
+Meds:  Hytrin 5mg qd, Proscar 1 tab qd, lisinopril 40mg qd, HCTZ 12.5mg qd, Mevacor 20mg qd, Pletal 100mg bid.
+
+
+
+PE:   NAD.  BP R arm sitting 152/63, P 85 reg, R 14 unlabored, W 201 lbs.  Neck supple, JVP flat, carotids w/o bruits, trace R basalar rhonchi, chest otherwise clear.  Cardiac normal S1, phys split S2, I-II/VI SEM from apex to base, no DM or rub.  Abdomen benign, BS well heard, no aneurysm or bruit.  Markedly diminished peripheral pulses in both legs.  
+
+
+
+ECG:  SR, occasional APBs at 80, 0.16/0.14/0.38, -40o.  LBBB, secondary ST T-wave changes.  
+
+
+
+I&P:  76-yr-old man had recent exertional back discomfort that may be ischemic in origin.   Have discussed various diagnostic and therapeutic options w/pt and wife, including potential stress testing vs coronary angiography.  As he reports steady increase in frequency in exertional back pain, now w/at least 1 episode occurring at rest (in setting of multiple CRFs of HTN, dyslipidemia, significant PVD) he has agreed to undergo coronary angiography which will be arranged for tomorrow.  He will have routine blood studies and CXR today.  Results of cath will determine recommendations.
+
+
+
+
+
+______________________
+
+Nicholas A. Gomes, MD
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC10" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC14" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention"/>
+    <CAD id="DOC3" time="before DCT" indicator="symptom"/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC9" status="unknown"/>
+  </TAGS>
+</root>

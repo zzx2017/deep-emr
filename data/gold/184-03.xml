@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2067-03-09
+
+TRIBAL HEALTH DEPARTMENT
+Tribal Internal Medicine Associates
+32 Cambridge St                             Hart, Matthew
+Lonaconing, CT  91197                             46103196
+829-1293                                      3-09-67
+ 
+ 
+ 
+HPI:  The patient is a 43 year old man with multiple medical problems 
+who presents for routine follow up.
+ 
+CURRENT ISSUES:
+1.   Adult onset diabetes mellitus.  The patient had a hemoglobin A1C 
+     approximately a month and a half ago, which was 9.5.  We discussed 
+     this in the office today, with the general concept that someone who 
+     is taking three injections of insulin a day should have much 
+     tighter control.  He states he has been following his finger 
+     sticks, though admits that occasionally forgets to do this. His 
+     current regimen is 35 units of NPH in the morning with 20 units of 
+     regular.  At bedtime, he is taking 35 units of NPH and 6 units of 
+     regular at dinnertime.  He denies any symptoms of hypoglycemia.
+2.   Hypercholesterolemia.  Of note, the patient recently experienced a 
+     rash to his simvastatin.  This resolved on the discontinuation of 
+     the simvastatin.  Of note, his most recent cholesterol was 314 in 
+     January, 2067.  He has met with the dietician to discuss the 
+     institution of a low-fat diet, and states that he tries to avoid 
+     fats.
+3.   Venous insufficiency secondary to deep venous thrombosis.  The 
+     patient states he is doing better since the institution of a 
+     Jobst stocking.  He still notes significant edema when he doesn't 
+     wear this, but notes an improvement in ambulation when he is 
+     compliant with the stocking.
+ 
+PHYSICAL EXAMINATION:  Blood pressure:  130/90.  Heart rate:  76.  
+Respiratory rate:  12 and unlabored.  Cardiac exam:  Regular rate and 
+rhythm, normal S1 and S2, no murmurs.  Lungs are clear to auscultation.  
+Abdomen:  Soft, non-tender, obese, with active bowel sounds.  
+Extremities show no clubbing or cyanosis.  There is 1+ pedal edema of 
+the right lower extremity, which is covered with a Jobst stocking.  Foot 
+care remains excellent.
+ 
+IMPRESSION:                         
+1.   Adult onset diabetes mellitus.  We will increase the patient's 
+     morning NPH dose to 40 units.  He will once again try to become 
+     more compliant with his diet.  He will be scheduled for a follow up 
+     ophthalmologic examination.
+2.   Hypercholesterolemia.  We will hold off re-starting therapy given 
+     his recent rash to simvastin.  We will re-check a fasting lipid 
+     profile as well as a set of LFT's.
+TRIBAL HEALTH DEPARTMENT
+Tribal Internal Medicine Associates
+01 Cambridge St                             Hart, Matthew
+Lonaconing, CT  91197                             46103196
+829-1293                                      3-09-67
+ 
+ 
+ 
+PAGE 2
+ 
+3.   General health maintenance.  We will once again schedule a follow 
+     up examination with the dietician as well as the ophthalmologist.  
+     He will keep a log of his sugars and follow up with me in the 
+     clinic in approximately one to two months.
+ 
+ 
+ 
+_________________________
+Michael Uecker, M.D.
+ 
+GG:XO:4403
+DD:3-27-67
+DT:3-27-67
+DV:3-09-67
+----------------------------------------------------------------------------
+Preceptor HINES,ALEXANDER SAMMY,M.D. Note:
+Pt seen with Dr. Uecker.  Rash resolved off simvastatin.  Blood sugar and BP
+sub-optimally controlled.  Agree with plan to increase BP meds and moniotr
+FSGs more closely.  Fasting lipid profile prior to restarting statin.
+Alexander Hines, MD
+ ******** Approved by Attending HINES,ALEXANDER SAMMY,M.D. ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC10" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC13" time="before DCT" indicator="high chol."/>
+    <OBESE id="DOC0" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC9" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC12" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC5" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="insulin" type2=""/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="A1C"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC16" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

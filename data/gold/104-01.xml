@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-02-16
+
+JENNIFER BOOKER
+
+LC Unit No:  727-57-14
+
+
+
+NASHUA MEMORIAL HOSPITAL
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date:  February 16, 2094
+
+
+
+Add-in visit for this 42-year-old patient of Dr. Tapia complaining of one day of urinary urgency, frequency and suprapubic discomfort and chills.  States was hospitalized last year for pyelonephritis. 
+
+
+
+MEDICATIONS:    Cozaar, Synthroid, Wellbutrin, Tegretol, Humulin 70/30 20 units q.a.m., 18 units q. p.m.  Allergies to Sulfur and Codeine.  
+
+
+
+The patient states has low hip discomfort.  This is not the back pain that she had last year with pilo.  Urine 50-100 WBC, 3-5 RBCs.  Moderate bacteria.  Many squamous cells.  T. 98.2  .  Back with no vertebral tenderness.  No flank tenderness.  Tender over right SI joint. 
+
+
+
+A/P:	(1)	Probable UTI in diabetic with history of pilo and cirrhosis.  Consult with Dr. Mcfarland.  Will treat with Cipro 250 mg b.i.d. X 7 days.  The patient encouraged to increase fluids.  Return for fever, chills or back pain.
+
+
+
+(2)	Right hip pain.  Does not seem related to UTI.  Naprosyn 375 mg b.i.d. #10 with no refill.  Return to clinic as scheduled 2/22/94.
+
+
+
+Diane Ullah, RNC, ANP
+
+
+
+DU/tyree/ludwig
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="insulin" type2=""/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

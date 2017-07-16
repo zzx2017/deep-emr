@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2127-09-30
+
+
+
+	CARDIOLOGY
+
+	
+
+	FAMILY HEALTH CLINIC
+
+	
+
+
+
+	Interval History:
+
+   His customary dyspnea persists, but otherwise, nothing is new.  No chest discomfort.  No PND or orthopnea.
+
+
+
+Medications:  Aspirin 325 mg qd, Lipitor 10 mg qd, Diovan 160 mg qd
+
+
+
+Physical examination:  Reveals him to be well appearing. His BP is 111/50 and his heart rate is 68 and regular. He is 176 pounds.  There is no jugular venous distention and carotid pulses are 2+ bilaterally without bruits.  His lungs are clear throughout, and notably demonstrate only very slight dullness at the left base.  His sternotomy is healing well and is stable.  His apical impulse is non-displaced with a slightly irregular rate and rhythm, a normal S1 and S2.  He has an S3 gallop.  No murmur.  His abdomen is benign without hepatosplenomegaly, bruits, or a dilated aorta.  There is no pedal edema and posterior tibial pulses are 2+ bilaterally.
+
+
+
+EKG:  NSR with a 1st degree AV block.  He has a narrow QRS with an old ASMI. Compared, the LBBB is no longer evident.
+
+
+
+Impression:
+
+
+
+1.CAD, s/p MI: currently stable.  Symptoms of dyspnea may be an ischemic equivalent, though, so I will give him a nitropatch.
+
+
+
+2. Hypertension: under good control.
+
+
+
+3.Hypercholesterolemia: controlled
+
+
+
+4. Dyspnea: I suspect he has an element of diastolic dysfunction together with age-related deconditioning and chronic lung disease.  Nitrates might help the former issue.
+
+	
+
+Bruce D. Brian, MD pager #94692
+
+	
+
+Signed electronically by  Bruce D. Brian, MD
+
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC13" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC20" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention"/>
+    <CAD id="DOC9" time="after DCT" indicator="mention"/>
+    <CAD id="DOC14" time="during DCT" indicator="mention"/>
+    <CAD id="DOC16" time="before DCT" indicator="event"/>
+    <CAD id="DOC19" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC8" status="unknown"/>
+  </TAGS>
+</root>

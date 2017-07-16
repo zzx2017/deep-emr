@@ -34,20 +34,6 @@ def combine_annotations(annotations):
         else:
             results.append(annotation)
     return list(set(results))
-    
-# def combine_annotations(annotations):
-#     results = list()
-#     for annotation in annotations:
-#         if len(annotation) == 3:
-#             if ((annotation[0], annotation[1], 'before_dct') in annotations and 
-#                 (annotation[0], annotation[1], 'during_dct') in annotations and 
-#                 (annotation[0], annotation[1], 'after_dct') in annotations):
-#                  results.append((annotation[0], annotation[1] + '.continuing'))
-#             else:
-#                 results.append((annotation[0], annotation[1] + '.' + annotation[2]))
-#         else:
-#             results.append(annotation)
-#     return list(set(results))
 
 def find_sublist(sublist, alist):
     indices = list()
@@ -94,7 +80,7 @@ def print_data(encoded_data, encoded_labels, data_indices, label_indices):
 
 tagnames = ['CAD', 'DIABETES', 'FAMILY_HIST', 'HYPERLIPIDEMIA', 'HYPERTENSION', 'MEDICATION', 'OBESE', 'SMOKER']
 
-files = glob.glob("../data/training/*.xml")
+files = glob.glob("../data/complete/*.xml")
 data, data_list, labels, label_list = list(), list(), list(), list()
 
 for file in files:
@@ -140,7 +126,7 @@ encoded_data = [isplit(x, (period_index,)) for x in encoded_data]
 replace_elements(encoded_labels, period_indices)
 encoded_labels = [isplit(x, (-1,)) for x in encoded_labels]
 
-# print_data(encoded_data, encoded_labels, data_indices, label_indices)
+print_data(encoded_data, encoded_labels, data_indices, label_indices)
 
 write_to_file('../data/dictionary.txt', data_indices, 2)
 write_to_file('../data/classes.txt', label_indices, 1)
