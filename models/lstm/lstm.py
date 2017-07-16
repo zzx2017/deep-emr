@@ -13,6 +13,7 @@ from keras.preprocessing import sequence
 from keras.models import model_from_json
 from keras.callbacks import EarlyStopping
 from sklearn.preprocessing import LabelEncoder
+from collections import Counter
 
 dictionary = pandas.read_csv("../../data/dictionary.txt", delim_whitespace=True, header=None)
 dictionary = dictionary.set_index(1)[0].to_dict()
@@ -71,7 +72,7 @@ print(model.get_config())
 
 # early_stopping_monitor = EarlyStopping(monitor='loss', patience=5)
 # model.fit(X_train, encoded_Y, epochs=25, batch_size=32, callbacks=[early_stopping_monitor], verbose=2)
-model.fit(X_train, encoded_Y, epochs=45, batch_size=32, verbose=2)
+model.fit(X_train, encoded_Y, epochs=40, batch_size=32, verbose=2)
 
 model_json = model.to_json()
 with open("lstm-model.json", "w") as json_file:
@@ -79,7 +80,7 @@ with open("lstm-model.json", "w") as json_file:
 model.save_weights("lstm-model.h5")
 print("Saved model to disk")
 
-def confusion_matrix(truth, prediction):
+def confusion_matrix(truth, predictions, report):
 	matrices = list()
 	results = numpy.array([0, 0, 0])
 	for i in range(len(predictions)):
@@ -87,11 +88,14 @@ def confusion_matrix(truth, prediction):
 		for j in range(len(predictions[i])):
 			if predictions[i][j] in truth[i]:
 				confusion['tp'] = confusion['tp'] + 1
+				report[predictions[i][j]][0] = report[predictions[i][j]][0] + 1
 			else:
 				confusion['fp'] = confusion['fp'] + 1
+				report[predictions[i][j]][1] = report[predictions[i][j]][1] + 1
 		for j in range(len(truth[i])):
 			if truth[i][j] not in predictions[i]:
 				confusion['fn'] = confusion['fn'] + 1
+				report[truth[i][j]][2] = report[truth[i][j]][2] + 1
 		matrices.append(numpy.array([confusion['tp'], confusion['fp'], confusion['fn']]))
 	for matrix in matrices:
 		results = numpy.add(results, matrix)
@@ -147,8 +151,23 @@ predictions = [x.argmax(1) for x in predictions]
 predictions = [list(set(x)) for x in predictions]
 predictions = [[y for y in x if y != 0 and y != 1] for x in predictions]
 
-matrix = confusion_matrix(y_test, predictions)
+classes = pandas.read_csv("../../data/classes.txt", delim_whitespace=True, header=None)
+classes = classes.set_index(0)[1].to_dict()
+
+label_count = Counter([y for x in y_test for y in x]).most_common()
+expected = {x[0]: x[1] for x in label_count}
+report = {x: [0, 0, 0] for x in range(2, 104)}
+
+matrix = confusion_matrix(y_test, predictions, report)
 performance = evaluate(matrix)
 
-print(matrix)
-print(performance)
+print("\nLabel,Truth,TP,FP,FN,Recall,Precision,F-measure")
+for k, v in report.items():
+	tp, fp, fn = v[0], v[1], v[2]
+	recall = tp / (tp + fn) if (tp + fn) != 0 else -1
+	precision = tp / (tp + fp) if (tp + fp) != 0 else -1
+	f1 = 2 * ((precision * recall) / (precision + recall)) if (precision + recall) != 0 else -1
+	print("%s,%d,%d,%d,%d,%f,%f,%f" % (classes[k][2::], expected[k] if k in expected else 0, tp, fp, fn, recall, precision, f1))
+
+print("\nConfusion Matrix:", matrix)
+print("Micro-averaged Performance:", performance)

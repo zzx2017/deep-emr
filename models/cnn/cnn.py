@@ -12,6 +12,7 @@ from keras.optimizers import Nadam
 from keras.preprocessing import sequence
 from keras.models import model_from_json
 from keras.callbacks import EarlyStopping
+from collections import Counter
 
 def ngram(s, n):
 	s = [0]*int(n/2) + s + [0]*int(n/2)
@@ -76,7 +77,7 @@ merge = Dropout(dropout_prob[1])(merge)
 dense = Dense(256, activation="relu")(merge)
 
 model_output = Dense(encoded_y.shape[1], activation="softmax")(dense)
-# model = Model(model_input, model_output)
+model = Model(model_input, model_output)
 
 optimiser = Nadam(lr=0.002, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
 model.compile(loss="categorical_crossentropy", optimizer=optimiser, metrics=["accuracy"])
@@ -93,7 +94,7 @@ with open("cnn-model.json", "w") as json_file:
 model.save_weights("cnn-model.h5")
 print("Saved model to disk")
 
-def confusion_matrix(truth, prediction):
+def confusion_matrix(truth, predictions, report):
 	matrices = list()
 	results = numpy.array([0, 0, 0])
 	for i in range(len(predictions)):
@@ -101,11 +102,14 @@ def confusion_matrix(truth, prediction):
 		for j in range(len(predictions[i])):
 			if predictions[i][j] in truth[i]:
 				confusion['tp'] = confusion['tp'] + 1
+				report[predictions[i][j]][0] = report[predictions[i][j]][0] + 1
 			else:
 				confusion['fp'] = confusion['fp'] + 1
+				report[predictions[i][j]][1] = report[predictions[i][j]][1] + 1
 		for j in range(len(truth[i])):
 			if truth[i][j] not in predictions[i]:
 				confusion['fn'] = confusion['fn'] + 1
+				report[truth[i][j]][2] = report[truth[i][j]][2] + 1
 		matrices.append(numpy.array([confusion['tp'], confusion['fp'], confusion['fn']]))
 	for matrix in matrices:
 		results = numpy.add(results, matrix)
@@ -163,19 +167,23 @@ for record in x_test:
 	prediction = [x for x in prediction if x != 1]
 	predictions.append(prediction)
 
-matrix = confusion_matrix(y_test, predictions)
+classes = pandas.read_csv("../../data/classes.txt", delim_whitespace=True, header=None)
+classes = classes.set_index(0)[1].to_dict()
+
+label_count = Counter([y for x in y_test for y in x]).most_common()
+expected = {x[0]: x[1] for x in label_count}
+report = {x: [0, 0, 0] for x in range(2, 104)}
+
+matrix = confusion_matrix(y_test, predictions, report)
 performance = evaluate(matrix)
 
-print(matrix)
-print(performance)
+print("\nLabel,Truth,TP,FP,FN,Recall,Precision,F-measure")
+for k, v in report.items():
+	tp, fp, fn = v[0], v[1], v[2]
+	recall = tp / (tp + fn) if (tp + fn) != 0 else -1
+	precision = tp / (tp + fp) if (tp + fp) != 0 else -1
+	f1 = 2 * ((precision * recall) / (precision + recall)) if (precision + recall) != 0 else -1
+	print("%s,%d,%d,%d,%d,%f,%f,%f" % (classes[k][2::], expected[k] if k in expected else 0, tp, fp, fn, recall, precision, f1))
 
-# classes = pandas.read_csv("../../data/classes.txt", delim_whitespace=True, header=None)
-# classes = classes.set_index(0)[1].to_dict()
-
-# predictions = [[classes[y] for y in x] for x in predictions]
-# truth = [[classes[y] for y in x] for x in y_test]
-
-# for i in range(len(predictions)):
-# 	print(predictions[i])
-# 	print(truth[i])
-# 	print()
+print("\nConfusion Matrix:", matrix)
+print("Micro-averaged Performance:", performance)
