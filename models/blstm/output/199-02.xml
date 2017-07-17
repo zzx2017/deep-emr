@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<HYPERTENSION time="during dct" indicator="high bp"/>
+		<MEDICATION time="after dct" type1="statin" type2=""/>
+		<SMOKER status="unknown"/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>

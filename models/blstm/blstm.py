@@ -11,7 +11,6 @@ from keras.preprocessing import sequence
 from keras.models import model_from_json
 from keras.callbacks import EarlyStopping
 from sklearn.preprocessing import LabelEncoder
-from collections import Counter
 
 dictionary = pandas.read_csv("../../data/dictionary.txt", delim_whitespace=True, header=None)
 dictionary = dictionary.set_index(1)[0].to_dict()
@@ -80,7 +79,7 @@ with open("blstm-model.json", "w") as json_file:
 model.save_weights("blstm-model.h5")
 print("Saved model to disk")
 
-def confusion_matrix(truth, predictions, report):
+def confusion_matrix(truth, predictions):
 	matrices = list()
 	results = numpy.array([0, 0, 0])
 	for i in range(len(predictions)):
@@ -88,14 +87,11 @@ def confusion_matrix(truth, predictions, report):
 		for j in range(len(predictions[i])):
 			if predictions[i][j] in truth[i]:
 				confusion['tp'] = confusion['tp'] + 3 if 'continuing' in classes[predictions[i][j]] else confusion['tp'] + 1
-				report[predictions[i][j]][0] = report[predictions[i][j]][0] + 1
 			else:
 				confusion['fp'] = confusion['fp'] + 3 if 'continuing' in classes[predictions[i][j]] else confusion['fp'] + 1
-				report[predictions[i][j]][1] = report[predictions[i][j]][1] + 1
 		for j in range(len(truth[i])):
 			if truth[i][j] not in predictions[i]:
 				confusion['fn'] = confusion['fn'] + 3 if 'continuing' in classes[truth[i][j]] else confusion['fn'] + 1
-				report[truth[i][j]][2] = report[truth[i][j]][2] + 1
 		matrices.append(numpy.array([confusion['tp'], confusion['fp'], confusion['fn']]))
 	for matrix in matrices:
 		results = numpy.add(results, matrix)
@@ -144,27 +140,8 @@ predictions = [x.argmax(1) for x in predictions]
 predictions = [list(set(x)) for x in predictions]
 predictions = [[y for y in x if y != 0 and y != 1] for x in predictions]
 
-label_count = Counter([y for x in y_test for y in x]).most_common()
-expected = {x[0]: x[1] for x in label_count}
-report = {x: [0, 0, 0] for x in range(2, 104)}
-
-matrix = confusion_matrix(y_test, predictions, report)
-smoker_fp = report[5][2] + report[14][2] + report[18][2] + report[46][2]
-smoker_fn = report[5][1] + report[14][1] + report[18][1] + report[46][1]
-smoker_tp = len(y_test) - expected[5] - expected[14] - expected[18] - expected[46] - smoker_fn
-family_hist_fp = report[24][2]
-family_hist_fn = report[24][1]
-family_hist_tp = len(y_test) - expected[24] - family_hist_fn
-matrix[0] = matrix[0] + smoker_tp + family_hist_tp
-matrix[1] = matrix[1] + smoker_fp + family_hist_fp
-matrix[2] = matrix[2] + smoker_fn + family_hist_fn
+matrix = confusion_matrix(y_test, predictions)
 performance = evaluate(matrix)
-
-file = open("blstm-performance.csv", 'w')
-for k, v in report.items():
-	tp, fp, fn = v[0], v[1], v[2]
-	file.write("%s,%d,%d,%d,%d,%f,%f,%f\n" % (classes[k][2::], expected[k] if k in expected else 0, tp, fp, fn, 0, 0, 0))
-file.close()
 
 print(matrix)
 print(performance)

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<SMOKER status="never"/>
+		<HYPERLIPIDEMIA time="before dct" indicator="mention"/>
+		<HYPERLIPIDEMIA time="during dct" indicator="mention"/>
+		<HYPERLIPIDEMIA time="after dct" indicator="mention"/>
+		<SMOKER status="current"/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>

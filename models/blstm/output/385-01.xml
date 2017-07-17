@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<DIABETES time="before dct" indicator="mention"/>
+		<DIABETES time="during dct" indicator="mention"/>
+		<DIABETES time="after dct" indicator="mention"/>
+		<MEDICATION time="during dct" type1="nitrate" type2=""/>
+		<SMOKER status="past"/>
+		<OBESE time="during dct" indicator="bmi"/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>
