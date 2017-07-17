@@ -52,50 +52,50 @@ nb_words = 36664
 max_length = 5
 embedding_dim = 20
 
-# word2vec_model = gensim.models.Word2Vec.load('../word2vec/word2vec.model')
-# embedding_weights = numpy.zeros((nb_words, embedding_dim))
+word2vec_model = gensim.models.Word2Vec.load('../word2vec/word2vec.model')
+embedding_weights = numpy.zeros((nb_words, embedding_dim))
 
-# for word, index in dictionary.items():
-# 	if word in word2vec_model:
-# 		embedding_weights[index, :] = word2vec_model[word]
+for word, index in dictionary.items():
+	if word in word2vec_model:
+		embedding_weights[index, :] = word2vec_model[word]
 
-# dropout_prob = [0.2, 0.2]
-# filter_sizes = [2, 3, 4]
+dropout_prob = [0.2, 0.2]
+filter_sizes = [2, 3, 4]
 
-# input_shape = (max_length,)
-# model_input = Input(shape=input_shape)
+input_shape = (max_length,)
+model_input = Input(shape=input_shape)
 
-# embedding_layer = Embedding(nb_words, embedding_dim, input_length=max_length, name="embedding", weights=[embedding_weights])(model_input)
-# embedding_layer = Dropout(dropout_prob[0])(embedding_layer)
+embedding_layer = Embedding(nb_words, embedding_dim, input_length=max_length, name="embedding", weights=[embedding_weights])(model_input)
+embedding_layer = Dropout(dropout_prob[0])(embedding_layer)
 
-# convs = []
-# for filter_size in filter_sizes:
-#     conv = Convolution1D(filters=32, kernel_size=filter_size, padding="valid", activation="relu", strides=1)(embedding_layer)
-#     conv = MaxPooling1D(pool_size=2)(conv)
-#     conv = Flatten()(conv)
-#     convs.append(conv)
+convs = []
+for filter_size in filter_sizes:
+    conv = Convolution1D(filters=32, kernel_size=filter_size, padding="valid", activation="relu", strides=1)(embedding_layer)
+    conv = MaxPooling1D(pool_size=2)(conv)
+    conv = Flatten()(conv)
+    convs.append(conv)
 
-# merge = Concatenate()(convs)
-# merge = Dropout(dropout_prob[1])(merge)
-# dense = Dense(256, activation="relu")(merge)
+merge = Concatenate()(convs)
+merge = Dropout(dropout_prob[1])(merge)
+dense = Dense(256, activation="relu")(merge)
 
-# model_output = Dense(encoded_y.shape[1], activation="softmax")(dense)
-# model = Model(model_input, model_output)
+model_output = Dense(encoded_y.shape[1], activation="softmax")(dense)
+model = Model(model_input, model_output)
 
 optimiser = Nadam(lr=0.002, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
-# model.compile(loss="categorical_crossentropy", optimizer=optimiser, metrics=["accuracy"])
+model.compile(loss="categorical_crossentropy", optimizer=optimiser, metrics=["accuracy"])
 
-# print(model.summary())
-# print(model.get_config())
+print(model.summary())
+print(model.get_config())
 
-# early_stopping_monitor = EarlyStopping(monitor='loss', patience=2)
-# model.fit(x_train, encoded_y, epochs=10, batch_size=32, callbacks=[early_stopping_monitor], verbose=2)
+early_stopping_monitor = EarlyStopping(monitor='loss', patience=2)
+model.fit(x_train, encoded_y, epochs=10, batch_size=32, callbacks=[early_stopping_monitor], verbose=2)
 
-# model_json = model.to_json()
-# with open("cnn-model.json", "w") as json_file:
-#     json_file.write(model_json)
-# model.save_weights("cnn-model.h5")
-# print("Saved model to disk")
+model_json = model.to_json()
+with open("cnn-model.json", "w") as json_file:
+    json_file.write(model_json)
+model.save_weights("cnn-model.h5")
+print("Saved model to disk")
 
 def confusion_matrix(truth, predictions, report):
 	matrices = list()
@@ -162,30 +162,30 @@ for record in x_test:
 	prediction = [x for x in prediction if x != 1]
 	predictions.append(prediction)
 
-# label_count = Counter([y for x in y_test for y in x]).most_common()
-# expected = {x[0]: x[1] for x in label_count}
-# report = {x: [0, 0, 0] for x in range(2, 104)}
+label_count = Counter([y for x in y_test for y in x]).most_common()
+expected = {x[0]: x[1] for x in label_count}
+report = {x: [0, 0, 0] for x in range(2, 104)}
 
-# matrix = confusion_matrix(y_test, predictions, report)
-# smoker_fp = report[5][2] + report[14][2] + report[18][2] + report[46][2]
-# smoker_fn = report[5][1] + report[14][1] + report[18][1] + report[46][1]
-# smoker_tp = len(y_test) - expected[5] - expected[14] - expected[18] - expected[46] - smoker_fn
-# family_hist_fp = report[24][2]
-# family_hist_fn = report[24][1]
-# family_hist_tp = len(y_test) - expected[24] - family_hist_fn
-# matrix[0] = matrix[0] + smoker_tp + family_hist_tp
-# matrix[1] = matrix[1] + smoker_fp + family_hist_fp
-# matrix[2] = matrix[2] + smoker_fn + family_hist_fn
-# performance = evaluate(matrix)
+matrix = confusion_matrix(y_test, predictions, report)
+smoker_fp = report[5][2] + report[14][2] + report[18][2] + report[46][2]
+smoker_fn = report[5][1] + report[14][1] + report[18][1] + report[46][1]
+smoker_tp = len(y_test) - expected[5] - expected[14] - expected[18] - expected[46] - smoker_fn
+family_hist_fp = report[24][2]
+family_hist_fn = report[24][1]
+family_hist_tp = len(y_test) - expected[24] - family_hist_fn
+matrix[0] = matrix[0] + smoker_tp + family_hist_tp
+matrix[1] = matrix[1] + smoker_fp + family_hist_fp
+matrix[2] = matrix[2] + smoker_fn + family_hist_fn
+performance = evaluate(matrix)
 
-# file = open("cnn-performance.csv", 'w')
-# for k, v in report.items():
-# 	tp, fp, fn = v[0], v[1], v[2]
-# 	file.write("%s,%d,%d,%d,%d,%f,%f,%f\n" % (classes[k][2::], expected[k] if k in expected else 0, tp, fp, fn, 0, 0, 0))
-# file.close()
+file = open("cnn-performance.csv", 'w')
+for k, v in report.items():
+	tp, fp, fn = v[0], v[1], v[2]
+	file.write("%s,%d,%d,%d,%d,%f,%f,%f\n" % (classes[k][2::], expected[k] if k in expected else 0, tp, fp, fn, 0, 0, 0))
+file.close()
 
-# print(matrix)
-# print(performance)
+print(matrix)
+print(performance)
 
 for i in range(len(test_files)):
 	prediction = [classes[x][2::] for x in predictions[i]]

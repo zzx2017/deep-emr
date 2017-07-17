@@ -172,3 +172,57 @@ file.close()
 
 print(matrix)
 print(performance)
+
+for i in range(len(test_files)):
+	prediction = [classes[x][2::] for x in predictions[i]]
+
+	file = open("output/" + test_files[i][17:24] + "xml", 'w')
+	file.write("<?xml version='1.0' encoding='UTF-8'?>\n")
+	file.write("<root>\n")
+	file.write("\t<TAGS>\n")
+
+	for label in prediction:
+		label = label.split('.')
+		if len(label) == 3:
+			if label[2] == 'continuing':
+				if label[0] == 'medication':
+					element = label[0].upper()
+					type1 = label[1].replace('_', ' ')
+					file.write('\t\t<' + element + ' time="before dct" type1="' + type1 + '" type2=""/>\n')
+					file.write('\t\t<' + element + ' time="during dct" type1="' + type1 + '" type2=""/>\n')
+					file.write('\t\t<' + element + ' time="after dct" type1="' + type1 + '" type2=""/>\n')
+				else:
+					element = label[0].upper()
+					indicator = label[1].replace('_', ' ')
+					file.write('\t\t<' + element + ' time="before dct" indicator="' + indicator + '"/>\n')
+					file.write('\t\t<' + element + ' time="during dct" indicator="' + indicator + '"/>\n')
+					file.write('\t\t<' + element + ' time="after dct" indicator="' + indicator + '"/>\n')
+			else:
+				if label[0] == 'medication':
+					element = label[0].upper()
+					time = label[2].replace('_', ' ')
+					type1 = label[1].replace('_', ' ')
+					file.write('\t\t<' + element + ' time="' + time + '" type1="' + type1 + '" type2=""/>\n')
+				else:
+					element = label[0].upper()
+					time = label[2].replace('_', ' ')
+					indicator = label[1].replace('_', ' ')
+					file.write('\t\t<' + element + ' time="' + time + '" indicator="' + indicator + '"/>\n')
+		elif len(label) == 2:
+			if label[0] == 'smoker':
+				element = label[0].upper()
+				status = label[1]
+				file.write('\t\t<' + element + ' status="' + status + '"/>\n')
+			elif label[0] == 'family_hist':
+				element = label[0].upper()
+				indicator = label[1]
+				file.write('\t\t<' + element + ' indicator="' + indicator + '"/>\n')
+
+	if 'smoker.current' not in prediction and 'smoker.ever' not in prediction and 'smoker.never' not in prediction and 'smoker.past' not in prediction:
+		file.write('\t\t<SMOKER status="unknown"/>\n')
+	if 'family_hist.present' not in prediction:
+		file.write('\t\t<FAMILY_HIST indicator="not present"/>\n')
+
+	file.write("\t</TAGS>\n")
+	file.write("</root>\n")
+	file.close()
