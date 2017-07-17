@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2114-11-26
+
+ 
+ 
+ 
+ 
+ 
+November 26, 2114 
+ 
+ 
+ 
+ 
+ 
+Wanda Flaherty, M.D.
+Saint Annes Hospital
+98 Greeley Street
+Sturgis, AL 52345
+ 
+ 
+Re: Nancy Werner
+    MRN 57274347
+ 
+ 
+Dear Wanda:
+ 
+Nancy Werner is doing better than the last time I saw her in May
+in that the triglycerides have decreased to 460, pretty much where
+they had usually been.  The LDL is now quite low at 93 but the HDL
+has declined to 34.  All in all, the results are compatible with
+better glucose control and the action of Atorvastatin 10 mg is
+likely responsible for the very low LDL but on the other hand
+discontinuation of the gemfibrozil probably lowered the HDL.  The
+effect on triglycerides of the low dose of the Atorvastatin is
+minimal and overall the triglyceride lowering effect is overrated
+except at the high dose of 80 mg.  Even at 80 mg Atorvastatin could
+not compare to the fibrates in the triglyceride lowering action.
+ 
+Her current medications are Atorvastatin 10 mg, Lopressor 25 mg,
+Procardia 60 mg b.i.d., Capoten 50 mg t.i.d., and  Insulin 22 units
+A.M.
+ 
+Labs: Cholesterol 220, TG. 460, HDL 34, LDL 93.
+ 
+Blood pressure is 120/80.
+ 
+I restarted the Gemfibrozil, 600 mg b.i.d. and left her on the
+Atorvastatin 10 mg.  Although I don't expect any side effects with
+this low dose of Atorvastatin and Gemfibrozil I warned Mrs. Werner
+and her husband that if she should have generalized muscle aches or
+weakness she should contact us and discontinue medication. 
+I think that aggressive therapy is warranted in Mrs. Werner.
+ 
+ 
+ 
+page 2
+Nancy Werner
+November 26, 2114 
+ 
+ 
+ 
+Please feel free to call or e-mail me if you have questions. 
+ 
+Best Wishes.
+ 
+ 
+Sincerely,
+ 
+ 
+ 
+ 
+Isaac Q. Whitman, M.D. 
+ 
+/quiggle
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="fibrate" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="fibrate" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="fibrate" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2=""/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC9" status="unknown"/>
+  </TAGS>
+</root>

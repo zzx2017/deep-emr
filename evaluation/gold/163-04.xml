@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-11-01
+
+
+
+Westwing Place Nursing Home
+
+144 Chablis Court                                    GERALD, MARION
+
+Doha, KY 63216                            48967301
+
+(638) 074-1457                                           11/01/83
+
+(449) 515-0294
+
+
+
+REASON FOR VISIT:  Follow up coronary disease and diabetes.
+
+
+
+HISTORY OF PRESENT ILLNESS:
+
+1.  The patient underwent an angioplasty on 10/07/83 and comes in
+
+today having just had a stress test.  Stress test showed that she
+
+was able to do a standard Bruce protocol for 7 minutes 34 seconds
+
+achieving maximal heart rate of 116, peak blood pressure 122/60,
+
+stopped for fatigue.  Immediately after exercise, she did have
+
+some substernal chest pain, resolved 3 minutes into recovery. 
+
+There were no EKG changes.  The patient reports that she has been
+
+walking and has resumed her normal pre-hospitalization exercise
+
+level and does not have any chest discomfort with walk, which had
+
+precipitated the hospitalization initially.  She is looking into
+
+cardiac rehab program but is not sure that she needs to do this. 
+
+She feels very comfortable with her current exercise regimen. 
+
+She has been careful with her eating and feels she is living a
+
+healthy lifestyle.  She has returned to work.  She has follow up
+
+scheduled with Dr. Schaefer in two days' time.
+
+2.  Diabetes:  At last visit, I had added glyburide 5 mg to her
+
+Glucophage 2000 mg a day.  She monitors blood sugars but only in
+
+the morning.  Evening blood sugars are mostly in 90s to low 100s.
+
+ However, at times during the day, she feels hypoglycemically
+
+sweating and abdominal discomfort.  She has never actually
+
+checked her blood sugar during these episodes as they tend to
+
+occur at work.  She has not had any fainting or dizziness.
+
+3.  Elevated cholesterol, is tolerating Zetia.
+
+4.  Hypertension.  At last visit, we decreased her Avapro dose
+
+because her blood pressure was quite low at 100/64, and
+
+currently, she feels somewhat less fatigued.
+
+
+
+CURRENT MEDICATIONS:  Glyburide 5 mg q.d., Plavix 75 mg q.d.,
+
+atenolol 50 mg q.d., Zetia 10 mg q.d., levoxyl 50 mcg q.d.,
+
+Prilosec 20 mg q.d., Flexeril 10 mg q.d., Bumex 2 mg q.d.,
+
+Pravachol 20 mg two tablets q.h.s., Avapro 75 mg q.d., Glucophage
+
+500 mg two tablets b.i.d., and enteric-coated aspirin.
+
+
+
+DRUG ALLERGIES:  None.
+
+
+
+REVIEW OF SYSTEMS:  She denies chest pain, palpitation, shortness
+
+of breath, abdominal pain, or joint pain.
+
+
+
+PHYSICAL EXAMINATION:  She appears in excellent health and in
+
+good spirits.  Weight is 145, blood pressure 120/68, and pulse is
+
+70 and regular.  Conjunctivae are clear.  Sclerae are anicteric. 
+
+Neck is supple.  No neck vein distention.  Chest is clear to
+
+percussion and auscultation.  Heart: Regular rhythm.  S1 and S2. 
+
+No murmur, rub, thrill, or gallop.  Extremities are without
+
+clubbing, cyanosis, or edema.
+
+
+
+IMPRESSION AND PLAN:
+
+1.  Coronary disease, doing well, status post recent angioplasty
+
+with stenting.  Maintaining current medications of Dr. Schaefer. 
+
+At this point, I am not sure that she actually does need cardiac
+
+rehab, and we will defer that decision to him.
+
+2.  Diabetes, seems as though her control is 
+
+impressive, perhaps with recent change in her diet.  We will
+
+discontinue the glyburide and follow up in 4 weeks.
+
+3.  Elevated cholesterol.  We will check on lipid status in four
+
+weeks' time.  On current medications with target of LDL less than
+
+100.
+
+4.  Hypertension.  Blood pressure acceptable on current medical
+
+regimen.
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+E Xochil Higgins, M.D.
+
+
+
+
+
+Dictated By: E Xochil Higgins
+
+
+
+
+
+eScription document:4-4587137 EMSSten Tel
+
+
+
+
+
+
+
+DD: 11/01/83
+
+DT: 11/01/83
+
+DV: 11/01/83
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC26" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="ezetimibe" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC19" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC20" time="during DCT" type1="ezetimibe" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="ezetimibe" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC31" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC32" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC34" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC35" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC37" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC38" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC33" time="before DCT" indicator="mention"/>
+    <CAD id="DOC18" time="after DCT" indicator="mention"/>
+    <CAD id="DOC27" time="during DCT" indicator="mention"/>
+    <CAD id="DOC30" time="before DCT" indicator="event"/>
+    <CAD id="DOC36" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC25" indicator="not present"/>
+    <SMOKER id="DOC17" status="unknown"/>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC29" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-06-29
+
+Narrative History
+
+   The patient is here today for the following issues:
+
+   1.  Patient is scheduled for gastric bypass surgery July 22nd.  She is leaving for vacation.  She wants to make sure she is cleared for her surgery
+
+   2.  Patient completed Vit. D supplementation and her new VIT D level is 49 (up from 9).
+
+   3.  Patient complaining of persistent chest pain - she saw Dr. Uzzell who feels she is cleared for surgery from a cardiac perspective.
+
+   4.  Patient has persistednt recurrent LE edema.
+
+   5.  She complaining of occasional shortness of breath and has a pulmonary appointment in July prior to her surgery.
+
+   6.  Patient saw Dr. Newkirk who is still awaiting some bloodwork but feels she is cleared for surgery.  Her hct most recently was 35.6
+
+   7. OSA - feels she does awake in the middle of the night with sob.
+
+   8.  Patient gets an occasional leg cramp on the right - question related to LBP.  K+ normal on June 23rd.  Will follow up after surgery.  No weakness or numbness.
+
+Problems
+
+      Diabetes mellitus
+
+
+
+      S/P Abortion   SPONTANEOUS 4/80 
+
+
+
+      Chlamydia   CERVICITIS-TREATED 
+
+
+
+      H/O Abnormal pap test
+
+
+
+      Positive PPD   NEG CXR 
+
+
+
+      PARONYCHIAL INFECTION    LEFT HAND 78 
+
+
+
+      Ectopic pregnancy   74 
+
+
+
+      Coronary artery disease
+
+
+
+      Anemia
+
+
+
+      Shortness of breath
+
+
+
+      Hypertension
+
+
+
+      Gastroesophageal reflux disease
+
+
+
+      Elevated cholesterol
+
+
+
+      Hyperthyroidism
+
+
+
+      Obesity
+
+Review of Systems
+
+   Unless mentioned in the history above the following ROS were asked and are negative:  Constitutional,Respiratory, Cardiac, GI (above), Heme (above), Endocrine, GYN, Musculoskeletal, Psych, and Neuro.  
+
+Medications
+
+      ATENOLOL     100MG  1 Tablet(s) PO QD   
+
+
+
+      ASA (ACETYLSALICYLIC ACID)     325MG  1 Tablet(s) PO QD  
+
+
+
+      LIPITOR (ATORVASTATIN)     20MG  1 Tablet(s) PO QD  
+
+
+
+      INSULIN 70/30 (HUMAN)   SEE BELOW     SC 5ID   
+
+
+
+      IMDUR (ISOSORBIDE MONONIT.(SR))     30MG  1 Tablet(s) PO QD  
+
+
+
+      NEXIUM (ESOMEPRAZOLE)     40MG  1 Capsule(s) PO BID  
+
+
+
+      KLONOPIN (CLONAZEPAM)     0.5MG  1 Tablet(s) PO TID   
+
+
+
+      ZESTRIL (LISINOPRIL)     5MG  1 Tablet(s) PO QD   
+
+
+
+      ZANTAC (RANITIDINE HCL)     300MG  1 Tablet(s) PO QD  
+
+
+
+      VITAMIN D (ERGOCALCIFEROL)   50000 U     IM q72 HOURS  36 day(s) 
+
+
+
+      MECLIZINE HCL     25MG  1 Tablet(s) PO TID  7 day(s) 
+
+Allergies
+
+      NKDA      
+
+Physical Exam
+
+   120/80
+
+   GENERAL: 	obese female
+
+   EXT:		No edema
+
+   
+
+   
+
+   LABS reviewed.
+
+Assessment and Plan
+
+   1.  Gastric Bypass - Will proceed to preop evaluation and hopeful surgery on July 22nd.  Dr. Rivers will be consulted to assist with sugar management. 
+
+   2.  Vit D deficiency - Corrected with Vit D supplementation.  
+
+   3. LE edema will likely improve with weight loss.  Follow up after surgery.
+
+   4. CAD - followed by Dr. Uzzell
+
+   5. shortness of breath - Likely mostly secondary to deconditioning and weight but will be evaluated by pulmonary.
+
+   6. OSA - sees pulmonary in July.
+
+    appointment time 35 minutes - Discussed with patient at lenght surgery and what to expect after.  She seems motivated to lose weight.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC13" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC22" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC28" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC3" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC20" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC29" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC27" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC31" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC32" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC33" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC30" time="before DCT" indicator="mention"/>
+    <CAD id="DOC17" time="after DCT" indicator="mention"/>
+    <CAD id="DOC23" time="during DCT" indicator="mention"/>
+    <CAD id="DOC34" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC21" indicator="not present"/>
+    <SMOKER id="DOC16" status="unknown"/>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC26" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

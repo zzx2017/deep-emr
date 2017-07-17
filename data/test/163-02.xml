@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-06-29
+
+
+
+Fairview Lakes Regional Medical Center
+
+64 Tara Boulevard
+
+ASB II, 9st Xloor                                         GERALD, MARION
+
+Cedar Hill Lakes, KY 99249                                      48967301
+
+(290) 680-0790                                           06/29/83
+
+
+
+
+
+Xochil Higgins, M.D.
+
+091 Keith Street
+Antioch, KY 71287
+
+
+
+Dear Dr. Higgins,
+
+
+
+Marion Gerald will be seeing you sometime in September for primary
+
+care.  I was seeing her for various rheumatologic issues.  She
+
+comes in today with ongoing pain in the left side of her face. 
+
+Actually, upon exam, she clearly simply has left TMJ.  She has
+
+been told this by ENT and I reinforced to her that that is what
+
+she has and she will go ahead with a dental visit that she had
+
+planned.  However, she has other medical problems which I will
+
+deal with until she sees you.  At her last visit, there was a
+
+question of PMR and she had "25 shots" of steroids but I have not
+
+given her steroids and she has done reasonably well.  However,
+
+she does have a history of a recent mild anemia but has diabetes,
+
+hypertension and hypercholesterolemia and medications include
+
+metformin, verapamil 250 b.i.d., Avapro 150 q.d., Pravachol 20
+
+q.d., Bumex, Bentyl, Prilosec and Allegra.
+
+
+
+Physical examination today reveals left TMJ pain which reproduces
+
+her pain.  She had had no lymphadenopathy or thyromegaly.  HEENT
+
+was otherwise unremarkable.  I obtained blood studies which
+
+revealed a blood sugar of 208, abnormal LFTs with an AST of 62
+
+and ALT of 58, normal ferritin B12 and folic acid, TSH of 8.8
+
+with thyroid antibodies pending, urine microalbumin/creatinine of
+
+14.5 and a CBC which had anemia with a hematocrit of 32.9.  A1c
+
+pending.  A protein electrophoresis is pending and urinalysis did
+
+not reveal proteinuria or sediment.  HBsAG and HCV are pending as
+
+well.
+
+
+
+I will be in touch with her regarding these results.  I was
+
+wondering if you could see her sooner than September because of
+
+these abnormalities outlined.  Thanks for letting me participate
+
+in her care.
+
+
+
+Sincerely yours,
+
+
+
+Dictated By: Miguel Ames
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+Miguel Ames, M.D.
+
+
+
+
+
+eScription document:6-0391514 ZB
+
+
+
+
+
+
+
+DD: 06/30/83
+
+DT: 07/01/83
+
+DV: 06/30/83
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC16" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC7" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC17" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC21" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

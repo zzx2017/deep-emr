@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-11-18
+
+
+
+
+
+Spanish
+71 Dan Chan                                        OSWALDO AUSTIN, HENRY
+Angels City, NH 31731                                      64415974
+(729) 481-3539                                           11/18/96
+
+
+
+
+HISTORY OF PRESENT ILLNESS: 
+
+
+Mr. Austin is a 78 year old Ecuadorian gentleman with known Diabetes and history of cerebellar CVA who returns to the practice three months after undergoing CABG for multiple vessel disease. His recovery was been uneventful, he has had no further angin and inspite rather severe anemia he has noted marked improvement in exercise tolerance. Appetite is better. No PND orthopnea or ankle edema. There is mild chest soreness on the right side.  There was aignificant decline in Hct in spite of the fact that he received 2 transfusions in the hospital and he is on iron.  Mr. Oswaldo has appointmernt with Dr. Jean in the near future. 
+  
+Mr. Oswaldo has  Type II diabetes well controlled on oral hypoglycemics HGBHA1C on 8/17 = 6.4.
+h/o CVA in 2090 which resulted in right hemiparesis (now fully resolved) .  
+
+
+Medications
+Aspirin ENTERIC COATED 325 MG PO QD 
+Ferrous SULFATE 325 MG (325(65)MG TABLET Take 1) PO as directed , Un dia si y un dia no #30 Tablet(s)
+Metformin 1000 MG (1000MG TABLET Take 1) PO BID #180 Tablet(s)
+Metoprolol SUCCINATE EXTENDED RELEASE 100 MG (100MG TAB.SR 24H Take 1) PO QD #30 TAB.SR
+Nitroglycerin 1/200 (0.3 MG) 1 TAB (0.3MG TAB SUBL ) SL Q2H PRN #30 Tablet(s)
+Zocor (SIMVASTATIN) 40 MG (40MG TABLET Take 1) PO QPM #30 Tablet(s)
+
+
+Vital Signs
+BP 121/63, P 80, Wt 137 lb
+
+
+
+
+GEN: well-appearing but pale and thin elderly gentleman. Fragile but not in pain
+HEENT:  PERRLA
+CARD: Healed CABG scar. Tender to pressure nl S1, S2. No m/r/g.  Lungs clear to auscultation. 
+EXT: WWP. Healed  incisions on medialaspect of RLE where veins were harvested. THere is an echymoses about 2 cm in diameter on the shaft of the pennis. No other bleeding, possibly result of trauma when pulling up his pants.  Pedal pulses 2+ bilaterally. No evidence of foot ulcers or calluses
+, multiple varicose veins. Hommans negative
+
+
+
+
+ASSESSMENT AND PLAN:  
+A 78-year-old gentleman with a history of adult-onset diabetes and CVA  post CABG. Remarkable recovery ; weight has not increased but anemia has improved. Prior to surgery he had mild anemia which was macrocytic. Will check Fe, B12,  FA ,CBC and HGBA1C before next visit in 1 month. Encouraged gentle ambulation. He will see Dr.Jean in 3 weeks.  Encouraged to call if any new symptoms or echymosis and told him to eat what he likes for time being except sugar and sweets. Return in one month or prn
+
+
+
+______________________________
+Harry Bernard-Moyer, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC7" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2=""/>
+    <CAD id="DOC17" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC9" status="unknown"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-06-13
+
+EDVISIT^98044905^WARE, VINCENT^06/13/73^ZORN, TYLER
+
+The patient is a 65-year-old gentleman who presents complaining
+
+of shortness of breath, weakness, and fatigue.  The patient was
+
+seen in conjunction with resident physician, Ostrowski.  Please see
+
+her note for details of the visit.  Resident's history was
+
+reviewed by me.  The patient was interviewed and examined by me.
+
+PAST MEDICAL HISTORY:  Significant for non-Hodgkin lymphoma,
+
+diabetes, and hypercholesterolemia.
+
+MEDICATIONS:  Metformin, insulin, aspirin, and multivitamins.
+
+ALLERGIES:  The patient has no allergies.
+
+FAMILY HISTORY:  Negative for chronic diseases.
+
+SOCIAL HISTORY:  No alcohol, tobacco, or illicit substances.
+
+HISTORY OF PRESENT ILLNESS:  The patient is followed by his
+
+hematology-oncologist for unexplainable anemia.  The patient
+
+presents complaining of dyspnea.
+
+REVIEW OF SYSTEMS:  Significant for dyspnea on exertion,
+
+weakness, fatigue, fever and shortness of breath, negative for
+
+headache, blurred vision, chest pain.  Other systems were
+
+reviewed and found to be negative, unless noted positive on
+
+resident's note.
+
+PHYSICAL EXAMINATION:  I concur with documented resident's note. 
+
+Specifically, abdomen was soft and nontender.  Rectal Exam: 
+
+Guaiac negative, normal tone, and no masses.
+
+ASSESSMENT AND PLAN:  Laboratory studies remarkable for
+
+hematocrit of 24.  EKG is unremarkable.  Chest x-ray is negative.
+
+ The patient's management was discussed with Dr. Walsh,
+
+oncology.
+
+The patient will be admitted to oncology hematology for workup.
+
+______________________________
+
+ZORN, TYLER M.D.
+
+D: 06/13/73
+
+T: 06/13/73
+
+Dictated By: ZORN, TYLER
+
+eScription document:2-2004166 IFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC15" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC16" time="during DCT" type1="aspirin" type2=""/>
+    <FAMILY_HIST id="DOC12" indicator="not present"/>
+    <SMOKER id="DOC0" status="never"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

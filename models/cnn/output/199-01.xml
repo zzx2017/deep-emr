@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<CAD time="before dct" indicator="event"/>
+		<SMOKER status="past"/>
+		<HYPERTENSION time="during dct" indicator="high bp"/>
+		<FAMILY_HIST indicator="present"/>
+	</TAGS>
+</root>

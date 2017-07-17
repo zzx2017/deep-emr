@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<CAD time="before dct" indicator="test"/>
+		<CAD time="before dct" indicator="event"/>
+		<CAD time="before dct" indicator="mention"/>
+		<CAD time="during dct" indicator="mention"/>
+		<CAD time="after dct" indicator="mention"/>
+		<CAD time="before dct" indicator="symptom"/>
+		<SMOKER status="unknown"/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>

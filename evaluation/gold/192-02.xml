@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2086-08-28
+
+ 
+
+                           OFFICE NOTE
+
+                     Floyd County Hospital
+
+                       05 Greeley Street
+
+                       Palm Springs, CO  19496
+
+                                
+
+Tanner, Yul
+
+MR #099-04-65-0
+
+08/28/86
+
+ 
+
+I saw Mr. Tanner today for a routine follow-up visit.  I last
+
+saw him in November of 2085.  In May he presented to the
+
+emergency room with dehydration and hyperglycemia.  Diagnosis of
+
+non-insulin dependent diabetes mellitus was made.  He is now on
+
+Glyburide and metformin.  His renal function at that time was
+
+normal with a BUN of 15 and creatinine of 0.90.  His potassium at
+
+that time was 4.6.  Otherwise, he is doing pretty well.  He has
+
+lost about 40 lb.  He has seen a nutritionist regarding dietary
+
+counseling.  
+
+ 
+
+Today his weight is 258 lb.  Blood pressure 120/80.  Heart rate
+
+100.  Current medications lisinopril 40 mg p.o. q.d.,
+
+hydrochlorothiazide 12.5 q.d., Glyburide 5 mg p.o. q.d.,
+
+metformin 500 mg t.i.d., diltiazem 180 p.o. q.d.   Urinalysis
+
+shows 3+ blood, 4+ protein.
+
+ 
+
+IMPRESSION:  #1)  Thin based membrane disease with persistent
+
+hematuria and proteinuria.  #2)  History of renal ________.  
+
+#3)  Type 2 diabetes.
+
+ 
+
+PLAN:  Continue current medications.   Continue high water
+
+intake.  Encourage weight loss and compliance with his diet.  
+
+ 
+
+I spent some time talking to him about the importance of weight
+
+loss and controlling his diabetes given his underlying kidney
+
+disease.  Follow-up visit in nine months.
+
+ 
+
+ 
+
+ 
+
+Edward Yim, M.D.
+
+ 
+
+/pina
+
+cc:
+
+Harry Truong, M.D.
+
+Floyd County Hospital
+17 Greeley Street
+
+Palm Springs, CO  19496
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="sulfonylureas" type2=""/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC16" status="unknown"/>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC17" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC18" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

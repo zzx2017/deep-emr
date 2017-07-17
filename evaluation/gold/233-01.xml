@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2061-10-13
+
+ 
+ 
+ 
+ 
+ 
+ 
+October 13, 2061
+ 
+ 
+Philip Stanley, M.D.
+Internal Medicine
+Donnellson Community Clinic
+ 
+RE:  Shilpa Pickett
+     MR #129-53-47-3
+ 
+Dear Philip:
+ 
+I had the pleasure of seeing Shilpa Pickett in Cardiovascular
+Clinic today.  Since her discharge from the hospital in September,
+she has noticed that she is fatigue with exertion but has had no
+chest pressure and no exertional diaphoresis, nausea, or jaw pain. 
+She does note occasional lightheadedness throughout the day, this
+is not related to position or going from sitting to standing
+position.  As you are aware, her MIBI test showed very small amount
+of ischemia almost undetectable in amount.  
+ 
+Her medical regimen includes Lasix 40 mg po q.d., Lisinopril 20 mg
+po q.d., 125 mg of hydrochlorothiazide b.i.d.  Of note, she was
+taking an additional Lisinopril at 20 mg po b.i.d.  Labetalol 200
+mg b.i.d., Isordil 40 t.i.d., Prilosec 20 mg po q.d., Cisapride 10
+mg po q.d., simvastatin 10 mg po q.d., aspirin 325 mg po q.d.
+ 
+On physical exam, her blood pressure is 140/90 right and left arm
+seated, heart rate is 77 and irregular, respiratory rate is 12. 
+There is no increase in jugular venous pressure.  Carotids are free
+of bruits.  Lungs are clear to auscultation throughout.  Cardiac
+exam is notable for distant heart sounds with no S3, S4.  Abdomen
+is soft and nontender.  The extremities are free of edema.  
+ 
+Electrocardiogram is normal sinus rhythm with left bundle branch
+block unchanged from prior electrocardiograms.
+ 
+In summary, Shilpa Pickett certainly has cardiovascular risk
+factors of sedentary lifestyle, diabetes, high cholesterol and
+increase in weight.  We will be rechecking her lipid profile today. 
+She reports to me that she has absolutely no appetite for the foods
+she usually eats and has occasionally had trouble eating.  She
+notes no dysphoria and no other signs or symptoms of depression. 
+She has had no change in her hair or skin.  For the 
+ 
+ 
+Pickett, Shilpa
+MR #129-53-47-3               -2-            October 13, 2061
+ 
+moment, I will be reviewing her SMA 20 for evidence of liver
+dysfunction but would strongly consider both depression and
+hyperthyroidism for further workup of this loss of appetite.  
+ 
+It is certainly a pleasure for me to participate in Shilpa
+Pickett' care.  Let me know if there are any questions or issues I
+can be of help with.
+ 
+Sincerely,
+ 
+ 
+ 
+Leona Xiques, M.D.
+Second Alabama Hospital
+78 Parkhurst Drive
+Ladysmith,  TN  47657
+ 
+DD: 10/13/61
+DT: 10/14/61
+DV: 10/13/61
+ 
+/maynard
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC22" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC16" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC23" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC25" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC13" status="unknown"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC26" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

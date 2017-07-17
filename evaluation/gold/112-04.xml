@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2060-08-05
+
+     5 August 2060
+
+
+
+
+
+Quatrell Swanson, MD
+
+Division of Cardiology
+
+Barney Convalescent Hospital
+
+
+
+Re:	Clarence H. HESS
+
+	BCH 643-65-59-5
+
+
+
+Dear Dr. Swanson:
+
+
+
+I had the pleasure of caring for Clarence Hess at BCH 08/04-03/07.  He is a 54-year-old man with obesity, dyslipidemia and hypertension, S/P dual-chamber pacemaker placement by Dr. Una Trujillo in February, 2060.  He complained of fatigue and exertional throat tightness and a nuclear stress test in June, 2060, revealed apical ischemia and an ejection fraction of 70 percent.  Cardiac catheterization performed by Dr. Leslie Campbell on 08/04/60 via the right radial artery revealed a right dominant system, a tight lesion in the proximal LAD, and no other focally occlusive disease.  He received a 3mm stent, postdilated to 3.5mm, with an excellent angiographic result.  
+
+
+
+He spent an uneventful night without complaints, ambulating and voiding without difficulty.  His right wrist was stable, and his hand warm and well perfused.  Morning labs included a BUN of 16, creatinine 0.9, negative cardiac enzymes, hematocrit 36.4, platelets 238,000, cholesterol 182, HDL 37, LDL 91 and triglycerides 269.  He was discharged home on aspirin, 325mg po qd; Plavix, 75mg po qd, to be continued for at least six months according to the research trial protocol; atenolol, 50mg po qd; Lipitor, 80mg po qd; Prilosec, 20mg po qd; Proventil, two puffs qid; and sublingual nitroglycerin, prn chest pain.  We've asked him to see you in the next couple of weeks, and to call if he has questions before then.  He also will follow up with the research staff per protocol guidelines.  Thank you for allowing us to participate in his care.  Please don't hesitate to call with questions.
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+Brittany Witt, MD
+
+BW/brown
+
+cc:	Robert Y. Gordon, MD, 301 Fairhaven Road, Olney, OH 23751
+
+	Una Trujillo, MD, BCH Cardiology
+
+DS:    08/05/60
+
+DD:   08/05/60
+
+DT:   08/2150
+
+ 
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC3" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC17" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC23" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC27" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC25" time="before DCT" indicator="mention"/>
+    <CAD id="DOC16" time="before DCT" indicator="test"/>
+    <CAD id="DOC22" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC13" status="unknown"/>
+  </TAGS>
+</root>

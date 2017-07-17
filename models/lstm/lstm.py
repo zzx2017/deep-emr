@@ -109,33 +109,26 @@ def evaluate(matrix):
 	f1 = 2 * ((precision * recall) / (precision + recall))
 	return {'recall': recall, 'precision': precision, 'f1': f1}
 
-test_files = glob.glob("./data/test/*.txt")
+test_files = glob.glob("./data/test/gold/*.txt")
 test_set = [(pandas.read_csv(x, delim_whitespace=True, header=None)).values for x in test_files]
 
-test_records, test_labels = [], []
-X_test, Y_test = [], []
+X_test = [[[int(z) for z in str(y[0]).split(',')] for y in x] for x in test_set]
+Y_test = [x[-1] for x in X_test]
+X_test = [x[0:-1] for x in X_test]
+Y_test = [x if x[0] != 0 else [] for x in Y_test]
 
-for record in test_set:
-	test_records.append(numpy.array([[int(y) for y in x.split(',')] for x in record[:, 0]]))
-	test_labels.append(numpy.array([[int(y) for y in x.split(',')] for x in record[:, 1]]))
+X_test = numpy.array(X_test)
+Y_test = numpy.array(Y_test)
 
-for i in range(len(test_records)):
-	X_test.append([])
-	Y_test.append([])
-	for j in range(len(test_records[i])):
-		X_test[i].extend(test_records[i][j])
-		Y_test[i].extend(test_labels[i][j])
-	X_test[i] = numpy.array(X_test[i])
-	Y_test[i] = numpy.array(Y_test[i])
+x_test, y_test = [], Y_test
 
-y_test = []
-for record in Y_test:
-	y_test.append(list(set([x for x in record if x != 1])))
+for i in range(len(X_test)):
+	x_test.append([])
+	for j in range(len(X_test[i])):
+		x_test[i].extend(X_test[i][j])
+	x_test[i] = numpy.array(x_test[i])
 
-exception = [83, 84, 94, 96, 102, 103]
-y_test = [[y for y in x if y not in exception] for x in y_test]
-
-X_test = sequence.pad_sequences(X_test, maxlen=max_length)
+x_test = sequence.pad_sequences(x_test, maxlen=max_length)
 
 json_file = open('lstm-model.json', 'r')
 loaded_model_json = json_file.read()
@@ -146,7 +139,7 @@ print("Loaded model from disk")
 
 loaded_model.compile(loss='categorical_crossentropy', optimizer=optimiser)
 
-predictions = loaded_model.predict(X_test)
+predictions = loaded_model.predict(x_test)
 predictions = numpy.array([[[round(z) for z in y] for y in x] for x in predictions])
 predictions = [x.argmax(1) for x in predictions]
 predictions = [list(set(x)) for x in predictions]
@@ -157,11 +150,14 @@ expected = {x[0]: x[1] for x in label_count}
 report = {x: [0, 0, 0] for x in range(2, 104)}
 
 matrix = confusion_matrix(y_test, predictions, report)
+smoker_fp = report[5][2] + report[14][2] + report[18][2] + report[46][2]
 smoker_fn = report[5][1] + report[14][1] + report[18][1] + report[46][1]
-smoker_tp = 514 - expected[5] - expected[14] - expected[18] - expected[46] - smoker_fn
+smoker_tp = len(y_test) - expected[5] - expected[14] - expected[18] - expected[46] - smoker_fn
+family_hist_fp = report[24][2]
 family_hist_fn = report[24][1]
-family_hist_tp = 514 - expected[24] - family_hist_fn
+family_hist_tp = len(y_test) - expected[24] - family_hist_fn
 matrix[0] = matrix[0] + smoker_tp + family_hist_tp
+matrix[1] = matrix[1] + smoker_fp + family_hist_fp
 matrix[2] = matrix[2] + smoker_fn + family_hist_fn
 performance = evaluate(matrix)
 

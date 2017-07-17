@@ -36,14 +36,16 @@ for i in range(len(entries)):
 	results.insert(indices[i], entries[i])
 
 smoker_expected = 514 - results[128][1] - results[129][1] - results[130][1] - results[131][1]
+smoker_fp = results[128][4] + results[129][4] + results[130][4] + results[131][4]
 smoker_fn = results[128][3] + results[129][3] + results[130][3] + results[131][3]
 smoker_tp = smoker_expected - smoker_fn
-results[132] = [results[132][0], smoker_expected, smoker_tp, 0, smoker_fn, 0, 0, 0]
+results[132] = [results[132][0], smoker_expected, smoker_tp, smoker_fp, smoker_fn, 0, 0, 0]
 
 family_hist_expected = 514 - results[133][1]
+family_hist_fp = results[133][4]
 family_hist_fn = results[133][3]
 family_hist_tp = family_hist_expected - family_hist_fn
-results[134] = [results[134][0], family_hist_expected, family_hist_tp, 0, family_hist_fn, 0, 0, 0]
+results[134] = [results[134][0], family_hist_expected, family_hist_tp, family_hist_fp, family_hist_fn, 0, 0, 0]
 
 indices = [3 ,7 ,11 ,15 ,19 ,23 ,27 ,31 ,35 ,39 ,43 ,47 ,51 ,55 ,59 ,63 ,67 ,71 ,75 ,79 ,83 ,87 ,91 ,95 ,99 ,103 ,107 ,111 ,115 ,119 ,123 ,127]
 

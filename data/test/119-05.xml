@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-04-30
+
+
+
+Reason for Visit
+
+Here for CHF/Angina/BP/DM check, no chest pains.  Taking meds without problems.  Breathing still is fine and no ankle swelling.  
+
+
+
+Medications
+
+      FUROSEMIDE   20MG,  1   PO QD
+
+      Asa (ACETYLSALICYLIC Acid)   325MG TABLET take 1 Tablet(s) PO QD ,  Take as directed 
+
+      ATENOLOL   100MG TABLET take 1 Tablet(s) PO QD ,  Take as directed 
+
+      LISINOPRIL   20MG TABLET take 1 Tablet(s) PO QD 
+
+      Zocor (SIMVASTATIN)   10MG TABLET take 1 Tablet(s) PO QHS 
+
+      Imdur (ISOSORBIDE MONONIT.(SR))   30MG TABLET CR 24HR take 1 Tablet(s) PO QD 
+
+      Cardura (DOXAZOSIN)   4MG TABLET  PO QD 
+
+
+
+Allergies
+
+      Sulfa    - Unknown
+
+
+
+Problems
+
+      Angina    : STABLE
+
+      Diabetes mellitus
+
+      Elevated cholesterol
+
+      Hypertension
+
+      Hearing impairment    : HEARING aids
+
+      S/P urolithiasis
+
+      S/P Squamous cell cancer    : metastatic to L axilla
+
+Dr. Jessup Med onc, Dr. Enright XRT
+
+      Benign prostatic hypertrophy    : urinary retenetion
+
+      Visual impairment    : Diplopia due to 6th nn palsy, 2091
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   130/60 
+
+      PULSE   68 
+
+      WEIGHT   184 lb
+
+
+
+Exam
+
+NAD
+
+Lungs: Clear
+
+Cor: RRR
+
+Ext: no edema/lesions
+
+
+
+Assessment and Plan
+
+1. CHF/Angina/HTN - Good control but BP could be a bit better, increase lisinopril to 40mg qd.  Cont. low Na diet.  Check BUN/Cr/lytes/BNP.
+
+2. DM - No changes, cont. low fat diet.  
+
+3. Squam cell skin ca  - Stable.  Cont f/u c Dr. Jeffries.
+
+4. BPH - Stable.
+
+
+
+                       Follow -up in 2 months.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC19" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention"/>
+    <CAD id="DOC4" time="before DCT" indicator="symptom"/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

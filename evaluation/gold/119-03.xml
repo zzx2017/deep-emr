@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-07-16
+
+
+
+
+NAME:    Curtis, Om 
+MRN:     7682941
+   
+He is feeling great.  He is all done with his radiation to the left axilla for metastatic
+squamous cell cancer.  He is following closely with the radiation oncologist and the
+medical oncologist.  He is seeing them both later this month.  He has had no
+problems with chest pains or shortness of breath.  All in all, things are going well.
+
+PHYSICAL EXAM:  On exam, no acute distress.  Lungs are clear.  Heart is regular
+rate and rhythm.  No murmurs, gallops or rubs.  He does have some skin
+discoloration around the left axilla but I feel no mass.  He has a well-healed incision. 
+There is no hair noted in or around the axilla.  Extremities with no edema.
+
+ASSESSMENT AND PLAN:  
+
+(1)  CAD/hypertension/diabetes mellitus.  This is stable.  Check glycosylated
+     hemoglobin. 
+
+(2)  Metastatic squamous cell cancer.  He is being followed closely by Oncology for
+     this.  Follow-up with me in the spring.
+
+William V. Geiger, M.D.
+
+WVG/xin/quilici
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention"/>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC5" time="during DCT" indicator="mention"/>
+    <CAD id="DOC9" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC7" indicator="not present"/>
+    <SMOKER id="DOC8" status="unknown"/>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>
