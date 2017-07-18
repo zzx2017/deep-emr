@@ -424,7 +424,7 @@ class HypertensionTag(DiseaseTag):
 
 
 class HyperlipidemiaTag(DiseaseTag):
-    valid_indicator = ["mention",  "high chol.",  "high ldl", "high-ldl", "high-chol"]
+    valid_indicator = ["mention",  "high chol.", "high chol",  "high ldl", "high-ldl", "high-chol"]
 
     attributes = OrderedDict(DiseaseTag.attributes.items())
     attributes["indicator"] = lambda v: v.lower() in HyperlipidemiaTag.valid_indicator
