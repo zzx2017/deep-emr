@@ -8,7 +8,6 @@ gold = 'gold/'
 print('\n\t\t\t\tOVERALL')
 print('---------------------------------------------------------------------------')
 os.system('python evaluate.py cr ' + system + ' ' + gold)
-print('\n')
 
 print('\t\t\t\tCAD')
 print('---------------------------------------------------------------------------')
@@ -34,7 +33,6 @@ os.system('python evaluate.py cr --filter "SMOKER" ' + system + ' ' + gold)
 print('\t\t\t\tFAMILY_HIST')
 print('---------------------------------------------------------------------------')
 os.system('python evaluate.py cr --filter "FAMILY_HIST" ' + system + ' ' + gold)
-print('\n')
 
 print('\t\t\t\tCAD.mention')
 print('---------------------------------------------------------------------------')

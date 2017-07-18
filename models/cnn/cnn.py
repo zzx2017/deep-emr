@@ -96,30 +96,30 @@ with open("cnn-model.json", "w") as json_file:
 model.save_weights("cnn-model.h5")
 print("Saved model to disk")
 
-def confusion_matrix(truth, predictions):
-	matrices = list()
-	results = numpy.array([0, 0, 0])
-	for i in range(len(predictions)):
-		confusion = {'tp': 0, 'fp': 0, 'fn': 0}
-		for j in range(len(predictions[i])):
-			if predictions[i][j] in truth[i]:
-				confusion['tp'] = confusion['tp'] + 3 if 'continuing' in classes[predictions[i][j]] else confusion['tp'] + 1
-			else:
-				confusion['fp'] = confusion['fp'] + 3 if 'continuing' in classes[predictions[i][j]] else confusion['fp'] + 1
-		for j in range(len(truth[i])):
-			if truth[i][j] not in predictions[i]:
-				confusion['fn'] = confusion['fn'] + 3 if 'continuing' in classes[truth[i][j]] else confusion['fn'] + 1
-		matrices.append(numpy.array([confusion['tp'], confusion['fp'], confusion['fn']]))
-	for matrix in matrices:
-		results = numpy.add(results, matrix)
-	return results
+# def confusion_matrix(truth, predictions):
+# 	matrices = list()
+# 	results = numpy.array([0, 0, 0])
+# 	for i in range(len(predictions)):
+# 		confusion = {'tp': 0, 'fp': 0, 'fn': 0}
+# 		for j in range(len(predictions[i])):
+# 			if predictions[i][j] in truth[i]:
+# 				confusion['tp'] = confusion['tp'] + 3 if 'continuing' in classes[predictions[i][j]] else confusion['tp'] + 1
+# 			else:
+# 				confusion['fp'] = confusion['fp'] + 3 if 'continuing' in classes[predictions[i][j]] else confusion['fp'] + 1
+# 		for j in range(len(truth[i])):
+# 			if truth[i][j] not in predictions[i]:
+# 				confusion['fn'] = confusion['fn'] + 3 if 'continuing' in classes[truth[i][j]] else confusion['fn'] + 1
+# 		matrices.append(numpy.array([confusion['tp'], confusion['fp'], confusion['fn']]))
+# 	for matrix in matrices:
+# 		results = numpy.add(results, matrix)
+# 	return results
 
-def evaluate(matrix):
-	tp, fp, fn = matrix[0], matrix[1], matrix[2]
-	recall = tp / (tp + fn)
-	precision = tp / (tp + fp) 
-	f1 = 2 * ((precision * recall) / (precision + recall))
-	return {'recall': recall, 'precision': precision, 'f1': f1}
+# def evaluate(matrix):
+# 	tp, fp, fn = matrix[0], matrix[1], matrix[2]
+# 	recall = tp / (tp + fn)
+# 	precision = tp / (tp + fp) 
+# 	f1 = 2 * ((precision * recall) / (precision + recall))
+# 	return {'recall': recall, 'precision': precision, 'f1': f1}
 
 test_files = glob.glob("./data/test/gold/*.txt")
 test_set = [(pandas.read_csv(x, delim_whitespace=True, header=None)).values for x in test_files]
@@ -158,11 +158,11 @@ for record in x_test:
 	prediction = [x for x in prediction if x != 1]
 	predictions.append(prediction)
 
-matrix = confusion_matrix(y_test, predictions)
-performance = evaluate(matrix)
+# matrix = confusion_matrix(y_test, predictions)
+# performance = evaluate(matrix)
 
-print(matrix)
-print(performance)
+# print(matrix)
+# print(performance)
 
 for i in range(len(test_files)):
 	prediction = [classes[x][2::] for x in predictions[i]]
