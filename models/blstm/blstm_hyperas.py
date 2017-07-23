@@ -69,11 +69,11 @@ def model(x_train, y_train, x_test, y_test):
 
 	model = Sequential()
 	model.add(Embedding(nb_words, embedding_dim, input_length=max_length, mask_zero=True, weights=[embedding_weights]))
-	model.add(Bidirectional(LSTM(256, activation={{choice(['relu', 'tanh', 'sigmoid', 'hard_sigmoid', 'softmax'])}}, recurrent_activation={{choice(['relu', 'tanh', 'sigmoid', 'hard_sigmoid', 'softmax'])}}, return_sequences=True)))
-	model.add(Dropout(0.1))
+	model.add(Bidirectional(LSTM({{choice([128, 256, 512])}}, return_sequences=True)))
+	model.add(Dropout({{choice([0.1, 0.2, 0.3, 0.4, 0.5])}}))
 	model.add(TimeDistributed(Dense(encoded_Y.shape[2], activation='softmax')))
 
-	optimiser = Nadam(lr=0.002, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
+	optimiser = Nadam(lr={{choice([0.001, 0.002, 0.003, 0.004])}}, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
 	model.compile(loss='categorical_crossentropy', optimizer=optimiser) 
 
 	early_stopping_monitor = EarlyStopping(monitor='val_loss', patience=2)
@@ -83,7 +83,7 @@ def model(x_train, y_train, x_test, y_test):
 	return {'loss': score, 'status': STATUS_OK, 'model': model}
 
 if __name__ == '__main__':
-	best_run, best_model = optim.minimize(model=model, data=data, algo=tpe.suggest, max_evals=25, trials=Trials())
+	best_run, best_model = optim.minimize(model=model, data=data, algo=tpe.suggest, max_evals=100, trials=Trials())
 	X_train, Y_train, X_test, Y_test = data()
 	print("Evalutation of best performing model:")
 	print(best_model.evaluate(X_test, Y_test))

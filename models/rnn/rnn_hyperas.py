@@ -71,20 +71,20 @@ def model(x_train, y_train, x_test, y_test):
 
 	model = Sequential()
 	model.add(Embedding(nb_words, embedding_dim, input_length=max_length, mask_zero=True, weights=[embedding_weights]))
-	model.add(SimpleRNN(256, return_sequences=True, dropout=0.1, recurrent_dropout=0.2))
+	model.add(SimpleRNN({{choice([128, 256, 512])}}, return_sequences=True, dropout={{choice([0.1, 0.2, 0.3, 0.4, 0.5])}}, recurrent_dropout={{choice([0.1, 0.2, 0.3, 0.4, 0.5])}}))
 	model.add(TimeDistributed(Dense(encoded_Y.shape[2], activation='softmax')))
 
-	optimiser = Nadam(lr=0.002, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
+	optimiser = Nadam(lr={{choice([0.001, 0.002, 0.003, 0.004])}}, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
 	model.compile(loss='categorical_crossentropy', optimizer=optimiser) 
 
 	early_stopping_monitor = EarlyStopping(monitor='val_loss', patience=2)
-	model.fit(x_train, y_train, epochs=20, batch_size=32, verbose=2, validation_data=(x_test, y_test), callbacks=[early_stopping_monitor])
+	model.fit(x_train, y_train, epochs=5, batch_size=32, verbose=2, validation_data=(x_test, y_test), callbacks=[early_stopping_monitor])
 	score = model.evaluate(x_test, y_test, verbose=0)
 	print('Test score:', score)
 	return {'loss': score, 'status': STATUS_OK, 'model': model}
 
 if __name__ == '__main__':
-	best_run, best_model = optim.minimize(model=model, data=data, algo=tpe.suggest, max_evals=5, trials=Trials())
+	best_run, best_model = optim.minimize(model=model, data=data, algo=tpe.suggest, max_evals=100, trials=Trials())
 	X_train, Y_train, X_test, Y_test = data()
 	print("Evalutation of best performing model:")
 	print(best_model.evaluate(X_test, Y_test))

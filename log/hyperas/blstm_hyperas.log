@@ -5,3 +5,12 @@
 {'Dropout': 0.3}
 {'Dropout': 0.5502794907043572}
 {'lr': 0.00471811898737178}
+
+def get_space():
+    return {
+        'LSTM': hp.choice('LSTM', [128, 256, 512]),
+        'Dropout': hp.choice('Dropout', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'lr': hp.choice('lr', [0.001, 0.002, 0.003, 0.004]),
+    }
+
+{'Dropout': 0.5, 'LSTM': 512, 'lr': 0.004}

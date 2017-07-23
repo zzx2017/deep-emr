@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<DIABETES time="before dct" indicator="mention"/>
+		<DIABETES time="during dct" indicator="mention"/>
+		<DIABETES time="after dct" indicator="mention"/>
+		<SMOKER status="past"/>
+		<HYPERTENSION time="during dct" indicator="high bp"/>
+		<HYPERTENSION time="before dct" indicator="mention"/>
+		<HYPERTENSION time="during dct" indicator="mention"/>
+		<HYPERTENSION time="after dct" indicator="mention"/>
+		<CAD time="before dct" indicator="mention"/>
+		<CAD time="during dct" indicator="mention"/>
+		<CAD time="after dct" indicator="mention"/>
+		<SMOKER status="never"/>
+		<HYPERLIPIDEMIA time="before dct" indicator="mention"/>
+		<HYPERLIPIDEMIA time="during dct" indicator="mention"/>
+		<HYPERLIPIDEMIA time="after dct" indicator="mention"/>
+		<DIABETES time="before dct" indicator="a1c"/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>

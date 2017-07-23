@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<CAD time="before dct" indicator="test"/>
+		<DIABETES time="before dct" indicator="mention"/>
+		<DIABETES time="during dct" indicator="mention"/>
+		<DIABETES time="after dct" indicator="mention"/>
+		<HYPERTENSION time="before dct" indicator="mention"/>
+		<HYPERTENSION time="during dct" indicator="mention"/>
+		<HYPERTENSION time="after dct" indicator="mention"/>
+		<MEDICATION time="before dct" type1="aspirin" type2=""/>
+		<MEDICATION time="during dct" type1="aspirin" type2=""/>
+		<MEDICATION time="after dct" type1="aspirin" type2=""/>
+		<MEDICATION time="before dct" type1="ace inhibitor" type2=""/>
+		<MEDICATION time="during dct" type1="ace inhibitor" type2=""/>
+		<MEDICATION time="after dct" type1="ace inhibitor" type2=""/>
+		<SMOKER status="unknown"/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>

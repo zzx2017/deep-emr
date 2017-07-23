@@ -63,7 +63,7 @@ model.add(Bidirectional(LSTM(256, return_sequences=True)))
 model.add(Dropout(0.5))
 model.add(TimeDistributed(Dense(encoded_Y.shape[2], activation='softmax')))
 
-optimiser = Nadam(lr=0.004, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
+optimiser = Nadam(lr=0.002, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
 model.compile(loss='categorical_crossentropy', optimizer=optimiser) 
 
 print(model.summary())
@@ -71,38 +71,13 @@ print(model.get_config())
 
 # early_stopping_monitor = EarlyStopping(monitor='loss', patience=5)
 # model.fit(X_train, encoded_Y, epochs=60, batch_size=32, callbacks=[early_stopping_monitor], verbose=2)
-model.fit(X_train, encoded_Y, epochs=40, batch_size=32, verbose=2)
+model.fit(X_train, encoded_Y, epochs=90, batch_size=32, verbose=2)
 
 model_json = model.to_json()
 with open("blstm-model.json", "w") as json_file:
     json_file.write(model_json)
 model.save_weights("blstm-model.h5")
 print("Saved model to disk")
-
-# def confusion_matrix(truth, predictions):
-# 	matrices = list()
-# 	results = numpy.array([0, 0, 0])
-# 	for i in range(len(predictions)):
-# 		confusion = {'tp': 0, 'fp': 0, 'fn': 0}
-# 		for j in range(len(predictions[i])):
-# 			if predictions[i][j] in truth[i]:
-# 				confusion['tp'] = confusion['tp'] + 3 if 'continuing' in classes[predictions[i][j]] else confusion['tp'] + 1
-# 			else:
-# 				confusion['fp'] = confusion['fp'] + 3 if 'continuing' in classes[predictions[i][j]] else confusion['fp'] + 1
-# 		for j in range(len(truth[i])):
-# 			if truth[i][j] not in predictions[i]:
-# 				confusion['fn'] = confusion['fn'] + 3 if 'continuing' in classes[truth[i][j]] else confusion['fn'] + 1
-# 		matrices.append(numpy.array([confusion['tp'], confusion['fp'], confusion['fn']]))
-# 	for matrix in matrices:
-# 		results = numpy.add(results, matrix)
-# 	return results
-
-# def evaluate(matrix):
-# 	tp, fp, fn = matrix[0], matrix[1], matrix[2]
-# 	recall = tp / (tp + fn)
-# 	precision = tp / (tp + fp) 
-# 	f1 = 2 * ((precision * recall) / (precision + recall))
-# 	return {'recall': recall, 'precision': precision, 'f1': f1}
 
 test_files = glob.glob("./data/test/gold/*.txt")
 test_set = [(pandas.read_csv(x, delim_whitespace=True, header=None)).values for x in test_files]
@@ -139,12 +114,6 @@ predictions = numpy.array([[[round(z) for z in y] for y in x] for x in predictio
 predictions = [x.argmax(1) for x in predictions]
 predictions = [list(set(x)) for x in predictions]
 predictions = [[y for y in x if y != 0 and y != 1] for x in predictions]
-
-# matrix = confusion_matrix(y_test, predictions)
-# performance = evaluate(matrix)
-
-# print(matrix)
-# print(performance)
 
 for i in range(len(test_files)):
 	prediction = [classes[x][2::] for x in predictions[i]]

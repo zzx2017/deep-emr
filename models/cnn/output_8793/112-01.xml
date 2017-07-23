@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<DIABETES time="before dct" indicator="a1c"/>
+		<SMOKER status="unknown"/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>

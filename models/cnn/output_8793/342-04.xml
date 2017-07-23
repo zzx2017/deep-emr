@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<MEDICATION time="before dct" type1="thiazolidinedione" type2=""/>
+		<MEDICATION time="during dct" type1="thiazolidinedione" type2=""/>
+		<MEDICATION time="after dct" type1="thiazolidinedione" type2=""/>
+		<DIABETES time="before dct" indicator="mention"/>
+		<DIABETES time="during dct" indicator="mention"/>
+		<DIABETES time="after dct" indicator="mention"/>
+		<HYPERTENSION time="during dct" indicator="high bp"/>
+		<HYPERTENSION time="before dct" indicator="mention"/>
+		<HYPERTENSION time="during dct" indicator="mention"/>
+		<HYPERTENSION time="after dct" indicator="mention"/>
+		<MEDICATION time="before dct" type1="beta blocker" type2=""/>
+		<MEDICATION time="during dct" type1="beta blocker" type2=""/>
+		<MEDICATION time="after dct" type1="beta blocker" type2=""/>
+		<DIABETES time="during dct" indicator="a1c"/>
+		<MEDICATION time="before dct" type1="statin" type2=""/>
+		<MEDICATION time="during dct" type1="statin" type2=""/>
+		<MEDICATION time="after dct" type1="statin" type2=""/>
+		<MEDICATION time="before dct" type1="ace inhibitor" type2=""/>
+		<MEDICATION time="during dct" type1="ace inhibitor" type2=""/>
+		<MEDICATION time="after dct" type1="ace inhibitor" type2=""/>
+		<HYPERLIPIDEMIA time="before dct" indicator="mention"/>
+		<HYPERLIPIDEMIA time="during dct" indicator="mention"/>
+		<HYPERLIPIDEMIA time="after dct" indicator="mention"/>
+		<DIABETES time="before dct" indicator="a1c"/>
+		<MEDICATION time="before dct" type1="metformin" type2=""/>
+		<MEDICATION time="during dct" type1="metformin" type2=""/>
+		<MEDICATION time="after dct" type1="metformin" type2=""/>
+		<OBESE time="during dct" indicator="bmi"/>
+		<OBESE time="before dct" indicator="mention"/>
+		<OBESE time="during dct" indicator="mention"/>
+		<OBESE time="after dct" indicator="mention"/>
+		<MEDICATION time="before dct" type1="thienopyridine" type2=""/>
+		<MEDICATION time="during dct" type1="thienopyridine" type2=""/>
+		<MEDICATION time="after dct" type1="thienopyridine" type2=""/>
+		<MEDICATION time="before dct" type1="diuretic" type2=""/>
+		<MEDICATION time="during dct" type1="diuretic" type2=""/>
+		<MEDICATION time="after dct" type1="diuretic" type2=""/>
+		<HYPERLIPIDEMIA time="during dct" indicator="high ldl"/>
+		<SMOKER status="unknown"/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>

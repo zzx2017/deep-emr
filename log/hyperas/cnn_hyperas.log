@@ -8,3 +8,23 @@
 {'optimizer': 'adamax'}
 {'Dropout': 0.2935245491872076, 'Dropout_1': 0.026309854371732944}
 {'lr': 0.001}
+
+def get_space():
+    return {
+        'Dropout': hp.choice('Dropout', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'Dropout_1': hp.choice('Dropout_1', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'Dense': hp.choice('Dense', [128, 256, 512]),
+        'lr': hp.choice('lr', [0.001, 0.002, 0.003, 0.004]),
+    }
+
+{'Dense': 256, 'Dropout': 0.1, 'Dropout_1': 0.2, 'lr': 0.001}
+
+def get_space():
+    return {
+        'Dropout': hp.choice('Dropout', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'Dropout_1': hp.choice('Dropout_1', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'Dense': hp.choice('Dense', [128, 256, 512]),
+        'lr': hp.choice('lr', [0.001, 0.002, 0.003, 0.004]),
+    }
+
+{'Dense': 512, 'Dropout': 0.1, 'Dropout_1': 0.1, 'lr': 0.001}

@@ -7,3 +7,23 @@
 {'optimizer': 'nadam'}
 {'SimpleRNN': 256}
 {'dropout': 0.1, 'dropout_1': 0.2}
+
+def get_space():
+    return {
+        'SimpleRNN': hp.choice('SimpleRNN', [128, 256, 512]),
+        'dropout': hp.choice('dropout', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'dropout_1': hp.choice('dropout_1', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'lr': hp.choice('lr', [0.001, 0.002, 0.003, 0.004]),
+    }
+
+{'SimpleRNN': 256, 'dropout': 0.1, 'dropout_1': 0.1, 'lr': 0.004}
+
+def get_space():
+    return {
+        'SimpleRNN': hp.choice('SimpleRNN', [128, 256, 512]),
+        'dropout': hp.choice('dropout', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'dropout_1': hp.choice('dropout_1', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'lr': hp.choice('lr', [0.001, 0.002, 0.003, 0.004]),
+    }
+
+{'SimpleRNN': 256, 'dropout': 0.1, 'dropout_1': 0.1, 'lr': 0.004}

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<DIABETES time="before dct" indicator="mention"/>
+		<DIABETES time="during dct" indicator="mention"/>
+		<DIABETES time="after dct" indicator="mention"/>
+		<HYPERTENSION time="during dct" indicator="high bp"/>
+		<SMOKER status="never"/>
+		<MEDICATION time="before dct" type1="metformin" type2=""/>
+		<MEDICATION time="during dct" type1="metformin" type2=""/>
+		<MEDICATION time="after dct" type1="metformin" type2=""/>
+		<OBESE time="before dct" indicator="mention"/>
+		<OBESE time="during dct" indicator="mention"/>
+		<OBESE time="after dct" indicator="mention"/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>

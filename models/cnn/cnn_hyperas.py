@@ -72,7 +72,7 @@ def model(x_train, y_train, x_test, y_test):
 	model_input = Input(shape=input_shape)
 
 	embedding_layer = Embedding(nb_words, embedding_dim, input_length=max_length, name="embedding", weights=[embedding_weights])(model_input)
-	embedding_layer = Dropout(0.2)(embedding_layer)
+	embedding_layer = Dropout({{choice([0.1, 0.2, 0.3, 0.4, 0.5])}})(embedding_layer)
 
 	convs = []
 	for filter_size in filter_sizes:
@@ -82,24 +82,24 @@ def model(x_train, y_train, x_test, y_test):
 		convs.append(conv)
 
 	merge = Concatenate()(convs)
-	merge = Dropout(0.2)(merge)
-	dense = Dense(256, activation="relu")(merge)
+	merge = Dropout({{choice([0.1, 0.2, 0.3, 0.4, 0.5])}})(merge)
+	dense = Dense({{choice([128, 256, 512])}}, activation="relu")(merge)
 
 	model_output = Dense(encoded_y.shape[1], activation="softmax")(dense)
 	model = Model(model_input, model_output)
 
-	optimiser = Nadam(lr={{choice([0.002, 0.001, 0.01, 0.1, 0.2])}}, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
+	optimiser = Nadam(lr={{choice([0.001, 0.002, 0.003, 0.004])}}, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
 	model.compile(loss="categorical_crossentropy", optimizer=optimiser, metrics=["accuracy"])
 
 	early_stopping_monitor = EarlyStopping(monitor='val_loss', patience=2)
-	model.fit(x_train, y_train, epochs=10, batch_size=32, verbose=2, validation_data=(x_test, y_test), callbacks=[early_stopping_monitor])
+	model.fit(x_train, y_train, epochs=5, batch_size=32, verbose=2, validation_data=(x_test, y_test), callbacks=[early_stopping_monitor])
 	score, acc = model.evaluate(x_test, y_test, verbose=0)
 	print('Test score:', score)
 	print('Test accuracy:', acc)
 	return {'loss': score, 'status': STATUS_OK, 'model': model}
 
 if __name__ == '__main__':
-	best_run, best_model = optim.minimize(model=model, data=data, algo=tpe.suggest, max_evals=10, trials=Trials())
+	best_run, best_model = optim.minimize(model=model, data=data, algo=tpe.suggest, max_evals=100, trials=Trials())
 	X_train, Y_train, X_test, Y_test = data()
 	print("Evalutation of best performing model:")
 	print(best_model.evaluate(X_test, Y_test))

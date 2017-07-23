@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<MEDICATION time="before dct" type1="thiazolidinedione" type2=""/>
+		<MEDICATION time="during dct" type1="thiazolidinedione" type2=""/>
+		<MEDICATION time="after dct" type1="thiazolidinedione" type2=""/>
+		<SMOKER status="past"/>
+		<HYPERTENSION time="before dct" indicator="mention"/>
+		<HYPERTENSION time="during dct" indicator="mention"/>
+		<HYPERTENSION time="after dct" indicator="mention"/>
+		<MEDICATION time="before dct" type1="beta blocker" type2=""/>
+		<MEDICATION time="during dct" type1="beta blocker" type2=""/>
+		<MEDICATION time="after dct" type1="beta blocker" type2=""/>
+		<CAD time="before dct" indicator="mention"/>
+		<CAD time="during dct" indicator="mention"/>
+		<CAD time="after dct" indicator="mention"/>
+		<MEDICATION time="before dct" type1="aspirin" type2=""/>
+		<MEDICATION time="during dct" type1="aspirin" type2=""/>
+		<MEDICATION time="after dct" type1="aspirin" type2=""/>
+		<MEDICATION time="before dct" type1="statin" type2=""/>
+		<MEDICATION time="during dct" type1="statin" type2=""/>
+		<MEDICATION time="after dct" type1="statin" type2=""/>
+		<MEDICATION time="before dct" type1="ace inhibitor" type2=""/>
+		<MEDICATION time="during dct" type1="ace inhibitor" type2=""/>
+		<MEDICATION time="after dct" type1="ace inhibitor" type2=""/>
+		<HYPERLIPIDEMIA time="before dct" indicator="mention"/>
+		<HYPERLIPIDEMIA time="during dct" indicator="mention"/>
+		<HYPERLIPIDEMIA time="after dct" indicator="mention"/>
+		<SMOKER status="current"/>
+		<MEDICATION time="before dct" type1="calcium channel blocker" type2=""/>
+		<MEDICATION time="during dct" type1="calcium channel blocker" type2=""/>
+		<MEDICATION time="after dct" type1="calcium channel blocker" type2=""/>
+		<CAD time="during dct" indicator="test"/>
+		<MEDICATION time="before dct" type1="diuretic" type2=""/>
+		<MEDICATION time="during dct" type1="diuretic" type2=""/>
+		<MEDICATION time="after dct" type1="diuretic" type2=""/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>

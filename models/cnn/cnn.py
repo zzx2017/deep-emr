@@ -81,14 +81,15 @@ dense = Dense(256, activation="relu")(merge)
 model_output = Dense(encoded_y.shape[1], activation="softmax")(dense)
 model = Model(model_input, model_output)
 
-optimiser = Nadam(lr=0.002, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
+optimiser = Nadam(lr=0.001, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
 model.compile(loss="categorical_crossentropy", optimizer=optimiser, metrics=["accuracy"])
 
 print(model.summary())
 print(model.get_config())
 
-early_stopping_monitor = EarlyStopping(monitor='loss', patience=2)
-model.fit(x_train, encoded_y, epochs=10, batch_size=32, callbacks=[early_stopping_monitor], verbose=2)
+# early_stopping_monitor = EarlyStopping(monitor='loss', patience=2)
+# model.fit(x_train, encoded_y, epochs=15, batch_size=32, callbacks=[early_stopping_monitor], verbose=2)
+model.fit(x_train, encoded_y, epochs=15, batch_size=10, verbose=2)
 
 model_json = model.to_json()
 with open("cnn-model.json", "w") as json_file:
