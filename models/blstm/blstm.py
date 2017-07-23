@@ -63,7 +63,7 @@ model.add(Bidirectional(LSTM(256, return_sequences=True)))
 model.add(Dropout(0.5))
 model.add(TimeDistributed(Dense(encoded_Y.shape[2], activation='softmax')))
 
-optimiser = Nadam(lr=0.002, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
+optimiser = Nadam(lr=0.004, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
 model.compile(loss='categorical_crossentropy', optimizer=optimiser) 
 
 print(model.summary())
@@ -71,7 +71,7 @@ print(model.get_config())
 
 # early_stopping_monitor = EarlyStopping(monitor='loss', patience=5)
 # model.fit(X_train, encoded_Y, epochs=60, batch_size=32, callbacks=[early_stopping_monitor], verbose=2)
-model.fit(X_train, encoded_Y, epochs=90, batch_size=32, verbose=2)
+model.fit(X_train, encoded_Y, epochs=40, batch_size=32, verbose=2)
 
 model_json = model.to_json()
 with open("blstm-model.json", "w") as json_file:

@@ -72,7 +72,7 @@ print(model.get_config())
 
 # early_stopping_monitor = EarlyStopping(monitor='loss', patience=5)
 # model.fit(X_train, encoded_Y, epochs=75, batch_size=32, callbacks=[early_stopping_monitor], verbose=2)
-model.fit(X_train, encoded_Y, epochs=40, batch_size=32, verbose=2)
+model.fit(X_train, encoded_Y, epochs=55, batch_size=32, verbose=2)
 
 model_json = model.to_json()
 with open("gru-model.json", "w") as json_file:
