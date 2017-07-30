@@ -13,4 +13,21 @@ def get_space():
         'lr': hp.choice('lr', [0.001, 0.002, 0.003, 0.004]),
     }
 
-{'Dropout': 0.5, 'LSTM': 512, 'lr': 0.004}
+{'Dropout': 0.5, 'LSTM': 256, 'lr': 0.004}
+
+def get_space():
+    return {
+        'LSTM': hp.choice('LSTM', [128, 256, 512]),
+        'Dropout': hp.choice('Dropout', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'lr': hp.choice('lr', [0.001, 0.002, 0.003, 0.004]),
+        'batch_size': hp.choice('batch_size', [32, 64, 128, 256]),
+    }
+
+{'Dropout': 0.2, 'LSTM': 256, 'batch_size': 32, 'lr': 0.004}
+
+def get_space():
+    return {
+        'epochs': hp.choice('epochs', [10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 ,90, 95, 100]),
+    }
+
+{'epochs': 15}

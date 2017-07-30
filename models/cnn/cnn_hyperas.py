@@ -76,7 +76,7 @@ def model(x_train, y_train, x_test, y_test):
 
 	convs = []
 	for filter_size in filter_sizes:
-		conv = Convolution1D(filters=32, kernel_size=filter_size, padding="valid", activation="relu", strides=1)(embedding_layer)
+		conv = Convolution1D(filters={{choice([32, 64, 128])}}, kernel_size=filter_size, padding="valid", activation="relu", strides=1)(embedding_layer)
 		conv = MaxPooling1D(pool_size=2)(conv)
 		conv = Flatten()(conv)
 		convs.append(conv)
@@ -92,7 +92,7 @@ def model(x_train, y_train, x_test, y_test):
 	model.compile(loss="categorical_crossentropy", optimizer=optimiser, metrics=["accuracy"])
 
 	early_stopping_monitor = EarlyStopping(monitor='val_loss', patience=2)
-	model.fit(x_train, y_train, epochs=5, batch_size=32, verbose=2, validation_data=(x_test, y_test), callbacks=[early_stopping_monitor])
+	model.fit(x_train, y_train, epochs={{choice([10, 20, 30, 40, 50, 60, 70, 80 ,90, 100])}}, batch_size={{choice([32, 64, 128, 256])}}, verbose=2, validation_data=(x_test, y_test), callbacks=[early_stopping_monitor])
 	score, acc = model.evaluate(x_test, y_test, verbose=0)
 	print('Test score:', score)
 	print('Test accuracy:', acc)

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<SMOKER status="past"/>
+		<HYPERTENSION time="during dct" indicator="high bp"/>
+		<HYPERTENSION time="before dct" indicator="mention"/>
+		<HYPERTENSION time="during dct" indicator="mention"/>
+		<HYPERTENSION time="after dct" indicator="mention"/>
+		<SMOKER status="never"/>
+		<MEDICATION time="during dct" type1="aspirin" type2=""/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>

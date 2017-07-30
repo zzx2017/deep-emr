@@ -1,0 +1,27 @@
+def get_space():
+    return {
+        'GRU': hp.choice('GRU', [128, 256, 512]),
+        'dropout': hp.choice('dropout', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'dropout_1': hp.choice('dropout_1', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'lr': hp.choice('lr', [0.001, 0.002, 0.003, 0.004]),
+    }
+
+{'GRU': 256, 'dropout': 0.1, 'dropout_1': 0.1, 'lr': 0.004}
+
+def get_space():
+    return {
+        'GRU': hp.choice('GRU', [128, 256, 512]),
+        'dropout': hp.choice('dropout', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'dropout_1': hp.choice('dropout_1', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'lr': hp.choice('lr', [0.001, 0.002, 0.003, 0.004]),
+        'batch_size': hp.choice('batch_size', [32, 64, 128, 256]),
+    }
+
+{'GRU': 512, 'batch_size': 32, 'dropout': 0.1, 'dropout_1': 0.1, 'lr': 0.002}
+
+def get_space():
+    return {
+        'epochs': hp.choice('epochs', [10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 ,90, 95, 100]),
+    }
+
+{'epochs': 25}

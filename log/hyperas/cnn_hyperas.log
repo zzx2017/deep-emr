@@ -28,3 +28,15 @@ def get_space():
     }
 
 {'Dense': 512, 'Dropout': 0.1, 'Dropout_1': 0.1, 'lr': 0.001}
+
+def get_space():
+    return {
+        'Dropout': hp.choice('Dropout', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'filters': hp.choice('filters', [32, 64, 128]),
+        'Dropout_1': hp.choice('Dropout_1', [0.1, 0.2, 0.3, 0.4, 0.5]),
+        'Dense': hp.choice('Dense', [128, 256, 512]),
+        'lr': hp.choice('lr', [0.001, 0.002, 0.003, 0.004]),
+        'batch_size': hp.choice('batch_size', [32, 64, 128, 256]),
+    }
+
+{'Dense': 256, 'Dropout': 0.1, 'Dropout_1': 0.2, 'batch_size': 128, 'filters': 128, 'lr': 0.002}

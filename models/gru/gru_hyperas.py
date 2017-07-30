@@ -74,11 +74,11 @@ def model(x_train, y_train, x_test, y_test):
 	model.add(GRU({{choice([128, 256, 512])}}, return_sequences=True, dropout={{choice([0.1, 0.2, 0.3, 0.4, 0.5])}}, recurrent_dropout={{choice([0.1, 0.2, 0.3, 0.4, 0.5])}}))
 	model.add(TimeDistributed(Dense(encoded_Y.shape[2], activation='softmax')))
 
-	optimiser = Nadam(lr={{choice([0.001, 0.002, 0.003, 0.004])}}, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
+	optimiser = Nadam(lr={{choice([0.001, 0.002])}}, beta_1=0.9, beta_2=0.999, epsilon=1e-08, schedule_decay=0.004)
 	model.compile(loss='categorical_crossentropy', optimizer=optimiser) 
 
 	early_stopping_monitor = EarlyStopping(monitor='val_loss', patience=2)
-	model.fit(x_train, y_train, epochs=5, batch_size=32, verbose=2, validation_data=(x_test, y_test), callbacks=[early_stopping_monitor])
+	model.fit(x_train, y_train, epochs={{choice([10, 20, 30, 40, 50, 60, 70, 80 ,90, 100])}}, batch_size={{choice([32, 64, 128, 256])}}, verbose=2, validation_data=(x_test, y_test), callbacks=[early_stopping_monitor])
 	score = model.evaluate(x_test, y_test, verbose=0)
 	print('Test score:', score)
 	return {'loss': score, 'status': STATUS_OK, 'model': model}

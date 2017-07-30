@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<TAGS>
+		<CAD time="before dct" indicator="test"/>
+		<CAD time="before dct" indicator="event"/>
+		<DIABETES time="before dct" indicator="mention"/>
+		<DIABETES time="during dct" indicator="mention"/>
+		<DIABETES time="after dct" indicator="mention"/>
+		<SMOKER status="past"/>
+		<HYPERTENSION time="during dct" indicator="high bp"/>
+		<HYPERTENSION time="before dct" indicator="mention"/>
+		<HYPERTENSION time="during dct" indicator="mention"/>
+		<HYPERTENSION time="after dct" indicator="mention"/>
+		<MEDICATION time="before dct" type1="beta blocker" type2=""/>
+		<MEDICATION time="during dct" type1="beta blocker" type2=""/>
+		<MEDICATION time="after dct" type1="beta blocker" type2=""/>
+		<CAD time="before dct" indicator="mention"/>
+		<CAD time="during dct" indicator="mention"/>
+		<CAD time="after dct" indicator="mention"/>
+		<MEDICATION time="before dct" type1="aspirin" type2=""/>
+		<MEDICATION time="during dct" type1="aspirin" type2=""/>
+		<MEDICATION time="after dct" type1="aspirin" type2=""/>
+		<HYPERLIPIDEMIA time="before dct" indicator="mention"/>
+		<HYPERLIPIDEMIA time="during dct" indicator="mention"/>
+		<HYPERLIPIDEMIA time="after dct" indicator="mention"/>
+		<SMOKER status="current"/>
+		<CAD time="before dct" indicator="symptom"/>
+		<OBESE time="during dct" indicator="bmi"/>
+		<OBESE time="before dct" indicator="mention"/>
+		<OBESE time="during dct" indicator="mention"/>
+		<OBESE time="after dct" indicator="mention"/>
+		<MEDICATION time="before dct" type1="thienopyridine" type2=""/>
+		<MEDICATION time="during dct" type1="thienopyridine" type2=""/>
+		<MEDICATION time="after dct" type1="thienopyridine" type2=""/>
+		<MEDICATION time="before dct" type1="diuretic" type2=""/>
+		<MEDICATION time="during dct" type1="diuretic" type2=""/>
+		<MEDICATION time="after dct" type1="diuretic" type2=""/>
+		<FAMILY_HIST indicator="not present"/>
+	</TAGS>
+</root>
