@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<root>
-	<TAGS>
-		<SMOKER status="past"/>
-		<HYPERTENSION time="during dct" indicator="high bp"/>
-		<FAMILY_HIST indicator="not present"/>
-	</TAGS>
-</root>
