@@ -1,0 +1,6 @@
+,CNN,RNN,GRU,LSTM,BLSTM
+Hiddens,256,128,256,512,256
+Learning rate,0.001,0.002,0.002,0.002,0.004
+Dropout,0.2,0.1,0.2,0.3,0.5
+Epochs,15,40,50,45,40
+Batch size,32,32,32,32,32

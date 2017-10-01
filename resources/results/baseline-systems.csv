@@ -1,0 +1,11 @@
+Rank,Team Name,Micro Precision,Micro Recall,Micro F1,System
+1,NLM,0.8951,0.9625,0.9276,Additional annotation + lexicon and rules + SVMs
+2,Harbin Institute of Technology Shenzhen Graduate School,0.9106,0.9436,0.9268,Ensemble systems + rules
+3,Kaiser Permanente,0.8972,0.9409,0.9185,SVM + ensemble classifier+rules
+4,Linguamatics and Northwestern University,0.8975,0.9375,0.9171,I2E interface + lexicon + existing tools + rules
+5,University of Nottingham,0.8847,0.9488,0.9156,Lexicon + rules + ML (CRF, NB, ME)
+6,The Ohio State University,0.8907,0.9261,0.9081,Lexicon + rules
+7,TMUNSW,0.8594,0.9387,0.8973,Lexicon + rules + ML (CRF and NB)
+8,National Central University,0.8586,0.9256,0.8909,unknown
+9,UNIMAN,0.8557,0.9007,0.8776,Lexicon + rules
+10,University of Utah,0.8552,0.8951,0.8747,Existing tools + regular expressions
